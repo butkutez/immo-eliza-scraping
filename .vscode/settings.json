@@ -1,7 +1,2 @@
 {
     "python.defaultInterpreterPath": "wikipedia_scraper_env\Scripts\python.exe"}
-
-    
-""" {"python.defaultInterpreterPath": "wikipedia_scraper_env/bin/python" (this only for macOS/linux)
-}
-"""
