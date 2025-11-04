@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 
-    
-{"python.defaultInterpreterPath": "wikipedia_scraper_env/bin/python"
-}
-
-=======
-# type: ignore
 {
     "python.defaultInterpreterPath": "wikipedia_scraper_env\Scripts\python.exe"
     
 }
->>>>>>> main
