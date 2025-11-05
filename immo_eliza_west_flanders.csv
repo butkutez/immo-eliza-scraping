@@ -1,0 +1,55 @@
+property_ID,locality_name,postal_code,type,subtype,price (€),number_of_bedrooms,living_area (m²),"equiped_kitchen (yes:1, no:0)","furnished (yes:1, no:0)","open_fire (yes:1, no:0)","terrace (yes:1, no:0)",terrace_area (m²),"garden (yes:1, no:0)",number_facades,"swimming_pool (yes:1, no:0)",state_of_building
+RBU61968,Tuitknak 9,3900,House,Residence,341000,3,,0,0,0,0,,1,3,0,New
+RBU61966,Tuitknak 3,3900,House,Residence,327500,3,,0,0,0,0,,1,2,0,New
+RBU61965,Tuitknak 7,3900,House,Residence,328500,3,,0,0,0,1,,1,2,0,New
+RBU61956,Willem Ii-Straat 43B,3900,House,Residence,331000,3,,0,0,0,0,,1,2,0,New
+RBU61953,Tuitknak 21,3900,House,Residence,332500,3,,0,0,0,0,,1,2,0,New
+RBU61948,Tuitknak 11,3900,House,Residence,353000,3,,0,0,0,0,,1,3,0,New
+RBU65854,Ring Laan 16,3900,House,Residence,315000,3,213,0,0,0,1,11,0,3,0,
+RBU65851,Sint-Janshoefstraat 2,3500,House,Residence,425000,4,296,0,0,0,1,8,0,3,0,
+RBU65850,Kamillestraat 52,3600,House,Residence,410000,5,231,0,0,0,1,20,0,2,0,
+RBU65842,Ericastraat 8,3900,House,Residence,329000,5,212,0,0,0,1,,1,4,0,
+RBU65791,Alfons Jeurissenstraat 35,3590,House,Residence,299000,4,190,1,0,0,1,16,1,4,0,To renovate
+RBU65772,Laagstraat 5,3930,House,Residence,475000,3,176,0,0,0,0,,0,4,0,To be renovated
+RBU65771,Kerkhovensesteenweg 324,3920,House,Residence,560000,3,230,0,0,0,1,,1,,0,Normal
+RBU65770,Windmolenweg 57,3630,House,Residence,225000,3,131,0,0,0,1,,1,4,0,To renovate
+RBU65769,Heilig Hartlaan 13,3550,House,Residence,315000,4,209,0,0,0,0,,1,3,0,New
+RBU65765,,3800,House,Residence,1250000,6,500,0,0,0,0,,0,,0,Normal
+RBU65754,Heerbaan 69,3580,House,Residence,295000,4,184,0,0,0,0,,0,3,0,Normal
+RBU65637,Bodemstraat 6,3830,House,Residence,329000,3,,0,0,0,0,,1,4,0,
+RBU65314,Asdonckstraat,3970,House,Residence,409000,3,150,0,0,0,1,,1,3,0,
+RBU65275,Keistraat 42,3740,House,Residence,479000,3,178,0,0,0,1,,1,2,0,Excellent
+RBU65260,Asdonckstraat 39,3970,House,Residence,449000,3,219,0,0,0,0,,1,4,0,Normal
+RBU65259,Ruimevijverstraat 24A,3580,House,Residence,429000,3,158,0,0,0,0,,0,3,0,Normal
+RBU65083,Proenhofstraat 12,3700,House,Residence,450000,,307,0,0,0,1,,1,2,0,
+RBU65081,Oude Vosvijvers 6A,3920,House,Residence,325000,3,147,0,0,0,0,,0,,0,To be renovated
+RBU65076,Lochtstraat 3,3941,House,Bungalow,325000,4,142,0,0,0,0,,0,,0,Normal
+RBU65074,Daalstraat 20,3530,House,Residence,285000,3,208,0,0,0,1,,1,4,0,
+RBU64951,Kuilenweg 17,3630,House,Residence,199000,2,115,0,0,0,1,,1,4,0,
+RBU64922,Priorijstraat 12,3630,House,Residence,820000,5,385,1,0,0,1,,1,4,1,Normal
+RBU64904,Zandstraat 59,3945,House,Residence,449000,3,271,0,0,0,1,27,1,3,0,Normal
+RBU64844,Moerenstraat 6,3700,House,Residence,235000,4,183,0,0,0,1,,1,2,0,
+RBU64843,Pastoor Raeymakersstraat 23,3582,House,Residence,249000,3,140,0,0,0,1,,1,2,0,
+RBU64842,St.-Rochusstraat 11,3560,House,Residence,449000,4,282,0,0,0,1,20,1,2,0,
+RBU64841,Verbindingsstraat 21,3580,House,Residence,398000,5,233,1,0,0,1,,1,4,0,Excellent
+RBU64840,Kantonsweg 114,3650,House,Residence,265000,3,190,0,0,0,0,,1,3,1,
+RBU64790,Brogelerweg 1,3670,House,Villa,495000,5,406,1,0,0,1,40,1,4,0,Excellent
+RBU64471,Meldertsesteenweg 130,3583,House,Residence,439000,3,150,0,0,0,1,17,1,4,0,Excellent
+RBU64413,Hoogstraat 41,3560,House,Residence,250000,3,137,0,0,0,0,,1,4,0,To be renovated
+RBU64411,Terbeemden 68,3980,House,Residence,175000,3,,0,0,0,1,,0,3,0,
+RBU64390,Kruisbaan 100,3580,House,Residence,484172,3,174,0,0,0,0,,0,4,0,New
+RBU64389,Koorstraat 9,3500,House,Residence,249000,4,200,0,0,0,0,,1,3,0,
+RBU64335,Lommelsesteenweg 83,3970,House,Residence,249000,2,126,0,0,0,0,,1,3,0,
+RBU64305,Kleine Werfstraat 12,3630,House,Residence,275000,2,127,0,0,0,1,,1,4,0,
+RBU64304,Honsdries 7,3640,House,Residence,449000,3,217,0,0,0,1,,1,4,0,
+RBU64303,Breeërsteenweg 194,3640,House,Cottage,319000,5,301,0,0,0,1,,1,4,0,
+RBU64268,Schutterijstraat 14A,3900,House,Residence,390000,4,221,0,0,0,1,,1,4,0,To be renovated
+RBU64267,Lorkstraat 17,3900,House,Residence,589000,3,281,0,0,0,1,,1,4,0,New
+RBU64265,Schoolstraat 14,3583,House,Residence,169000,2,106,0,0,0,0,,1,2,0,To be renovated
+RBU64243,Negenhuizenstraat 24,3600,House,Residence,365000,3,185,0,0,0,1,,1,,0,To be renovated
+RBU64241,Vennendijk 21,3680,House,Residence,295000,3,,0,0,0,0,,1,4,0,To be renovated
+RBU64225,Heilig Hartlaan 13,3550,House,Residence,315000,4,209,0,0,0,0,,1,3,0,New
+RBU64224,Michel Scheperslaan,3550,House,Residence,289000,3,170,0,0,0,1,,1,3,0,New
+RBU64223,Moestuinstraat 72 A,3582,House,Residence,315000,4,205,0,0,0,0,,1,3,0,New
+RBU64222,Halstraat 113,3550,House,Residence,352000,3,174,1,0,0,1,,1,3,0,New
+RBU64218,Ghoosstraat 22,3550,House,Residence,399000,3,156,0,0,0,1,,1,3,0,New

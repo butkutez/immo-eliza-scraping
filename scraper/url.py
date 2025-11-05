@@ -9,6 +9,7 @@ import traceback
 import requests
 from bs4 import BeautifulSoup
 import time
+import csv
 
 options = webdriver.EdgeOptions()
 options.add_experimental_option("detach", True)
@@ -16,7 +17,7 @@ options.add_experimental_option("detach", True)
 options.add_argument("--log-level=3") 
 
 driver = webdriver.Edge(options=options)
-driver.get("https://immovlan.be/en/real-estate?transactiontypes=for-sale,in-public-sale&propertytypes=house&propertysubtypes=residence,villa,mixed-building,master-house,cottage,bungalow,chalet,mansion&noindex=1")
+driver.get("https://immovlan.be/en/real-estate?transactiontypes=for-sale,in-public-sale&municipals=puurs-sint-amands&noindex=1")
 
 # remove cookie
 wait = WebDriverWait(driver, 30)
@@ -36,98 +37,140 @@ driver.get(property_hrefs[0])
 html = driver.page_source
 soup = BeautifulSoup(html, features= "html.parser")
 
-"""
-1. + Property ID 
-2. + Locality name
-3. + Postal code
-4. + Price (<li><strong>Price</strong>: 540 000 €</li>)
-5. Type of property (house or apartment)
-6. + Subtype of property (bungalow, chalet, mansion, ...)
-7. Type of sale (note: exclude life sales)
-8. + Number of rooms
-9. + Living area (area in m²)
-10. Equipped kitchen (No - 0/ Yes - 1)
-11. Furnished (No - 0/ Yes - 1)
-data["furnished"] = 1 if "furnished" in driver.find_element(By.TAG_NAME, "body").text.lower() else 0
+# --- Helper functions ---
+def data_fields(element, attr=None):
+    """Safely get text or attribute from a BeautifulSoup element."""
+    try:
+        if not element:
+            return None
+        return element.get(attr) if attr else element.get_text(strip=True)
+    except Exception:
+        return None
 
-12. Open fire (No - 0/ Yes - 1)
-13. Terrace (area in m² or None if no terrace)
-14. Garden (area in m² or None if no garden)
-15. Number of facades
-16. Swimming pool (No - 0/ Yes - 1)
-17. State of building (new, to be renovated, ...)
-"""
-# 1. Property ID (<span class="vlancode">VBD46859</span>)
-def data_fields(element):
-    return element.get_text(strip=True) if element else None
-property_ID = data_fields(soup.find("span", class_="vlancode"))
-print("Property ID:", property_ID)
+def get_property_type(meta_tag):
+    """Extract main property type (house/apartment) from meta content."""
+    try:
+        content = data_fields(meta_tag, attr="content")
+        content_lower = content.lower() if content else ""
+        return next((t for t in ["house", "apartment"] if t in content_lower), None)
+    except Exception:
+        return None
 
-# 2. Locality name
-def data_fields(element):
-    return element.get_text(strip=True) if element else None
-city_and_code = data_fields(soup.find("span", class_="city-line"))
-locality = city_and_code.split()[1] if city_and_code else None  # Take only the first part
-print("Locality name:", locality)
+def clean_price(price_text):
+    """Clean price string, remove text before number and currency symbols."""
+    if not price_text:
+        return None
+    price_text = price_text.split("from")[-1].strip()
+    return price_text.replace("€", "").strip()
 
-# 3. Postal code (<span class="city-line">1020 Laken</span>)
-def data_fields(element):
-    return element.get_text(strip=True) if element else None
-city_and_code = data_fields(soup.find("span", class_="city-line"))
-postal_code = city_and_code.split()[0] if city_and_code else None  # Take only the first part
-print("Postal code:", postal_code)
+def yes_no_to_int(soup, label):
+    tag = soup.find("h4", string=label)
+    if tag:
+        text = data_fields(tag.find_next("p")).strip().lower()
+        return 1 if text == "yes" else 0
+    return 0
 
-# 4. Price of the property (include strip  and split? to remove text if there is text before the price)
-def data_fields(element):
-    return element.get_text(strip=True) if element else None
-price = data_fields(soup.find("span", class_="detail__header_price_data"))
+def get_area(soup, label):
+    """Extract numeric area (first value) from a label."""
+    tag = soup.find("h4", string=label)
+    if tag:
+        text = data_fields(tag.find_next("p"))
+        if text:
+            return text.split()[0]  # take first word (numeric value)
+    return None
 
-# Use split/strip to remove unwanted text before the number
-if price:
-    # Split by 'from' if it exists, take the last part
-    price = price.split("from")[-1].strip()
-    # Remove any trailing currency symbol if needed
-    price = price.replace("€", "").strip()
-print(f"Price: {price} €")
+
+# --- Extract property info ---
+data = {}
+
+# 1. Property ID
+data["property_ID"] = data_fields(soup.find("span", class_="vlancode"))
+
+# 2 & 3. Locality and Postal code
+city_line = data_fields(soup.find("span", class_="city-line"))
+if city_line:
+    parts = city_line.split()
+    data["postal_code"] = parts[0]
+    data["locality"] = parts[1] if len(parts) > 1 else None
+else:
+    data["postal_code"] = None
+    data["locality"] = None
+
+# 4. Price
+raw_price = data_fields(soup.find("span", class_="detail__header_price_data"))
+data["price_€"] = clean_price(raw_price)
 
 # 5. Type of property
-# def data_fields(element):
-#     return element.get_text(strip=True) if element else None
-# property_type = data_fields(soup.find("span", class_="detail__header_title_main"))
-# property_type = property_type.split("for sale")[0].strip() if property_type else None
-# print("Type of property:", property_type)
+meta_tag = soup.find("meta", attrs={"name": "keywords"})
+data["property_type"] = get_property_type(meta_tag)
 
 # 6. Subtype of property
-def data_fields(element):
-    return element.get_text(strip=True) if element else None
-property_type = data_fields(soup.find("span", class_="detail__header_title_main"))
-property_type = property_type.split("for sale")[0].strip() if property_type else None
-print("Type of property:", property_type)
+subtype = data_fields(soup.find("span", class_="detail__header_title_main"))
+data["property_subtype"] = subtype.split("for sale")[0].strip() if subtype else None
 
-# 7. Type os sale
-# def data_fields(element):
-#     return element.get_text(strip=True) if element else None
-# bedrooms = data_fields(soup.find("h4", string="Number of bedrooms").find_next("p"))
-# print("Bedrooms:", bedrooms)
+# 7. Type of sale (exclude life sales)
+sale_type = data_fields(soup.find("span", class_="sale-type"))
+if sale_type and "life" in sale_type.lower():
+    sale_type = None
+data["sale_type"] = sale_type
 
 # 8. Bedrooms
-def data_fields(element):
-    return element.get_text(strip=True) if element else None
-bedrooms = data_fields(soup.find("h4", string="Number of bedrooms").find_next("p"))
-print("Bedrooms:", bedrooms)
+header = soup.find("h4", string="Number of bedrooms")
+data["bedrooms"] = data_fields(header.find_next("p")) if header else None
 
 # 9. Living area
-def data_fields(element):
-    return element.get_text(strip=True) if element else None
-living_area = data_fields(soup.find_all("li", class_=["property-highlight", "margin-bottom-05", "margin-right-05"])[1].find("strong"))
-print(f"Living area: {living_area} m²")
+items = soup.find_all("li", class_=["property-highlight", "margin-bottom-05", "margin-right-05"])
+data["living_area_m²"] = data_fields(items[1].find("strong")) if len(items) > 1 else None
 
-# bathrooms
-def data_fields(element):
-    return element.get_text(strip=True) if element else None
-bathrooms = data_fields(soup.find("h4", string="Number of bathrooms").find_next("p"))
-print("Bathrooms:", bathrooms)
+# 10. Equipped kitchen YES or NO
+kitchen_tag = soup.find("h4", string="Equipped kitchen")
+if kitchen_tag:
+    text = data_fields(kitchen_tag.find_next("p"))
+    if text:
+        text = text.strip().lower()
+        data["equipped_kitchen"] = 1 if any(word in text for word in ["equipped", "fully", "super"]) and "not" not in text else 0
+    else:
+        data["equipped_kitchen"] = 0
+else:
+    data["equipped_kitchen"] = 0
 
+# 11. Furnished YES or NO
+data["furnished"] = yes_no_to_int(soup, "Furnished")
 
+# 12. Open fire YES or NO
+data["open_fire"] = yes_no_to_int(soup, "Fireplace")
+
+# 13. Terrace YES or NO & Terrace area in square meter
+data["terrace"] = yes_no_to_int(soup, "Terrace")
+data["terrace_area_m²"] = get_area(soup, "Surface terrace")
+
+# 14. Find garden area in square meter
+data["garden_area_m²"] = get_area(soup, "Surface garden")
+
+# 15. Find the number of facades
+facades_tag = soup.find("h4", string="Number of facades")
+data["number_of_facades"] = data_fields(facades_tag.find_next("p")) if facades_tag else None
+
+# 16. Swimming pool YES or NO
+data["swimming_pool"] = yes_no_to_int(soup, "Swimming pool")
+
+# 17. Find the state of the building
+state_tag = soup.find("h4", string="State of the property")
+data["state_of_building"] = data_fields(state_tag.find_next("p")) if state_tag else None
+
+# --- Print results ---
+for key, value in data.items():
+    print(f"{key}: {value}")
 
 driver.close()
+
+# Storing the data
+properties = [data]
+csv_file = "properties.csv"
+
+with open(csv_file, mode="w", newline="", encoding="utf-8") as f:
+    writer = csv.DictWriter(f, fieldnames=data.keys())
+    writer.writeheader()
+    writer.writerow(data)
+
+print(f"Data saved to {csv_file}")
