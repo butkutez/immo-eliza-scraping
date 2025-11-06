@@ -13,11 +13,23 @@ options.add_experimental_option("detach", True)
 driver = webdriver.Edge(options=options)
 wait = WebDriverWait(driver, 30)
 
+#base_url: the webpage-url where we work from
+#input houses or apartments (or both) after propertytypes
+#input name of province after province in the url
 
-base_url = "https://immovlan.be/en/real-estate?transactiontypes=for-sale&propertytypes=house,apartment&provinces=namur&page={page}&noindex=1"
+provinces = ["antwerp", "limburg", "east-flanders", "flemish-brabant", "west-flanders", "hainaut", "namur", "liege", "luxembourg", "walloon-brabant", "brussels"]
+i = 1
+for province in provinces:
+    print(i, province)
+    i += 1
+print("what province would you like to scrape?")
+k = int(input())
+province = provinces[k-1]
 
-# Accept cookies once
-driver.get(base_url.format(page=1))
+base_url = "https://immovlan.be/en/real-estate?transactiontypes=for-sale&propertytypes=house,apartment&provinces={province}&page={page}&noindex=1"
+
+# Accept cookies
+driver.get(base_url.format(province=province, page=1))
 try:
     cookie_button = wait.until(
         EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div/div/div/div/div/div[2]/button[2]"))
@@ -168,22 +180,36 @@ def scrape_property(property_url):
 
 
 # -------------------------------
-# Get property links from first 10 pages
+# Get property links from first x pages
 # -------------------------------
-for page in range(1, 3):  # Pages 1
-    url = base_url.format(page=page)
+for page in range(1, 2):  # Pages 1 to x-1
+    url = base_url.format(province=province, page=page)
     driver.get(url)
-
     try:
-        wait.until(lambda d: len(d.find_elements(By.XPATH, "//a[contains(@href, '/detail/')]")) > 0)
+        wait.until(lambda d: len(d.find_elements(By.XPATH,"//a[contains(@href, '/detail/') or contains(@href, '/projectdetail/')]")) > 0)
     except:
         continue  # skip if page fails to load
 
-    listings = driver.find_elements(By.XPATH, "//a[contains(@href, '/detail/')]")
-    for listing in listings:
-        link = listing.get_attribute("href")
-        if link not in property_links:
-            property_links.append(link)
+    links = driver.find_elements(By.XPATH,"//a[contains(@href, '/detail/') or contains(@href, '/projectdetail/')]")
+    hrefs = [l.get_attribute("href") for l in links if l.get_attribute("href")]
+    
+    detail_links = set([link for link in hrefs if "/detail/" in link])
+    project_links = set([link for link in hrefs if "/projectdetail/" in link])
+    # Add all detail links directly
+    for link in detail_links:
+            if link not in property_links:
+                property_links.append(link)
+    # Visit each unique project only once
+    for project in project_links:    
+        driver.get(project)
+        time.sleep(3)
+        listings = driver.find_elements(By.XPATH, "//a[contains(@href, '/en/detail/')]")
+        hrefs = [p.get_attribute("href") for p in listings if p.get_attribute("href")]
+        for href in hrefs:
+            if href not in property_links:
+                property_links.append(href)
+        print(f" Found {len(hrefs)} property links in this project.")
+    print(f" Collected {len(property_links)} unique property links in total.")            
 
 # -------------------------------
 # Scrape each property
@@ -211,7 +237,6 @@ for item in all_data:
     facades = item["number_facades"]
     pool = item["swimming_pool (yes:1, no:0)"]
     state = item["state_of_building"]
-    # only continue if locality_name is not empty or None
     combo = (locality, postal, price, type, subtype, price, bedrooms, living, kitchen, furnished, fire, terrace, terrace_area, garden, facades, pool, state)
     if combo not in seen:
         seen.add(combo)
@@ -221,20 +246,20 @@ for item in all_data:
 # Save to CSV
 # -------------------------------
 keys = all_data[0].keys() if all_data else []
-with open("immo_eliza_west_flanders.csv", "w", newline="", encoding="utf-8") as f:
+with open("immo_eliza_old_data_not_unique.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=keys)
     writer.writeheader()
     writer.writerows(all_data)
 
-print(f"Scraped {len(all_data)} properties and saved to immo_eliza_west_flanders.csv")
+print(f"Scraped {len(all_data)} properties and saved to immo_eliza_old_data_not_unique.csv")
 
 keys = unique_data[0].keys() if unique_data else []
-with open("immo_eliza_unique_Namur_both_all_820.csv", "w", newline="", encoding="utf-8") as f:
+with open("immo_eliza_unique_data.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=keys)
     writer.writeheader()
     writer.writerows(unique_data)
 
-print(f"Scraped {len(unique_data)} properties and saved to immo_eliza_unique.csv")
+print(f"Scraped {len(unique_data)} properties and saved to immo_eliza_unique_data.csv")
 
 
 driver.quit()

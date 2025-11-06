@@ -170,20 +170,40 @@ def scrape_property(property_url):
 # -------------------------------
 # Get property links from first 10 pages
 # -------------------------------
-for page in range(1, 3):  # Pages 1
+for page in range(1, 2):  # Pages 1
     url = base_url.format(page=page)
     driver.get(url)
-
     try:
-        wait.until(lambda d: len(d.find_elements(By.XPATH, "//a[contains(@href, '/detail/')]")) > 0)
+        wait.until(lambda d: len(d.find_elements(By.XPATH, "//a[contains(@href, '/projectdetail/')]")) > 0)
     except:
         continue  # skip if page fails to load
 
-    listings = driver.find_elements(By.XPATH, "//a[contains(@href, '/detail/')]")
+    links = driver.find_elements(By.XPATH, "//a[contains(@href, '/projectdetail/')]")
+    hrefs = [l.get_attribute("href") for l in links if l.get_attribute("href")]
+    for link in hrefs:
+            driver.get(link)
+            time.sleep(3)
+            listings = driver.find_elements(By.XPATH, "//a[contains(@href, '/en/detail/')]")
+            hrefs = [p.get_attribute("href") for p in listings if p.get_attribute("href")]
+            for href in hrefs:
+                if href not in property_links:
+                    property_links.append(href)
+            print(f" Found {len(hrefs)} property links in this project.")
+    print(f" Collected {len(property_links)} unique property links in total.")            
+    """listings = driver.find_elements(By.XPATH,"//a[contains(@href, '/projectdetail/')]")
     for listing in listings:
         link = listing.get_attribute("href")
-        if link not in property_links:
-            property_links.append(link)
+        if "/detail" in link:
+            if link not in property_links:
+                property_links.append(link)
+        if "/projectdetail/" in link:
+                    driver.get(link)
+                    time.sleep(3)
+                    property_links_projects = driver.find_elements(By.XPATH, "//a[contains(@href, '/en/detail/')]")
+                    for listing in property_links_projects:
+                        property_url_link = listing.get_attribute("href")
+                        if property_url_link:
+                            property_links.append(property_url_link)"""
 
 # -------------------------------
 # Scrape each property
@@ -221,7 +241,7 @@ for item in all_data:
 # Save to CSV
 # -------------------------------
 keys = all_data[0].keys() if all_data else []
-with open("immo_eliza_west_flanders.csv", "w", newline="", encoding="utf-8") as f:
+with open("immo_eliza_old_data_not_unique.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=keys)
     writer.writeheader()
     writer.writerows(all_data)
