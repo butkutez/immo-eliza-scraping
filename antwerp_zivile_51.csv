@@ -1,0 +1,2068 @@
+property_ID,locality_name,postal_code,type,subtype,price (€),number_of_bedrooms,living_area (m²),"equiped_kitchen (yes:1, no:0)","furnished (yes:1, no:0)","open_fire (yes:1, no:0)","terrace (yes:1, no:0)",terrace_area (m²),"garden (yes:1, no:0)",number_facades,"swimming_pool (yes:1, no:0)",state_of_building
+RBU60880,Maurits Sabbestraat 4 202,2800.0,Apartment,Apartment,329000.0,3.0,104.0,0,0,0,1,,0,2.0,0,Excellent
+RBU61001,Nieuwstraat 13,2200.0,House,Residence,425000.0,3.0,378.0,0,0,0,1,,1,2.0,0,To be renovated
+RBU62593,Veerstraat,2840.0,Apartment,Apartment,264700.0,1.0,69.0,0,0,0,1,25.0,0,,0,
+RBU60705,Winkelomseheide 158,2440.0,Apartment,Apartment,290000.0,2.0,95.0,0,0,0,1,15.0,1,2.0,0,New
+RBU60944,Generaal van der Meerschstraat 85 2,2300.0,Apartment,Apartment,180000.0,2.0,88.0,0,0,0,1,2.0,0,2.0,0,Normal
+RBU60881,Kapelstraat 112,2840.0,House,Residence,309000.0,3.0,124.0,0,0,0,0,,1,2.0,0,Normal
+RBU60928,Broekstraat 33,2480.0,House,Residence,245000.0,3.0,144.0,0,0,0,1,,1,3.0,0,
+RBU66767,Kasteelloop 20,2300.0,Apartment,Apartment,999999.0,1.0,66.0,0,0,0,1,11.0,0,2.0,0,New
+RBU66761,Kasteelloop 20,2300.0,Apartment,Apartment,238900.0,2.0,72.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66758,Kasteelloop 20,2300.0,Apartment,Apartment,242900.0,2.0,73.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66757,Kasteelloop 20,2300.0,Apartment,Apartment,246900.0,2.0,73.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66766,Kasteelloop 20,2300.0,Apartment,Apartment,250900.0,2.0,72.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66754,Kasteelloop 20,2300.0,Apartment,Apartment,251900.0,2.0,72.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66756,Kasteelloop 20,2300.0,Apartment,Apartment,278900.0,2.0,85.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66753,Kasteelloop 20,2300.0,Apartment,Apartment,282900.0,2.0,85.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66763,Kasteelloop 20,2300.0,Apartment,Apartment,285900.0,2.0,84.0,0,0,0,1,25.0,0,2.0,0,New
+RBU66759,Kasteelloop 20,2300.0,Apartment,Apartment,289900.0,2.0,85.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66755,Kasteelloop 20,2300.0,Apartment,Ground floor,227900.0,2.0,69.0,0,0,0,1,15.0,0,2.0,0,New
+RBU66760,Kasteelloop 20,2300.0,Apartment,Ground floor,399900.0,3.0,133.0,0,0,0,1,25.0,0,2.0,0,New
+RBU64202,Paalstraat 35,2900.0,Apartment,Apartment,475000.0,2.0,121.0,0,0,0,1,22.0,0,2.0,0,New
+RBU64204,Paalstraat 35,2900.0,Apartment,Apartment,485000.0,2.0,121.0,0,0,0,1,22.0,0,2.0,0,New
+RBU64205,Paalstraat 35,2900.0,Apartment,Apartment,550000.0,3.0,142.0,0,0,0,1,24.0,0,2.0,0,New
+RBU66790,Kasteelloop 28,2300.0,Apartment,Apartment,232900.0,1.0,65.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66783,Kasteelloop 28,2300.0,Apartment,Apartment,250000.0,1.0,65.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66768,Kasteelloop 28,2300.0,Apartment,Apartment,268900.0,2.0,89.0,0,0,0,1,15.0,0,2.0,0,New
+RBU66774,Kasteelloop 28,2300.0,Apartment,Apartment,281900.0,2.0,90.0,0,0,0,1,20.0,0,2.0,0,New
+RBU66770,Kasteelloop 28,2300.0,Apartment,Apartment,299900.0,2.0,93.0,0,0,0,1,20.0,0,2.0,0,New
+RBU66772,Kasteelloop 28,2300.0,Apartment,Apartment,300900.0,2.0,90.0,0,0,0,1,20.0,0,2.0,0,New
+RBU66776,Kasteelloop 28,2300.0,Apartment,Apartment,305900.0,2.0,92.0,0,0,0,1,20.0,0,2.0,0,New
+RBU66775,Kasteelloop 28,2300.0,Apartment,Apartment,301900.0,2.0,92.0,0,0,0,1,20.0,0,2.0,0,New
+RBU66771,Kasteelloop 28,2300.0,Apartment,Apartment,296900.0,2.0,90.0,0,0,0,1,20.0,0,2.0,0,New
+RBU66769,Kasteelloop 28,2300.0,Apartment,Apartment,232900.0,2.0,77.0,0,0,0,1,14.0,0,2.0,0,New
+RBU66784,Kasteelloop 28,2300.0,Apartment,Apartment,399900.0,3.0,114.0,0,0,0,1,61.0,0,2.0,0,New
+RBU66787,Kasteelloop 28,2300.0,Apartment,Apartment,404900.0,3.0,121.0,0,0,0,1,46.0,0,2.0,0,New
+RBU66781,Kasteelloop 28,2300.0,Apartment,Apartment,405900.0,3.0,114.0,0,0,0,1,61.0,0,2.0,0,New
+RBU66791,Kasteelloop 28,2300.0,Apartment,Apartment,407900.0,3.0,114.0,0,0,0,1,61.0,0,2.0,0,New
+RBU66782,Kasteelloop 28,2300.0,Apartment,Apartment,409900.0,3.0,121.0,0,0,0,1,46.0,0,2.0,0,New
+RBU66792,Kasteelloop 28,2300.0,Apartment,Apartment,419000.0,3.0,121.0,0,0,0,1,46.0,0,2.0,0,New
+RBU66773,Kasteelloop 28,2300.0,Apartment,Ground floor,234900.0,2.0,78.0,0,0,0,1,14.0,0,2.0,0,New
+RBU66712,Biesaard,2570.0,House,Residence,589000.0,3.0,201.0,0,0,0,1,17.0,1,3.0,0,New
+RBU66710,Biesaard,2570.0,House,Residence,594000.0,3.0,201.0,0,0,0,1,17.0,1,3.0,0,New
+RBU63095,Meerlenhoflaan 13 2,2660.0,Apartment,Apartment,198000.0,1.0,50.0,0,0,0,1,7.0,1,2.0,0,New
+RBU63096,Meerlenhoflaan 13 3,2660.0,Apartment,Apartment,219000.0,1.0,54.0,0,0,0,1,7.0,1,2.0,0,New
+RBU63094,Meerlenhoflaan 13 1,2660.0,Apartment,Apartment,308000.0,1.0,67.0,0,0,0,1,15.0,1,2.0,0,New
+RBU65825,Kruisstraat 24,2200.0,House,Residence,399000.0,3.0,182.0,0,0,0,1,34.0,1,3.0,0,New
+RBU65832,Kruisstraat 24,2200.0,House,Residence,485000.0,3.0,163.0,0,0,0,1,12.0,1,3.0,0,New
+RBU65823,Kruisstraat 24,2200.0,House,Residence,539000.0,3.0,178.0,0,0,0,1,12.0,1,3.0,0,New
+RBU65831,Kruisstraat 24,2200.0,House,Residence,459000.0,3.0,198.0,0,0,0,1,10.0,1,3.0,0,New
+RBU65830,Kruisstraat 24,2200.0,House,Residence,436800.0,3.0,187.0,0,0,0,1,9.0,1,3.0,0,New
+RBU65829,Kruisstraat 24,2200.0,House,Residence,425000.0,3.0,171.0,0,0,0,1,9.0,1,3.0,0,New
+RBU65828,Kruisstraat 24,2200.0,House,Residence,446500.0,3.0,171.0,0,0,0,1,12.0,1,3.0,0,New
+RBU65827,Kruisstraat 24,2200.0,House,Residence,425000.0,3.0,201.0,0,0,0,1,13.0,1,3.0,0,New
+RBU65826,Kruisstraat 24,2200.0,House,Residence,469000.0,3.0,172.0,0,0,0,1,10.0,1,3.0,0,New
+RBU65824,Kruisstraat 24,2200.0,House,Residence,399000.0,3.0,184.0,0,0,0,1,34.0,1,3.0,0,New
+RBU64201,Paalstraat 35,2900.0,Apartment,Apartment,599000.0,2.0,122.0,0,0,0,1,32.0,0,2.0,0,New
+RBU65048,Bijenkorf 15,2200.0,Apartment,Apartment,249500.0,1.0,72.0,0,0,0,1,21.0,1,3.0,0,New
+RBU65047,Bijenkorf 15,2200.0,Apartment,Apartment,353500.0,3.0,113.0,0,0,0,1,15.0,1,3.0,0,New
+RBU65046,Bijenkorf 15,2200.0,Apartment,Ground floor,361500.0,3.0,113.0,0,0,0,1,12.0,1,3.0,0,New
+RBU66682,Langestraat 27,2240.0,Apartment,Apartment,259000.0,1.0,75.0,0,0,0,1,6.0,0,2.0,0,New
+RBU66693,Langestraat 27,2240.0,Apartment,Apartment,269000.0,1.0,75.0,0,0,0,1,11.0,0,2.0,0,New
+RBU66690,Langestraat 27,2240.0,Apartment,Apartment,271500.0,1.0,78.0,0,0,0,1,6.0,0,2.0,0,New
+RBU66702,Langestraat 27,2240.0,Apartment,Apartment,279000.0,1.0,80.0,0,0,0,1,12.0,0,2.0,0,New
+RBU66707,Langestraat 27,2240.0,Apartment,Apartment,321000.0,1.0,85.0,0,0,0,1,11.0,0,2.0,0,New
+RBU66708,Langestraat 27,2240.0,Apartment,Apartment,400000.0,1.0,90.0,0,0,0,1,14.0,0,2.0,0,New
+RBU66695,Langestraat 27,2240.0,Apartment,Apartment,400000.0,1.0,71.0,0,0,0,1,10.0,0,2.0,0,New
+RBU66681,Langestraat 27,2240.0,Apartment,Apartment,301750.0,2.0,93.0,0,0,0,1,9.0,0,2.0,0,New
+RBU66688,Langestraat 27,2240.0,Apartment,Apartment,317750.0,2.0,93.0,0,0,0,1,9.0,0,2.0,0,New
+RBU66703,Langestraat 27,2240.0,Apartment,Apartment,332000.0,2.0,91.0,0,0,0,1,13.0,0,2.0,0,New
+RBU66700,Langestraat 27,2240.0,Apartment,Apartment,335000.0,2.0,95.0,0,0,0,1,12.0,0,2.0,0,New
+RBU66706,Langestraat 27,2240.0,Apartment,Apartment,338000.0,2.0,97.0,0,0,0,1,11.0,0,2.0,0,New
+RBU66701,Langestraat 27,2240.0,Apartment,Apartment,342000.0,2.0,93.0,0,0,0,1,12.0,0,2.0,0,New
+RBU66694,Langestraat 27,2240.0,Apartment,Apartment,342000.0,2.0,91.0,0,0,0,1,20.0,0,2.0,0,New
+RBU66691,Langestraat 27,2240.0,Apartment,Apartment,342000.0,2.0,99.0,0,0,0,1,11.0,0,2.0,0,New
+RBU66704,Langestraat 27,2240.0,Apartment,Apartment,359000.0,2.0,103.0,0,0,0,1,12.0,0,2.0,0,New
+RBU66705,Langestraat 27,2240.0,Apartment,Apartment,400000.0,2.0,95.0,0,0,0,1,22.0,0,2.0,0,New
+RBU66697,Langestraat 27,2240.0,Apartment,Apartment,400000.0,2.0,106.0,0,0,0,1,28.0,0,2.0,0,New
+RBU66692,Langestraat 27,2240.0,Apartment,Apartment,400000.0,2.0,94.0,0,0,0,1,9.0,0,2.0,0,New
+RBU66687,Langestraat 27,2240.0,Apartment,Apartment,400000.0,2.0,94.0,0,0,0,1,8.0,0,2.0,0,New
+RBU66685,Langestraat 27,2240.0,Apartment,Apartment,400000.0,2.0,99.0,0,0,0,1,11.0,0,2.0,0,New
+RBU66696,Langestraat 27,2240.0,Apartment,Apartment,422500.0,2.0,102.0,0,0,0,1,45.0,0,2.0,0,New
+RBU66686,Langestraat 27,2240.0,Apartment,Apartment,400000.0,3.0,115.0,0,0,0,1,9.0,0,2.0,0,New
+RBU66689,Langestraat 27,2240.0,Apartment,Apartment,402500.0,3.0,116.0,0,0,0,1,20.0,0,2.0,0,New
+RBU66684,Langestraat 27,2240.0,Apartment,Apartment,453000.0,3.0,137.0,0,0,0,1,17.0,0,2.0,0,New
+RBU66678,Langestraat 27,2240.0,Apartment,Ground floor,321750.0,2.0,89.0,0,0,0,1,15.0,0,2.0,0,New
+RBU66676,Langestraat 27,2240.0,Apartment,Ground floor,399000.0,3.0,124.0,0,0,0,1,15.0,0,2.0,0,New
+RBU66679,Langestraat 27,2240.0,Apartment,Ground floor,422500.0,3.0,117.0,0,0,0,1,16.0,0,2.0,0,New
+RBU66677,Langestraat 27,2240.0,Apartment,Ground floor,445000.0,3.0,137.0,0,0,0,1,16.0,0,2.0,0,New
+RBU66709,Langestraat 27,2240.0,Apartment,Penthouse,362000.0,2.0,96.0,0,0,0,1,19.0,0,2.0,0,New
+RBU65981,Acacialaan 69,2200.0,House,Residence,392000.0,3.0,161.0,0,0,0,1,14.0,1,2.0,0,New
+RBU65976,Acacialaan 69,2200.0,House,Residence,392000.0,3.0,176.0,0,0,0,1,14.0,1,2.0,0,New
+RBU65983,Acacialaan 69,2200.0,House,Residence,403000.0,3.0,176.0,0,0,0,1,15.0,1,2.0,0,New
+RBU65982,Acacialaan 69,2200.0,House,Residence,375000.0,3.0,161.0,0,0,0,1,14.0,1,2.0,0,New
+RBU64301,Borgtstraat 50,2430.0,House,Residence,435000.0,3.0,211.0,0,0,0,1,,1,3.0,0,New
+RBU65310,Gooreinde 29,2260.0,House,Residence,450000.0,3.0,122.0,0,0,0,1,20.0,1,4.0,0,New
+RBU65309,Gooreinde 27,2260.0,House,Residence,460000.0,3.0,172.0,0,0,0,1,20.0,0,4.0,0,New
+RBU62512,Eindhoutdorp 34 104,2430.0,Apartment,Apartment,400000.0,1.0,78.0,0,0,0,1,,0,3.0,0,New
+RBU62511,Eindhoutdorp 34 103,2430.0,Apartment,Apartment,243000.0,1.0,66.0,0,0,0,1,10.0,0,3.0,0,New
+RBU62509,Eindhoutdorp 34 001,2430.0,Apartment,Apartment,239500.0,1.0,62.0,0,0,0,1,14.0,0,3.0,0,New
+RBU62510,Eindhoutdorp 34 002,2430.0,Apartment,Apartment,279000.0,2.0,79.0,0,0,0,1,18.0,0,3.0,0,New
+RBU62513,Eindhoutdorp 34 205,2430.0,Apartment,Apartment,439000.0,3.0,135.0,0,0,0,1,10.0,0,3.0,0,New
+RWC41082,Kempenstraat 88,2000.0,Apartment,Apartment,389500.0,2.0,95.0,0,0,0,1,20.0,0,,0,Excellent
+RWC41084,Kempenstraat 88,2000.0,Apartment,Penthouse,1950000.0,3.0,185.0,0,0,0,1,75.0,0,,0,Excellent
+RBU58948,Kapelleveldstraat 53A,2530.0,Apartment,Apartment,765000.0,3.0,185.0,0,0,0,1,,1,,0,Excellent
+RBU59459,Guido Gezellestraat 26,2560.0,House,Residence,360000.0,3.0,190.0,0,0,0,1,4.0,1,3.0,0,To be renovated
+RBU57642,Neerstraat 61,2360.0,Apartment,Apartment,276500.0,1.0,83.0,0,0,0,1,10.0,0,2.0,0,New
+RBU57643,Neerstraat 61,2360.0,Apartment,Apartment,279000.0,1.0,83.0,0,0,0,1,10.0,0,2.0,0,New
+RBU57666,Neerstraat 61,2360.0,Apartment,Apartment,284000.0,1.0,83.0,0,0,0,1,10.0,0,2.0,0,New
+RBU57626,Neerstraat 61,2360.0,Apartment,Apartment,284000.0,1.0,84.0,0,0,0,1,10.0,0,2.0,0,New
+RBU57648,Neerstraat 61,2360.0,Apartment,Apartment,307500.0,2.0,90.0,0,0,0,1,10.0,0,2.0,0,New
+RBU57653,Neerstraat 61,2360.0,Apartment,Apartment,315000.0,2.0,90.0,0,0,0,1,27.0,0,2.0,0,New
+RBU57645,Neerstraat 61,2360.0,Apartment,Apartment,323000.0,2.0,94.0,0,0,0,1,10.0,0,2.0,0,New
+RBU57660,Neerstraat 61,2360.0,Apartment,Apartment,355000.0,2.0,99.0,0,0,0,1,27.0,0,2.0,0,New
+RBU57647,Neerstraat 61,2360.0,Apartment,Apartment,378500.0,2.0,109.0,0,0,0,1,10.0,0,2.0,0,New
+RBU57680,Neerstraat 61,2360.0,Apartment,Apartment,326000.0,2.0,105.0,0,0,0,1,25.0,0,2.0,0,New
+RBU57679,Neerstraat 61,2360.0,Apartment,Apartment,334000.0,2.0,107.0,0,0,0,1,27.0,0,2.0,0,New
+RBU57675,Neerstraat 61,2360.0,Apartment,Apartment,272000.0,2.0,88.0,0,0,0,1,18.0,0,2.0,0,New
+RBU57672,Neerstraat 61,2360.0,Apartment,Apartment,297000.0,2.0,105.0,0,0,0,1,13.0,0,2.0,0,New
+RBU57671,Neerstraat 61,2360.0,Apartment,Apartment,302000.0,2.0,105.0,0,0,0,1,13.0,0,2.0,0,New
+RBU57670,Neerstraat 61,2360.0,Apartment,Apartment,310000.0,2.0,108.0,0,0,0,1,13.0,0,2.0,0,New
+RBU57669,Neerstraat 61,2360.0,Apartment,Apartment,317000.0,2.0,92.0,0,0,0,1,20.0,0,2.0,0,New
+RBU57667,Neerstraat 61,2360.0,Apartment,Apartment,320540.0,2.0,94.0,0,0,0,1,24.0,0,2.0,0,New
+RBU57665,Neerstraat 61,2360.0,Apartment,Apartment,311805.0,2.0,92.0,0,0,0,1,20.0,0,2.0,0,New
+RBU57661,Neerstraat 61,2360.0,Apartment,Apartment,320500.0,2.0,94.0,0,0,0,1,18.0,0,2.0,0,New
+RBU57659,Neerstraat 61,2360.0,Apartment,Apartment,386000.0,2.0,109.0,0,0,0,1,23.0,0,2.0,0,New
+RBU57657,Neerstraat 61,2360.0,Apartment,Apartment,322000.0,2.0,92.0,0,0,0,1,20.0,0,2.0,0,New
+RBU57656,Neerstraat 61,2360.0,Apartment,Apartment,330500.0,2.0,94.0,0,0,0,1,18.0,0,2.0,0,New
+RBU57654,Neerstraat 61,2360.0,Apartment,Apartment,311805.0,2.0,92.0,0,0,0,1,24.0,0,2.0,0,New
+RBU57651,Neerstraat 61,2360.0,Apartment,Apartment,381000.0,2.0,109.0,0,0,0,1,23.0,0,2.0,0,New
+RBU57650,Neerstraat 61,2360.0,Apartment,Apartment,325500.0,2.0,94.0,0,0,0,1,18.0,0,2.0,0,New
+RBU57640,Neerstraat 61,2360.0,Apartment,Apartment,317130.0,2.0,93.0,0,0,0,1,20.0,0,2.0,0,New
+RBU57637,Neerstraat 61,2360.0,Apartment,Apartment,317130.0,2.0,93.0,0,0,0,1,23.0,0,2.0,0,New
+RBU57635,Neerstraat 61,2360.0,Apartment,Apartment,334000.0,2.0,94.0,0,0,0,1,18.0,0,2.0,0,New
+RBU57632,Neerstraat 61,2360.0,Apartment,Apartment,342307.0,2.0,101.0,0,0,0,1,28.0,0,2.0,0,New
+RBU57630,Neerstraat 61,2360.0,Apartment,Apartment,328000.0,2.0,94.0,0,0,0,1,18.0,0,2.0,0,New
+RBU57629,Neerstraat 61,2360.0,Apartment,Apartment,342307.0,2.0,101.0,0,0,0,1,32.0,0,2.0,0,New
+RBU57628,Neerstraat 61,2360.0,Apartment,Apartment,381000.0,2.0,109.0,0,0,0,1,30.0,0,2.0,0,New
+RBU57639,Neerstraat 61,2360.0,Apartment,Apartment,513190.0,3.0,152.0,0,0,0,1,54.0,0,2.0,0,New
+RBU62599,Veerstraat,2840.0,Apartment,Apartment,301800.0,2.0,92.0,0,0,0,1,32.0,0,,0,
+RBU62594,Veerstraat,2840.0,Apartment,Apartment,301800.0,2.0,94.0,0,0,0,1,33.0,0,,0,
+RBU62603,Veerstraat,2840.0,Apartment,Apartment,308200.0,2.0,95.0,0,0,0,1,23.0,0,,0,
+RBU62596,Veerstraat,2840.0,Apartment,Apartment,310300.0,2.0,92.0,0,0,0,1,23.0,0,,0,
+RBU62595,Veerstraat,2840.0,Apartment,Apartment,317800.0,2.0,99.0,0,0,0,1,30.0,0,,0,
+RBU62600,Veerstraat,2840.0,Apartment,Apartment,317900.0,2.0,92.0,0,0,0,1,30.0,0,,0,
+RBU62602,Veerstraat,2840.0,Apartment,Apartment,327400.0,2.0,94.0,0,0,0,1,28.0,0,,0,
+RBU62601,Veerstraat,2840.0,Apartment,Apartment,354900.0,2.0,104.0,0,0,0,1,32.0,0,,0,
+RBU62598,Veerstraat,2840.0,Apartment,Apartment,427900.0,3.0,143.0,0,0,0,1,36.0,0,,0,
+RBU58890,Heiken,2870.0,House,Residence,320000.0,1.0,83.0,0,0,0,1,7.0,0,4.0,0,New
+RBU58889,Heiken,2870.0,House,Residence,335000.0,2.0,98.0,0,0,0,1,9.0,0,4.0,0,New
+RBU62742,Ernest Claesstraat 22 A,2260.0,House,Residence,495000.0,3.0,183.0,0,0,0,1,16.0,1,3.0,0,New
+RBU62743,Ernest Claesstraat 22 B,2260.0,House,Residence,498000.0,3.0,183.0,0,0,0,1,16.0,1,3.0,0,New
+RBU58431,Diesterbaan 29,2200.0,House,Residence,390413.0,3.0,183.0,0,0,0,1,20.0,1,3.0,0,New
+RBU58432,Diesterbaan 29,2200.0,House,Residence,420835.0,3.0,166.0,0,0,0,1,20.0,1,3.0,0,New
+RBU58430,Diesterbaan 29,2200.0,House,Residence,420835.0,3.0,170.0,0,0,0,1,20.0,1,3.0,0,New
+RBU58426,Diesterbaan 29,2200.0,House,Residence,415000.0,3.0,170.0,0,0,0,1,20.0,1,3.0,0,New
+RBU58425,Diesterbaan 29,2200.0,House,Residence,365000.0,3.0,183.0,0,0,0,1,20.0,1,3.0,0,New
+RBU62754,Minderhoutdorp 26C,2322.0,House,Residence,549000.0,4.0,188.0,0,0,0,1,,1,3.0,0,New
+RBU62751,Minderhoutdorp 26C,2322.0,House,Residence,475000.0,4.0,172.0,0,0,0,1,,1,3.0,0,New
+RBU62752,Minderhoutdorp 26C,2322.0,House,Residence,5000.0,5.0,190.0,0,0,0,1,,1,3.0,0,New
+RBU62750,Minderhoutdorp 26,2322.0,House,Residence,5000.0,5.0,195.0,0,0,0,1,,1,3.0,0,New
+RBU50582,Pullaarsteenweg 37,2870.0,Apartment,Apartment,250000.0,1.0,79.0,0,0,0,1,14.0,1,4.0,0,New
+RBU50586,Pullaarsteenweg 37,2870.0,Apartment,Apartment,273255.0,2.0,90.0,0,0,0,1,14.0,1,4.0,0,New
+RBU50584,Pullaarsteenweg 37,2870.0,Apartment,Apartment,276533.0,2.0,94.0,0,0,0,1,12.0,1,4.0,0,New
+RBU50587,Pullaarsteenweg 37,2870.0,Apartment,Apartment,250000.0,2.0,89.0,0,0,0,1,14.0,1,4.0,0,New
+RBU50585,Pullaarsteenweg 37,2870.0,Apartment,Apartment,250000.0,2.0,90.0,0,0,0,1,11.0,1,4.0,0,New
+RBU50583,Pullaarsteenweg 37,2870.0,Apartment,Apartment,250000.0,2.0,94.0,0,0,0,1,12.0,1,4.0,0,New
+RBU50589,Pullaarsteenweg 37,2870.0,Apartment,Apartment,270442.0,2.0,90.0,0,0,0,1,14.0,1,4.0,0,New
+RBU50588,Pullaarsteenweg 37,2870.0,Apartment,Apartment,277966.0,2.0,90.0,0,0,0,1,14.0,1,4.0,0,New
+RBU57537,Gravin de Merodestraat 11,2260.0,Apartment,Apartment,315000.0,2.0,102.0,0,0,0,1,15.0,0,3.0,0,New
+RBU57538,Gravin de Merodestraat 11,2260.0,Apartment,Apartment,316000.0,3.0,105.0,0,0,0,1,15.0,0,3.0,0,New
+RBU57535,Gravin de Merodestraat 11,2260.0,Apartment,Apartment,379000.0,3.0,133.0,0,0,0,1,29.0,1,3.0,0,New
+RBU57539,Gravin de Merodestraat 11,2260.0,Apartment,Apartment,399000.0,3.0,129.0,0,0,0,1,18.0,0,3.0,0,New
+RBU60617,Lange Leemstraat 374,2018.0,Apartment,Apartment,199000.0,1.0,61.0,0,0,0,1,10.0,0,2.0,0,New
+RBU60615,Lange Leemstraat 374,2018.0,Apartment,Apartment,199000.0,1.0,61.0,0,0,0,1,12.0,0,2.0,0,New
+RBU60611,Lange Leemstraat 374,2018.0,Apartment,Apartment,215000.0,1.0,67.0,0,0,0,1,6.0,0,2.0,0,New
+RBU60627,Lange Leemstraat 374,2018.0,Apartment,Apartment,217000.0,1.0,64.0,0,0,0,1,14.0,0,2.0,0,New
+RBU60626,Lange Leemstraat 374,2018.0,Apartment,Apartment,219000.0,1.0,66.0,0,0,0,1,11.0,0,2.0,0,New
+RBU60629,Lange Leemstraat 374,2018.0,Apartment,Apartment,226000.0,1.0,67.0,0,0,0,1,11.0,0,2.0,0,New
+RBU60628,Lange Leemstraat 374,2018.0,Apartment,Apartment,229000.0,1.0,63.0,0,0,0,1,11.0,0,2.0,0,New
+RBU60618,Lange Leemstraat 374,2018.0,Apartment,Apartment,229000.0,1.0,72.0,0,0,0,1,10.0,0,2.0,0,New
+RBU60613,Lange Leemstraat 374,2018.0,Apartment,Apartment,232500.0,1.0,77.0,0,0,0,1,,1,2.0,0,New
+RBU60609,Lange Leemstraat 374,2018.0,Apartment,Apartment,239000.0,1.0,73.0,0,0,0,1,10.0,0,2.0,0,New
+RBU60616,Lange Leemstraat 374,2018.0,Apartment,Apartment,249000.0,1.0,79.0,0,0,0,1,7.0,0,2.0,0,New
+RBU60638,Lange Leemstraat 374,2018.0,Apartment,Apartment,259000.0,1.0,76.0,0,0,0,1,7.0,0,2.0,0,New
+RBU60608,Lange Leemstraat 374,2018.0,Apartment,Apartment,313000.0,1.0,97.0,0,0,0,1,5.0,0,2.0,0,New
+RBU60610,Lange Leemstraat 374,2018.0,Apartment,Apartment,695000.0,1.0,183.0,0,0,0,1,50.0,0,2.0,0,New
+RBU60619,Lange Leemstraat 374,2018.0,Apartment,Apartment,,2.0,93.0,0,0,0,1,,1,2.0,0,New
+RBU60634,Lange Leemstraat 374,2018.0,Apartment,Apartment,1099000.0,2.0,270.0,0,0,0,1,25.0,0,2.0,0,New
+RBU60620,Lange Leemstraat 374,2018.0,Apartment,Apartment,284000.0,2.0,93.0,0,0,0,1,,1,2.0,0,New
+RBU60631,Lange Leemstraat 374,2018.0,Apartment,Apartment,289000.0,2.0,88.0,0,0,0,1,18.0,0,2.0,0,New
+RBU60622,Lange Leemstraat 374,2018.0,Apartment,Apartment,293000.0,2.0,92.0,0,0,0,1,5.0,0,2.0,0,New
+RBU60614,Lange Leemstraat 374,2018.0,Apartment,Apartment,299000.0,2.0,93.0,0,0,0,1,5.0,0,2.0,0,New
+RBU60621,Lange Leemstraat 374,2018.0,Apartment,Apartment,305000.0,2.0,93.0,0,0,0,1,5.0,0,2.0,0,New
+RBU60612,Lange Leemstraat 374,2018.0,Apartment,Apartment,307000.0,2.0,97.0,0,0,0,1,5.0,0,2.0,0,New
+RBU60635,Lange Leemstraat 374,2018.0,Apartment,Apartment,308000.0,2.0,80.0,0,0,0,1,6.0,0,2.0,0,New
+RBU60633,Lange Leemstraat 374,2018.0,Apartment,Apartment,311000.0,2.0,81.0,0,0,0,1,6.0,0,2.0,0,New
+RBU60623,Lange Leemstraat 374,2018.0,Apartment,Apartment,318000.0,2.0,97.0,0,0,0,1,5.0,0,2.0,0,New
+RBU60637,Lange Leemstraat 374,2018.0,Apartment,Apartment,344000.0,2.0,87.0,0,0,0,1,34.0,0,2.0,0,New
+RBU60639,Lange Leemstraat 374,2018.0,Apartment,Apartment,349000.0,2.0,103.0,0,0,0,1,13.0,0,2.0,0,New
+RBU60640,Lange Leemstraat 374,2018.0,Apartment,Apartment,399000.0,2.0,135.0,0,0,0,0,,0,2.0,0,New
+RBU60625,Lange Leemstraat 374,2018.0,Apartment,Apartment,799000.0,2.0,171.0,0,0,0,1,12.0,0,2.0,0,New
+RBU60644,Lange Leemstraat 374,2018.0,Apartment,Apartment,355000.0,3.0,107.0,0,0,0,1,8.0,0,2.0,0,New
+RBU60641,Lange Leemstraat 374,2018.0,Apartment,Apartment,359000.0,3.0,110.0,0,0,0,1,8.0,0,2.0,0,New
+RBU60645,Lange Leemstraat 374,2018.0,Apartment,Apartment,375000.0,3.0,103.0,0,0,0,1,,1,2.0,0,New
+RBU60642,Lange Leemstraat 374,2018.0,Apartment,Apartment,425000.0,3.0,118.0,0,0,0,1,,1,2.0,0,New
+RBU60630,Lange Leemstraat 374,2018.0,Apartment,Apartment,498000.0,3.0,139.0,0,0,0,1,60.0,0,2.0,0,New
+RBU60636,Lange Leemstraat 374,2018.0,Apartment,Apartment,499000.0,3.0,118.0,0,0,0,1,27.0,0,2.0,0,New
+RBU60643,Lange Leemstraat 374,2018.0,Apartment,Apartment,710000.0,3.0,171.0,0,0,0,1,14.0,0,2.0,0,New
+RBU60624,Lange Leemstraat 374,2018.0,Apartment,Apartment,975000.0,3.0,286.0,0,0,0,1,24.0,0,2.0,0,New
+RBU58895,Heiken,2870.0,House,Residence,440000.0,3.0,198.0,0,0,0,1,13.0,1,2.0,0,New
+RBU58894,Heiken,2870.0,House,Residence,450000.0,3.0,208.0,0,0,0,1,16.0,1,2.0,0,New
+RBU58892,Heiken,2870.0,House,Residence,480000.0,3.0,186.0,0,0,0,1,13.0,1,3.0,0,New
+RBU58891,Heiken,2870.0,House,Residence,480000.0,3.0,182.0,0,0,0,1,13.0,1,3.0,0,New
+RBU58898,Heiken,2870.0,House,Residence,495000.0,3.0,201.0,0,0,0,1,16.0,1,3.0,0,New
+RBU58897,Heiken,2870.0,House,Residence,495000.0,3.0,200.0,0,0,0,1,15.0,1,3.0,0,New
+RBU58896,Heiken,2870.0,House,Residence,495000.0,3.0,205.0,0,0,0,1,15.0,1,3.0,0,New
+RBU58893,Heiken,2870.0,House,Residence,495000.0,3.0,202.0,0,0,0,1,13.0,1,3.0,0,New
+RBU58899,Heiken,2870.0,House,Residence,510000.0,3.0,210.0,0,0,0,1,16.0,1,3.0,0,New
+RBU58900,Heiken,2870.0,House,Residence,560000.0,3.0,254.0,0,0,0,1,20.0,1,3.0,0,New
+RBU51436,Peperstraat 34-36,2440.0,Apartment,Apartment,223000.0,1.0,65.0,0,0,0,1,16.0,0,2.0,0,New
+RBU51434,Peperstraat 34-36,2440.0,Apartment,Apartment,228150.0,1.0,67.0,0,0,0,1,16.0,0,2.0,0,New
+RBU51400,Peperstraat 34-36,2440.0,Apartment,Apartment,238400.0,1.0,71.0,0,0,0,1,19.0,0,2.0,0,New
+RBU51382,Peperstraat 34-36,2440.0,Apartment,Apartment,248300.0,1.0,80.0,0,0,0,1,9.0,0,2.0,0,New
+RBU51385,Peperstraat 34-36,2440.0,Apartment,Apartment,253300.0,1.0,79.0,0,0,0,1,9.0,0,2.0,0,New
+RBU51401,Peperstraat 34-36,2440.0,Apartment,Apartment,254000.0,1.0,81.0,0,0,0,1,28.0,0,2.0,0,New
+RBU51447,Peperstraat 34-36,2440.0,Apartment,Apartment,248300.0,2.0,77.0,0,0,0,1,12.0,0,2.0,0,New
+RBU51441,Peperstraat 34-36,2440.0,Apartment,Apartment,248300.0,2.0,82.0,0,0,0,1,6.0,0,2.0,0,New
+RBU51440,Peperstraat 34-36,2440.0,Apartment,Apartment,248300.0,2.0,76.0,0,0,0,1,12.0,0,2.0,0,New
+RBU51439,Peperstraat 34-36,2440.0,Apartment,Apartment,248350.0,2.0,77.0,0,0,0,1,12.0,0,2.0,0,New
+RBU51455,Peperstraat 34-36,2440.0,Apartment,Apartment,258400.0,2.0,79.0,0,0,0,1,12.0,0,2.0,0,New
+RBU51453,Peperstraat 34-36,2440.0,Apartment,Apartment,258450.0,2.0,79.0,0,0,0,1,12.0,0,2.0,0,New
+RBU51443,Peperstraat 34-36,2440.0,Apartment,Apartment,258450.0,2.0,80.0,0,0,0,1,12.0,0,2.0,0,New
+RBU51449,Peperstraat 34-36,2440.0,Apartment,Apartment,258500.0,2.0,82.0,0,0,0,1,12.0,0,2.0,0,New
+RBU51435,Peperstraat 34-36,2440.0,Apartment,Apartment,258500.0,2.0,77.0,0,0,0,1,16.0,0,2.0,0,New
+RBU51433,Peperstraat 34-36,2440.0,Apartment,Apartment,263600.0,2.0,80.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51387,Peperstraat 34-36,2440.0,Apartment,Apartment,293800.0,2.0,92.0,0,0,0,1,10.0,0,2.0,0,New
+RBU51397,Peperstraat 34-36,2440.0,Apartment,Apartment,294150.0,2.0,84.0,0,0,0,1,27.0,0,2.0,0,New
+RBU51384,Peperstraat 34-36,2440.0,Apartment,Apartment,298850.0,2.0,93.0,0,0,0,1,10.0,0,2.0,0,New
+RBU51406,Peperstraat 34-36,2440.0,Apartment,Apartment,319200.0,2.0,100.0,0,0,0,1,13.0,0,2.0,0,New
+RBU51414,Peperstraat 34-36,2440.0,Apartment,Apartment,319250.0,2.0,100.0,0,0,0,1,13.0,0,2.0,0,New
+RBU51429,Peperstraat 34-36,2440.0,Apartment,Apartment,329350.0,2.0,103.0,0,0,0,1,13.0,0,2.0,0,New
+RBU51426,Peperstraat 34-36,2440.0,Apartment,Apartment,329400.0,2.0,100.0,0,0,0,1,18.0,0,2.0,0,New
+RBU51423,Peperstraat 34-36,2440.0,Apartment,Apartment,329400.0,2.0,100.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51420,Peperstraat 34-36,2440.0,Apartment,Apartment,329450.0,2.0,101.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51411,Peperstraat 34-36,2440.0,Apartment,Apartment,334500.0,2.0,103.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51425,Peperstraat 34-36,2440.0,Apartment,Apartment,334600.0,2.0,100.0,0,0,0,1,23.0,0,2.0,0,New
+RBU51424,Peperstraat 34-36,2440.0,Apartment,Apartment,334600.0,2.0,106.0,0,0,0,1,13.0,0,2.0,0,New
+RBU51415,Peperstraat 34-36,2440.0,Apartment,Apartment,339450.0,2.0,106.0,0,0,0,1,13.0,0,2.0,0,New
+RBU51432,Peperstraat 34-36,2440.0,Apartment,Apartment,339550.0,2.0,103.0,0,0,0,1,18.0,0,2.0,0,New
+RBU51431,Peperstraat 34-36,2440.0,Apartment,Apartment,339550.0,2.0,100.0,0,0,0,1,18.0,0,2.0,0,New
+RBU51399,Peperstraat 34-36,2440.0,Apartment,Apartment,339850.0,2.0,99.0,0,0,0,1,31.0,0,2.0,0,New
+RBU51430,Peperstraat 34-36,2440.0,Apartment,Apartment,344600.0,2.0,106.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51383,Peperstraat 34-36,2440.0,Apartment,Apartment,344700.0,2.0,104.0,0,0,0,1,21.0,0,2.0,0,New
+RBU51386,Peperstraat 34-36,2440.0,Apartment,Apartment,349700.0,2.0,104.0,0,0,0,1,21.0,0,2.0,0,New
+RBU51402,Peperstraat 34-36,2440.0,Apartment,Apartment,349850.0,2.0,103.0,0,0,0,1,28.0,0,2.0,0,New
+RBU51392,Peperstraat 34-36,2440.0,Apartment,Apartment,354700.0,2.0,109.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51421,Peperstraat 34-36,2440.0,Apartment,Apartment,354850.0,2.0,109.0,0,0,0,1,22.0,0,2.0,0,New
+RBU51413,Peperstraat 34-36,2440.0,Apartment,Apartment,354900.0,2.0,109.0,0,0,0,1,22.0,0,2.0,0,New
+RBU51395,Peperstraat 34-36,2440.0,Apartment,Apartment,359700.0,2.0,109.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51398,Peperstraat 34-36,2440.0,Apartment,Apartment,365100.0,2.0,109.0,0,0,0,1,28.0,0,2.0,0,New
+RBU51391,Peperstraat 34-36,2440.0,Apartment,Apartment,380000.0,2.0,117.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51388,Peperstraat 34-36,2440.0,Apartment,Apartment,380000.0,2.0,118.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51394,Peperstraat 34-36,2440.0,Apartment,Apartment,385000.0,2.0,117.0,0,0,0,1,17.0,0,2.0,0,New
+RBU51442,Peperstraat 34-36,2440.0,Apartment,Apartment,293800.0,3.0,95.0,0,0,0,1,7.0,0,2.0,0,New
+RBU51451,Peperstraat 34-36,2440.0,Apartment,Apartment,298800.0,3.0,95.0,0,0,0,1,7.0,0,2.0,0,New
+RBU51393,Peperstraat 34-36,2440.0,Apartment,Apartment,400600.0,3.0,125.0,0,0,0,1,26.0,0,2.0,0,New
+RBU51396,Peperstraat 34-36,2440.0,Apartment,Apartment,415600.0,3.0,125.0,0,0,0,1,26.0,0,2.0,0,New
+RBU51403,Peperstraat 34-36,2440.0,Apartment,Apartment,416000.0,3.0,121.0,0,0,0,1,39.0,0,2.0,0,New
+RBU51374,Peperstraat 34-37,2440.0,Apartment,Apartment,430700.0,3.0,140.0,0,0,0,1,13.0,0,2.0,0,New
+RBU51373,Peperstraat 34-36,2440.0,Apartment,Apartment,430700.0,3.0,140.0,0,0,0,1,13.0,0,2.0,0,New
+RBU51375,Peperstraat 34-38,2440.0,Apartment,Apartment,435700.0,3.0,140.0,0,0,0,1,13.0,0,2.0,0,New
+RBU48955,de Veldoven 40103,2310.0,Apartment,Apartment,257000.0,1.0,64.0,0,0,0,1,24.0,0,4.0,0,New
+RBU48957,Gammersplein 20103,2310.0,Apartment,Apartment,287000.0,1.0,79.0,0,0,0,1,11.0,0,4.0,0,New
+RBU48956,de Veldoven 40104,2310.0,Apartment,Apartment,335000.0,2.0,90.0,0,0,0,1,17.0,1,4.0,0,New
+RBU48953,de Klampoven 10102,2310.0,Apartment,Apartment,379000.0,2.0,109.0,0,0,0,1,11.0,0,4.0,0,New
+RBU48954,de Klampoven 150102,2310.0,Apartment,Apartment,465000.0,2.0,137.0,0,0,0,1,13.0,0,4.0,0,New
+RBU48958,Gammersplein 20205,2310.0,Apartment,Apartment,382000.0,3.0,107.0,0,0,0,1,12.0,0,4.0,0,New
+RBU48655,de Klampoven 11,2310.0,Apartment,Apartment,567000.0,3.0,181.0,0,0,0,1,36.0,0,4.0,0,New
+RBU60711,Winkelomseheide 158,2440.0,Apartment,Apartment,200000.0,2.0,64.0,0,0,0,1,18.0,1,2.0,0,New
+RBU60710,Winkelomseheide 158,2440.0,Apartment,Apartment,200000.0,2.0,63.0,0,0,0,1,18.0,1,2.0,0,New
+RBU60708,Winkelomseheide 158,2440.0,Apartment,Apartment,275000.0,2.0,100.0,0,0,0,1,18.0,1,2.0,0,New
+RBU60709,Winkelomseheide 158,2440.0,Apartment,Apartment,285000.0,2.0,102.0,0,0,0,1,18.0,1,2.0,0,New
+RBU60707,Winkelomseheide 158,2440.0,Apartment,Apartment,310000.0,2.0,100.0,0,0,0,1,23.0,1,2.0,0,New
+RBU62748,Minderhoutdorp 21A,2322.0,House,Residence,545000.0,3.0,181.0,0,0,0,1,13.0,1,3.0,0,New
+RBU62747,Minderhoutdorp 19,2322.0,House,Residence,545000.0,3.0,168.0,0,0,0,1,13.0,1,3.0,0,New
+RBU62749,,2322.0,House,Residence,5000.0,4.0,171.0,0,0,0,1,13.0,1,3.0,0,New
+RBU62746,,2322.0,House,Residence,5000.0,4.0,174.0,0,0,0,1,13.0,1,3.0,0,New
+RBU61020,Olensweg 56,2200.0,Apartment,Apartment,263000.0,1.0,79.0,0,0,0,1,14.0,1,4.0,0,New
+RBU61018,Olenseweg 56,2200.0,Apartment,Apartment,259000.0,1.0,77.0,0,0,0,1,14.0,1,4.0,0,New
+RBU61016,Olenseweg 56,2200.0,Apartment,Apartment,269000.0,1.0,82.0,0,0,0,1,10.0,1,4.0,0,New
+RBU61012,Olenseweg 56,2200.0,Apartment,Apartment,240000.0,1.0,69.0,0,0,0,1,29.0,1,4.0,0,New
+RBU61006,Olenseweg 56,2200.0,Apartment,Apartment,315000.0,2.0,100.0,0,0,0,1,10.0,1,4.0,0,New
+RBU61007,Olenseweg 56,2200.0,Apartment,Apartment,329000.0,2.0,104.0,0,0,0,1,19.0,1,4.0,0,New
+RBU61019,Olenseweg 56,2200.0,Apartment,Apartment,270000.0,2.0,80.0,0,0,0,1,11.0,1,4.0,0,New
+RBU61017,Olenseweg 56,2200.0,Apartment,Apartment,295000.0,2.0,94.0,0,0,0,1,13.0,1,4.0,0,New
+RBU61015,Olenseweg 56,2200.0,Apartment,Apartment,299000.0,2.0,85.0,0,0,0,1,20.0,1,4.0,0,New
+RBU61014,Olensenweg 56,2200.0,Apartment,Apartment,275000.0,2.0,89.0,0,0,0,1,11.0,1,4.0,0,New
+RBU61009,Olenseweg 56,2200.0,Apartment,Apartment,309000.0,2.0,101.0,0,0,0,1,15.0,1,4.0,0,New
+RBU61005,Olensenweg 56,2200.0,Apartment,Apartment,345000.0,2.0,105.0,0,0,0,1,19.0,1,4.0,0,New
+RBU61021,Olenseweg 56,2200.0,Apartment,Apartment,375000.0,3.0,114.0,0,0,0,1,35.0,1,4.0,0,New
+RBU61022,Olenseweg 56,2200.0,Apartment,Apartment,415000.0,3.0,132.0,0,0,0,1,24.0,1,4.0,0,New
+RBU61013,Olenseweg 56,2200.0,Apartment,Apartment,345000.0,3.0,112.0,0,0,0,1,17.0,1,4.0,0,New
+RBU61011,Olensweg 56,2200.0,Apartment,Apartment,339000.0,3.0,104.0,0,0,0,1,21.0,1,4.0,0,New
+RBU61008,Olenseweg 56,2200.0,Apartment,Apartment,375000.0,3.0,124.0,0,0,0,1,24.0,1,4.0,0,New
+RBU45931,Stationsstraat 16,2830.0,Apartment,Apartment,209000.0,1.0,65.0,0,0,0,1,7.0,0,4.0,0,New
+RBU45936,Stationsstraat 16,2830.0,Apartment,Apartment,210000.0,1.0,65.0,0,0,0,1,11.0,0,4.0,0,New
+RBU45930,Stationsstraat 16,2830.0,Apartment,Apartment,220000.0,1.0,66.0,0,0,0,1,20.0,0,4.0,0,New
+RBU45940,Stationsstraat 16,2830.0,Apartment,Apartment,285000.0,1.0,65.0,0,0,0,1,11.0,0,4.0,0,New
+RBU45932,Stationsstraat 16,2830.0,Apartment,Apartment,269000.0,2.0,82.0,0,0,0,1,15.0,1,4.0,0,New
+RBU45935,Stationsstraat 16,2830.0,Apartment,Apartment,280000.0,2.0,88.0,0,0,0,1,9.0,0,4.0,0,New
+RBU45934,Stationsstraat 16,2830.0,Apartment,Apartment,280000.0,2.0,90.0,0,0,0,1,10.0,0,4.0,0,New
+RBU45933,Stationsstraat 16,2830.0,Apartment,Apartment,280000.0,2.0,90.0,0,0,0,1,14.0,1,4.0,0,New
+RBU45941,Stationsstraat 16,2830.0,Apartment,Apartment,285000.0,2.0,93.0,0,0,0,1,11.0,0,4.0,0,New
+RBU45939,Stationsstraat 16,2830.0,Apartment,Apartment,285000.0,2.0,88.0,0,0,0,1,9.0,0,4.0,0,New
+RBU45938,Stationsstraat 16,2830.0,Apartment,Apartment,285000.0,2.0,90.0,0,0,0,1,10.0,0,4.0,0,New
+RBU45943,Stationsstraat 16,2830.0,Apartment,Apartment,515000.0,3.0,141.0,0,0,0,1,51.0,0,4.0,0,New
+RBU66944,Brederodestraat 184-188 V3,2018.0,Apartment,Apartment,235000.0,3.0,100.0,0,0,0,1,17.0,0,3.0,0,To be renovated
+RBU66949,Lange Lozanastraat 217A V6,2018.0,Apartment,Penthouse,465000.0,2.0,116.0,0,0,0,1,7.0,0,2.0,0,New
+RBU66940,Lange Lozanastraat 217A V5,2018.0,Apartment,Apartment,450000.0,2.0,116.0,0,0,0,1,7.0,0,2.0,0,New
+RBU66941,Lange Lozanastraat 217A V6,2018.0,Apartment,Apartment,465000.0,2.0,116.0,0,0,0,1,7.0,0,2.0,0,New
+RBU66938,Lange Lozanastraat 217A GLVL,2018.0,Apartment,Ground floor,650000.0,3.0,139.0,0,0,0,1,24.0,1,2.0,0,Normal
+RBU66931,Ballaarstraat 98 302,2018.0,Apartment,Apartment,245000.0,2.0,77.0,0,0,0,1,5.0,0,2.0,0,To be renovated
+RBU55477,Bassinstraat 10 1.2,2850.0,Apartment,Apartment,389000.0,2.0,136.0,0,0,0,1,,0,,0,Normal
+RBU66937,Pourbusstraat 17 301,2000.0,Apartment,Apartment,465000.0,2.0,102.0,1,0,0,1,,0,2.0,0,Excellent
+RBU66939,Lange Lozanastraat 217A V4,2018.0,Apartment,Apartment,440000.0,2.0,116.0,0,0,0,1,7.0,0,3.0,0,Normal
+RBU66934,Griefjes 10,2270.0,House,Residence,649000.0,4.0,182.0,0,0,0,1,,1,4.0,0,Excellent
+RBU55824,Vijfhuizenstraat 9,2260.0,House,Residence,,3.0,141.0,1,0,0,1,,1,3.0,0,New
+RBU38122,Sterrenstraat 54-56,2500.0,Apartment,Apartment,,1.0,84.0,0,0,0,1,11.0,0,2.0,0,New
+RBU38120,Sterrenstraat 54-56,2500.0,Apartment,Apartment,269000.0,1.0,84.0,0,0,0,1,11.0,0,2.0,0,New
+RBU38121,Sterrenstraat 54-56,2500.0,Apartment,Apartment,,1.0,86.0,0,0,0,1,12.0,0,2.0,0,New
+RBU38117,Sterrenstraat 54-56,2500.0,Apartment,Apartment,274000.0,1.0,84.0,0,0,0,1,11.0,0,2.0,0,New
+RBU38116,Sterrenstraat 54-56,2500.0,Apartment,Apartment,279000.0,1.0,84.0,0,0,0,1,12.0,0,2.0,0,New
+RBU38136,Sterrenstraat 54-56,2500.0,Apartment,Apartment,,2.0,103.0,0,0,0,1,40.0,0,2.0,0,New
+RBU38135,Sterrenstraat 54-56,2500.0,Apartment,Apartment,344000.0,2.0,99.0,0,0,0,1,39.0,0,2.0,0,New
+RBU38132,Sterrenstraat 54-56,2500.0,Apartment,Apartment,,2.0,126.0,0,0,0,1,31.0,0,2.0,0,New
+RBU38131,Sterrenstraat 54-56,2500.0,Apartment,Apartment,459000.0,2.0,126.0,0,0,0,1,31.0,0,2.0,0,New
+RBU38130,Sterrenstraat 54-56,2500.0,Apartment,Apartment,,2.0,100.0,0,0,0,1,39.0,0,2.0,0,New
+RBU38124,Sterrenstraat 54-56,2500.0,Apartment,Ground floor,332000.0,2.0,97.0,0,0,0,1,16.0,1,2.0,0,New
+RBU38134,Sterrenstraat 54-56,2500.0,Apartment,Ground floor,394000.0,3.0,118.0,0,0,0,1,61.0,1,2.0,0,New
+RBU38133,Sterrenstraat 54-56,2500.0,Apartment,Ground floor,,3.0,111.0,0,0,0,1,37.0,1,2.0,0,New
+RBU38127,,2500.0,Apartment,Ground floor,,3.0,121.0,0,0,0,1,37.0,1,2.0,0,New
+RBU38125,Sterrenstraat 54-56,2500.0,Apartment,Ground floor,384000.0,3.0,120.0,0,0,0,1,37.0,1,2.0,0,New
+RBU38123,Sterrenstraat 54-56,2500.0,Apartment,Penthouse,264000.0,1.0,74.0,0,0,0,1,18.0,0,2.0,0,New
+RBU38119,Sterrenstraat 54-56,2500.0,Apartment,Penthouse,259000.0,1.0,74.0,0,0,0,1,18.0,0,2.0,0,New
+RBU38118,Sterrenstraat 54-56,2500.0,Apartment,Penthouse,279000.0,1.0,74.0,0,0,0,1,21.0,0,2.0,0,New
+RBU38126,Sterrenstraat 54-56,2500.0,Apartment,Penthouse,499000.0,2.0,140.0,0,0,0,1,36.0,0,2.0,0,New
+RBU38137,Sterrenstraat 54-56,2500.0,Apartment,Penthouse,549000.0,2.0,153.0,0,0,0,1,51.0,0,2.0,0,New
+RBU40233,Lintsesteenweg 50,2550.0,House,Residence,446000.0,3.0,165.0,0,0,0,1,7.0,1,3.0,0,New
+RBU40225,Lintsesteenweg 50,2550.0,House,Residence,471000.0,3.0,169.0,0,0,0,1,7.0,1,3.0,0,New
+RBU40231,Lintsesteenweg 50,2550.0,House,Residence,491000.0,3.0,169.0,0,0,0,1,7.0,1,3.0,0,New
+RBU40234,Lintsesteenweg 50,2550.0,House,Residence,459000.0,3.0,169.0,0,0,0,1,7.0,1,3.0,0,New
+RBU40223,Lintsesteenweg 50,2550.0,House,Residence,440000.0,3.0,165.0,0,0,0,1,7.0,1,3.0,0,New
+RBU55982,Nijverheidsstraat 1A,2280.0,House,Residence,421605.0,3.0,183.0,0,0,0,1,16.0,1,3.0,0,New
+RBU55983,Nijverheidsstraat 1B,2280.0,House,Residence,411336.0,4.0,171.0,0,0,0,1,25.0,1,3.0,0,New
+RBU55468,Hoge Brugstraat 25,2220.0,House,Residence,417000.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU55460,Hoge Brugstraat 25,2220.0,House,Residence,444706.0,4.0,208.0,0,0,0,1,,1,,0,New
+RBU55463,Hoge Brugstraat 25,2220.0,House,Residence,445000.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU55472,Trambruglei,2220.0,House,Residence,445303.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU55467,Hoge Brugstraat 25,2220.0,House,Residence,455000.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU55471,Hoge Brugstraat 25,2220.0,House,Residence,466978.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU55462,Hoge Brugstraat 25,2220.0,House,Residence,468156.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU55461,Hoge Brugstraat 25,2220.0,House,Residence,470000.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU55469,Trambruglei,2220.0,House,Residence,478985.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU55466,Trambruglei,2220.0,House,Residence,495858.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU55473,Hoge Brugstraat 25,2220.0,House,Residence,499000.0,4.0,221.0,0,0,0,1,,1,,0,New
+RBU55459,Hoge Brugstraat 25,2220.0,House,Residence,500510.0,4.0,183.0,0,0,0,1,,1,,0,New
+RBU36148,Diepvenneke 44 B,2350.0,House,Residence,615000.0,4.0,282.0,0,0,0,1,24.0,1,3.0,0,New
+RBU32449,Burgemeester J. Van Aperenstraat 58a,2320.0,House,Residence,569000.0,4.0,206.0,0,0,0,1,18.0,1,3.0,0,New
+RBU32448,Burgemeester J. Van Aperenstraat 56b,2320.0,House,Residence,569000.0,4.0,212.0,0,0,0,1,18.0,1,3.0,0,New
+RBU32450,Burgemeester J. Van Aperenstraat 58b,2320.0,House,Residence,589000.0,4.0,185.0,0,0,0,1,18.0,1,3.0,0,New
+RBU32447,Burgemeester J. Van Aperenstraat 56a,2320.0,House,Residence,589000.0,4.0,182.0,0,0,0,1,18.0,1,3.0,0,New
+RBT30851,Stationsstraat 33,2590.0,House,Residence,325000.0,2.0,118.0,1,0,0,1,17.0,1,3.0,0,New
+RBT30841,Stationsstraat 33,2590.0,House,Residence,399000.0,3.0,151.0,1,0,0,1,16.0,1,3.0,0,New
+RBT30849,Stationsstraat 33,2590.0,House,Residence,373000.0,3.0,135.0,1,0,0,1,17.0,1,3.0,0,New
+RBT30848,Stationsstraat 33,2590.0,House,Residence,399000.0,3.0,156.0,1,0,0,1,18.0,1,3.0,0,New
+RBT30846,Stationsstraat 33,2590.0,House,Residence,383000.0,3.0,138.0,1,0,0,1,17.0,1,3.0,0,New
+RBT30845,Stationsstraat 33,2590.0,House,Residence,379000.0,3.0,138.0,1,0,0,1,18.0,1,3.0,0,New
+RBT30843,Stationsstraat 33,2590.0,House,Residence,347000.0,3.0,133.0,1,0,0,1,17.0,1,3.0,0,New
+RBT30842,Stationsstraat 33,2590.0,House,Residence,347000.0,3.0,137.0,1,0,0,1,17.0,1,3.0,0,New
+RBU32495,Geelsebaan 51,2430.0,Apartment,Apartment,250000.0,1.0,89.0,0,0,0,1,10.0,0,,0,New
+RBU32493,Geelsebaan 51,2430.0,Apartment,Apartment,289000.0,2.0,98.0,0,0,0,1,27.0,0,,0,New
+RBU32494,Geelsebaan 51,2430.0,Apartment,Apartment,339000.0,2.0,114.0,0,0,0,1,15.0,0,,0,New
+RBU32498,Geelsebaan 51,2430.0,Apartment,Apartment,389000.0,3.0,133.0,0,0,0,1,38.0,0,,0,New
+RBU32492,Geelsebaan 51,2430.0,Apartment,Ground floor,341000.0,2.0,112.0,0,0,0,1,26.0,1,,0,New
+RBU32491,Geelsebaan 51,2430.0,Apartment,Ground floor,345000.0,2.0,113.0,0,0,0,1,16.0,1,,0,New
+RBU32496,Geelsebaan 51,2430.0,Apartment,Penthouse,315000.0,2.0,103.0,0,0,0,1,35.0,0,,0,New
+RBU32497,Geelsebaan 51,2430.0,Apartment,Penthouse,369000.0,3.0,110.0,0,0,0,1,37.0,0,,0,New
+RBU38142,Boomlaarstraat 3,2500.0,Apartment,Apartment,239000.0,1.0,67.0,0,0,0,1,10.0,0,2.0,0,New
+RBU38140,Boomlaarstraat 3,2500.0,Apartment,Apartment,339000.0,2.0,97.0,0,0,0,1,7.0,0,2.0,0,New
+RBU38139,Boomlaarstraat 3,2500.0,Apartment,Ground floor,312000.0,2.0,87.0,0,0,0,1,12.0,1,2.0,0,New
+RBU38138,Boomlaarstraat 3,2500.0,Apartment,Ground floor,451000.0,3.0,141.0,0,0,0,1,9.0,1,2.0,0,New
+RBU38144,Boomlaarstraat 3,2500.0,Apartment,Penthouse,270000.0,1.0,71.0,0,0,0,1,13.0,0,2.0,0,New
+RBU38143,Boomlaarstraat 3,2500.0,Apartment,Penthouse,335000.0,2.0,92.0,0,0,0,1,14.0,0,2.0,0,New
+RBU38141,Boomlaarstraat 3,2500.0,Apartment,Studio,170000.0,,47.0,0,0,0,1,2.0,0,2.0,0,New
+RBU66796,Ternesselei 219,2160.0,House,Residence,525000.0,4.0,189.0,1,0,0,1,,1,4.0,0,Normal
+RBU66800,Leest-Dorp 19,2811.0,House,Residence,339000.0,3.0,140.0,0,0,0,1,,1,2.0,0,New
+RBU66858,Dorp 37,2275.0,House,Residence,285000.0,0.0,189.0,0,0,0,0,,0,,0,To be renovated
+RBU66797,Leest-Dorp 19,2800.0,House,Residence,339000.0,3.0,140.0,0,0,0,1,,1,2.0,0,New
+RBU66883,Dennenlaan 16,2290.0,House,Residence,337000.0,4.0,175.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU66913,Rattenbergstraat 7a,2820.0,House,Villa,845000.0,4.0,230.0,0,0,0,0,,0,4.0,0,
+RBU66881,De Francqueslei 184,2100.0,House,Residence,285000.0,3.0,142.0,0,0,0,0,,1,,0,Normal
+RBU66815,Poelstraatje 7,2200.0,House,Residence,545000.0,6.0,354.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU66857,Schoolstraat 7,2200.0,House,Residence,238000.0,2.0,80.0,0,0,0,0,,0,,0,Normal
+RBU66856,Hulseinde 30,2200.0,House,Residence,535000.0,3.0,242.0,0,0,0,1,25.0,0,,0,New
+RBU66806,Hildering 88,2290.0,House,Residence,499000.0,4.0,258.0,0,0,0,1,,1,4.0,0,Normal
+RBU66818,Bevrijdingslaan 114,2450.0,House,Residence,275000.0,3.0,,0,0,0,0,,0,2.0,0,
+RBU66868,Blancefloerlaan 41,2050.0,Apartment,Apartment,299000.0,3.0,,0,0,0,1,1.0,0,,0,
+RBU66871,Leopoldstraat 37,2570.0,House,Residence,295000.0,3.0,437.0,0,0,0,1,,1,,0,To be renovated
+RBU66882,Karel Mestdaghplein 11 401,2610.0,Apartment,Apartment,239000.0,1.0,96.0,0,0,0,1,3.0,0,,0,Normal
+RBU66861,Rozendaal 36 B,2440.0,Apartment,Apartment,195000.0,1.0,59.0,0,0,0,1,24.0,0,4.0,0,Excellent
+RBU66855,Gebroeders De Wachterstraat 3,2610.0,Apartment,Apartment,245000.0,2.0,96.0,0,0,0,0,,0,,0,Fully renovated
+RBU66812,Oostmalsesteenweg 32,2310.0,House,Residence,379000.0,4.0,177.0,0,0,0,0,,1,,0,
+RBU66859,Lemmekensbaan 23,2980.0,House,Residence,218000.0,2.0,60.0,0,0,0,0,,0,,0,Normal
+RBU66667,Elzenlaan 14,2500.0,House,Residence,249000.0,3.0,118.0,0,0,0,0,,1,2.0,0,To be renovated
+RBU66715,Klein Heiken 129,2180.0,House,Residence,399000.0,3.0,220.0,0,0,0,0,,0,3.0,0,
+RBU66665,Kempenlaan 1,2520.0,House,Residence,599000.0,3.0,253.0,0,0,0,0,,1,4.0,0,Excellent
+RBU66664,Antwerpsestraat 49 301,2500.0,Apartment,Penthouse,279000.0,1.0,85.0,0,0,0,1,8.0,0,2.0,0,Excellent
+RBU66643,Pastoor Van der Auwerastraat 70,2640.0,House,Residence,419000.0,3.0,181.0,0,0,0,0,,0,2.0,0,Normal
+RBU66647,Koraalstraat 3,2950.0,House,Residence,450000.0,4.0,228.0,0,0,0,0,,1,2.0,0,New
+RBU66629,Hoevelaan 13,2570.0,House,Residence,479000.0,3.0,175.0,0,0,0,1,,1,,0,Normal
+RBU66744,Oude Liersebaan 183,2570.0,House,Bungalow,555000.0,2.0,162.0,0,0,0,0,,0,4.0,0,
+RBU66666,,2500.0,Apartment,Apartment,385000.0,3.0,103.0,0,0,0,1,12.0,0,2.0,0,Excellent
+RBU66649,Oude Kruisstraat 21,2235.0,House,Residence,249000.0,3.0,169.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU66663,Diepenbroekstraat 15,2500.0,House,Residence,417476.0,3.0,185.0,0,0,0,1,13.0,1,3.0,0,New
+RBU66644,Cyriel Buyssestraat 34,2020.0,Apartment,Apartment,250000.0,2.0,84.0,0,0,0,1,1.0,0,2.0,0,Normal
+RBU65973,Vrijheid 55,2320.0,House,Residence,,4.0,507.0,0,0,0,1,,1,2.0,0,Normal
+RBU66596,Maria de Heeltstraat 6,2100.0,Apartment,Apartment,145900.0,1.0,67.0,0,0,0,1,4.0,0,,0,Normal
+RWC41179,Boerenkrijglaan 18,2200.0,House,Residence,399500.0,3.0,125.0,1,0,0,1,15.0,1,,0,Excellent
+RBU66331,Frans van Dijckstraat 19 302,2100.0,Apartment,Apartment,199000.0,1.0,71.0,0,0,0,0,,0,3.0,0,Normal
+RBU65971,Duffelsesteenweg 134,2860.0,House,Residence,265000.0,3.0,141.0,0,0,0,0,,1,4.0,0,To be renovated
+RBU66578,Schildesteenweg 52 2.1,2520.0,Apartment,Penthouse,,3.0,176.0,0,0,0,1,56.0,0,,0,Normal
+RBU66590,Ter Laken 2 0.3,2221.0,Apartment,Ground floor,295000.0,2.0,98.0,0,0,0,1,10.0,1,,0,New
+RBU66577,Schildesteenweg 52 1.3,2520.0,Apartment,Apartment,359985.0,2.0,100.0,0,0,0,1,8.0,0,,0,Normal
+RBU66510,,2850.0,House,Residence,368000.0,3.0,164.0,0,0,0,1,,1,,0,
+RBU66597,Jacobuslei 27,2930.0,House,Residence,219000.0,1.0,131.0,0,0,0,1,5.0,1,,0,To be renovated
+RBU66332,Te Couwelaarlei 103 1403,2100.0,Apartment,Apartment,183000.0,3.0,97.0,0,0,0,1,3.0,0,3.0,0,Normal
+RBU66591,Ter Laken 2 0.2,2221.0,Apartment,Apartment,305000.0,2.0,103.0,0,0,0,1,16.0,1,,0,New
+RBU66593,Ter Laken 2 1.4,2221.0,Apartment,Apartment,289000.0,2.0,98.0,0,0,0,1,10.0,0,,0,New
+RBU66613,Scheidingstraat 10 001,2610.0,Apartment,Ground floor,239000.0,2.0,78.0,0,0,0,1,22.0,0,,0,Normal
+RBU66378,Nieuwstraat 7A,2440.0,Apartment,Apartment,575000.0,3.0,220.0,0,0,0,1,,0,,0,Normal
+RBU66376,Sparrenlaan 5,2070.0,House,Residence,225000.0,2.0,146.0,0,0,0,0,,1,,0,Normal
+RBU66614,Pieter Jozef Nauwelaertsstraat 35 101,2600.0,Apartment,Apartment,265000.0,1.0,53.0,0,0,0,1,5.0,0,,0,New
+RBU66309,Kleine Del 53,2230.0,House,Chalet,249000.0,1.0,72.0,1,1,0,1,,1,4.0,0,Excellent
+RBU66601,Maria de Heeltstraat 6,2100.0,Apartment,Apartment,165000.0,1.0,67.0,0,0,0,1,4.0,0,,0,Normal
+RBU66172,Bredabaan 541,2930.0,House,Residence,429000.0,4.0,212.0,0,0,0,1,,1,2.0,0,Excellent
+RBU65818,Sint-Jobsstraat 11 201,2200.0,Apartment,Apartment,399000.0,2.0,89.0,0,0,0,1,,0,2.0,0,Excellent
+RBU65852,Onze-Lieve-Vrouwstraat 58,2220.0,House,Residence,319000.0,2.0,87.0,1,0,0,1,,1,2.0,0,Excellent
+RBU65796,Maasvelden 14-16,2230.0,House,Cottage,165000.0,3.0,77.0,0,0,0,1,,1,4.0,0,Normal
+RBU65853,Gemeenteheide 141,2440.0,House,Residence,320000.0,3.0,116.0,0,0,0,1,20.0,1,2.0,0,
+RBU65960,Aambeeldstraat 55,2800.0,House,Residence,239000.0,4.0,115.0,0,0,0,0,,1,2.0,0,To be renovated
+RBU65843,Martelarenstraat 24,2400.0,House,Residence,379000.0,3.0,225.0,0,0,0,1,,1,2.0,0,
+RBU65817,Schrans 10,2250.0,House,Residence,399000.0,3.0,153.0,0,0,0,1,,1,4.0,0,Normal
+RBU65836,Het Bremmeken 15,2250.0,House,Residence,440000.0,5.0,210.0,1,0,0,1,,1,4.0,0,Normal
+RBU65835,Lievevrouwestraat 78,2160.0,House,Residence,425000.0,5.0,245.0,0,0,0,1,,1,2.0,0,
+RBU65869,Topaasstraat 5,2600.0,House,Residence,449000.0,4.0,145.0,0,0,0,0,,1,2.0,0,
+RBU65951,Duffelsesteenweg 95,2547.0,House,Residence,498000.0,3.0,205.0,0,0,0,1,,1,2.0,0,Normal
+RBU65948,Ter Heydelaan 175,2100.0,Apartment,Apartment,229000.0,2.0,84.0,0,0,0,1,75.0,1,2.0,0,To be renovated
+RBU65953,Oosterveldlaan 60,2610.0,House,Residence,595000.0,5.0,255.0,0,0,0,1,,1,,0,Normal
+RBU65837,Lode Zielensstraat 13,2845.0,House,Residence,325000.0,4.0,145.0,0,0,0,0,,0,2.0,0,
+RBU65966,Hof van Riemenstraat 32,2220.0,House,Residence,468000.0,3.0,171.0,0,0,0,1,,1,,0,
+RBU65866,Kapellestraat 28,2400.0,House,Residence,300000.0,5.0,,0,0,0,0,,1,4.0,0,
+RBU65860,Boomsesteenweg 416,2020.0,House,Master house,385000.0,4.0,180.0,0,0,0,0,,1,,0,Normal
+VBD49296,,2861.0,House,Residence,474016.0,4.0,183.0,0,0,0,0,,0,4.0,0,New
+RBU65790,Sander De Vosstraat 9,2500.0,House,Residence,349000.0,3.0,207.0,0,0,0,1,10.0,1,3.0,0,Normal
+VBD49298,,2820.0,House,Residence,578231.0,4.0,154.0,0,0,0,0,,0,4.0,0,New
+RBU65779,Coebergerstraat 20,2018.0,House,Master house,799000.0,4.0,272.0,0,0,0,1,,1,2.0,0,Normal
+RBU65758,Antwerpsestraat 27 1,2640.0,Apartment,Apartment,185000.0,2.0,66.0,0,0,0,1,,0,2.0,0,Normal
+RBU65763,Overwinningsstraat 167,2830.0,House,Mixed building,299000.0,2.0,177.0,0,0,0,0,,0,3.0,0,To be renovated
+RBU65788,Leopoldstraat 1,2280.0,House,Villa,1076000.0,5.0,596.0,0,0,0,1,75.0,1,4.0,1,New
+RBU65793,Herentalseweg 26,2440.0,House,Residence,479000.0,5.0,259.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD49300,,2223.0,House,Residence,420165.0,4.0,147.0,0,0,0,0,,0,4.0,0,New
+RBU65792,Maasvelden 14-16,2230.0,House,Chalet,165000.0,3.0,77.0,0,0,0,1,,1,4.0,0,Normal
+RBU65795,Maasvelden 14-16,2230.0,House,Bungalow,165000.0,3.0,77.0,0,0,0,1,,1,4.0,0,Normal
+RBU65781,Klipstraat 33,2060.0,House,Residence,275000.0,3.0,144.0,0,0,0,0,,0,2.0,0,To be renovated
+VBD49295,,2880.0,House,Residence,571979.0,3.0,176.0,0,0,0,0,,0,4.0,0,New
+RBU65789,Berlaarbaan 243,2860.0,House,Residence,429000.0,2.0,99.0,0,0,0,1,,1,4.0,0,Normal
+RBU65780,Kapelstraat 208,2660.0,House,Residence,485000.0,5.0,244.0,0,0,0,0,,1,2.0,0,Normal
+VBD49297,,2820.0,House,Residence,618264.0,4.0,190.0,0,0,0,0,,0,4.0,0,New
+RBU65755,Zandstraat 74 101,2200.0,Apartment,Apartment,325000.0,3.0,157.0,0,0,0,1,,0,,0,Normal
+RBU65745,Herentalsebaan 43 C2.1,2100.0,Apartment,Apartment,266000.0,2.0,80.0,0,0,0,1,,0,,0,Normal
+RBU65787,Schietboompleinstraat 18,2235.0,House,Residence,415000.0,3.0,133.0,0,0,0,1,,1,3.0,0,Normal
+VBD49299,,2950.0,House,Residence,599018.0,3.0,185.0,0,0,0,0,,0,4.0,0,New
+RBU65731,Berkenlaan 3,2960.0,House,Residence,569000.0,4.0,178.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU65733,,2660.0,Apartment,Apartment,259000.0,2.0,80.0,0,0,0,1,25.0,1,,0,
+RBU65672,Spoelstraat 2 B1,2580.0,Apartment,Apartment,315000.0,2.0,90.0,0,0,0,1,,1,,0,New
+RBU65669,Spoelstraat 2 A5,2580.0,Apartment,Apartment,399000.0,2.0,114.0,0,0,0,1,,1,,0,New
+RBU65666,Spoelstraat 2 A6,2580.0,Apartment,Apartment,399000.0,2.0,100.0,0,0,0,1,,1,,0,New
+RBU65670,Spoelstraat 2 A4,2580.0,Apartment,Apartment,369000.0,2.0,104.0,0,0,0,1,,1,,0,New
+RBU65676,Saffraanbergen 16,2580.0,House,Residence,549000.0,3.0,160.0,0,0,0,1,,1,4.0,0,
+RBU65743,Mechelsesteenweg 6,2220.0,House,Mixed building,495000.0,5.0,340.0,0,0,0,0,,0,3.0,0,
+RBU65671,Spoelstraat 2 B2,2580.0,Apartment,Apartment,315000.0,2.0,90.0,0,0,0,1,,1,,0,New
+RBU65673,Spoelstraat 2 A3,2580.0,Apartment,Apartment,379000.0,2.0,111.0,0,0,0,1,,1,,0,New
+RBU65700,,2560.0,House,Residence,349000.0,4.0,170.0,0,0,0,1,,1,3.0,0,
+RBU65665,Spoelstraat 2 A7,2580.0,Apartment,Apartment,399000.0,2.0,102.0,0,0,0,1,,1,,0,New
+RBU65667,Spoelstraat 2 B4,2580.0,Apartment,Apartment,329000.0,2.0,93.0,0,0,0,1,,1,,0,New
+RBU65668,Spoelstraat 2 B3,2580.0,Apartment,Apartment,359000.0,2.0,101.0,0,0,0,1,,1,,0,New
+RBU65677,Olivetenvest 37 303,2800.0,Apartment,Apartment,298000.0,2.0,88.0,0,0,0,0,,0,2.0,0,Excellent
+RBU65675,Spoelstraat 2 A1,2580.0,Apartment,Apartment,289000.0,2.0,81.0,0,0,0,1,,1,,0,New
+RBU65721,Wim Saerensplein 21 202,2100.0,Apartment,Apartment,289000.0,2.0,100.0,0,0,0,1,6.0,0,,0,
+RBU65664,Spoelstraat 2 B5,2580.0,Apartment,Apartment,699000.0,3.0,174.0,0,0,0,1,,1,,0,New
+RBU65674,Spoelstraat 2 A2,2580.0,Apartment,Apartment,349000.0,2.0,101.0,0,0,0,1,,1,,0,New
+RBU65723,Hoogstraat 36 102,2000.0,Apartment,Apartment,599000.0,3.0,181.0,0,0,0,1,42.0,0,,0,
+RBU65647,Lindenhof 5 6,2440.0,Apartment,Duplex,308000.0,3.0,105.0,0,0,0,1,,1,,0,
+RBU65308,Korenbloemstraat 11 5,2440.0,Apartment,Penthouse,615000.0,3.0,227.0,0,0,0,1,,0,,0,Excellent
+RBU65646,Elektriciteitstraat 33 1204,2800.0,Apartment,Apartment,249000.0,2.0,84.0,0,0,0,1,,1,2.0,0,
+RBU65539,L. Van Kerckhovenstraat 6,2870.0,House,Residence,395000.0,2.0,150.0,0,0,0,1,,1,2.0,0,Excellent
+RBU65644,Bleekstraat 6 102,2800.0,Apartment,Apartment,278000.0,3.0,95.0,0,0,0,1,,1,,0,
+RBU65650,Henri Spillemaeckersstraat 18,2850.0,House,Residence,433000.0,3.0,316.0,0,0,0,1,,1,3.0,0,
+RBU65655,Dendermondsesteenweg 129 A,2830.0,Apartment,Apartment,195000.0,,100.0,0,0,0,0,,1,2.0,0,
+RBU65643,Battelsesteenweg 240,2800.0,House,Residence,320000.0,3.0,144.0,0,0,0,1,,1,2.0,0,
+RBU65306,Vinkenstraat 36,2440.0,House,Residence,339000.0,2.0,199.0,0,0,0,1,,1,4.0,0,Normal
+RBU65305,Spoorweglei 20,2500.0,House,Residence,199000.0,2.0,91.0,0,0,0,1,17.0,1,3.0,0,To be renovated
+RBU65657,Stationsstraat 11,2220.0,House,Residence,465000.0,4.0,190.0,0,0,0,1,,1,2.0,0,
+RBU65659,Boterbosstraat 2,2820.0,House,Residence,825000.0,5.0,437.0,0,0,0,1,,1,4.0,0,
+RBU65661,Bergstraat 50,2860.0,House,Residence,548000.0,4.0,157.0,0,0,0,1,,1,4.0,0,
+RBU65652,Heiststeenweg 64,2580.0,House,Residence,230000.0,3.0,127.0,0,0,0,0,,1,3.0,0,To be renovated
+RBU65653,Groenstraat 34,2800.0,House,Residence,538000.0,4.0,217.0,0,0,0,1,,0,2.0,0,
+RBU65663,Oude Booischotsebaan 18,2820.0,House,Residence,340000.0,1.0,106.0,0,0,0,0,,1,4.0,0,To be renovated
+RBU65307,Kerkstraat 5,2260.0,House,Residence,315000.0,4.0,179.0,0,0,0,1,,1,3.0,0,Normal
+RBU65658,Boterbosstraat 2,2820.0,House,Residence,795000.0,5.0,437.0,0,0,0,1,,1,4.0,0,
+RBU65648,Kwakkelenberg 22,2570.0,House,Residence,460000.0,3.0,240.0,0,0,0,1,,1,2.0,0,
+RBU65651,Henri Spillemaeckersstraat 18,2850.0,House,Residence,628000.0,3.0,316.0,0,0,0,1,,1,3.0,0,
+VBD48957,,2980.0,House,Residence,611918.0,3.0,185.0,0,0,0,0,,0,4.0,0,New
+RBU65266,Karel Boomstraat 25,2320.0,House,Residence,389000.0,3.0,157.0,1,0,0,1,36.0,1,3.0,0,Normal
+RBU65044,Eigenaarsstraat 18,2460.0,House,Residence,375000.0,3.0,138.0,0,0,0,1,,1,4.0,0,Normal
+RBU65236,Jagersstraat 25,2140.0,Apartment,Apartment,208000.0,2.0,97.0,0,0,0,1,16.0,0,,0,Normal
+RBU65033,Wouter Haecklaan 6,2100.0,Apartment,Apartment,214000.0,2.0,91.0,0,0,0,1,,0,,0,
+VBD48956,,2980.0,House,Residence,630000.0,3.0,190.0,0,0,0,0,,0,4.0,0,New
+RBU65295,Italiëlei 83 2,2000.0,Apartment,Apartment,435000.0,2.0,121.0,0,0,0,1,3.0,0,2.0,0,Normal
+RBU65290,Driesstraat 27,2580.0,House,Residence,850000.0,5.0,390.0,0,0,0,1,,1,,0,
+RBU65299,IJsvogelstraat 12,2170.0,House,Residence,425000.0,3.0,149.0,0,0,0,1,,1,2.0,0,Normal
+VBD48955,,2580.0,House,Residence,568373.0,3.0,165.0,0,0,0,0,,0,4.0,0,New
+RBU65300,Oorderseweg 134,2180.0,House,Residence,340000.0,3.0,200.0,0,0,0,1,,1,2.0,0,Normal
+RBU65079,Burgemeester Hensstraat 34B,2500.0,House,Residence,549500.0,3.0,183.0,0,0,0,1,,1,,0,Normal
+VBD48958,,2240.0,House,Residence,542979.0,3.0,176.0,0,0,0,0,,0,4.0,0,New
+RBU65302,Kievitlaan 14,2960.0,House,Villa,1649000.0,3.0,330.0,0,0,0,1,,1,4.0,0,Excellent
+RBU65239,Thisiusstraat 19,2100.0,House,Master house,385000.0,4.0,207.0,0,0,0,1,,1,,0,Normal
+RBU65237,Van Stralenstraat 19 3,2060.0,Apartment,Apartment,159000.0,1.0,65.0,0,0,0,0,,0,,0,Normal
+RBU65227,Alice Nahonlaan 20,2070.0,Apartment,Ground floor,365000.0,3.0,112.0,0,0,0,0,,1,,0,
+RBU65034,Waterlaatstraat 72,2970.0,House,Residence,579000.0,3.0,172.0,0,0,0,1,,1,3.0,0,
+RBU65238,Van Peborghlei 58,2640.0,House,Residence,465000.0,4.0,189.0,0,0,0,1,,0,,0,Normal
+RBU65225,Vrijgeweide 19,2140.0,House,Residence,424000.0,3.0,132.0,0,0,0,0,,1,2.0,0,
+RBU65026,Sept 40,2275.0,House,Residence,365000.0,2.0,136.0,0,0,0,0,,1,4.0,0,Normal
+RBU64926,Hugues C. Pernathlaan 57 401,2050.0,Apartment,Apartment,599000.0,2.0,130.0,0,0,0,1,,0,,0,To renovate
+RBU64939,Mechelsesteenweg 65,2640.0,House,Mixed building,235000.0,3.0,136.0,0,0,0,0,,1,,0,To be renovated
+RWC41173,Hoeferf 20,2490.0,House,Residence,358000.0,2.0,130.0,0,0,0,1,,1,,0,
+RBU65010,Oude Baan 12,2840.0,House,Residence,288000.0,2.0,130.0,0,0,0,1,,0,2.0,0,Normal
+RBU64933,Bisschoppenhoflaan 587,2100.0,Apartment,Apartment,174900.0,2.0,101.0,0,0,0,1,,0,,0,To be renovated
+RBU65014,Luitenant Lippenslaan 50 V4,2140.0,Apartment,Apartment,285000.0,2.0,100.0,0,0,0,1,11.0,0,2.0,0,Normal
+RBU64980,Grote Braamstraat 47B,2220.0,House,Residence,798000.0,4.0,251.0,0,0,0,1,,1,4.0,0,Normal
+RBU64983,Edenlaan 2,2610.0,House,Residence,365000.0,4.0,240.0,0,0,0,0,,1,3.0,0,To be renovated
+RBU64985,Dambruggestraat 324 201,2060.0,Apartment,Apartment,225000.0,1.0,62.0,0,0,0,0,,0,2.0,0,Normal
+RBU65016,Italiëlei 84 V5,2000.0,Apartment,Apartment,189000.0,1.0,51.0,0,0,0,0,,0,2.0,0,Normal
+RBU65015,Gloriantlaan 59 12K,2050.0,Apartment,Apartment,270000.0,3.0,108.0,0,0,0,1,5.0,0,2.0,0,Normal
+RBU64909,Schrijverslei 15,2890.0,House,Residence,625000.0,2.0,251.0,0,0,0,1,15.0,1,3.0,0,Normal
+RBU65027,Meerheide 23,2980.0,House,Residence,499000.0,3.0,150.0,0,0,0,1,10.0,1,4.0,0,Normal
+RBU64986,Dambruggestraat 324 301,2060.0,Apartment,Apartment,215000.0,1.0,62.0,0,0,0,0,,0,2.0,0,Normal
+RBU64936,Mechelsesteenweg 65,2640.0,House,Residence,235000.0,3.0,136.0,0,0,0,0,,1,,0,To be renovated
+RBU64984,Dambruggestraat 324 101,2060.0,Apartment,Apartment,215000.0,1.0,62.0,0,0,0,0,,0,2.0,0,Normal
+RBU65017,Selderstraat 66,2060.0,House,Residence,379000.0,4.0,131.0,0,0,0,0,,0,2.0,0,To be renovated
+RBU65019,Battelsesteenweg 123,2800.0,House,Residence,239000.0,4.0,92.0,0,0,0,0,,1,2.0,0,To be renovated
+RBU64835,Antwerpsesteenweg 12,2550.0,Apartment,Apartment,379000.0,3.0,124.0,0,0,0,1,6.0,0,,0,
+RBU64862,Oostmalsesteenweg 68,2310.0,House,Residence,375000.0,3.0,178.0,1,0,0,1,24.0,1,3.0,0,Normal
+RBU64443,Ernest Claesstraat 15,2200.0,House,Residence,449000.0,4.0,208.0,0,0,0,1,,1,2.0,0,Normal
+RBU64424,Netestraat 37,2235.0,House,Residence,320000.0,3.0,192.0,0,0,0,1,,1,4.0,0,Normal
+RBU64861,Denstraat 15 3,2310.0,Apartment,Apartment,269000.0,2.0,98.0,1,0,0,1,10.0,1,2.0,0,Normal
+RBU64438,Kapelaniestraat 35 1,2235.0,Apartment,Apartment,365000.0,2.0,123.0,0,0,0,1,,1,4.0,0,Excellent
+RBU64430,Van Eycklei 27,2018.0,Apartment,Apartment,489000.0,2.0,91.0,0,0,0,1,25.0,1,,0,Excellent
+RBU64414,Elektriciteitstraat 29 805,2800.0,Apartment,Apartment,212000.0,2.0,79.0,1,0,0,1,14.0,0,,0,Normal
+VBD48442,,2530.0,House,Residence,605447.0,3.0,128.0,0,0,0,0,,0,4.0,0,New
+RBU64481,Singel 44,2150.0,Apartment,Apartment,680000.0,6.0,228.0,0,0,0,1,,1,,0,Excellent
+RBU64431,Van Eycklei 27,2018.0,Apartment,Apartment,570000.0,2.0,96.0,0,0,0,1,15.0,1,,0,Excellent
+RBU64768,Lisperstraat 12 4,2500.0,Apartment,Apartment,440000.0,3.0,125.0,0,0,0,1,8.0,1,2.0,0,Excellent
+RBU64834,Stevennekens 103,2310.0,House,Residence,428000.0,4.0,181.0,0,0,0,1,20.0,1,2.0,0,
+RBU64437,Rembrandtstraat,2018.0,Apartment,Triplex,970000.0,5.0,205.0,0,0,0,1,42.0,1,2.0,0,Excellent
+RBU64440,Prins Leopoldlei 96,2640.0,House,Residence,699000.0,4.0,183.0,0,0,0,1,22.0,1,2.0,0,Normal
+RBU64428,Westmeerbeeksteenweg 38,2221.0,House,Residence,335000.0,2.0,157.0,0,0,0,0,,1,4.0,0,
+RBU64417,Leiebos 21 32,2170.0,Apartment,Apartment,268000.0,3.0,100.0,0,0,0,1,,0,3.0,0,Normal
+RBU64872,Wijnegemsteenweg 68 1,2970.0,Apartment,Apartment,434000.0,3.0,114.0,0,0,0,0,,1,,0,
+RBU64435,Rembrandtstraat,2018.0,Apartment,Duplex,735000.0,4.0,148.0,0,0,0,1,15.0,1,,0,Excellent
+RBU64852,Pasbrugplein 16 2,2800.0,Apartment,Apartment,219000.0,2.0,85.0,0,0,0,0,,0,,0,
+RBU64311,Herentalsebaan 756,2160.0,House,Residence,629000.0,4.0,256.0,0,0,0,1,,1,4.0,0,
+RBU64312,Rijsblokstraat 22,2970.0,House,Residence,385000.0,3.0,118.0,0,0,0,1,19.0,1,2.0,0,
+RBU64409,Mijlstraat 99,2570.0,House,Residence,598000.0,4.0,264.0,0,0,0,1,,1,,0,
+RWC41167,Belpairestraat 4,2600.0,Apartment,Apartment,495000.0,3.0,169.0,1,0,0,1,,0,,0,Normal
+RBU64404,Bristolstraat 39.,2030.0,House,Residence,299900.0,2.0,,0,0,0,1,,1,3.0,0,Normal
+RBU64333,Sluis 244,2400.0,House,Residence,428000.0,3.0,133.0,0,0,0,1,,1,4.0,0,
+RBU64361,Bremstraat 11,2400.0,House,Residence,269000.0,3.0,193.0,0,0,0,0,,1,3.0,0,
+RBU64326,Molenstraat 17 1,2490.0,Apartment,Apartment,279000.0,2.0,135.0,0,0,0,1,,1,2.0,0,
+RBU64371,Lange Beeldekensstraat 3 101,2060.0,Apartment,Apartment,375000.0,3.0,125.0,0,0,0,1,10.0,0,,0,
+RBU64370,Spaarstraat 24,2140.0,Apartment,Apartment,315000.0,2.0,103.0,0,0,0,1,14.0,0,,0,
+RBU64379,Brederodestraat 203,2018.0,House,Residence,539000.0,5.0,292.0,0,0,0,0,,0,,0,Normal
+RBU64336,Achterbos 252,2400.0,House,Residence,179000.0,2.0,123.0,0,0,0,1,,1,2.0,0,
+RBU64328,Lintsesteenweg 15,2570.0,House,Residence,419000.0,3.0,129.0,0,0,0,0,,1,2.0,0,
+RBU64376,Stompaertshoek 13,2800.0,Apartment,Apartment,269700.0,1.0,70.0,1,0,0,1,10.0,0,,0,Excellent
+RBU64354,,2812.0,House,Residence,375000.0,3.0,142.0,1,0,0,1,,1,2.0,0,Normal
+RBU64378,Schijfstraat 4,2800.0,House,Residence,267000.0,3.0,77.0,0,0,0,1,1.0,0,,0,Normal
+RBU64306,Kempenlaan 25 8,2300.0,Apartment,Apartment,189000.0,3.0,133.0,0,0,0,1,,0,2.0,0,Normal
+RBU64334,Grees 80,2490.0,House,Residence,495000.0,4.0,184.0,0,0,0,0,,1,4.0,0,
+RBU64369,Spaarstraat 24,2060.0,House,Residence,315000.0,2.0,103.0,0,0,0,1,14.0,0,2.0,0,
+RBU64318,Servaas Daemsstraat 76,2200.0,House,Residence,389000.0,3.0,196.0,0,0,0,1,,1,4.0,1,To be renovated
+RBU63472,Bovenpad 3A,2280.0,House,Residence,445000.0,2.0,210.0,0,0,0,1,,1,4.0,0,
+RBU64236,René De Pauwstraat 3,2950.0,House,Residence,399000.0,3.0,175.0,0,0,0,1,,1,,0,Normal
+RBU64264,Vestinglaan 61,2860.0,House,Residence,969000.0,5.0,321.0,0,0,0,1,,1,,0,Normal
+RBU64297,Liersebaan 203,2240.0,House,Residence,695000.0,5.0,286.0,0,0,0,1,25.0,1,4.0,0,Normal
+RBU64298,Geerdegemvaart 37,2800.0,House,Residence,610000.0,4.0,225.0,0,0,0,1,16.0,1,3.0,0,Normal
+RBU64233,Lode Geysenstraat 31,2170.0,House,Residence,428000.0,2.0,202.0,0,0,0,0,,1,,0,Normal
+RBU64286,Turnhoutsebaan 457 4E,2140.0,Apartment,Apartment,155000.0,1.0,55.0,0,0,0,1,,0,2.0,0,Normal
+RBU64287,Kleinesteenweg 48,2610.0,House,Residence,365000.0,3.0,123.0,0,0,0,0,,1,2.0,0,Normal
+RBU64232,Azaleastraat 4 2,2440.0,Apartment,Apartment,259000.0,1.0,71.0,0,0,0,1,,1,,0,Normal
+RBU64288,Florastraat 107,2140.0,House,Residence,239000.0,4.0,148.0,0,0,0,0,,0,2.0,0,To be renovated
+RBU64199,Statiestraat 29,2070.0,House,Residence,474000.0,5.0,196.0,0,0,0,0,,1,2.0,0,
+RBU64266,Colburnlei 114,2400.0,House,Residence,749000.0,5.0,358.0,0,0,0,1,,1,3.0,0,Normal
+RBU64285,Hollebeekstraat 169 13,2660.0,Apartment,Apartment,255000.0,1.0,70.0,0,0,0,1,,1,2.0,0,Excellent
+VBD47873,,2930.0,House,Residence,1126849.0,4.0,363.0,0,0,0,0,,0,4.0,0,New
+RBU64295,Scheldeoever 15 10,2620.0,Apartment,Apartment,389000.0,2.0,83.0,0,0,0,1,12.0,0,2.0,0,Excellent
+RBU64292,Florent Pauwelslei 52,2100.0,House,Residence,329000.0,2.0,167.0,0,0,0,1,,0,2.0,0,Normal
+RBU64291,Van Heybeeckstraat 1 201,2170.0,Apartment,Duplex,224000.0,2.0,164.0,0,0,0,1,,0,2.0,0,To be renovated
+RBU64290,Heiken 30,2960.0,House,Residence,189000.0,2.0,101.0,0,0,0,0,,1,3.0,0,To be renovated
+RBU63300,Corneel Vermijlenlaan 46,2100.0,House,Residence,419000.0,3.0,193.0,0,0,0,1,,1,2.0,0,Excellent
+RBU62954,Annuntiatenstraat 32,2170.0,House,Residence,279000.0,3.0,168.0,0,0,0,0,,0,,0,
+RBU63099,Europawijk 16,2440.0,Apartment,Apartment,179000.0,2.0,82.0,0,0,0,1,,0,,0,
+RBU62996,Hoogheideweg 7,2390.0,House,Residence,549000.0,4.0,156.0,0,0,0,1,,1,2.0,0,
+RBU63128,Heerle 64,2275.0,House,Residence,325000.0,2.0,147.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU63268,Lijsterbeslaan 22,2960.0,House,Villa,895000.0,6.0,302.0,0,0,0,1,,1,4.0,1,
+RBU63110,Glooistraat 7,2830.0,House,Residence,225000.0,2.0,102.0,0,0,0,0,,1,3.0,0,Normal
+RBU62956,Annuntiatenstraat 34,2170.0,House,Residence,279000.0,1.0,161.0,0,0,0,0,,1,,0,To be renovated
+RWC41157,Hoevenstraat 149,2160.0,House,Residence,595000.0,3.0,290.0,1,0,1,1,,1,4.0,0,Normal
+RBU63004,Olijftakstraat 44,2060.0,Apartment,Apartment,229000.0,2.0,70.0,0,0,0,0,,0,,0,
+RBU63298,Singel 106A,2150.0,House,Residence,449500.0,3.0,181.0,0,0,0,1,15.0,1,2.0,0,Normal
+RBU63299,Bisschoppenhoflaan 454 5V,2100.0,Apartment,Penthouse,179000.0,1.0,51.0,0,0,0,1,12.0,0,2.0,0,Normal
+RBU62991,Hoogstraat 33,2223.0,Apartment,Penthouse,314000.0,2.0,93.0,0,0,0,1,12.0,1,,0,
+RBU63130,Lage Vosbergstraat 90,2840.0,House,Residence,629000.0,2.0,221.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU63103,Leenhofstraat 1 A 301,2400.0,Apartment,Apartment,359000.0,2.0,118.0,0,0,0,1,56.0,0,,0,
+RBU63003,Tulpstraat 57,2060.0,Apartment,Apartment,290000.0,3.0,105.0,0,0,0,1,10.0,0,,0,
+RBU63116,Wouter Haecklaan 8 37,2100.0,Apartment,Apartment,219000.0,2.0,86.0,0,0,0,0,,0,3.0,0,Excellent
+RBU62990,,2220.0,Apartment,Penthouse,314000.0,2.0,93.0,0,0,0,1,12.0,1,,0,
+RBU62733,Beekstraat 43 A,2500.0,House,Residence,420000.0,4.0,242.0,0,0,0,1,,1,4.0,0,
+RBU62654,Oosthamsesteenweg 92,2491.0,House,Residence,465000.0,3.0,165.0,0,0,0,1,,1,,0,Normal
+RBU62715,Nieuwdreef 121 33,2170.0,Apartment,Apartment,249000.0,2.0,99.0,0,0,0,1,,0,3.0,0,Normal
+RBU62606,Vlasstraat 14,2490.0,House,Residence,249000.0,2.0,162.0,0,0,0,1,,1,3.0,0,
+RBU62653,De Lei 49,2491.0,House,Residence,245000.0,2.0,165.0,0,0,0,1,,0,,0,Normal
+RBU62651,Gevaertlaan 116,2260.0,House,Residence,299000.0,3.0,168.0,0,0,0,0,,0,,0,To be renovated
+RBU62776,Molenstraat 1 J,2290.0,Apartment,Apartment,245000.0,2.0,65.0,0,0,0,1,,0,2.0,0,Normal
+RBU62656,Sportlaan 96B,2490.0,House,Residence,489000.0,4.0,180.0,0,0,0,0,,0,,0,New
+RBU62755,Koolhof 20 15,2320.0,Apartment,Apartment,390000.0,2.0,87.0,0,0,0,1,,0,,0,Normal
+RBU62708,Steegstraat 12,2490.0,House,Residence,239000.0,5.0,210.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU62710,Bergstraat 16A 1,2400.0,Apartment,Apartment,200000.0,3.0,121.0,0,0,0,1,20.0,0,3.0,0,Normal
+RBU62647,Grotesteenweg 33,2440.0,House,Residence,300000.0,3.0,123.0,0,0,0,0,,1,,0,To be renovated
+RBU62655,Sportlaan 96A,2490.0,House,Residence,489000.0,4.0,180.0,0,0,0,0,,0,,0,New
+RBU62625,Lange Elzenstraat 64,2018.0,House,Residence,345000.0,2.0,113.0,0,0,0,1,,0,2.0,0,
+RBU62732,Aarschotbaan 25A 6,2580.0,Apartment,Apartment,265000.0,2.0,100.0,0,0,0,1,,0,3.0,0,
+RBU62662,Winkelomseheide 122,2440.0,House,Mixed building,275000.0,3.0,160.0,0,0,0,1,,1,,0,To be renovated
+RBU62648,Meerlaarstraat 183 1,2430.0,House,Residence,489000.0,4.0,215.0,0,0,0,0,,1,,0,Normal
+RBU62650,Winkelomseheide 122,2440.0,House,Residence,275000.0,3.0,160.0,0,0,0,1,,1,,0,To be renovated
+RBU62437,Jef Verheyenhof 18 102,2560.0,Apartment,Apartment,365000.0,2.0,107.0,0,0,0,1,21.0,0,2.0,0,Normal
+RBU62485,Sprinkhaanstraat 30 0.0,2150.0,Apartment,Apartment,285000.0,2.0,85.0,0,0,0,1,,1,2.0,0,Excellent
+RBU62446,Hoogstraat 1B,2620.0,House,Residence,495000.0,5.0,186.0,1,0,0,1,,1,2.0,0,
+RBU62514,Sint-Gommarusstraat 54 D,2800.0,House,Residence,585000.0,3.0,146.0,0,0,0,0,,1,3.0,0,Normal
+RBU62535,Verbindingsstraat 25,2200.0,House,Residence,240000.0,3.0,,0,0,0,0,,0,,0,
+RBU62459,Colomastraat 2,2800.0,House,Master house,775000.0,5.0,347.0,0,0,0,1,5.0,1,3.0,0,
+RBU62458,Zemstbaan 131 203,2800.0,Apartment,Penthouse,595000.0,3.0,130.0,0,0,0,1,20.0,1,,0,New
+RBU62483,Dasstraat 92,2160.0,House,Residence,195000.0,2.0,98.0,0,0,0,0,,0,2.0,0,To be renovated
+RBU62585,Albert Westerlinckstraat 16,2440.0,House,Residence,365000.0,4.0,193.0,0,0,0,1,,1,2.0,0,
+RBU62474,Fonteinstraat 72,2140.0,House,Residence,349000.0,4.0,163.0,0,0,0,0,,0,2.0,0,Normal
+RBU62480,Lage Kaart 204,2930.0,House,Residence,475000.0,4.0,166.0,0,0,0,1,,1,2.0,0,Normal
+RBU62566,Bevrijdingslaan 11 2.1,2450.0,Apartment,Penthouse,325000.0,4.0,178.0,0,0,0,1,92.0,0,,0,Normal
+RBU62486,Lode de Boninghestraat 27,2170.0,Apartment,Apartment,309000.0,3.0,117.0,0,0,0,1,,0,2.0,0,Excellent
+RBU62490,Molenheide 5,2930.0,House,Residence,929000.0,4.0,337.0,0,0,0,0,,1,4.0,1,Normal
+RWC41154,Emiel Verreesstraat 31 2,2300.0,Apartment,Apartment,299000.0,3.0,119.0,1,0,0,1,17.0,0,3.0,0,Excellent
+RBU62567,August Vermeylenlaan 19 0403,2050.0,Apartment,Apartment,199000.0,2.0,81.0,0,0,0,1,,0,,0,Normal
+RBU62515,Heieinde 41 - 43,2350.0,House,Residence,398000.0,4.0,215.0,0,0,0,1,,1,3.0,0,Normal
+RBU62491,Groenstraat 8,2570.0,House,Residence,495000.0,3.0,194.0,0,0,0,1,,1,3.0,0,Normal
+RBU62349,Heistraat 58 C,2400.0,House,Residence,379000.0,3.0,,0,0,0,1,,1,3.0,0,Excellent
+RBU62434,Schijfwerpersstraat 68,2020.0,House,Residence,212000.0,2.0,95.0,0,0,0,0,,0,2.0,0,Normal
+RBU62394,Bouwschen Pad 7,2300.0,House,Residence,329500.0,3.0,122.0,0,0,0,0,,1,2.0,0,Normal
+RBU62340,Bisschoppenhoflaan 448/450,2100.0,Apartment,Apartment,179000.0,2.0,60.0,0,0,0,1,21.0,0,,0,
+RWC41150,Meuldersplein 14,2440.0,Apartment,Apartment,264500.0,2.0,85.0,0,0,0,1,,0,,0,
+RWC41149,Meuldersplein 14,2440.0,Apartment,Ground floor,239500.0,1.0,70.0,0,0,0,1,15.0,0,,0,
+RBU62433,Predikerinnenstraat 2,2000.0,House,Residence,329000.0,3.0,171.0,0,0,0,0,,0,,0,To be renovated
+RBU62409,Kleine Steenweg 121,2221.0,House,Residence,368000.0,3.0,,0,0,0,1,,1,2.0,0,New
+RBU62389,Gooreind 28 A,2440.0,House,Residence,499000.0,4.0,270.0,0,0,0,1,,1,,0,Normal
+RBU62432,Meetingstraat 38,2060.0,House,Residence,375000.0,4.0,145.0,0,0,0,0,,0,,0,Normal
+RBU62430,Eikenlei 91,2660.0,House,Residence,349000.0,2.0,143.0,0,0,0,1,,1,2.0,0,Normal
+RBU62325,Molenstraat 46 V2,2940.0,Apartment,Penthouse,439000.0,3.0,152.0,0,0,0,1,36.0,1,,0,Excellent
+RBU62431,Hof Van Tichelen 43 201,2020.0,Apartment,Apartment,199000.0,2.0,73.0,0,0,0,1,4.0,0,,0,Normal
+RBU62435,Sint-Annalei 44,2640.0,House,Residence,445000.0,2.0,217.0,0,0,0,1,,1,,0,To be renovated
+RBU62418,Kommekensstraat 20 2,2000.0,Apartment,Apartment,225000.0,2.0,51.0,0,0,0,0,,0,2.0,0,Excellent
+RWC41151,Meuldersplein 14,2440.0,Apartment,Penthouse,319500.0,3.0,115.0,0,0,0,1,15.0,0,,0,
+RBU62344,Bakkerijweg 13,2580.0,House,Residence,575000.0,4.0,253.0,0,0,0,1,,1,,0,
+RBU62343,Liersesteenweg 70,2520.0,House,Residence,425000.0,2.0,124.0,0,0,0,1,,1,4.0,0,
+RBU62357,Anselmostraat 66 A1,2018.0,Apartment,Apartment,419000.0,3.0,105.0,0,0,0,1,,0,2.0,0,Excellent
+RBU62284,Van Den Nestlaan 167,2520.0,House,Residence,549000.0,2.0,148.0,1,0,0,1,,1,4.0,0,Normal
+RBU62283,Antwerpsebaan 430,2040.0,House,Residence,319000.0,2.0,126.0,0,0,0,1,,1,3.0,0,Normal
+RBU62120,De Berlaimontstraat 86,2100.0,House,Residence,189000.0,3.0,99.0,0,0,0,0,,0,,0,Normal
+RBU62158,Turnhoutsebaan 111 302,2100.0,Apartment,Apartment,309000.0,2.0,139.0,0,0,0,1,7.0,0,2.0,0,Excellent
+RBU62281,Liersebaan 13,2500.0,Apartment,Apartment,375000.0,2.0,108.0,1,0,0,1,17.0,0,3.0,0,New
+RBU62161,Verboekt 153,2430.0,House,Residence,750000.0,3.0,,0,0,0,1,,1,4.0,1,Normal
+RBU62275,Liersebaan 13,2500.0,Apartment,Ground floor,290000.0,1.0,86.0,1,0,0,1,12.0,1,2.0,0,New
+RBU62279,Liersebaan 13,2500.0,Apartment,Apartment,358000.0,2.0,104.0,1,0,0,1,12.0,0,3.0,0,New
+RBU62274,Liersebaan 13,2500.0,Apartment,Ground floor,380000.0,2.0,110.0,1,0,0,1,20.0,1,3.0,0,New
+RBU62162,Steenweg op Turnhout 26,2360.0,House,Residence,319000.0,3.0,203.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU62278,Liersebaan 13,2500.0,Apartment,Apartment,375000.0,2.0,110.0,1,1,0,1,17.0,0,2.0,0,New
+RBU62276,Liersebaan 13,2500.0,Apartment,Ground floor,360000.0,2.0,105.0,1,0,0,1,18.0,1,3.0,0,New
+RBU62157,Meidoorn 18,2640.0,Apartment,Apartment,239000.0,2.0,98.0,0,0,0,1,,1,,0,
+RBU62277,Liersebaan 13,2500.0,Apartment,Apartment,290000.0,1.0,86.0,1,0,0,1,12.0,0,2.0,0,New
+RBU62121,Hanswijkstraat 37 101,2800.0,Apartment,Apartment,489000.0,2.0,234.0,0,0,0,1,70.0,0,2.0,0,Normal
+RBU62285,Werftsesteenweg 83,2220.0,House,Mixed building,425000.0,4.0,317.0,1,0,0,1,,1,4.0,0,To renovate
+RBU62280,Liersebaan 13,2500.0,Apartment,Apartment,290000.0,1.0,85.0,1,0,0,1,12.0,0,2.0,0,New
+RBU62200,Hoogbunderlaan 55,2550.0,Apartment,Apartment,198700.0,1.0,56.0,0,0,0,0,,0,3.0,0,Normal
+RBU62159,De Francqueslei 77,2100.0,House,Residence,229000.0,2.0,107.0,0,0,0,0,,0,2.0,0,To be renovated
+RBU62060,Dorpsstraat 31A,2845.0,Apartment,Apartment,395000.0,2.0,93.0,0,0,0,1,,1,2.0,0,Normal
+RBU61609,Vroente 52,2440.0,House,Residence,249000.0,3.0,154.0,0,0,0,0,,1,3.0,0,To be renovated
+RWC41146,Ieperstraat 171 2,2300.0,Apartment,Ground floor,345000.0,2.0,114.0,1,0,0,1,100.0,0,2.0,0,Excellent
+RBU62086,Vijverstraat 13,2800.0,House,Residence,549000.0,5.0,341.0,0,0,0,1,,1,4.0,0,
+RBU62019,Lange Koepoortstraat 11 101,2000.0,Apartment,Triplex,595000.0,4.0,175.0,1,0,0,0,,0,2.0,0,To renovate
+RBU62039,Hoge Brugstraat 33,2220.0,House,Residence,455000.0,4.0,223.0,0,0,0,1,,1,,0,Normal
+RBU62108,Stelenseweg 10,2440.0,Apartment,Apartment,196000.0,2.0,99.0,0,0,0,1,,0,2.0,0,Normal
+RBU62114,Molenstraat 17,2460.0,House,Residence,325000.0,3.0,179.0,0,0,0,1,,1,4.0,0,Normal
+RBU62040,Fodderiestraat 37,2660.0,House,Residence,399000.0,3.0,178.0,0,0,0,0,,1,2.0,0,Normal
+RBU62111,Rijkevorselseweg 54 1,2340.0,House,Residence,489000.0,4.0,212.0,0,0,0,1,,1,3.0,0,New
+RBU62059,Elektriciteitstraat 27 1204,2800.0,Apartment,Apartment,219000.0,2.0,86.0,0,0,0,1,,0,2.0,0,Normal
+RBU61980,Azalealaan 47,2390.0,House,Villa,590000.0,4.0,260.0,0,0,0,1,30.0,1,4.0,0,
+RBU62112,Slagmolenstraat 31,2400.0,House,Residence,1045000.0,7.0,530.0,0,0,0,1,,1,4.0,0,
+RBU62109,Lindenhof 15 35,2440.0,Apartment,Apartment,195000.0,1.0,57.0,0,0,0,1,,0,,0,Excellent
+RBU62064,Lindenstraat 61 63,2500.0,House,Residence,334000.0,2.0,172.0,0,0,0,1,12.0,1,2.0,0,
+RBU61608,Diestse Baan 23 19,2431.0,Apartment,Apartment,279500.0,2.0,,0,0,0,1,,1,2.0,0,Normal
+RBU62113,Molenstraat 42 102,2200.0,Apartment,Apartment,299000.0,2.0,76.0,0,0,0,1,12.0,0,2.0,0,Normal
+RBU62041,Boomsesteenweg 492,2610.0,House,Residence,379000.0,2.0,110.0,0,0,0,0,,1,2.0,0,Normal
+RBU62037,Melkerijstraat 31,2910.0,House,Residence,250000.0,3.0,137.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU62119,Van Daelstraat 34,2140.0,House,Residence,385000.0,3.0,95.0,0,0,0,0,,1,,0,Normal
+RBU61527,Helenalei 26 0206,2018.0,Apartment,Studio,109000.0,0.0,33.0,0,0,0,0,,0,,0,
+RBU61595,Nieuwstad 35,2300.0,House,Residence,249000.0,2.0,128.0,0,0,0,1,,1,2.0,0,
+RBU61594,Eug. Surinxstraat 20,2360.0,House,Residence,489000.0,4.0,279.0,0,0,0,1,,1,2.0,0,Normal
+RBU61559,Hoogstraat 73,2830.0,House,Residence,390000.0,3.0,188.0,0,0,0,0,,1,3.0,0,Normal
+RBU61590,Frans de l'Arbrelaan 62,2170.0,Apartment,Apartment,185000.0,2.0,85.0,0,0,0,1,2.0,0,4.0,0,
+RBU61566,Edelgesteentenstraat 44,2600.0,House,Residence,469000.0,3.0,147.0,0,0,0,0,,1,,0,Excellent
+RBU61562,Breendonk-Dorp 96,2870.0,Apartment,Duplex,399000.0,3.0,160.0,0,0,0,1,,0,,0,Normal
+RBU61552,Hoogstraat 30,2830.0,Apartment,Apartment,225000.0,1.0,,0,0,0,1,22.0,0,,0,
+RBU61593,Steenweg op Sevendonk 3 1,2360.0,Apartment,Apartment,169000.0,1.0,81.0,0,0,0,1,,0,2.0,0,
+RBU61585,Mechelaars 20,2220.0,House,Residence,649000.0,4.0,197.0,0,0,0,1,,1,4.0,0,
+RBU61587,Heilige-Geeststraat 11 A,2440.0,Apartment,Apartment,215000.0,4.0,156.0,0,0,0,0,,0,3.0,0,Normal
+RBU61429,Gasthuisstraat 27 3,2440.0,Apartment,Apartment,315000.0,2.0,91.0,0,0,0,1,13.0,0,,0,
+RBU61583,Oscar Van Kesbeeckstraat 92,2800.0,House,Residence,270000.0,3.0,117.0,0,0,0,0,,1,2.0,0,To be renovated
+RBU61550,Jan Blockxlaan 114 bus C001,2630.0,Apartment,Apartment,239000.0,2.0,100.0,0,0,0,0,,0,,0,
+RBU61511,Gallifortlei 5,2100.0,Apartment,Apartment,264000.0,3.0,110.0,1,0,0,1,11.0,0,2.0,0,Normal
+RBU61551,Weerstandlaan 61 bus 112 -,2660.0,Apartment,Apartment,146000.0,1.0,60.0,0,0,0,1,,0,,0,
+RBU61490,Volkstraat 50 4V,2000.0,Apartment,Apartment,199000.0,1.0,56.0,0,0,0,0,,0,,0,
+RBU61492,Heidestraat 1,2660.0,House,Residence,499000.0,4.0,246.0,0,0,0,1,23.0,1,3.0,0,
+RBU61577,Stoelstraat 3 0.3,2000.0,Apartment,Apartment,235000.0,1.0,61.0,1,0,0,0,,0,,0,Normal
+RBU61489,Twee Netenstraat 74,2060.0,Apartment,Apartment,189000.0,1.0,58.0,0,0,0,0,,0,,0,
+RBU61399,Gerheide 64-66,2490.0,House,Residence,349000.0,4.0,318.0,0,0,0,1,,1,3.0,0,
+RBU61418,Mechelsesteenweg 132 2,2640.0,Apartment,Apartment,195000.0,2.0,78.0,0,0,0,1,,0,2.0,0,To be renovated
+RBU61422,Schransstraat 35 B 102,2280.0,Apartment,Apartment,,2.0,100.0,0,0,0,1,11.0,0,,0,Normal
+RBU61293,Paardenstraat 4,2580.0,House,Residence,495000.0,4.0,215.0,0,0,0,0,,1,4.0,0,To be renovated
+RBU61402,Eindhoutseweg 456,2440.0,House,Chalet,90000.0,2.0,66.0,0,0,0,1,,0,4.0,0,Normal
+RBU61415,Zeelandstraat 67 505,2660.0,Apartment,Apartment,264500.0,2.0,86.0,0,0,0,1,,0,2.0,0,New
+RBU61362,Hazelaar 37,2430.0,House,Residence,386500.0,3.0,130.0,0,0,0,1,,1,3.0,0,
+RWC41137,Prins Kavellei 33,2930.0,House,Residence,459000.0,3.0,176.0,1,0,1,1,50.0,1,2.0,0,Excellent
+RBU61291,Misstraat 72,2500.0,House,Villa,,5.0,647.0,0,0,0,0,,1,4.0,0,Excellent
+RBU61403,Laarsebaan 297,2170.0,House,Residence,439000.0,4.0,189.0,0,0,0,1,,1,2.0,0,Normal
+RBU61382,Oostendestraat 52,2660.0,House,Residence,299000.0,3.0,176.0,0,0,0,0,,1,,0,Normal
+RBU61285,Trommelstraat 5,2223.0,House,Residence,1195000.0,3.0,404.0,0,0,0,1,,1,4.0,0,Excellent
+RBU61412,Mechelbaan 526 301,2580.0,Apartment,Apartment,379000.0,2.0,93.0,0,0,0,1,,0,,0,Normal
+RBU61330,Grasdorp 23,2400.0,House,Residence,560000.0,3.0,184.0,0,0,0,1,17.0,1,4.0,0,
+RBU61423,Boekweitstraat 14,2830.0,House,Residence,427000.0,3.0,143.0,0,0,0,1,25.0,1,2.0,0,
+RBU61404,Sint-Camillusstraat 9,2610.0,House,Residence,264000.0,2.0,107.0,0,0,0,1,,0,2.0,0,To be renovated
+RBU61331,Oevelseweg 99 A,2250.0,House,Residence,479000.0,3.0,200.0,0,0,0,1,,1,2.0,0,
+RBU61419,Grotesteenweg 432 404,2600.0,Apartment,Apartment,249000.0,2.0,70.0,0,0,0,1,,0,2.0,0,Normal
+RBU61334,. 0,2600.0,Apartment,Apartment,349000.0,2.0,115.0,0,0,0,1,,0,,0,
+RBU60989,Werkendam 108,2360.0,House,Residence,329000.0,3.0,171.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU61034,Plasstraat 72,2820.0,House,Residence,905000.0,4.0,300.0,0,0,0,0,,1,,0,
+RBU60985,Grote Baan 67,2380.0,House,Residence,309000.0,3.0,265.0,0,0,0,1,20.0,0,2.0,0,
+RBU61055,Laarstraat 13,2070.0,House,Residence,385000.0,4.0,193.0,0,0,0,1,,1,2.0,0,Excellent
+RBU61002,Molenheidedreef 30,2275.0,House,Residence,349000.0,2.0,99.0,0,0,0,1,,1,4.0,0,Excellent
+RBU60993,Kromstraat 82,2490.0,House,Residence,259000.0,3.0,139.0,0,0,0,0,,1,4.0,0,
+RBU60992,Olmsebaan 53 22,2450.0,Apartment,Apartment,229000.0,1.0,88.0,0,0,0,0,,0,,0,
+RBU61041,Vaartstraat 239,2830.0,House,Residence,349000.0,2.0,120.0,0,0,0,0,,1,2.0,0,New
+RBU60987,Eén Meistraat 13 A,2300.0,Apartment,Ground floor,239000.0,2.0,104.0,0,0,0,1,10.0,0,2.0,0,Normal
+RBU61054,Weerstandlaan 2 405,2660.0,Apartment,Apartment,209000.0,1.0,75.0,0,0,0,1,18.0,0,2.0,0,Normal
+RBU61038,Vaartstraat 239,2830.0,House,Residence,385000.0,2.0,118.0,0,0,0,0,,1,3.0,0,New
+RBU60984,Herentalsstraat 15 3,2300.0,Apartment,Apartment,229000.0,2.0,98.0,0,0,0,1,7.0,0,2.0,0,Normal
+RBU61282,Groothoeveweg 16,2820.0,House,Residence,665000.0,3.0,220.0,0,0,0,1,,1,2.0,0,Excellent
+RBU60986,Korte Gasthuisstraat 25 3,2300.0,Apartment,Apartment,199000.0,2.0,124.0,0,0,0,1,9.0,0,2.0,0,Normal
+RBU60981,Bolk 160 - 162,2350.0,House,Residence,645000.0,3.0,292.0,0,0,0,1,,1,4.0,0,Normal
+RBU60994,Hulsen 8,2490.0,House,Residence,319000.0,4.0,208.0,0,0,0,0,,1,4.0,0,
+RBU60988,Prinsenstraat 60,2300.0,House,Residence,389000.0,3.0,207.0,0,0,0,1,,1,2.0,0,Normal
+RBU60983,Steenweg op Sevendonk 3 3,2360.0,Apartment,Apartment,174000.0,2.0,93.0,0,0,0,1,,1,2.0,0,
+RBU60974,Gasthuisstraat 7/8,2300.0,Apartment,Apartment,319000.0,2.0,149.0,0,0,0,1,20.0,0,2.0,0,Normal
+RBU60960,Deken Adamsstraat 84 5,2300.0,Apartment,Apartment,209000.0,2.0,88.0,0,0,0,0,,0,,0,Normal
+RBU60975,Oud-Strijderslaan 38 3,2300.0,Apartment,Apartment,289000.0,2.0,116.0,0,0,0,1,16.0,0,2.0,0,Normal
+RBU60959,Zondereigen 39,2387.0,House,Residence,239000.0,2.0,129.0,0,0,0,1,,0,3.0,0,To be renovated
+RBU60980,Korte Begijnenstraat 8 6,2300.0,Apartment,Apartment,189000.0,2.0,91.0,0,0,0,1,5.0,0,3.0,0,To be renovated
+RBU60976,Sint-Paulusstraat 22,2470.0,House,Residence,435000.0,3.0,175.0,0,0,0,0,,1,4.0,1,New
+RBU60962,Sinteldreef 7,2300.0,House,Residence,535000.0,4.0,246.0,0,0,0,0,,1,4.0,0,Normal
+RBU60978,Oude Vaartstraat 105,2300.0,House,Residence,299000.0,4.0,201.0,0,0,0,1,,0,2.0,0,Normal
+RBU60969,Boomgaardstraat 50,2300.0,Apartment,Apartment,369000.0,3.0,195.0,0,0,0,1,33.0,0,2.0,0,Excellent
+RBU60966,Lindenlaan 10,2350.0,House,Residence,395000.0,5.0,200.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU60961,Spoorwegstraat 86,2300.0,House,Residence,325000.0,2.0,85.0,0,0,0,1,,1,3.0,0,
+RBU60977,Gasthuisstraat 7 11,2300.0,Apartment,Apartment,449000.0,2.0,167.0,0,0,0,1,15.0,0,2.0,0,Normal
+RBU60964,Jef buyckxstraat 173,2300.0,House,Residence,398000.0,4.0,174.0,0,0,0,1,,1,3.0,0,Normal
+RBU60958,Heilaar 42,2370.0,House,Villa,829000.0,6.0,434.0,0,0,0,1,,1,4.0,1,Normal
+RBU60968,de Merodelei 81 5,2300.0,Apartment,Apartment,195000.0,2.0,120.0,0,0,0,1,10.0,0,2.0,0,Normal
+RBU60972,Eigenaarsstraat 43,2350.0,House,Residence,295000.0,2.0,128.0,0,0,0,0,,1,3.0,0,Normal
+RBU60957,Antwerpsesteenweg 99,2350.0,House,Residence,399000.0,3.0,186.0,0,0,0,1,,1,2.0,0,Normal
+RBU60956,Warandestraat 48,2300.0,House,Residence,549000.0,4.0,233.0,0,0,0,1,,1,2.0,0,Normal
+RBU60979,Brand 53,2470.0,House,Residence,529000.0,4.0,344.0,0,0,0,1,,1,4.0,0,Normal
+RBU60970,Oude Vaartstraat 169,2300.0,House,Residence,339000.0,3.0,205.0,0,0,0,0,,1,3.0,0,
+RBU60946,Bergenstraat 47,2480.0,House,Residence,325000.0,5.0,196.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU60933,de Merodelei 95 2,2300.0,Apartment,Apartment,199000.0,2.0,140.0,0,0,0,1,43.0,0,2.0,0,Normal
+RBU60943,Korte Vianenstraat 18,2300.0,House,Residence,329000.0,3.0,157.0,0,0,0,1,,1,2.0,0,Normal
+RBU60932,Professor Devochtstraat 25 1,2300.0,Apartment,Apartment,214000.0,2.0,97.0,0,0,0,1,,0,3.0,0,Normal
+RBU60934,Meistraat 12,2480.0,House,Residence,299000.0,4.0,222.0,0,0,0,1,,1,4.0,0,
+RBU60947,Peelsestraat 1,2380.0,House,Villa,585000.0,5.0,228.0,0,0,0,1,,1,4.0,0,Normal
+RBU60945,Groenedijk 5,2470.0,House,Residence,465000.0,3.0,157.0,0,0,0,1,,1,4.0,0,Normal
+RBU60940,Steenweg op Ravels 4 2,2360.0,Apartment,Duplex,284000.0,3.0,174.0,0,0,0,1,93.0,0,2.0,1,Normal
+RBU60941,Steenweg op Mol 78,2300.0,House,Residence,210000.0,3.0,129.0,0,0,0,1,,1,2.0,0,To be renovated
+RBU60937,Steenweg op Mol 106,2300.0,House,Residence,225000.0,3.0,155.0,0,0,0,0,,1,2.0,0,
+RBU60951,Korte Gasthuisstraat 30 7,2300.0,Apartment,Apartment,199000.0,2.0,117.0,0,0,0,1,,0,2.0,0,
+RBU60929,de Merodelei 38 2,2300.0,Apartment,Apartment,199000.0,2.0,96.0,0,0,0,1,,0,2.0,0,Normal
+RBU60927,Berlaarbaan 313,2861.0,House,Residence,389000.0,3.0,220.0,1,0,0,1,,1,4.0,0,To be renovated
+RBU60955,Tramstraat 23,2300.0,House,Residence,205000.0,1.0,143.0,0,0,0,1,27.0,0,2.0,0,
+RBU60949,Guldensporenlei 21,2300.0,House,Residence,199000.0,3.0,177.0,0,0,0,0,,1,2.0,0,To be renovated
+RBU60952,Hobrugstraat 16 A,2470.0,House,Residence,338000.0,3.0,193.0,0,0,0,1,,1,4.0,0,
+RBU60936,Swat Engelenstraat 46 2,2300.0,Apartment,Apartment,299000.0,2.0,107.0,0,0,0,1,12.0,0,2.0,0,Normal
+RBU60925,Glazeniersstraat 36,2300.0,House,Residence,495000.0,3.0,176.0,0,0,0,1,,1,4.0,0,
+RBU60953,Hogestraat 30,2300.0,House,Residence,329000.0,4.0,133.0,0,0,0,1,,1,2.0,0,Normal
+RBU60939,Rivierstraat 25,2300.0,House,Residence,275000.0,2.0,133.0,0,0,0,1,,1,2.0,0,Normal
+RBU60883,Sterrenstraat 8,2500.0,House,Residence,299000.0,4.0,160.0,0,0,0,0,,1,2.0,0,To be renovated
+RBU60878,Steenweg op Gierle 130,2300.0,House,Mansion,1850000.0,6.0,495.0,0,0,0,1,,1,4.0,0,Normal
+RBU60922,Brand 56,2470.0,House,Residence,349000.0,3.0,175.0,0,0,0,1,,1,4.0,0,
+RBU60910,Slachthuisstraat 50,2300.0,House,Residence,370000.0,3.0,159.0,0,0,0,1,,1,3.0,0,Normal
+RBU60914,Steenweg op Mol 43,2300.0,Apartment,Apartment,285000.0,2.0,158.0,0,0,0,1,47.0,0,,0,Normal
+RBU60887,Pertendonckstraat 67,2520.0,House,Residence,535000.0,3.0,228.0,0,0,0,1,20.0,1,2.0,1,Excellent
+RBU60923,Broekstraat 66,2300.0,House,Residence,209000.0,1.0,118.0,0,0,0,1,,1,3.0,0,Normal
+RBU60917,Turnhoutsebaan 75,2275.0,House,Residence,349000.0,4.0,200.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU60911,Otterstraat 20 7,2300.0,Apartment,Apartment,195000.0,2.0,102.0,0,0,0,1,6.0,0,2.0,0,Normal
+RBU60893,Buurtspoorweglei 16 302,2140.0,Apartment,Apartment,225000.0,1.0,55.0,0,0,0,1,,0,2.0,0,Normal
+RBU60915,de Merodelei 247 6,2300.0,Apartment,Apartment,239500.0,3.0,125.0,0,0,0,1,,0,2.0,0,Normal
+RBU60886,Zodiakstraat 2,2500.0,House,Residence,315000.0,4.0,161.0,0,0,0,0,,1,3.0,0,To be renovated
+RBU60916,Turnovatoren 8 2,2300.0,Apartment,Apartment,479000.0,2.0,129.0,0,0,0,1,17.0,0,3.0,0,Excellent
+RBU60901,Stationsstraat 38,2381.0,House,Residence,769000.0,3.0,390.0,0,0,0,1,,1,4.0,0,Normal
+RBU60897,Kempenlaan 23 7,2300.0,Apartment,Apartment,245000.0,4.0,148.0,0,0,0,1,,0,3.0,0,Normal
+RBU60919,Hofeinde 161,2350.0,House,Residence,219000.0,2.0,103.0,0,0,0,1,,1,2.0,0,To be renovated
+RBU60905,Warandestraat 5/12,2300.0,Apartment,Apartment,225000.0,1.0,64.0,0,0,0,0,,0,2.0,0,New
+RBU60912,Patrijzenpad,2275.0,House,Chalet,45000.0,1.0,,0,0,0,1,11.0,1,4.0,0,
+RBU60918,Duifhuisstraat 24 8,2300.0,Apartment,Apartment,165000.0,2.0,95.0,0,0,0,0,,0,3.0,0,Normal
+RBU60898,Kursaalpoort 3 2,2300.0,Apartment,Apartment,436100.0,3.0,126.0,0,0,0,1,15.0,0,2.0,0,New
+RBU60789,Itegembaan 240,2590.0,House,Residence,1235000.0,4.0,321.0,0,0,0,1,,1,4.0,0,
+RBU60750,,2050.0,Apartment,Apartment,375000.0,2.0,107.0,0,0,0,1,30.0,0,,0,Normal
+RBU60852,Beukheuvel 57,2570.0,House,Residence,530000.0,3.0,204.0,0,0,0,1,,1,,0,To be renovated
+RBU60757,J. de Grooflaan 9 6,2620.0,Apartment,Apartment,249000.0,3.0,88.0,0,0,0,1,8.0,0,,0,Normal
+RBU60747,Kleine Molenweg 4,2940.0,Apartment,Apartment,259000.0,1.0,86.0,0,0,0,1,5.0,1,,0,Normal
+RBU60821,Stoelstraat 3 0.1,2000.0,Apartment,Apartment,245000.0,1.0,61.0,1,0,0,0,,0,,0,Normal
+RBU60741,Alfons Schneiderlaan 248 202,2100.0,Apartment,Apartment,199900.0,2.0,60.0,0,0,0,1,3.0,0,,0,Normal
+RBU60772,Sluis 244,2400.0,House,Residence,259000.0,3.0,133.0,0,0,0,1,,1,4.0,0,
+RBU60722,Molenstraat 2 102,2270.0,Apartment,Apartment,245000.0,1.0,85.0,0,0,0,1,,0,3.0,0,Normal
+RBU60829,Akkerveken 9,2310.0,House,Residence,689000.0,5.0,259.0,1,0,0,1,24.0,1,4.0,0,Normal
+RBU60790,Welvaartstraat 54 A 001,2000.0,Apartment,Apartment,395000.0,2.0,100.0,0,0,0,1,15.0,0,,0,
+RBU60700,Limberg 2A,2230.0,House,Residence,435000.0,2.0,291.0,0,0,0,1,,1,4.0,0,Normal
+RBU60745,Heiveldlaan 13 2,2950.0,Apartment,Apartment,229000.0,2.0,76.0,0,0,0,1,3.0,0,,0,Normal
+RBU60748,Jaak Van Rillaerlaan 8 302,2100.0,Apartment,Apartment,225000.0,2.0,96.0,0,0,0,1,3.0,0,,0,Normal
+RBU60734,Appeldonkstraat 112 201,2830.0,Apartment,Apartment,289000.0,2.0,102.0,0,0,0,1,20.0,0,,0,
+RBU60877,Eelstraat 5a,2380.0,House,Villa,1025000.0,3.0,405.0,0,0,0,1,39.0,1,4.0,0,New
+RBU60250,Wolfsdonksesteenweg 158 158,2230.0,House,Residence,365000.0,3.0,184.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU60696,Vijverstraat 6,2960.0,House,Residence,699000.0,4.0,251.0,0,0,0,1,,1,4.0,0,Normal
+RBU60259,Wiekevorstseweg 7,2200.0,House,Residence,285000.0,5.0,186.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU60237,Pastoor van Neylenstraat 31,2440.0,Apartment,Apartment,195000.0,2.0,95.0,0,0,0,1,,0,2.0,0,
+RBU60258,Beukenlaan 18,2200.0,House,Residence,295000.0,4.0,116.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU60257,Rooistraat 7,2390.0,House,Residence,579900.0,4.0,194.0,0,0,0,1,15.0,1,3.0,0,Normal
+RBU60276,Biekorfstraat 53,2060.0,House,Master house,749000.0,4.0,288.0,0,0,0,1,78.0,0,,0,
+RBU60695,Houwerstraat 23 5,2060.0,Apartment,Apartment,219000.0,2.0,64.0,0,0,0,1,2.0,0,2.0,0,Normal
+RBU60545,Koningin Astridlaan 99,2880.0,House,Residence,599500.0,3.0,194.0,1,0,0,1,,1,3.0,0,New
+RBU60239,Sint-Annalei 5,2640.0,House,Residence,375000.0,2.0,305.0,0,0,0,1,,0,2.0,0,Excellent
+RBU60236,Veldstraat 27 2,2440.0,Apartment,Apartment,259000.0,2.0,92.0,0,0,0,1,,0,2.0,0,Excellent
+RBU60243,Brouwershoek 24 8,2150.0,Apartment,Penthouse,193500.0,2.0,72.0,0,0,0,1,33.0,0,2.0,0,Normal
+RBU60544,Koningin Astridlaan 99,2880.0,House,Residence,594500.0,3.0,194.0,1,0,0,1,,1,3.0,0,New
+RBU60238,Grote Steenweg 70,2550.0,House,Villa,569000.0,4.0,221.0,0,0,0,0,,1,4.0,0,Normal
+RBU60694,Pastoor De Conincklaan 26 5,2610.0,Apartment,Apartment,239000.0,2.0,108.0,0,0,0,1,,0,2.0,0,To be renovated
+RBU60249,Lispersteenweg 70,2500.0,House,Residence,325000.0,3.0,107.0,0,0,0,1,8.0,1,2.0,0,Normal
+RBU60240,Torfsstraat 2,2547.0,Apartment,Apartment,239000.0,2.0,80.0,0,0,0,1,,0,3.0,0,Normal
+RBU60647,,2627.0,House,Residence,485000.0,3.0,193.0,0,0,0,1,95.0,1,,0,
+RBU60251,Dorpstraat 4,2811.0,House,Residence,565000.0,3.0,387.0,0,0,0,1,,1,2.0,0,Normal
+RBU60254,Oranjestraat 113,2060.0,House,Residence,579000.0,7.0,280.0,0,0,0,1,,1,2.0,0,Normal
+RBU60149,Vinçottestraat 5,2140.0,Apartment,Apartment,215000.0,2.0,107.0,0,0,0,1,18.0,0,,0,
+RBU60114,Essenhoutstraat 212,2950.0,House,Residence,275000.0,3.0,166.0,0,0,0,1,,1,2.0,0,To be renovated
+RBU60116,Jozef Michielsstraat 35,2235.0,House,Residence,349000.0,3.0,195.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU60221,Begonialaan 2,2390.0,House,Residence,595000.0,3.0,331.0,0,0,0,1,,1,4.0,1,Normal
+RBU60109,Veldbloemstraat 23,2640.0,House,Residence,475000.0,3.0,178.0,0,0,0,1,,1,,0,Normal
+RBU60097,Blancefloerlaan 63 5,2050.0,Apartment,Apartment,325000.0,2.0,105.0,0,0,0,1,3.0,0,,0,
+RBU60096,Salvialaan 31,2260.0,House,Residence,385000.0,3.0,195.0,0,0,0,1,,1,3.0,0,Normal
+RBU60121,Dorp 4,2861.0,Apartment,Apartment,295000.0,3.0,149.0,0,0,0,1,,0,2.0,0,To be renovated
+RBU60157,Kerkhofstraat 2 302,2800.0,Apartment,Apartment,269000.0,3.0,105.0,0,0,0,1,3.0,0,,0,
+RWC41122,Kempenstraat 90,2000.0,Apartment,Penthouse,1145500.0,3.0,160.0,0,0,0,1,50.0,0,,0,Excellent
+RBU60126,Buurtspoorweglei 16 103,2140.0,Apartment,Apartment,227000.0,2.0,78.0,0,0,0,1,9.0,0,2.0,0,Normal
+RBU60131,Zavelstraat 4,2200.0,House,Residence,385000.0,4.0,188.0,0,0,0,1,,0,3.0,0,Normal
+RBU60110,Annuntiatenstraat 20,2170.0,House,Residence,229000.0,2.0,105.0,0,0,0,0,,1,2.0,0,To be renovated
+RWC41121,Moederplein 1,2500.0,Apartment,Apartment,299500.0,2.0,90.0,0,0,0,1,30.0,0,,0,Excellent
+RBU60112,Strobloemstraat 5,2170.0,House,Residence,340000.0,3.0,143.0,0,0,0,0,,1,2.0,0,Normal
+RBU60040,Italiëlei 209 V5,2000.0,Apartment,Apartment,720900.0,3.0,162.0,0,0,0,1,10.0,0,,0,
+RBU60102,Peter Michielslei 3,2580.0,House,Residence,280000.0,2.0,89.0,0,0,0,1,,1,,0,Normal
+RBU60178,Sluis 55,2400.0,House,Residence,450000.0,6.0,350.0,0,0,0,0,,1,2.0,0,
+RBU60113,Adrinkhovenlaan 125 V2,2150.0,Apartment,Apartment,289900.0,2.0,86.0,0,0,0,1,,0,3.0,0,Normal
+RBU60049,Palingstraat 71,2870.0,House,Residence,415000.0,4.0,206.0,0,0,0,1,,1,,0,
+RBU59674,Keiheuvelstraat 8,2400.0,House,Residence,245000.0,3.0,195.0,0,0,0,1,,1,4.0,0,Normal
+RBU59669,Langestraat 30,2400.0,House,Residence,295000.0,4.0,227.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU59681,Cornelis Dyckstratelaan 6 002,2100.0,Apartment,Ground floor,264000.0,2.0,83.0,0,0,0,0,,1,2.0,0,Normal
+RBU59593,Hofstraat B0.2,2400.0,Apartment,Apartment,434532.0,2.0,,0,0,0,1,,1,,0,New
+RBU59436,Boshoek 38,2560.0,House,Residence,489000.0,3.0,199.0,0,0,0,1,,1,,0,
+RBU09922,Schoor 10 1,2490.0,Apartment,Apartment,310000.0,2.0,143.0,0,0,0,1,20.0,0,2.0,0,
+RBU59610,Lindelei 76 2,2620.0,Apartment,Apartment,265000.0,2.0,100.0,0,0,0,0,,0,,0,
+RBU49027,Minervastraat 59,2640.0,House,Residence,324900.0,2.0,137.0,0,0,0,0,,1,,0,Normal
+RBU59430,Tolstraat 41,2000.0,House,Master house,1495000.0,4.0,242.0,1,0,0,0,,1,2.0,0,Excellent
+RBU47761,Brugstraat 58,2960.0,House,Residence,330000.0,2.0,142.0,0,0,0,0,,1,2.0,0,To be renovated
+RWC41112,peoderleese weg 82,2275.0,House,Residence,498500.0,3.0,168.0,0,0,0,1,,1,3.0,0,Excellent
+RBU59391,Lambrechtshoekenlaan 250,2170.0,Apartment,Apartment,249000.0,2.0,112.0,0,0,0,1,6.0,0,,0,Normal
+RBU59457,Buizerdlaan 1 2V,2100.0,Apartment,Apartment,198000.0,1.0,57.0,0,0,0,1,,0,3.0,0,Normal
+RBU59458,DE WIP 5,2560.0,House,Residence,595000.0,4.0,258.0,0,0,0,1,30.0,1,4.0,0,Normal
+RBU59380,Parklaan 17,2222.0,House,Villa,1490000.0,4.0,524.0,1,0,0,1,,1,4.0,1,Excellent
+RBU59412,Seringenstraat 8,2250.0,House,Residence,849000.0,5.0,346.0,0,0,0,1,,1,4.0,0,Normal
+RBU59384,Generaal De Ceuninckstraat 61,2800.0,House,Residence,319000.0,4.0,163.0,0,0,0,0,,1,2.0,0,Normal
+RBU59619,Johan Westerlundplein 30 304,2000.0,Apartment,Apartment,359000.0,2.0,70.0,0,0,0,1,6.0,0,,0,
+RBU59434,Veldstraat 6,2812.0,House,Residence,389000.0,3.0,152.0,1,0,0,1,,1,3.0,0,
+RBU59611,Lindelei 76 1,2620.0,Apartment,Apartment,195000.0,,70.0,0,0,0,0,,0,,0,
+RBU59036,Auguste Oleffestraat 3 028,2020.0,Apartment,Ground floor,199000.0,1.0,53.0,0,0,0,1,29.0,0,2.0,0,Excellent
+RBU58992,Havikstraat 63,2590.0,House,Residence,399000.0,3.0,137.0,0,0,0,0,,1,4.0,0,
+RBU59372,Bosduifstraat 33 001,2018.0,Apartment,Apartment,265000.0,2.0,60.0,0,0,0,1,12.0,0,,0,
+RBU58976,Ezaart 124,2400.0,Apartment,Ground floor,289000.0,1.0,89.0,0,0,0,1,,1,,0,
+RBU59045,Leerhoeklaan 39,2180.0,House,Residence,359000.0,4.0,173.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU58985,Heiststeenweg 91,2580.0,House,Residence,550000.0,3.0,276.0,0,0,0,1,,1,4.0,0,Normal
+RBU59328,Ham 8,2430.0,House,Residence,428500.0,,153.0,0,0,0,0,,1,3.0,0,New
+RBU58975,Ezaart 122,2400.0,Apartment,Ground floor,289000.0,1.0,90.0,0,0,0,1,,1,,0,
+RBU58974,Herentalseweg 5 A 1,2440.0,Apartment,Ground floor,279000.0,2.0,,0,0,0,1,,1,,0,
+RBU59326,,2590.0,House,Residence,545000.0,4.0,277.0,0,0,0,1,45.0,1,3.0,0,
+RBU59028,Over d'Aa 87,2910.0,House,Residence,665000.0,4.0,250.0,0,0,0,1,,1,4.0,0,New
+RBU59238,Drijhoek 179,2440.0,House,Cottage,574000.0,4.0,270.0,1,0,0,1,,1,4.0,0,Normal
+RBU59277,Bredabaan 184 V2L 2001,2930.0,Apartment,Apartment,250000.0,2.0,95.0,0,0,0,1,,1,2.0,0,Excellent
+RBU58977,Ezaart 126,2400.0,Apartment,Ground floor,299000.0,1.0,88.0,0,0,0,1,,1,,0,
+RBU59327,Ham 8A,2430.0,House,Residence,419000.0,,150.0,0,0,0,0,,1,,0,New
+RBU59027,Over d'Aa 81,2910.0,House,Residence,680000.0,4.0,250.0,0,0,0,1,,1,4.0,0,New
+RBU58569,Sint-Jobsstraat 12,2200.0,House,Residence,148000.0,2.0,108.0,0,0,0,0,,1,,0,To be renovated
+RBU58958,Wuytsbergen 49,2200.0,House,Residence,298000.0,3.0,128.0,0,0,0,1,,1,2.0,0,To be renovated
+RBU58556,Lijsterlaan 15,2630.0,House,Residence,385000.0,4.0,162.0,0,0,0,1,12.0,1,,0,
+RBU58536,Schansweg 72 1,2610.0,Apartment,Ground floor,199000.0,1.0,61.0,0,0,0,1,,1,,0,Normal
+RBU58957,Poederleese weg 72 4,2275.0,House,Residence,399000.0,4.0,122.0,0,0,0,1,,1,2.0,0,Excellent
+RBU58951,Pietje Waasstraat 12,2070.0,House,Residence,299000.0,1.0,95.0,0,0,0,1,,1,,0,Fully renovated
+RBU58837,Pontfortsedijk 34,2470.0,House,Villa,1395000.0,5.0,475.0,0,0,0,1,,1,4.0,1,
+VBD44765,,2930.0,House,Residence,1378074.0,4.0,299.0,0,0,0,0,,0,4.0,0,New
+RBU58972,Kaphaanlei 219,2640.0,House,Residence,595000.0,3.0,165.0,0,0,0,1,,1,3.0,0,
+RBU45800,Joe Englishstraat 61 7B,2140.0,Apartment,Apartment,159000.0,1.0,70.0,0,0,0,1,10.0,0,,0,Normal
+RBU58559,Poederleeseweg 154,2200.0,House,Residence,424500.0,3.0,158.0,0,0,0,1,,1,4.0,0,
+RBU58881,Grootheide 113,2880.0,House,Residence,315000.0,3.0,206.0,0,0,0,1,,1,,0,
+RBU58915,Praaglaan 37 402,2660.0,Apartment,Apartment,259000.0,2.0,91.0,0,0,0,1,12.0,0,2.0,0,Normal
+RBU58568,VIIde-Olympiadelaan 157 3,2020.0,Apartment,Apartment,175000.0,1.0,59.0,0,0,0,0,,0,,0,Normal
+RBU43529,Antwerpsesteenweg 110 A,2550.0,House,Residence,479200.0,4.0,162.0,0,0,0,1,,1,2.0,0,Excellent
+RBU58546,Italiëlei 203 15,2000.0,Apartment,Apartment,305000.0,2.0,140.0,0,0,0,1,4.0,0,,0,
+RBU58912,Jaak de Boeckstraat 25,2170.0,House,Residence,319000.0,2.0,97.0,0,0,0,0,,1,2.0,0,Normal
+RBU58820,Mechelsesteenweg 156,2830.0,House,Residence,339000.0,3.0,130.0,0,0,0,1,,1,,0,
+RBU58434,Bloemenlei 4,2640.0,House,Residence,595000.0,3.0,264.0,0,0,0,1,,1,,0,Excellent
+RBU58380,Ringlaan 16 102,2170.0,Apartment,Apartment,205500.0,2.0,81.0,0,0,0,1,,0,2.0,0,Normal
+RBU58407,Oudestraat 20,2660.0,House,Residence,379000.0,5.0,180.0,0,0,0,0,,1,2.0,0,
+RBU58357,,2590.0,House,Residence,185000.0,1.0,69.0,0,0,0,0,,0,2.0,0,
+RBU58393,Mechelbaan 515 1.1,2580.0,Apartment,Apartment,335000.0,2.0,94.0,0,0,0,1,,0,2.0,0,New
+RBU58400,Lierbaan 219,2580.0,House,Residence,399000.0,5.0,380.0,0,0,0,1,,0,4.0,0,
+RBU58372,Berlaarbaan 305,2860.0,House,Residence,399000.0,3.0,188.0,0,0,0,1,,1,,0,Normal
+RBU58267,Savelberg 4 2,2490.0,House,Residence,369000.0,3.0,225.0,0,0,0,1,,1,2.0,0,
+RBU58535,Schansweg 34 101,2610.0,Apartment,Apartment,175000.0,1.0,65.0,0,0,0,1,2.0,1,,0,To be renovated
+RBU58435,Overwinningsstraat 104,2830.0,Apartment,Apartment,229700.0,2.0,87.0,0,0,0,0,,0,2.0,0,Fully renovated
+RBU58433,Provinciesteenweg 310,2530.0,Apartment,Apartment,424500.0,2.0,96.0,0,0,0,1,13.0,1,2.0,0,New
+RBU58395,Voogdijstraat 56 4,2570.0,Apartment,Apartment,250000.0,2.0,87.0,0,0,0,1,,1,2.0,0,
+RBU58396,Kasteelstraat 14,2220.0,House,Residence,315000.0,3.0,174.0,0,0,0,0,,1,,0,
+RBU58378,Bist 157 601,2610.0,Apartment,Apartment,325000.0,2.0,148.0,0,0,0,1,,0,,0,To be renovated
+RBU58408,Oosterveldlaan 33,2610.0,Apartment,Apartment,205000.0,1.0,50.0,0,0,0,0,,0,,0,
+RBU58394,Acaciastraat 5,2800.0,House,Residence,325000.0,3.0,132.0,0,0,0,1,,1,2.0,0,Excellent
+RBU57975,Dr.-Van de Perrestraat 223 B,2440.0,Apartment,Apartment,235000.0,2.0,81.0,1,0,0,1,8.0,0,2.0,0,Excellent
+RBU58264,Bezelaerstraat 14-22,2830.0,House,Residence,499000.0,3.0,275.0,0,0,0,1,,1,3.0,0,New
+RBT63275,Heuvelstraat 16,2400.0,House,Residence,175000.0,2.0,120.0,0,0,0,0,,0,3.0,0,
+RWC41005,Moederplein 14,2500.0,Apartment,Apartment,239500.0,1.0,65.0,0,0,0,1,14.0,0,,0,
+RBU52339,Sint Laureysplein 6,2540.0,House,Residence,535000.0,3.0,179.0,0,0,0,1,52.0,0,,0,Normal
+RBU57830,Charles de Costerlaan 8,2050.0,Apartment,Apartment,280000.0,3.0,110.0,0,0,0,1,,0,,0,
+RBU41121,Morkhovenseweg 115,2200.0,House,Residence,599000.0,4.0,198.0,0,0,0,1,,1,4.0,1,New
+RBU57726,Zegbroek 62,2290.0,House,Residence,699000.0,4.0,438.0,0,0,0,1,,0,4.0,0,Normal
+VBD44582,,2930.0,House,Residence,1854238.0,4.0,374.0,0,0,0,0,,0,4.0,0,New
+VBD09877,,2830.0,House,Residence,399000.0,5.0,350.0,0,0,0,0,,1,2.0,0,
+RBU55664,Kerkstraat 56 6,2328.0,Apartment,Ground floor,295000.0,2.0,116.0,0,0,0,0,,0,,0,Normal
+RBU57469,Vijfhuizenstraat 9,2260.0,Apartment,Apartment,369000.0,3.0,130.0,1,0,0,1,,1,3.0,0,New
+RWC41006,Moederplein 14,2500.0,Apartment,Apartment,263000.0,2.0,85.0,0,0,0,1,14.0,0,,0,
+RBU47822,Steenbergen 95 A,2430.0,House,Residence,440000.0,4.0,182.0,0,0,0,1,18.0,1,3.0,0,New
+RBU57424,Konijnenberg 53 101,2180.0,Apartment,Apartment,259000.0,2.0,101.0,0,0,0,1,,0,2.0,0,Excellent
+RBU58266,Savelberg 4 1,2490.0,House,Residence,379000.0,3.0,225.0,0,0,0,1,,1,3.0,0,
+RBU47852,Dalweg 14,2328.0,House,Residence,485000.0,3.0,100.0,0,0,0,0,,0,4.0,0,
+RBU48631,Schollebeekstraat 82,2500.0,House,Residence,199000.0,1.0,117.0,0,0,0,0,,0,2.0,0,Excellent
+RBU57467,Vijfhuizenstraat 9,2260.0,House,Residence,369000.0,3.0,130.0,1,0,0,1,,1,3.0,0,New
+RBU36700,Hofstraat 51,2460.0,House,Residence,319000.0,3.0,136.0,0,0,0,1,,1,3.0,0,Normal
+RBU36149,Katelijnestraat 41 0.3,2320.0,Apartment,Apartment,290000.0,1.0,73.0,0,0,0,1,,1,2.0,0,New
+RBU36054,Dessauerplein 1,2300.0,Apartment,Apartment,192000.0,1.0,59.0,0,0,0,1,6.0,0,3.0,0,New
+RBU40911,Luchtvaartstraat 12,2800.0,House,Residence,370000.0,3.0,152.0,0,0,0,0,,1,2.0,0,To be renovated
+RBU36057,Dessauerplein 1,2300.0,Apartment,Apartment,217000.0,1.0,68.0,0,0,0,1,8.0,0,3.0,0,New
+RBU38112,Pettendonk 62,2500.0,Apartment,Apartment,361200.0,2.0,116.0,0,0,0,1,8.0,1,2.0,0,New
+RBU36070,Dessauerplein 1,2300.0,Apartment,Apartment,305000.0,2.0,90.0,0,0,0,1,43.0,0,3.0,0,New
+RBU36067,Dessauerplein 1,2300.0,Apartment,Apartment,202000.0,1.0,61.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36061,Dessauerplein 1,2300.0,Apartment,Apartment,197000.0,1.0,59.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36053,Dessauerplein 1,2300.0,Apartment,Apartment,192000.0,1.0,61.0,0,0,0,1,6.0,0,3.0,0,New
+RBU37770,Jef Van Hoofplein 4 3,2530.0,Apartment,Apartment,259000.0,1.0,82.0,0,0,0,1,,0,,0,Normal
+RBU36675,Gevaertlaan 133,2260.0,House,Residence,449000.0,4.0,232.0,0,0,0,1,,1,4.0,0,Excellent
+RBU36063,Dessauerplein 1,2300.0,Apartment,Apartment,225000.0,1.0,66.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36140,Boomkensstraat 18,2811.0,House,Residence,1290000.0,5.0,275.0,1,0,0,1,,1,4.0,1,Excellent
+RBU36069,Dessauerplein 1,2300.0,Apartment,Apartment,202000.0,1.0,59.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36029,Dessauerplein 1,2300.0,Apartment,Apartment,207000.0,1.0,65.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36860,Schoolstraat 31,2200.0,House,Residence,165000.0,2.0,94.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU38707,Spaarzaamheidsstraat 2A 01,2830.0,Apartment,Ground floor,219000.0,2.0,83.0,0,0,0,0,,1,2.0,0,Normal
+RBU33287,Oscar Van Kesbeeckstraat 22 101,2800.0,Apartment,Apartment,220000.0,2.0,103.0,0,0,0,1,,0,3.0,0,To be renovated
+RBU17281,Sint-Gommarusstraat 60,2800.0,House,Residence,420000.0,4.0,150.0,0,0,0,1,,1,2.0,0,Normal
+RBU20074,Oevelseweg 104,2250.0,House,Residence,530000.0,3.0,184.0,0,0,0,1,,1,4.0,0,Excellent
+RBU05582,Stationsplein 41 401,2200.0,Apartment,Apartment,159000.0,1.0,50.0,0,0,0,1,,0,2.0,0,Normal
+RBU30258,Dorpsstraat 42,2500.0,House,Mansion,970000.0,6.0,390.0,0,0,0,1,30.0,1,4.0,0,To be renovated
+RBU17313,Antwerpsesteenweg 28,2800.0,House,Residence,775000.0,4.0,205.0,0,0,0,0,,1,4.0,0,Normal
+RBU27647,Kerkstraat 23,2380.0,House,Residence,449000.0,3.0,269.0,0,0,0,1,,1,3.0,0,
+RBU19501,Annie van bosstraetenstraat 1,2812.0,House,Residence,473000.0,3.0,144.0,0,0,0,0,,1,3.0,0,New
+RBU36026,Dessauerplein 1,2300.0,Apartment,Apartment,199000.0,1.0,64.0,0,0,0,1,6.0,0,3.0,0,New
+RBU19502,Annie van bosstraetenstraat 1,2812.0,House,Residence,505000.0,3.0,169.0,0,0,0,0,,1,3.0,0,New
+RBU19499,Annie van bosstraetenstraat 1,2812.0,House,Residence,481000.0,3.0,169.0,0,0,0,0,,1,2.0,0,New
+RBU19498,Annie van bosstraetenstraat 1,2812.0,House,Residence,453000.0,3.0,138.0,0,0,0,0,,1,2.0,0,New
+RBU17309,Stationsstraat 138A,2860.0,House,Residence,449000.0,4.0,160.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU32487,Gareelmakersstraat 37 204,2200.0,Apartment,Apartment,249000.0,2.0,108.0,0,0,0,1,,0,3.0,0,Normal
+RBU19503,Annie van bosstraetenstraat 1,2812.0,House,Residence,518500.0,3.0,167.0,0,0,0,0,,1,3.0,0,New
+RBU29991,Meylstraat 67 2,2540.0,Apartment,Duplex,195000.0,2.0,95.0,0,0,0,0,,0,,0,Normal
+RBU27452,Herentalsesteenweg 59,2275.0,House,Residence,349000.0,5.0,201.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU17311,Overwinningsstraat 160,2830.0,House,Residence,299000.0,2.0,99.0,0,0,0,1,,1,2.0,0,Normal
+RBU19500,Annie van bosstraetenstraat 1,2812.0,House,Residence,494500.0,3.0,167.0,0,0,0,0,,1,2.0,0,New
+RBU01198,Antwerpseweg 94,2440.0,House,Residence,699000.0,5.0,279.0,0,0,0,0,,1,4.0,0,To be renovated
+RBT63803,Hovesesteenweg 81,2530.0,House,Residence,395000.0,3.0,154.0,0,0,0,0,,1,,0,Normal
+RBU00670,Brouwerijstraat 13 2,2320.0,Apartment,Apartment,419000.0,2.0,142.0,0,0,0,1,,1,,0,
+RBT90731,Kessel-Dorp 99 101,2560.0,Apartment,Apartment,420000.0,3.0,133.0,0,0,0,1,52.0,0,3.0,0,Normal
+RBU16077,Zittaartse heide 16,2275.0,House,Residence,425000.0,5.0,258.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU00667,Brouwerijstraat 13 1,2320.0,Apartment,Apartment,425000.0,2.0,125.0,0,0,0,1,,1,,0,
+RBU17254,Zelestraat 91,2800.0,House,Residence,749000.0,6.0,535.0,0,0,0,1,,1,2.0,0,Normal
+RBT99487,Poederleese weg 17,2275.0,House,Residence,339000.0,3.0,162.0,0,0,0,1,,0,4.0,0,Normal
+RBU16230,Moerdijk 5,2235.0,House,Residence,249000.0,2.0,105.0,0,0,0,1,,1,4.0,0,Normal
+RBU16246,Heilige-Geeststraat 13,2440.0,House,Residence,325000.0,2.0,167.0,0,0,0,0,,0,2.0,0,To be renovated
+RBT88116,Laureysstraat 2 001,2650.0,Apartment,Ground floor,275000.0,2.0,71.0,0,0,0,0,,0,,0,
+RBU01222,Logen 131,2440.0,House,Residence,115000.0,1.0,71.0,0,0,0,0,,1,3.0,0,To be renovated
+RBU00657,Schransdriesstraat 55,2340.0,Apartment,Apartment,1195000.0,12.0,530.0,0,0,0,1,,1,4.0,0,Normal
+RBU17271,Maurits Sabbestraat 55/1,2800.0,Apartment,Duplex,380000.0,5.0,199.0,0,0,0,1,,0,2.0,0,To be renovated
+RBU02851,Vaartstraat 34/001,2200.0,Apartment,Apartment,149000.0,2.0,99.0,0,0,0,1,5.0,0,2.0,0,To be renovated
+RBT96950,Fraikinstraat 30,2200.0,House,Residence,215000.0,2.0,216.0,0,0,0,1,,0,2.0,0,To be renovated
+RBU04687,Appeldonkstraat 118 201,2830.0,Apartment,Apartment,250000.0,3.0,86.0,0,0,0,1,,0,2.0,0,Excellent
+RBT71341,Doornboom 37,2460.0,House,Residence,349000.0,3.0,182.0,0,0,0,1,,1,4.0,0,To be renovated
+RBT21777,Molenheide 68 103,2870.0,Apartment,Apartment,335000.0,2.0,97.0,1,0,0,1,4.0,0,3.0,0,Normal
+RBU57339,Lange Scholiersstraat 25,2060.0,House,Residence,399000.0,3.0,152.0,0,0,0,1,,0,2.0,0,Normal
+RBI70790,Pullaarsteenweg 4,2870.0,Apartment,Apartment,314000.0,2.0,99.0,0,0,0,1,28.0,1,2.0,0,New
+RBU57413,Ringlaan 83 301,2170.0,Apartment,Apartment,305000.0,2.0,88.0,0,0,0,1,5.0,0,2.0,0,New
+RBR94806,de buisseretlaan 34-36 1,2870.0,House,Residence,495000.0,3.0,186.0,0,0,0,0,,1,2.0,0,New
+RBR90698,Dennendreef,2350.0,Apartment,Apartment,405000.0,2.0,112.0,1,0,0,1,27.0,0,3.0,0,New
+RBU57410,Ringlaan 83 101,2170.0,Apartment,Apartment,315000.0,2.0,88.0,0,0,0,1,5.0,0,2.0,0,New
+RBU57212,Vogelzangstraat 26,2222.0,House,Residence,565000.0,4.0,209.0,0,0,0,1,,1,4.0,0,Normal
+RBT38074,Vrijheid 7-9,2320.0,House,Residence,625000.0,4.0,180.0,1,0,0,0,,0,2.0,0,
+RBJ47830,Van der Marcklaan 1,2290.0,House,Residence,454000.0,3.0,149.0,0,0,0,1,,1,4.0,0,New
+RBR90700,Dennendreef,2350.0,Apartment,Ground floor,292000.0,1.0,73.0,1,0,0,1,42.0,0,3.0,0,New
+RBR90702,Dennendreef,2350.0,Apartment,Apartment,380000.0,2.0,94.0,1,0,0,1,25.0,0,3.0,0,New
+RBJ47829,Van der Marcklaan 1,2290.0,House,Residence,457000.0,3.0,149.0,0,0,0,1,,1,4.0,0,New
+RBU57407,Houthulststraat 58,2170.0,House,Residence,387000.0,3.0,180.0,0,0,0,0,,1,3.0,0,Normal
+RBR90699,Dennendreef,2350.0,Apartment,Ground floor,381000.0,2.0,106.0,1,0,0,1,20.0,0,3.0,0,New
+RBU57411,Ringlaan 83 101,2170.0,Apartment,Apartment,310000.0,2.0,88.0,0,0,0,1,5.0,0,2.0,0,New
+RBR94807,de buisseretlaan 34-36 1,2870.0,House,Residence,550000.0,3.0,178.0,0,0,0,0,,1,3.0,0,New
+RBU57340,Bist 61,2610.0,Apartment,Apartment,219000.0,2.0,86.0,0,0,0,1,,0,2.0,0,Normal
+,,,"apartment,for",,,,,0,0,0,0,,0,,0,
+RBI70785,Pullaarsteenweg 4,2870.0,Apartment,Apartment,289000.0,2.0,99.0,0,0,0,1,12.0,1,2.0,0,New
+RBR93807,Zwanenberg 2a 103,2270.0,Apartment,Apartment,265000.0,1.0,82.0,1,0,0,1,13.0,0,3.0,0,New
+RWC41083,Kempenstraat 88,2000.0,Apartment,Apartment,659500.0,3.0,115.0,0,0,0,1,,0,,0,Excellent
+RBU56995,Kopstraat 342,2900.0,House,Residence,519000.0,2.0,134.0,0,0,0,1,,1,4.0,0,Normal
+RBU56972,Puursesteenweg 279,2880.0,House,Residence,595000.0,6.0,248.0,0,0,0,0,,0,,0,Normal
+RBU56973,Kattenberg 129,2180.0,House,Residence,419000.0,5.0,189.0,0,0,0,1,20.0,1,,0,Normal
+RBU57202,Jan Baptist Corremansstraat 149 1.1,2850.0,Apartment,Apartment,219000.0,2.0,77.0,0,0,0,1,8.0,0,2.0,0,
+RBU56959,Frans Coeckelbergsstraat 6 7,2220.0,Apartment,Apartment,398000.0,2.0,91.0,0,0,0,1,6.0,0,3.0,0,New
+RBT83843,Langedijk 2A 3,2430.0,Apartment,Apartment,248000.0,2.0,77.0,0,0,0,1,90.0,1,,0,Excellent
+RBU56961,Kampioenstraat 8 201,2020.0,Apartment,Apartment,175000.0,2.0,67.0,0,0,0,1,3.0,0,,0,
+RBU56954,Heiststeenweg 91,2580.0,House,Residence,,3.0,276.0,0,0,0,1,,1,4.0,0,Normal
+RBU57014,Sassenhout 8,2290.0,House,Residence,425000.0,4.0,209.0,0,0,0,1,,1,4.0,0,Normal
+RBU57006,Eikenboslaan 7,2500.0,Apartment,Penthouse,549000.0,2.0,159.0,0,0,0,1,114.0,0,4.0,0,New
+RBU57168,Ginderbroek 65,2400.0,House,Residence,319000.0,3.0,,0,0,0,1,,1,,0,
+RBU28414,Krugerstraat 154,2660.0,House,Residence,179000.0,2.0,81.0,0,0,0,1,8.0,1,2.0,0,To be renovated
+RBU56987,Koningin Astridlaan 39,2550.0,Apartment,Apartment,157000.0,1.0,56.0,1,0,0,1,10.0,0,2.0,1,Excellent
+RBU57007,Boudewijnlaan 99,2243.0,House,Residence,599000.0,4.0,371.0,0,0,0,1,40.0,1,4.0,0,To be renovated
+RBU57069,Gezondheidsstraat 5,2830.0,House,Residence,369000.0,4.0,137.0,0,0,0,0,,1,2.0,0,Normal
+RBU57005,Elektriciteitstraat 31 1301,2800.0,Apartment,Apartment,219000.0,2.0,75.0,0,0,0,1,,0,2.0,0,Normal
+RBU56992,Oude Liersebaan 94,2570.0,House,Residence,333000.0,3.0,195.0,0,0,0,1,,1,,0,To be renovated
+RWC41081,Pastorijstraat 71,2260.0,House,Residence,595000.0,5.0,233.0,0,0,0,1,32.0,1,4.0,0,Excellent
+RBU57184,Rateaulaan 26,2812.0,House,Residence,595000.0,3.0,195.0,0,0,0,1,,1,3.0,0,Excellent
+RBU56329,Kabienstraat 11 3,2440.0,Apartment,Apartment,297500.0,2.0,104.0,0,0,0,1,6.0,0,,0,New
+RBU56941,Voogdijstraat 3 202,2400.0,Apartment,Apartment,359000.0,2.0,130.0,0,0,0,1,,0,,0,
+RBU56164,Oude Kattestraat 3,2220.0,House,Residence,475000.0,4.0,243.0,0,0,0,0,,1,,0,
+RBU56162,Schriekstraat 19 A,2223.0,House,Residence,835000.0,5.0,305.0,0,0,0,1,,1,4.0,0,New
+RBU56818,Heirmanstraat 5 101 V1 L,2170.0,Apartment,Apartment,169000.0,1.0,55.0,0,0,0,1,12.0,0,2.0,0,Normal
+RBU56163,Bosstraat 10,2861.0,House,Residence,248000.0,3.0,232.0,0,0,0,0,,1,2.0,0,To be renovated
+RBU56157,Borgersteinlei 177,2860.0,House,Residence,345000.0,3.0,148.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU56345,Zaatlaan 2 bus 1,2660.0,Apartment,Apartment,315000.0,2.0,85.0,0,0,0,1,,1,,0,
+RBU56922,Grensstraat 10,2580.0,House,Villa,1100000.0,5.0,358.0,0,0,0,0,,1,4.0,1,
+RBU56902,Parklaan 29,2222.0,House,Residence,649000.0,7.0,439.0,0,0,0,1,,1,4.0,0,Normal
+RBU56176,Kleine Heidries 6,2320.0,House,Residence,525000.0,4.0,206.0,0,0,0,1,,1,2.0,0,Excellent
+RBU56158,Sander De Vosstraat 1 1,2500.0,Apartment,Apartment,295000.0,,97.0,0,0,0,1,,1,,0,
+RBU56173,Paul Krugerstraat 99 403,2500.0,Apartment,Apartment,348000.0,2.0,93.0,0,0,0,1,,1,2.0,0,
+RBU56175,Slameuterstraat 26,2861.0,House,Residence,690000.0,4.0,203.0,0,0,0,0,,1,4.0,0,To be renovated
+RBU56372,Asterstraat 24,2440.0,House,Residence,485000.0,3.0,200.0,1,0,0,1,,1,4.0,0,Normal
+RBU56155,Stationsstraat 54,2230.0,House,Residence,195000.0,3.0,150.0,1,0,0,1,,0,2.0,0,To be renovated
+RBU56174,Bredestraat 40 A,2580.0,House,Residence,520000.0,4.0,260.0,0,0,0,1,,1,3.0,0,New
+RBU56935,Martelarenstraat 137,2400.0,House,Residence,495000.0,3.0,271.0,1,0,0,1,,1,3.0,0,Excellent
+RBU56237,Duffelsesteenweg 81,2860.0,House,Residence,569000.0,3.0,206.0,1,0,0,1,,1,3.0,0,Fully renovated
+RBU56328,Kabienstraat 11 1,2440.0,Apartment,Apartment,297500.0,2.0,104.0,0,0,0,1,17.0,0,,0,New
+RBU56056,Nekkerspoelstraat 410,2800.0,House,Residence,280000.0,3.0,129.0,0,0,0,1,10.0,1,,0,To be renovated
+RBU56081,Lange Stuivenbergstraat 10 301,2060.0,Apartment,Apartment,179000.0,1.0,47.0,0,0,0,0,,0,2.0,0,
+RBU55988,Rijn 18 2,2440.0,Apartment,Apartment,245000.0,2.0,85.0,0,0,0,1,,0,,0,
+RBU55965,Beekse Velden 12,2550.0,House,Residence,575000.0,3.0,284.0,0,0,0,0,,1,3.0,0,
+RBU56108,Donderheide 41,2500.0,House,Residence,395000.0,3.0,221.0,0,0,0,1,,1,4.0,0,To be renovated
+RBU56154,Stationsstraat 54 A,2230.0,House,Residence,275000.0,3.0,174.0,1,0,0,0,,1,2.0,0,To be renovated
+RBU56050,Jan Baptist Corremansstraat 83 GLV,2850.0,Apartment,Apartment,225000.0,2.0,76.0,0,0,0,0,,1,,0,Normal
+RBU55984,Rozenlaan 11,2630.0,House,Bungalow,495000.0,2.0,240.0,1,0,0,1,,1,4.0,0,Normal
+RBU56080,Lange Stuivenbergstraat 10 101,2060.0,Apartment,Apartment,179000.0,1.0,46.0,0,0,0,0,,0,2.0,0,
+RBU55966,Kapelstraat 101,2570.0,House,Residence,195000.0,3.0,134.0,0,0,0,0,,1,2.0,0,
+RBU56059,Antwerpsesteenweg 188,2070.0,House,Residence,399000.0,4.0,157.0,0,0,0,1,40.0,1,2.0,0,Normal
+RBU56051,Jan Baptist Corremansstraat 83 V1,2850.0,Apartment,Apartment,215000.0,2.0,76.0,0,0,0,1,5.0,0,,0,Normal
+RBU56086,Kroonstraat 167 3,2140.0,Apartment,Apartment,285000.0,2.0,75.0,1,0,0,0,,0,2.0,0,
+RBU56091,Nielsestraat 192,2850.0,House,Residence,176000.0,1.0,64.0,0,0,0,0,,0,2.0,0,
+RBU56078,Lange Stuivenbergstraat 10 001,2060.0,Apartment,Apartment,197000.0,1.0,68.0,0,0,0,1,,1,2.0,0,
+RBU56084,Lange Stuivenbergstraat 10 201,2060.0,Apartment,Apartment,179000.0,1.0,47.0,0,0,0,1,,0,2.0,0,
+RBU56110,Coebergerstraat 56 201,2018.0,Apartment,Apartment,499000.0,3.0,116.0,0,0,0,1,7.0,1,,0,Excellent
+RBU56042,August Vermeylenlaan 15,2050.0,Apartment,Apartment,235000.0,2.0,90.0,0,0,0,1,4.0,0,,0,
+RBU52441,Wiekevorstsesteenweg 3 B,2220.0,House,Residence,525000.0,5.0,212.0,0,0,0,1,24.0,1,3.0,0,New
+RBK29941,Italiëlei 209 V4,2000.0,Apartment,Apartment,696600.0,3.0,162.0,0,0,0,1,10.0,0,,0,New
+RBK29945,Italiëlei 209 V6,2000.0,Apartment,Apartment,729000.0,3.0,162.0,0,0,0,1,10.0,0,,0,New
+RBS83542,Italiëlei 209 V2,2000.0,Apartment,Apartment,769500.0,3.0,162.0,0,0,0,1,15.0,0,,0,New
+RBK29950,Italiëlei 209 V3,2000.0,Apartment,Apartment,785700.0,3.0,162.0,0,0,0,1,15.0,0,,0,New
+RBK29955,Italiëlei 209 Unit,2000.0,Apartment,Apartment,948000.0,3.0,232.0,0,0,0,1,20.0,1,,0,New
+RBK29947,Italiëlei 209 V7,2000.0,Apartment,Apartment,745200.0,3.0,162.0,0,0,0,1,10.0,0,,0,New
+RBU50462,Academieplein 10 2A,2300.0,Apartment,Apartment,234520.0,2.0,106.0,0,0,0,1,44.0,1,2.0,0,New
+RBU50453,Kursaalpoort 27 1,2300.0,Apartment,Apartment,270000.0,2.0,112.0,0,0,0,1,18.0,0,2.0,0,New
+RBU50459,Baron Frans du Fourstraat 1 23,2300.0,Apartment,Apartment,276230.0,2.0,113.0,0,0,0,1,18.0,0,2.0,0,New
+RBU50458,Baron Frans du Fourstraat 1 13,2300.0,Apartment,Apartment,276230.0,2.0,113.0,0,0,0,1,18.0,0,2.0,0,New
+RBU50450,Kursaalpoort 33 4,2300.0,Apartment,Apartment,312475.0,2.0,117.0,0,0,0,1,17.0,0,2.0,0,New
+RBU50452,Kursaalpoort 33 10,2300.0,Apartment,Apartment,325025.0,2.0,117.0,0,0,0,1,17.0,0,2.0,0,New
+RBU50448,Kursaalpoort 33 1,2300.0,Apartment,Apartment,326100.0,2.0,104.0,0,0,0,1,47.0,0,2.0,0,New
+RBU50449,Kursaalpoort 33 2,2300.0,Apartment,Apartment,343400.0,2.0,121.0,0,0,0,1,42.0,0,2.0,0,New
+RBU50457,Turnovatoren 11 3,2300.0,Apartment,Apartment,497806.0,2.0,121.0,0,0,0,1,17.0,0,2.0,0,New
+RBU50447,Academieplein 20 7,2300.0,Apartment,Apartment,534175.0,2.0,142.0,0,0,0,1,127.0,0,2.0,0,New
+RBU50460,Baron Frans du Fourstraat 1 1,2300.0,Apartment,Apartment,539700.0,2.0,301.0,0,0,0,1,,0,2.0,0,New
+RBU50445,Academieplein 21 9,2300.0,Apartment,Apartment,304250.0,3.0,126.0,0,0,0,1,14.0,0,2.0,0,New
+RBU50442,Academieplein 19 4,2300.0,Apartment,Apartment,313175.0,3.0,134.0,0,0,0,1,13.0,0,2.0,0,New
+RBU50446,Academieplein 19 11,2300.0,Apartment,Apartment,324700.0,3.0,133.0,0,0,0,1,12.0,0,2.0,0,New
+RBU50444,Academieplein 19 8,2300.0,Apartment,Apartment,324700.0,3.0,133.0,0,0,0,1,12.0,0,2.0,0,New
+RBU50451,Kursaalpoort 33 6,2300.0,Apartment,Apartment,332625.0,3.0,117.0,0,0,0,1,17.0,0,2.0,0,New
+RBU50443,Academieplein 19 5,2300.0,Apartment,Apartment,340050.0,3.0,133.0,0,0,0,1,12.0,0,2.0,0,New
+RBU50461,Baron Frans du Fourstraat 10 10,2300.0,Apartment,Apartment,380260.0,3.0,126.0,0,0,0,1,40.0,0,2.0,0,New
+RBU50455,Turnovatoren 8 1,2300.0,Apartment,Apartment,411595.0,3.0,130.0,0,0,0,1,17.0,0,2.0,0,New
+RBU50441,Academieplein 19 2,2300.0,Apartment,Apartment,425150.0,3.0,144.0,0,0,0,1,66.0,0,2.0,0,New
+RBU50454,Turnovatoren 7 2,2300.0,Apartment,Apartment,431933.0,3.0,129.0,0,0,0,1,17.0,0,2.0,0,New
+RBU50456,Turnovatoren 11 2,2300.0,Apartment,Apartment,996933.0,3.0,202.0,0,0,0,1,28.0,0,2.0,0,New
+RBU43173,Brukel 2,2440.0,House,Residence,545000.0,3.0,165.0,0,0,0,1,,1,4.0,0,New
+RBU51542,Minderbroedersstraat 15 202,2000.0,Apartment,Apartment,399000.0,1.0,100.0,0,0,0,1,8.0,0,,0,
+RBU51538,Minderbroedersstraat 15 102,2000.0,Apartment,Apartment,399000.0,2.0,100.0,0,0,0,1,8.0,0,,0,
+RBU51536,Minderbroedersstraat 15 101,2000.0,Apartment,Apartment,399000.0,2.0,92.0,0,0,0,1,8.0,0,,0,
+RBU51539,Minderbroedersstraat 15 201,2000.0,Apartment,Apartment,435000.0,2.0,92.0,0,0,0,1,8.0,0,,0,
+RBU51540,Minderbroedersstraat 15 301,2000.0,Apartment,Apartment,499000.0,2.0,112.0,0,0,0,1,9.0,0,,0,
+RBU51534,Minderbroedersstraat 15 001,2000.0,Apartment,Apartment,699000.0,3.0,146.0,0,0,0,0,,1,,0,
+RBU47932,Adrien de Gerlachestraat 33,2650.0,House,Residence,479000.0,3.0,115.0,0,0,0,1,17.0,1,2.0,0,New
+RBU43098,Uitbreidingstraat 528,2600.0,Apartment,Duplex,577000.0,3.0,141.0,0,0,0,1,7.0,1,2.0,0,New
+RBU51371,Boeretang 265 1,2400.0,House,Villa,400000.0,3.0,187.0,0,0,0,0,,0,3.0,0,New
+RBU51363,Boeretang 260 2,2400.0,House,Villa,400000.0,3.0,187.0,0,0,0,0,,0,3.0,0,New
+RBU51359,Boeretang 236 2,2400.0,House,Villa,400000.0,3.0,187.0,0,0,0,0,,0,3.0,0,New
+RBU51360,Boeretang 249 1,2400.0,House,Villa,457501.0,3.0,203.0,0,0,0,0,,0,3.0,0,New
+RBU51367,Boeretang 263 1,2400.0,House,Villa,483500.0,3.0,187.0,0,0,0,0,,0,3.0,0,New
+RBU51366,Boeretang 262 2,2400.0,House,Villa,483500.0,3.0,203.0,0,0,0,0,,0,3.0,0,New
+RBU51364,Boeretang 261 1,2400.0,House,Villa,483500.0,3.0,187.0,0,0,0,0,,0,3.0,0,New
+RBU51369,Boeretang 264 1,2400.0,House,Villa,486500.0,3.0,187.0,0,0,0,0,,0,3.0,0,New
+RBU51365,Boeretang 262 1,2400.0,House,Villa,486501.0,3.0,190.0,0,0,0,0,,0,3.0,0,New
+RBU51361,Boeretang 249 2,2400.0,House,Villa,494282.0,3.0,190.0,0,0,0,1,,1,3.0,0,New
+RBU51368,Boeretang 263 2,2400.0,House,Villa,518500.0,4.0,241.0,0,0,0,0,,0,3.0,0,New
+RBU51362,Boeretang 260 1,2400.0,House,Villa,518500.0,4.0,241.0,0,0,0,0,,0,3.0,0,New
+RBU51370,Boeretang 264 2,2400.0,House,Villa,523500.0,4.0,241.0,0,0,0,0,,0,3.0,0,New
+RBU51358,Boeretang 236 1,2400.0,House,Villa,524613.0,4.0,241.0,0,0,0,0,,0,3.0,0,New
+RBU51372,Boeretang 265 2,2400.0,House,Villa,531500.0,4.0,241.0,0,0,0,0,,0,3.0,0,New
+RBU47938,Adrien de Gerlachestraat 33,2650.0,House,Residence,459000.0,3.0,110.0,0,0,0,1,19.0,1,2.0,0,New
+RBU47937,Adrien de Gerlachestraat 33,2650.0,House,Residence,459000.0,3.0,111.0,0,0,0,1,19.0,1,2.0,0,New
+RBU47945,Adrien de Gerlachestraat 33,2650.0,House,Residence,475000.0,3.0,115.0,0,0,0,1,17.0,1,2.0,0,New
+RBU47943,Adrien de Gerlachestraat 33,2650.0,House,Residence,475000.0,3.0,114.0,0,0,0,1,17.0,1,2.0,0,New
+RBU47940,Adrien de Gerlachestraat 33,2650.0,House,Residence,479000.0,3.0,125.0,0,0,0,1,17.0,1,2.0,0,New
+RBU47939,Adrien de Gerlachestraat 33,2650.0,House,Residence,479000.0,3.0,115.0,0,0,0,1,19.0,1,2.0,0,New
+RBU47935,Adrien de Gerlachestraat 33,2650.0,House,Residence,479000.0,3.0,114.0,0,0,0,1,19.0,1,2.0,0,New
+RBU47942,Adrien de Gerlachestraat 33,2650.0,House,Residence,489000.0,3.0,120.0,0,0,0,1,17.0,1,2.0,0,New
+RBU47946,Adrien de Gerlachestraat 33,2650.0,House,Residence,529000.0,3.0,122.0,0,0,0,1,20.0,1,2.0,0,New
+RBU45990,Neerstraat 61,2360.0,House,Residence,499000.0,5.0,203.0,0,0,0,1,,1,2.0,0,New
+RBU45989,Neerstraat 61,2360.0,House,Residence,499000.0,5.0,200.0,0,0,0,1,,1,2.0,0,New
+RBU50593,Pullaarsteenweg 37,2870.0,House,Residence,373450.0,3.0,141.0,0,0,0,1,16.0,1,2.0,0,New
+RBU50592,Pullaarsteenweg 37,2870.0,House,Residence,376118.0,3.0,141.0,0,0,0,1,15.0,1,3.0,0,New
+RBU50594,Pullaarsteenweg 37,2870.0,House,Residence,377088.0,3.0,141.0,0,0,0,1,15.0,1,3.0,0,New
+RBU50590,Pullaarsteenweg 37,2870.0,House,Residence,388000.0,3.0,141.0,0,0,0,1,16.0,1,3.0,0,New
+RBU50591,Pullaarsteenweg 37,2870.0,House,Residence,391638.0,3.0,140.0,0,0,0,1,15.0,1,3.0,0,New
+RBU46112,Kijnigestraat 44,2250.0,House,Residence,325101.0,3.0,130.0,0,0,0,1,14.0,1,,0,New
+RBU46113,Kijnigestraat 44,2250.0,House,Residence,339461.0,3.0,143.0,0,0,0,1,24.0,1,,0,New
+RBU46111,Kijnigestraat 44,2250.0,House,Residence,380000.0,3.0,184.0,0,0,0,1,29.0,1,,0,New
+RBU46097,Kijnigestraat 44,2250.0,House,Residence,369067.0,2.0,167.0,0,0,0,1,30.0,1,,0,New
+RBU46095,Kijnigestraat 44,2250.0,House,Residence,344805.0,3.0,143.0,0,0,0,1,24.0,1,,0,New
+RBU46098,Kijnigestraat 44,2250.0,House,Residence,350000.0,3.0,177.0,0,0,0,1,15.0,1,,0,New
+RBU48489,Harmoniepad 6 002,2870.0,Apartment,Apartment,260000.0,1.0,78.0,0,0,0,1,7.0,0,,0,
+RBU48488,Harmoniepad 6 001,2870.0,Apartment,Apartment,295000.0,1.0,78.0,0,0,0,1,30.0,1,,0,
+RBU48485,Forum 5 002,2870.0,Apartment,Apartment,295000.0,2.0,97.0,0,0,0,1,10.0,0,2.0,0,
+RBU48486,Forum 7 101,2870.0,Apartment,Apartment,315000.0,2.0,105.0,0,0,0,1,10.0,0,,0,
+RBU48491,Harmoniepad 12 101,2870.0,Apartment,Apartment,325000.0,2.0,92.0,0,0,0,1,12.0,0,,0,
+RBU48490,Harmoniepad 6 202,2870.0,Apartment,Apartment,355000.0,2.0,94.0,0,0,0,1,12.0,0,,0,
+RBU48487,Forum 7 301,2870.0,Apartment,Apartment,420000.0,2.0,99.0,0,0,0,1,43.0,0,4.0,0,
+RBU48493,Harmoniepad 10,2870.0,House,Residence,385000.0,3.0,128.0,0,0,0,1,22.0,0,,0,
+RBU48492,Harmoniepad 8,2870.0,House,Residence,385000.0,3.0,128.0,0,0,0,1,22.0,0,,0,
+RBU47802,Turnhoutsebaan 209-211,2100.0,Apartment,Apartment,224000.0,1.0,67.0,0,0,0,1,6.0,0,2.0,0,New
+RBU47801,Turnhoutsebaan 209-211,2100.0,Apartment,Apartment,286000.0,2.0,92.0,0,0,0,1,10.0,0,2.0,0,New
+RBU51754,Sluis 208 B,2400.0,Apartment,Duplex,349500.0,3.0,133.0,0,0,0,1,26.0,0,,0,
+RBU51752,Sluis 208 A,2400.0,Apartment,Ground floor,325000.0,2.0,107.0,0,0,0,1,17.0,1,,0,
+RBU50385,Oude Weg 19,2950.0,Apartment,Apartment,354000.0,1.0,81.0,0,0,0,1,27.0,0,4.0,0,New
+RBU50389,Oude Weg 19,2950.0,Apartment,Apartment,429000.0,1.0,92.0,0,0,0,1,16.0,1,4.0,0,New
+RBU50386,Oude Weg 19,2950.0,Apartment,Apartment,469000.0,2.0,108.0,0,0,0,1,16.0,0,4.0,0,New
+RBU50387,Oude Weg 20,2950.0,Apartment,Apartment,760000.0,2.0,158.0,0,0,0,1,45.0,0,4.0,0,New
+RBU50388,Oude Weg 19,2950.0,Apartment,Apartment,589000.0,3.0,135.0,0,0,0,1,27.0,1,4.0,0,New
+RBU43482,Haantjeslei 55,2018.0,House,Residence,490000.0,3.0,117.0,0,0,0,1,28.0,1,3.0,0,New
+RBU43487,Haantjeslei 55,2018.0,House,Residence,470000.0,3.0,117.0,0,0,0,1,28.0,1,3.0,0,New
+RBU43486,Haantjeslei 55,2018.0,House,Residence,479500.0,3.0,119.0,0,0,0,1,28.0,1,3.0,0,New
+RBU43485,Haantjeslei 55,2018.0,House,Residence,480000.0,3.0,122.0,0,0,0,1,28.0,1,3.0,0,New
+RBU43483,Haantjeslei 55,2018.0,House,Residence,475000.0,3.0,119.0,0,0,0,1,28.0,1,3.0,0,New
+RBU43481,Haantjeslei 55,2018.0,House,Residence,479900.0,3.0,119.0,0,0,0,1,28.0,1,3.0,0,New
+RBU43480,Haantjeslei 55,2018.0,House,Residence,490000.0,3.0,119.0,0,0,0,1,28.0,1,3.0,0,New
+RBU43479,Haantjeslei 55,2018.0,House,Residence,479500.0,3.0,117.0,0,0,0,1,28.0,1,3.0,0,New
+RBU43478,Haantjeslei 55,2018.0,House,Residence,495000.0,3.0,119.0,0,0,0,1,28.0,1,3.0,0,New
+RBU48612,Olmsebaan 19 11,2450.0,Apartment,Apartment,259080.0,2.0,76.0,1,0,0,1,,0,2.0,0,New
+RBU48613,Olmsebaan 19 12,2450.0,Apartment,Apartment,299460.0,2.0,97.0,1,0,0,1,,0,2.0,0,New
+RBU48611,Olmsebaan 19 02,2450.0,Apartment,Apartment,312000.0,2.0,104.0,1,0,0,1,,0,2.0,0,New
+RBU48610,Olmsebaan 19 01,2450.0,Apartment,Apartment,315000.0,2.0,105.0,1,0,0,1,,0,2.0,0,New
+RBU48614,Olmsebaan 19 21,2450.0,Apartment,Apartment,422720.0,2.0,132.0,1,0,0,1,,0,,0,New
+RBU46109,Kijnigestraat 44,2250.0,Apartment,Duplex,309869.0,2.0,117.0,0,0,0,1,13.0,0,,0,New
+RBU46105,Kijnigestraat 44,2250.0,Apartment,Duplex,319574.0,2.0,129.0,0,0,0,1,19.0,1,,0,New
+RBU46103,Kijnigestraat 44,2250.0,Apartment,Duplex,315692.0,3.0,121.0,0,0,0,1,20.0,0,,0,New
+RBU46101,Kijnigestraat 44,2250.0,Apartment,Duplex,319278.0,3.0,131.0,0,0,0,1,32.0,0,,0,New
+RBU46108,Kijnigestraat 44,2250.0,Apartment,Duplex,334000.0,3.0,146.0,0,0,0,1,21.0,1,,0,New
+RBU46100,Kijnigestraat 44,2250.0,Apartment,Ground floor,265000.0,2.0,87.0,0,0,0,1,16.0,1,,0,New
+RBU46104,Kijnigestraat 44,2250.0,Apartment,Ground floor,285000.0,2.0,93.0,0,0,0,1,17.0,1,,0,New
+RBU46102,Kijnigestraat 44,2250.0,Apartment,Ground floor,285000.0,2.0,95.0,0,0,0,1,16.0,1,,0,New
+RBU46107,Kijnigestraat 44,2250.0,Apartment,Ground floor,286283.0,2.0,92.0,0,0,0,1,26.0,1,,0,New
+RBU46106,Kijnigestraat 44,2250.0,Apartment,Ground floor,309574.0,2.0,114.0,0,0,0,1,29.0,1,,0,New
+RBU50366,Copernicuslaan 1-3,2018.0,Apartment,Apartment,309000.0,1.0,74.0,0,0,0,1,4.0,1,4.0,0,New
+RBU50367,Copernicuslaan 1-3,2018.0,Apartment,Apartment,344000.0,1.0,74.0,0,0,0,1,10.0,1,4.0,0,New
+RBU50368,Copernicuslaan 1-3,2018.0,Apartment,Apartment,449000.0,2.0,102.0,0,0,0,1,12.0,1,4.0,0,New
+RBU50364,Copernicuslaan 1-3,2018.0,Apartment,Apartment,459000.0,2.0,125.0,0,0,0,1,11.0,1,4.0,0,New
+RBU50365,Copernicuslaan 1-3,2018.0,Apartment,Apartment,519000.0,3.0,145.0,0,0,0,1,14.0,1,4.0,0,New
+RBU50369,Copernicuslaan 1-3,2018.0,Apartment,Apartment,564000.0,3.0,126.0,0,0,0,1,18.0,1,4.0,0,New
+RBU45995,Dennendreef 24,2350.0,Apartment,Apartment,295000.0,1.0,78.0,0,0,0,1,24.0,0,3.0,0,New
+RBU45997,Dennendreef 24,2350.0,Apartment,Apartment,364000.0,2.0,98.0,0,0,0,1,45.0,0,3.0,0,New
+RBU45998,Dennendreef 24,2350.0,Apartment,Apartment,368000.0,2.0,93.0,0,0,0,1,29.0,0,3.0,0,New
+RBU46017,Dennendreef 24,2350.0,Apartment,Apartment,369000.0,2.0,99.0,0,0,0,1,29.0,0,3.0,0,New
+RBU46025,Dennendreef 24,2350.0,Apartment,Apartment,375000.0,2.0,93.0,0,0,0,1,27.0,0,3.0,0,New
+RBU46024,Dennendreef 24,2350.0,Apartment,Apartment,385000.0,2.0,96.0,0,0,0,1,24.0,0,3.0,0,New
+RBU46027,Dennendreef 24,2350.0,Apartment,Apartment,395000.0,2.0,93.0,0,0,0,1,29.0,0,3.0,0,New
+RBU46026,Dennendreef 24,2350.0,Apartment,Apartment,395000.0,2.0,98.0,0,0,0,1,45.0,0,3.0,0,New
+RBU46016,Dennendreef 24,2350.0,Apartment,Apartment,395000.0,2.0,94.0,0,0,0,1,25.0,0,3.0,0,New
+RBU46005,Dennendreef 24,2350.0,Apartment,Apartment,401000.0,2.0,106.0,0,0,0,1,20.0,0,3.0,0,New
+RBU45996,Dennendreef 24,2350.0,Apartment,Apartment,420000.0,2.0,112.0,0,0,0,1,27.0,0,3.0,0,New
+RBU46006,Dennendreef 24,2350.0,Apartment,Apartment,449000.0,2.0,127.0,0,0,0,1,37.0,0,3.0,0,New
+RBU46007,Dennendreef 24,2350.0,Apartment,Apartment,495000.0,2.0,133.0,0,0,0,1,53.0,0,3.0,0,New
+RBU46015,Dennendreef 24,2350.0,Apartment,Apartment,600000.0,3.0,171.0,0,0,0,1,87.0,0,3.0,0,New
+RBU45999,,2350.0,Apartment,Apartment,620000.0,3.0,171.0,0,0,0,1,39.0,0,3.0,0,New
+RBU46029,Dennendreef 24,2350.0,Apartment,Apartment,685000.0,3.0,192.0,0,0,0,1,68.0,0,3.0,0,New
+RBU46028,Dennendreef 24,2350.0,Apartment,Apartment,700000.0,3.0,190.0,0,0,0,1,38.0,0,3.0,0,New
+RBU45991,Dennendreef 24,2350.0,Apartment,Ground floor,304000.0,1.0,77.0,0,0,0,1,10.0,0,3.0,0,New
+RBU46011,Dennendreef 24,2350.0,Apartment,Ground floor,307000.0,1.0,73.0,0,0,0,1,42.0,0,3.0,0,New
+RBU45994,Dennendreef 24,2350.0,Apartment,Ground floor,312000.0,1.0,81.0,0,0,0,1,24.0,0,3.0,0,New
+RBU46023,Dennendreef 24,2350.0,Apartment,Ground floor,315000.0,1.0,81.0,0,0,0,1,24.0,0,3.0,0,New
+RBU46013,Dennendreef 24,2350.0,Apartment,Ground floor,315000.0,1.0,78.0,0,0,0,1,11.0,0,3.0,0,New
+RBU46014,Dennendreef 24,2350.0,Apartment,Ground floor,362000.0,2.0,99.0,0,0,0,1,28.0,0,3.0,0,New
+RBU45993,Dennendreef 24,2350.0,Apartment,Ground floor,374000.0,2.0,98.0,0,0,0,1,45.0,0,3.0,0,New
+RBU46021,Dennendreef 24,2350.0,Apartment,Ground floor,375000.0,2.0,93.0,0,0,0,1,27.0,0,3.0,0,New
+RBU46019,Dennendreef 24,2350.0,Apartment,Ground floor,380000.0,2.0,96.0,0,0,0,1,10.0,0,3.0,0,New
+RBU46012,Dennendreef 24,2350.0,Apartment,Ground floor,380000.0,2.0,99.0,0,0,0,1,44.0,0,3.0,0,New
+RBU46002,Dennendreef 24,2350.0,Apartment,Ground floor,396000.0,2.0,106.0,0,0,0,1,20.0,0,3.0,0,New
+RBU46022,Dennendreef 24,2350.0,Apartment,Ground floor,410000.0,2.0,98.0,0,0,0,1,45.0,0,3.0,0,New
+RBU45992,Dennendreef 24,2350.0,Apartment,Ground floor,417000.0,2.0,112.0,0,0,0,1,27.0,0,3.0,0,New
+RBU46004,Dennendreef 24,2350.0,Apartment,Ground floor,431000.0,2.0,119.0,0,0,0,1,48.0,0,3.0,0,New
+RBU46003,Dennendreef 24,2350.0,Apartment,Ground floor,438000.0,2.0,121.0,0,0,0,1,37.0,0,3.0,0,New
+RBU46001,Dennendreef 24,2350.0,Apartment,Penthouse,379000.0,2.0,98.0,0,0,0,1,39.0,0,3.0,0,New
+RBU46008,Dennendreef 24,2350.0,Apartment,Penthouse,401000.0,2.0,106.0,0,0,0,1,20.0,0,3.0,0,New
+RBU46000,Dennendreef 24,2350.0,Apartment,Penthouse,407000.0,2.0,112.0,0,0,0,1,27.0,0,3.0,0,New
+RBU46009,Dennendreef 24,2350.0,Apartment,Penthouse,460000.0,2.0,127.0,0,0,0,1,37.0,0,3.0,0,New
+RBU46010,Dennendreef 24,2350.0,Apartment,Penthouse,499000.0,2.0,133.0,0,0,0,1,47.0,0,3.0,0,New
+RBU46018,Dennendreef 24,2350.0,Apartment,Penthouse,630000.0,3.0,171.0,0,0,0,1,81.0,0,3.0,0,New
+RBU40939,Kerkplein 32-34,2300.0,Apartment,Apartment,,1.0,103.0,0,0,0,1,20.0,1,3.0,0,New
+RBU40948,Kerkplein 32-34,2300.0,Apartment,Apartment,149000.0,1.0,62.0,0,0,0,1,,1,3.0,0,New
+RBU40947,Kerkplein 32-34,2300.0,Apartment,Apartment,155000.0,1.0,62.0,0,0,0,1,5.0,1,3.0,0,New
+RBU40937,Kerkplein 32-34,2300.0,Apartment,Apartment,159000.0,1.0,67.0,0,0,0,1,,1,3.0,0,New
+RBU40946,Kerkplein 32-34,2300.0,Apartment,Apartment,175000.0,1.0,70.0,0,0,0,1,5.0,1,3.0,0,New
+RBU40944,Kerkplein 32-34,2300.0,Apartment,Apartment,195000.0,1.0,81.0,0,0,0,1,,1,3.0,0,New
+RBU40935,Kerkplein 32-34,2300.0,Apartment,Apartment,199000.0,1.0,83.0,0,0,0,1,,1,3.0,0,New
+RBU40936,Kerkplein 32-34,2300.0,Apartment,Apartment,209000.0,1.0,87.0,0,0,0,1,,1,3.0,0,New
+RBU40940,Kerkplein 32-34,2300.0,Apartment,Apartment,235000.0,1.0,92.0,0,0,0,1,18.0,1,3.0,0,New
+RBU40934,Kerkplein 32-34,2300.0,Apartment,Apartment,285000.0,1.0,109.0,0,0,0,1,3.0,1,3.0,0,New
+RBU40943,Kerkplein 32-34,2300.0,Apartment,Apartment,269000.0,2.0,96.0,0,0,0,1,5.0,1,3.0,0,New
+RBU40941,Kerkplein 32-34,2300.0,Apartment,Apartment,355000.0,2.0,131.0,0,0,0,1,,1,3.0,0,New
+RBU40945,Kerkplein 32-34,2300.0,Apartment,Apartment,399000.0,3.0,159.0,0,0,0,1,,1,3.0,0,New
+RBU40942,Kerkplein 32-34,2300.0,Apartment,Apartment,549000.0,4.0,209.0,0,0,0,1,18.0,1,3.0,0,New
+RBU36202,Hoeksken 12,2275.0,House,Residence,589000.0,3.0,217.0,0,0,0,1,28.0,1,3.0,0,New
+RBU36203,Hoeksken 14,2275.0,House,Residence,609000.0,4.0,276.0,0,0,0,1,28.0,1,3.0,0,New
+RBU38146,Pettendonk 62,2500.0,Apartment,Apartment,302000.0,2.0,93.0,0,0,0,1,8.0,1,2.0,0,New
+RBU38147,Pettendonk 62,2500.0,Apartment,Apartment,417600.0,2.0,128.0,0,0,0,1,23.0,1,2.0,0,New
+RBU36792,'s Herenbaan 239-241 017,2850.0,Apartment,Apartment,299000.0,2.0,83.0,0,0,0,1,9.0,0,3.0,0,New
+RBU36793,'s Herenbaan 239-241 018,2850.0,Apartment,Apartment,319000.0,2.0,82.0,0,0,0,1,17.0,0,3.0,0,New
+RBU36791,'s Herenbaan 239-241 016,2850.0,Apartment,Apartment,329000.0,2.0,93.0,0,0,0,1,10.0,0,3.0,0,New
+RBU36789,Antwerpsestraat 497 015,2850.0,Apartment,Apartment,349000.0,2.0,100.0,0,0,0,1,12.0,0,3.0,0,New
+RBU36015,Koning Leopoldlaan 5,2260.0,Apartment,Penthouse,535000.0,3.0,118.0,0,0,0,1,30.0,0,4.0,0,New
+RBU38151,Willibrordusstraat,2560.0,House,Residence,445000.0,3.0,176.0,0,0,0,1,17.0,1,3.0,0,New
+RBU38152,Willibrordusstraat,2560.0,House,Residence,464000.0,3.0,176.0,0,0,0,1,18.0,1,3.0,0,New
+RBU36194,Puntstraat,2250.0,Apartment,Apartment,294500.0,2.0,120.0,0,0,0,1,,1,4.0,0,New
+RBU36193,Puntstraat,2250.0,Apartment,Apartment,299500.0,2.0,120.0,0,0,0,1,,1,4.0,0,New
+RBU36196,Puntstraat,2250.0,Apartment,Apartment,314500.0,2.0,118.0,0,0,0,1,30.0,1,4.0,0,New
+RBU36197,Puntstraat,2250.0,Apartment,Apartment,424500.0,3.0,142.0,0,0,0,1,25.0,1,4.0,0,New
+RBU36195,Puntstraat,2250.0,Apartment,Apartment,494500.0,3.0,173.0,0,0,0,1,64.0,1,4.0,0,New
+RBU36146,Tramstraat 4 A,2300.0,House,Residence,334700.0,3.0,144.0,0,0,0,1,9.0,1,,0,New
+RBU36147,Tramstraat 4 B,2300.0,House,Residence,344700.0,3.0,144.0,0,0,0,1,9.0,1,,0,New
+RBU39964,Bredabaan 537,2930.0,Apartment,Apartment,408000.0,2.0,105.0,0,0,0,1,8.0,0,2.0,0,New
+RBU39967,Bredabaan 537,2930.0,Apartment,Apartment,421000.0,2.0,105.0,0,0,0,1,8.0,0,2.0,0,New
+RBU39966,Bredabaan 537,2930.0,Apartment,Apartment,473500.0,2.0,118.0,0,0,0,1,18.0,0,2.0,0,New
+RBU39968,Bredabaan 537,2930.0,Apartment,Apartment,485000.0,2.0,118.0,0,0,0,1,18.0,0,2.0,0,New
+RBU39962,Bredabaan 537,2930.0,Apartment,Ground floor,275000.0,1.0,77.0,0,0,0,1,6.0,0,2.0,0,New
+RBU39963,Bredabaan 537,2930.0,Apartment,Ground floor,289000.0,1.0,76.0,0,0,0,1,11.0,0,2.0,0,New
+RBU39969,Bredabaan 537,2930.0,Apartment,Penthouse,546500.0,1.0,102.0,0,0,0,1,94.0,0,2.0,0,New
+RBU38091,Eikevlietbaan 44A 1,2870.0,Apartment,Apartment,359000.0,2.0,98.0,0,0,0,1,12.0,1,4.0,0,New
+RBU38090,Eikevlietbaan 44B 2,2870.0,Apartment,Apartment,359000.0,2.0,98.0,0,0,0,1,11.0,1,4.0,0,New
+RBU38092,Eikevlietbaan 44A 2,2870.0,Apartment,Apartment,381000.0,2.0,104.0,0,0,0,1,13.0,1,4.0,0,New
+RBU38089,Eikevlietbaan 44B 1,2870.0,Apartment,Apartment,369000.0,2.0,106.0,0,0,0,1,11.0,1,4.0,0,New
+RBU38085,Eikevlietbaan 46 3,2870.0,Apartment,Apartment,419000.0,2.0,110.0,0,0,0,1,21.0,1,4.0,0,New
+RBU38084,Eikevlietbaan 46 2,2870.0,Apartment,Apartment,482000.0,3.0,138.0,0,0,0,1,34.0,1,4.0,0,New
+RBU38083,Eikevlietbaan 46 1,2870.0,Apartment,Apartment,485000.0,3.0,135.0,0,0,0,1,35.0,1,4.0,0,New
+RBU38094,Eikevlietbaan 44A 101,2870.0,Apartment,Penthouse,368000.0,2.0,98.0,0,0,0,1,12.0,1,4.0,0,New
+RBU38095,Eikevlietbaan 44A 102,2870.0,Apartment,Penthouse,379000.0,2.0,98.0,0,0,0,1,12.0,1,4.0,0,New
+RBU38088,Eikevlietbaan 46 103,2870.0,Apartment,Penthouse,454000.0,2.0,111.0,0,0,0,1,21.0,1,4.0,0,New
+RBU38093,Eikevlietbaan 44B 101,2870.0,Apartment,Penthouse,379000.0,2.0,98.0,0,0,0,1,11.0,1,4.0,0,New
+RBU38087,Eikevlietbaan 46 102,2870.0,Apartment,Penthouse,489000.0,3.0,134.0,0,0,0,1,21.0,1,4.0,0,New
+RBU38086,Eikevlietbaan 46 101,2870.0,Apartment,Penthouse,486000.0,3.0,130.0,0,0,0,1,19.0,1,4.0,0,New
+RBU38169,Eikevlietbaan 44B 102,2870.0,Apartment,Penthouse,368000.0,2.0,98.0,0,0,0,1,11.0,1,4.0,0,New
+RBU40035,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,1.0,69.0,0,0,0,1,6.0,1,4.0,0,New
+RBU40034,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,1.0,74.0,0,0,0,1,10.0,1,4.0,0,New
+RBU40015,Mechelsesteenweg 200,2550.0,Apartment,Apartment,326797.0,2.0,97.0,0,0,0,1,,1,4.0,0,New
+RBU40032,Mechelsesteenweg 200,2550.0,Apartment,Apartment,332715.0,2.0,98.0,0,0,0,1,13.0,1,4.0,0,New
+RBU40016,Mechelsesteenweg 200,2550.0,Apartment,Apartment,344598.0,2.0,103.0,0,0,0,1,,1,4.0,0,New
+RBU40038,Mechelsesteenweg 200,2550.0,Apartment,Apartment,372874.0,2.0,115.0,0,0,0,1,14.0,1,4.0,0,New
+RBU40037,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,95.0,0,0,0,1,15.0,1,4.0,0,New
+RBU40036,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,86.0,0,0,0,1,10.0,1,4.0,0,New
+RBU40031,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,99.0,0,0,0,1,13.0,1,4.0,0,New
+RBU40029,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,101.0,0,0,0,1,13.0,1,4.0,0,New
+RBU40027,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,98.0,0,0,0,1,13.0,1,4.0,0,New
+RBU40025,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,105.0,0,0,0,1,10.0,1,4.0,0,New
+RBU40014,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,98.0,0,0,0,1,,1,4.0,0,New
+RBU40011,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,104.0,0,0,0,1,,1,4.0,0,New
+RBU40010,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,96.0,0,0,0,1,,1,4.0,0,New
+RBU40009,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,2.0,102.0,0,0,0,1,,1,4.0,0,New
+RBU40033,Mechelsesteenweg 200,2550.0,Apartment,Apartment,327617.0,2.0,101.0,0,0,0,1,13.0,1,4.0,0,New
+RBU40023,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,3.0,110.0,0,0,0,1,10.0,1,4.0,0,New
+RBU40021,Mechelsesteenweg 200,2550.0,Apartment,Apartment,250000.0,3.0,108.0,0,0,0,1,10.0,1,4.0,0,New
+RBU40020,Mechelsesteenweg 200,2550.0,Apartment,Apartment,340748.0,3.0,108.0,0,0,0,1,10.0,1,4.0,0,New
+RBU35964,Doornstraat 181,2610.0,Apartment,Apartment,284900.0,1.0,78.0,0,0,0,1,6.0,1,4.0,0,New
+RBU35963,Doornstraat 181,2610.0,Apartment,Apartment,319900.0,2.0,92.0,0,0,0,1,12.0,1,4.0,0,New
+RBU35962,Doornstraat 181,2610.0,Apartment,Apartment,374900.0,2.0,109.0,0,0,0,1,15.0,1,4.0,0,New
+RBU36182,P. Verhaertstraat 6,2250.0,House,Residence,485000.0,3.0,214.0,0,0,0,1,23.0,1,3.0,0,New
+RBU36183,P. Verhaertstraat 6,2250.0,House,Residence,515000.0,4.0,245.0,0,0,0,1,27.0,1,3.0,0,New
+RBU36113,Dessauerplein 1,2300.0,Apartment,Apartment,189000.0,1.0,59.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36073,Dessauerplein 1,2300.0,Apartment,Apartment,189000.0,1.0,60.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36076,Dessauerplein 1,2300.0,Apartment,Apartment,192000.0,1.0,60.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36109,Dessauerplein 1,2300.0,Apartment,Apartment,195000.0,1.0,66.0,0,0,0,1,7.0,0,3.0,0,New
+RBU36074,Dessauerplein 1,2300.0,Apartment,Apartment,195000.0,1.0,65.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36123,Dessauerplein 1,2300.0,Apartment,Apartment,197000.0,1.0,61.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36080,Dessauerplein 1,2300.0,Apartment,Apartment,197000.0,1.0,60.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36110,Dessauerplein 1,2300.0,Apartment,Apartment,199000.0,1.0,68.0,0,0,0,1,7.0,0,3.0,0,New
+RBU36075,Dessauerplein 1,2300.0,Apartment,Apartment,199000.0,1.0,68.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36078,Dessauerplein 1,2300.0,Apartment,Apartment,202000.0,1.0,65.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36083,Dessauerplein 1,2300.0,Apartment,Apartment,204000.0,1.0,64.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36114,Dessauerplein 1,2300.0,Apartment,Apartment,205000.0,1.0,66.0,0,0,0,1,4.0,0,3.0,0,New
+RBU36120,Dessauerplein 1,2300.0,Apartment,Apartment,210000.0,1.0,66.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36091,Dessauerplein 1,2300.0,Apartment,Apartment,211000.0,1.0,71.0,0,0,0,1,12.0,0,3.0,0,New
+RBU36115,Dessauerplein 1,2300.0,Apartment,Apartment,212000.0,1.0,68.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36127,Dessauerplein 1,2300.0,Apartment,Apartment,227000.0,1.0,68.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36111,Dessauerplein 1,2300.0,Apartment,Apartment,229000.0,1.0,83.0,0,0,0,1,7.0,0,3.0,0,New
+RBU36116,Dessauerplein 1,2300.0,Apartment,Apartment,239000.0,1.0,83.0,0,0,0,1,9.0,0,3.0,0,New
+RBU36086,Dessauerplein 1,2300.0,Apartment,Apartment,242000.0,1.0,79.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36122,Dessauerplein 1,2300.0,Apartment,Apartment,244000.0,1.0,83.0,0,0,0,1,9.0,0,3.0,0,New
+RBU36128,Dessauerplein 1,2300.0,Apartment,Apartment,252000.0,1.0,83.0,0,0,0,1,9.0,0,3.0,0,New
+RBU36090,Dessauerplein 1,2300.0,Apartment,Apartment,189000.0,1.0,58.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36095,Dessauerplein 1,2300.0,Apartment,Apartment,192000.0,1.0,58.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36100,Dessauerplein 1,2300.0,Apartment,Apartment,197000.0,1.0,58.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36106,Dessauerplein 1,2300.0,Apartment,Apartment,202000.0,1.0,56.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36105,Dessauerplein 1,2300.0,Apartment,Apartment,202000.0,1.0,58.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36094,Dessauerplein 1,2300.0,Apartment,Apartment,202000.0,1.0,65.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36087,Dessauerplein 1,2300.0,Apartment,Apartment,205000.0,1.0,72.0,0,0,0,1,5.0,0,3.0,0,New
+RBU36099,Dessauerplein 1,2300.0,Apartment,Apartment,207000.0,1.0,65.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36093,Dessauerplein 1,2300.0,Apartment,Apartment,209000.0,1.0,68.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36102,Dessauerplein 1,2300.0,Apartment,Apartment,212000.0,1.0,59.0,0,0,0,1,18.0,0,3.0,0,New
+RBU36092,Dessauerplein 1,2300.0,Apartment,Apartment,212000.0,1.0,72.0,0,0,0,1,6.0,0,3.0,0,New
+RBU36098,Dessauerplein 1,2300.0,Apartment,Apartment,214000.0,1.0,68.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36097,Dessauerplein 1,2300.0,Apartment,Apartment,217000.0,1.0,72.0,0,0,0,1,7.0,0,3.0,0,New
+RBU36104,Dessauerplein 1,2300.0,Apartment,Apartment,219000.0,1.0,65.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36103,Dessauerplein 1,2300.0,Apartment,Apartment,227000.0,1.0,59.0,0,0,0,1,8.0,0,3.0,0,New
+RBU36112,Dessauerplein 1,2300.0,Apartment,Apartment,269000.0,2.0,94.0,0,0,0,1,10.0,0,3.0,0,New
+RBU36133,Dessauerplein 1,2300.0,Apartment,Apartment,399000.0,2.0,122.0,0,0,0,1,56.0,0,3.0,0,New
+RBU36096,Dessauerplein 1,2300.0,Apartment,Apartment,265000.0,2.0,86.0,0,0,0,1,10.0,0,3.0,0,New
+RBU36101,Dessauerplein 1,2300.0,Apartment,Apartment,270000.0,2.0,86.0,0,0,0,1,10.0,0,3.0,0,New
+RBU36108,Dessauerplein 1,2300.0,Apartment,Apartment,299000.0,2.0,88.0,0,0,0,1,41.0,0,3.0,0,New
+RBU36107,Dessauerplein 1,2300.0,Apartment,Apartment,399000.0,3.0,128.0,0,0,0,1,55.0,0,3.0,0,New
+RBU35877,Aalscholverlaan 97,2050.0,Apartment,Apartment,339500.0,2.0,95.0,0,0,0,1,16.0,1,4.0,0,New
+RBU35876,Aalscholverlaan 97,2050.0,Apartment,Apartment,359500.0,2.0,101.0,0,0,0,1,14.0,1,4.0,0,New
+RBU35881,Aalscholverlaan 97,2050.0,Apartment,Apartment,410000.0,2.0,116.0,0,0,0,1,18.0,0,4.0,0,New
+RBU35878,Aalscholverlaan 97,2050.0,Apartment,Apartment,425000.0,3.0,134.0,0,0,0,1,12.0,1,4.0,0,New
+RBU35879,Aalscholverlaan 97,2050.0,Apartment,Apartment,455000.0,3.0,133.0,0,0,0,1,24.0,0,4.0,0,New
+RBU35882,Aalscholverlaan 97,2050.0,Apartment,Apartment,462500.0,3.0,133.0,0,0,0,1,24.0,1,4.0,0,New
+RBU35885,Aalscholverlaan 97,2050.0,Apartment,Apartment,477500.0,3.0,133.0,0,0,0,1,24.0,1,4.0,0,New
+RBU35944,Sportweg,2940.0,Apartment,Apartment,275000.0,1.0,75.0,0,0,0,1,16.0,0,4.0,0,New
+RBU35946,Sportweg,2940.0,Apartment,Apartment,285000.0,1.0,75.0,0,0,0,1,6.0,1,4.0,0,New
+RBU35938,Sportweg,2940.0,Apartment,Apartment,295000.0,1.0,75.0,0,0,0,1,16.0,0,4.0,0,New
+RBU35940,Sportweg,2940.0,Apartment,Apartment,302000.0,1.0,75.0,0,0,0,1,14.0,0,4.0,0,New
+RBU35947,Sportweg,2940.0,Apartment,Apartment,350000.0,2.0,100.0,0,0,0,1,14.0,0,4.0,0,New
+RBU35945,Sportweg,2940.0,Apartment,Apartment,355000.0,2.0,95.0,0,0,0,1,16.0,0,4.0,0,New
+RBU35941,Sportweg,2940.0,Apartment,Apartment,360000.0,2.0,95.0,0,0,0,1,18.0,0,4.0,0,New
+RBU35951,Sportweg,2940.0,Apartment,Apartment,365000.0,2.0,95.0,0,0,0,1,18.0,0,4.0,0,New
+RBU35952,Sportweg,2940.0,Apartment,Apartment,385000.0,2.0,106.0,0,0,0,1,9.0,1,4.0,0,New
+RBU35943,Sportweg,2940.0,Apartment,Apartment,490000.0,2.0,124.0,0,0,0,1,36.0,0,4.0,0,New
+RBU35950,Sportweg,2940.0,Apartment,Apartment,350000.0,2.0,101.0,0,0,0,1,11.0,0,4.0,0,New
+RBU35949,Sportweg,2940.0,Apartment,Apartment,385000.0,2.0,105.0,0,0,0,1,36.0,0,4.0,0,New
+RBU35939,Sportweg,2940.0,Apartment,Apartment,450000.0,3.0,131.0,0,0,0,1,24.0,0,4.0,0,New
+RBU35942,Sportweg,2940.0,Apartment,Apartment,435000.0,3.0,120.0,0,0,0,1,24.0,1,4.0,0,New
+RBU35948,Sportweg,2940.0,Apartment,Apartment,480000.0,3.0,142.0,0,0,0,1,25.0,0,4.0,0,New
+RBU41641,Olenseweg 40,2200.0,Apartment,Apartment,391380.0,3.0,171.0,0,0,0,1,28.0,0,3.0,0,New
+RBU35926,Herentalsebaan 260,2160.0,Apartment,Apartment,219000.0,1.0,54.0,0,0,0,1,2.0,1,2.0,0,New
+RBU35930,Herentalsebaan 260,2160.0,Apartment,Apartment,225000.0,1.0,54.0,0,0,0,1,2.0,1,2.0,0,New
+RBU35925,Herentalsebaan 260,2160.0,Apartment,Apartment,289000.0,2.0,75.0,0,0,0,1,4.0,1,2.0,0,New
+RBU35924,Herentalsebaan 260,2160.0,Apartment,Apartment,289000.0,2.0,75.0,0,0,0,1,7.0,1,2.0,0,New
+RBU35920,Herentalsebaan 260,2160.0,Apartment,Apartment,289000.0,2.0,77.0,0,0,0,1,4.0,1,2.0,0,New
+RBU35929,Herentalsebaan 260,2160.0,Apartment,Apartment,329000.0,3.0,83.0,0,0,0,1,9.0,1,2.0,0,New
+RBU35918,Herentalsebaan 260,2160.0,Apartment,Ground floor,255000.0,1.0,65.0,0,0,0,1,19.0,1,2.0,0,New
+RBU35919,Herentalsebaan 260,2160.0,Apartment,Ground floor,295000.0,1.0,72.0,0,0,0,1,19.0,1,2.0,0,New
+RBU35916,Herentalsebaan 260,2160.0,Apartment,Ground floor,299000.0,2.0,77.0,0,0,0,1,19.0,1,2.0,0,New
+RBU38717,Steenbergen 10,2430.0,Apartment,Apartment,227000.0,2.0,85.0,0,0,0,1,9.0,1,4.0,0,New
+RBU38714,Steenbergen 10,2430.0,Apartment,Ground floor,235000.0,2.0,90.0,0,0,0,1,11.0,0,4.0,0,New
+RBU38715,Steenbergen 10,2430.0,Apartment,Ground floor,257000.0,2.0,91.0,0,0,0,1,23.0,1,4.0,0,New
+RBU38716,Steenbergen 10,2430.0,Apartment,Ground floor,292000.0,3.0,109.0,0,0,0,1,24.0,1,4.0,0,New
+RBU35833,Molenstraat 4-6,2490.0,Apartment,Apartment,372000.0,3.0,126.0,0,0,0,1,25.0,0,3.0,0,New
+RBU35832,Molenstraat 4-6,2490.0,Apartment,Ground floor,372000.0,3.0,126.0,0,0,0,1,32.0,0,3.0,0,New
+RBU35830,Molenstraat 4-6,2490.0,Apartment,Penthouse,290000.0,2.0,107.0,0,0,0,1,14.0,0,3.0,0,New
+RBU35831,Molenstraat 4-6,2490.0,Apartment,Penthouse,499000.0,3.0,159.0,0,0,0,1,35.0,0,3.0,0,New
+RBU35834,Molenstraat 4-6,2490.0,Apartment,Penthouse,372000.0,3.0,126.0,0,0,0,1,25.0,0,3.0,0,New
+RBU35755,Veststraat 3,2490.0,Apartment,Apartment,285000.0,3.0,106.0,0,0,0,1,26.0,0,3.0,0,New
+RBU35754,Veststraat 3,2490.0,Apartment,Apartment,295000.0,3.0,112.0,0,0,0,1,26.0,0,3.0,0,New
+RBU35753,Veststraat 3,2490.0,Apartment,Ground floor,245000.0,2.0,92.0,0,0,0,1,18.0,0,3.0,0,New
+RBU35752,Veststraat 3,2490.0,Apartment,Ground floor,225000.0,2.0,86.0,0,0,0,1,18.0,0,3.0,0,New
+RBU28740,Pullaarsteenweg,2870.0,Apartment,Apartment,270441.0,2.0,89.0,0,0,0,1,14.0,0,,0,New
+RBU28739,Pullaarsteenweg,2870.0,Apartment,Apartment,273254.0,2.0,90.0,0,0,0,1,14.0,0,,0,New
+RBU28737,Pullaarsteenweg,2870.0,Apartment,Apartment,276533.0,2.0,94.0,0,0,0,1,12.0,0,,0,New
+RBU28741,Pullaarsteenweg,2870.0,Apartment,Apartment,277966.0,2.0,90.0,0,0,0,1,14.0,0,,0,New
+RBU28738,Pullaarsteenweg,2870.0,Apartment,Apartment,309843.0,2.0,94.0,0,0,0,1,12.0,0,,0,New
+RBU28736,Pullaarsteenweg,2870.0,Apartment,Apartment,313375.0,2.0,96.0,0,0,0,1,9.0,0,,0,New
+RBU28743,Pullaarsteenweg,2870.0,Apartment,Apartment,318686.0,2.0,94.0,0,0,0,1,12.0,0,,0,New
+RBU28742,Pullaarsteenweg,2870.0,Apartment,Apartment,318686.0,2.0,96.0,0,0,0,1,9.0,0,,0,New
+RBU28734,Pullaarsteenweg 0.5,2870.0,House,Residence,373450.0,3.0,142.0,0,0,0,1,16.0,1,2.0,0,New
+RBU28733,Pullaarsteenweg,2870.0,House,Residence,376118.0,3.0,141.0,0,0,0,1,15.0,1,3.0,0,New
+RBU28735,Pullaarsteenweg 0.6,2870.0,House,Residence,377088.0,3.0,141.0,0,0,0,1,15.0,1,3.0,0,New
+RBU28731,Pullaarsteenweg 0.2,2870.0,House,Residence,388000.0,3.0,142.0,0,0,0,1,16.0,1,2.0,0,New
+RBU28732,Pullaarsteenweg 0.3,2870.0,House,Residence,391638.0,3.0,140.0,0,0,0,1,15.0,1,3.0,0,New
+RBU23181,,2018.0,Apartment,Apartment,,2.0,96.0,0,0,0,1,15.0,1,,0,New
+RBU23179,Van Eycklei 27,2018.0,Apartment,Apartment,,2.0,96.0,0,0,0,1,15.0,1,,0,New
+RBU23178,,2018.0,Apartment,Apartment,,2.0,91.0,0,0,0,1,25.0,1,,0,New
+RBU23180,,2018.0,Apartment,Apartment,545000.0,2.0,96.0,0,0,0,1,15.0,1,,0,New
+RBU23182,,2018.0,Apartment,Penthouse,1020000.0,4.0,160.0,0,0,0,1,25.0,1,,0,New
+RBU26771,Kleistraat,2220.0,House,Residence,449000.0,3.0,181.0,0,0,0,1,,1,2.0,0,New
+RBU26769,Kleistraat,2220.0,House,Residence,449000.0,3.0,174.0,0,0,0,1,,1,2.0,0,New
+RBU26766,Kleistraat,2220.0,House,Residence,475000.0,3.0,158.0,0,0,0,1,,1,3.0,0,New
+RBU26767,Kleistraat,2220.0,House,Residence,495000.0,3.0,176.0,0,0,0,1,,1,3.0,0,New
+RBU23017,Schoolstraat 1,2235.0,House,Residence,312000.0,2.0,106.0,0,0,0,1,11.0,0,2.0,0,New
+RBU23016,Schoolstraat 1,2235.0,House,Residence,409750.0,3.0,136.0,0,0,0,1,11.0,0,2.0,0,New
+RBU23018,Schoolstraat 1,2235.0,House,Residence,434566.0,4.0,148.0,0,0,0,1,36.0,0,2.0,0,New
+RBU32504,Pastoor Segersstraat 1,2250.0,House,Residence,314280.0,3.0,121.0,0,0,0,1,24.0,1,3.0,0,New
+RBU32503,Pastoor Segersstraat 1,2250.0,House,Residence,334165.0,3.0,130.0,0,0,0,1,19.0,1,3.0,0,New
+RBU32501,Pastoor Segersstraat 1,2250.0,House,Residence,341308.0,3.0,161.0,0,0,0,1,19.0,1,3.0,0,New
+RBU32502,Pastoor Segersstraat 1,2250.0,House,Residence,351784.0,3.0,161.0,0,0,0,1,18.0,1,3.0,0,New
+RBU32500,Pastoor Segersstraat 1,2250.0,House,Residence,341308.0,3.0,161.0,0,0,0,1,18.0,1,3.0,0,New
+RBU32499,Pastoor Segersstraat 1,2250.0,House,Residence,351208.0,3.0,161.0,0,0,0,1,18.0,1,3.0,0,New
+RBU32025,Molenveld 2,2490.0,Apartment,Apartment,272000.0,1.0,90.0,0,0,0,1,29.0,1,2.0,0,New
+RBU32026,Molenveld 2,2490.0,Apartment,Apartment,273000.0,2.0,100.0,0,0,0,1,10.0,1,2.0,0,New
+RBU32027,Molenveld 2,2490.0,Apartment,Apartment,317000.0,2.0,115.0,0,0,0,1,11.0,0,2.0,0,New
+RBU32024,Molenveld 2,2490.0,Apartment,Apartment,340000.0,2.0,133.0,0,0,0,1,29.0,1,2.0,0,New
+RBU32028,Molenveld 2,2490.0,Apartment,Apartment,312000.0,2.0,108.0,0,0,0,1,14.0,0,2.0,0,New
+RBU32031,Molenveld 2,2490.0,Apartment,Apartment,329000.0,2.0,108.0,0,0,0,1,7.0,0,2.0,0,New
+RBU32029,Molenveld 2,2490.0,Apartment,Apartment,320000.0,3.0,121.0,0,0,0,1,7.0,0,2.0,0,New
+RBU32030,Molenveld 2,2490.0,Apartment,Apartment,334000.0,3.0,103.0,0,0,0,1,17.0,0,2.0,0,New
+RBU34295,Aalscholverlaan 97,2050.0,Apartment,Apartment,325000.0,2.0,96.0,0,0,0,1,7.0,1,4.0,0,New
+RBU34301,Aalscholverlaan 97,2050.0,Apartment,Apartment,332500.0,2.0,98.0,0,0,0,1,7.0,1,4.0,0,New
+RBU34290,Aalscholverlaan 97,2050.0,Apartment,Apartment,335500.0,2.0,98.0,0,0,0,1,9.0,0,4.0,0,New
+RBU34289,Aalscholverlaan 97,2050.0,Apartment,Apartment,341500.0,2.0,99.0,0,0,0,1,12.0,1,4.0,0,New
+RBU34307,Aalscholverlaan 97,2050.0,Apartment,Apartment,342000.0,2.0,98.0,0,0,0,1,7.0,1,4.0,0,New
+RBU34299,Aalscholverlaan 97,2050.0,Apartment,Apartment,321500.0,2.0,92.0,0,0,0,1,7.0,1,4.0,0,New
+RBU34296,Aalscholverlaan 97,2050.0,Apartment,Apartment,345000.0,2.0,98.0,0,0,0,1,9.0,1,4.0,0,New
+RBU27391,Oostmalsesteenweg 54,2520.0,House,Residence,440000.0,3.0,174.0,0,0,0,1,13.0,1,3.0,0,New
+RBU27395,Oostmalsesteenweg 54,2520.0,House,Residence,480715.0,3.0,179.0,0,0,0,1,15.0,1,3.0,0,New
+RBU27394,Oostmalsesteenweg 54,2520.0,House,Residence,455000.0,3.0,179.0,0,0,0,1,15.0,1,3.0,0,New
+RBU27393,Oostmalsesteenweg 54,2520.0,House,Residence,460000.0,3.0,181.0,0,0,0,1,15.0,1,3.0,0,New
+RBU27388,Oostmalsesteenweg 54,2520.0,House,Residence,459000.0,3.0,179.0,0,0,0,1,15.0,1,3.0,0,New
+RBU27612,Schoolstraat 1,2235.0,Apartment,Apartment,241392.0,1.0,63.0,0,0,0,1,6.0,0,2.0,0,New
+RBU27613,Schoolstraat 1,2235.0,Apartment,Apartment,366667.0,3.0,120.0,0,0,0,1,10.0,0,2.0,0,New
+RBU35841,Corbiestraat 1,2400.0,Apartment,Penthouse,255000.0,2.0,81.0,0,0,0,1,15.0,0,2.0,0,New
+RBU33022,,2050.0,Apartment,Apartment,,1.0,68.0,0,0,0,1,13.0,1,,0,New
+RBU33021,,2050.0,Apartment,Apartment,,2.0,96.0,0,0,0,1,22.0,1,,0,New
+RBU33020,,2050.0,Apartment,Apartment,,2.0,102.0,0,0,0,1,7.0,1,,0,New
+RBU33019,,2050.0,Apartment,Apartment,,2.0,100.0,0,0,0,1,19.0,1,,0,New
+RBU33014,,2050.0,Apartment,Apartment,,2.0,94.0,0,0,0,1,10.0,1,,0,New
+RBU33013,,2050.0,Apartment,Apartment,,2.0,92.0,0,0,0,1,13.0,1,,0,New
+RBU35671,Boeretang 275-277,2400.0,Apartment,Apartment,315000.0,2.0,104.0,0,0,0,1,,1,2.0,0,Normal
+RBU35656,Boeretang 276,2400.0,Apartment,Apartment,315000.0,2.0,104.0,0,0,0,1,,1,2.0,0,Normal
+RBU35670,Boeretang 275-276,2400.0,Apartment,Apartment,315456.0,2.0,101.0,0,0,0,1,,1,2.0,0,Normal
+RBU35655,Boeretang 276,2400.0,Apartment,Apartment,317000.0,2.0,101.0,0,0,0,1,,1,2.0,0,Normal
+RBU35683,Boeretang 275-289,2400.0,Apartment,Apartment,,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35682,Boeretang 275-288,2400.0,Apartment,Apartment,,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35681,Boeretang 275-287,2400.0,Apartment,Apartment,,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35680,Boeretang 275-286,2400.0,Apartment,Apartment,,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35679,Boeretang 275-285,2400.0,Apartment,Apartment,,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35678,Boeretang 275-284,2400.0,Apartment,Apartment,,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35676,Boeretang 275-282,2400.0,Apartment,Apartment,,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35675,Boeretang 275-281,2400.0,Apartment,Apartment,,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35674,Boeretang 275-280,2400.0,Apartment,Apartment,,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35672,Boeretang 275-278,2400.0,Apartment,Apartment,258187.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35673,Boeretang 275-279,2400.0,Apartment,Apartment,319000.0,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35659,Boeretang 276,2400.0,Apartment,Apartment,319000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35658,Boeretang 276,2400.0,Apartment,Apartment,321000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35660,Boeretang 276,2400.0,Apartment,Apartment,323000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35677,Boeretang 275-283,2400.0,Apartment,Apartment,325000.0,3.0,107.0,0,0,0,1,,1,2.0,0,Normal
+RBU35663,Boeretang 276,2400.0,Apartment,Apartment,325000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35662,Boeretang 276,2400.0,Apartment,Apartment,327000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35664,Boeretang 276,2400.0,Apartment,Apartment,329000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35667,Boeretang 276,2400.0,Apartment,Apartment,331000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35666,Boeretang 276,2400.0,Apartment,Apartment,333000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35668,Boeretang 276,2400.0,Apartment,Apartment,335000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35665,Boeretang 276,2400.0,Apartment,Apartment,337000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35669,Boeretang 276,2400.0,Apartment,Apartment,343000.0,3.0,107.0,0,0,0,1,17.0,1,2.0,0,Normal
+RBU35397,Kleine Molenweg 39,2940.0,Apartment,Apartment,242400.0,1.0,75.0,0,0,0,1,12.0,1,2.0,0,New
+RBU35395,Kleine Molenweg 39,2940.0,Apartment,Apartment,999999.0,2.0,,0,0,0,1,,1,2.0,0,New
+RBU35396,Kleine Molenweg 39,2940.0,Apartment,Apartment,265000.0,2.0,84.0,0,0,0,1,13.0,1,2.0,0,New
+RBU28366,Nieuwstraat 14,2260.0,Apartment,Apartment,314000.0,1.0,89.0,0,0,0,1,17.0,1,4.0,0,New
+RBU28368,Nieuwstraat 14,2260.0,Apartment,Apartment,415000.0,2.0,115.0,0,0,0,1,31.0,1,4.0,0,New
+RBU28365,Nieuwstraat 14,2260.0,Apartment,Apartment,440000.0,3.0,161.0,0,0,0,1,17.0,0,4.0,0,New
+RBU28364,Nieuwstraat 14,2260.0,Apartment,Ground floor,310000.0,1.0,85.0,0,0,0,1,16.0,1,4.0,0,New
+RBU28362,Nieuwstraat 14,2260.0,Apartment,Ground floor,385000.0,2.0,105.0,0,0,0,1,20.0,1,4.0,0,New
+RBU28363,Nieuwstraat 14,2260.0,Apartment,Ground floor,385000.0,2.0,101.0,0,0,0,1,24.0,1,4.0,0,New
+RBU28367,Nieuwstraat 14,2260.0,Apartment,Penthouse,560000.0,4.0,180.0,0,0,0,1,77.0,1,4.0,0,New
+RBU32923,Doelweg 1,2220.0,Apartment,Apartment,300000.0,2.0,123.0,0,0,0,1,13.0,0,4.0,0,New
+RBU32922,Doelweg 1,2220.0,Apartment,Apartment,594900.0,2.0,159.0,0,0,0,1,46.0,0,4.0,0,New
+RBU32921,Doelweg 1,2220.0,Apartment,Apartment,300000.0,2.0,126.0,0,0,0,1,14.0,0,4.0,0,New
+RBU32920,Doelweg 1,2220.0,Apartment,Apartment,389900.0,2.0,121.0,0,0,0,1,19.0,1,4.0,0,New
+RBU32919,Doelweg 1,2220.0,Apartment,Apartment,328900.0,2.0,93.0,0,0,0,1,19.0,1,4.0,0,New
+RBU32505,Pastoor Segersstraat 1,2250.0,Apartment,Apartment,261350.0,1.0,74.0,0,0,0,1,11.0,1,4.0,0,New
+RBU32506,Pastoor Segersstraat 1,2250.0,Apartment,Apartment,321552.0,2.0,96.0,0,0,0,1,17.0,1,4.0,0,New
+RBU33366,Steenovens 16,2200.0,House,Residence,430000.0,3.0,196.0,0,0,0,1,21.0,1,3.0,0,New
+RBU33365,Steenovens 14,2200.0,House,Residence,430000.0,3.0,196.0,0,0,0,1,21.0,1,3.0,0,New
+RBU33363,Olenseweg 15,2200.0,House,Residence,431000.0,3.0,199.0,0,0,0,1,22.0,1,3.0,0,New
+RBU33362,Steenovens 19,2200.0,House,Residence,436000.0,3.0,199.0,0,0,0,1,22.0,1,3.0,0,New
+RBU33367,Steenovens 18,2200.0,House,Residence,445000.0,3.0,196.0,0,0,0,1,21.0,1,3.0,0,New
+RBU33364,Steenovens 12,2200.0,House,Residence,454000.0,3.0,212.0,0,0,0,1,23.0,1,3.0,0,New
+RBU33369,Olenseweg 15,2200.0,House,Residence,455000.0,3.0,199.0,0,0,0,1,25.0,1,3.0,0,New
+RBU33361,Olenseweg 15,2200.0,House,Residence,460000.0,3.0,209.0,0,0,0,1,22.0,1,3.0,0,New
+RBU33360,Olenseweg 15,2200.0,House,Residence,475500.0,3.0,209.0,0,0,0,1,23.0,1,3.0,0,New
+RBU34284,Aalscholverlaan 97,2050.0,House,Residence,417500.0,3.0,140.0,0,0,0,1,10.0,1,4.0,0,New
+RBU34283,Aalscholverlaan 97,2050.0,House,Residence,439500.0,3.0,148.0,0,0,0,1,10.0,1,4.0,0,New
+RBU19162,Adrien de Gerlachestraat 31,2650.0,Apartment,Apartment,429000.0,2.0,96.0,0,0,0,1,8.0,0,4.0,0,New
+RBU19161,Adrien de Gerlachestraat 31,2650.0,Apartment,Apartment,449000.0,2.0,99.0,0,0,0,1,19.0,0,4.0,0,New
+RBT83050,Liersesteenweg 19 1.10,2590.0,Apartment,Apartment,235000.0,1.0,81.0,0,0,0,1,11.0,0,2.0,0,New
+RBU09063,Maasstraat 41 4,2300.0,Apartment,Apartment,278400.0,1.0,87.0,0,0,0,1,10.0,0,3.0,0,New
+RBU09064,Maasstraat 41 5,2300.0,Apartment,Apartment,320000.0,2.0,100.0,0,0,0,1,25.0,0,3.0,0,New
+RBU09060,Maasstraat 41 1,2300.0,Apartment,Apartment,323340.0,2.0,102.0,0,0,0,1,18.0,1,3.0,0,New
+RBU09062,Maasstraat 41 3,2300.0,Apartment,Apartment,337050.0,2.0,107.0,0,0,0,1,15.0,0,3.0,0,New
+RBU09061,Maasstraat 41 2,2300.0,Apartment,Apartment,333900.0,2.0,106.0,0,0,0,1,22.0,1,3.0,0,New
+RWC40537,Sluislaan 18,2500.0,Apartment,Apartment,348000.0,2.0,108.0,1,0,0,1,12.0,0,,0,Excellent
+RWC40536,Sluislaan 18,2500.0,Apartment,Apartment,348000.0,2.0,103.0,1,0,0,1,10.0,0,,0,Excellent
+RWC40538,Sluislaan 18,2500.0,Apartment,Apartment,350500.0,2.0,108.0,1,0,0,1,14.0,0,,0,
+RWC40539,Sluislaan 18,2500.0,Apartment,Apartment,356500.0,2.0,111.0,1,0,0,1,13.0,0,,0,Excellent
+RBT83043,,2430.0,Apartment,Apartment,244000.0,1.0,77.0,0,0,0,1,10.0,1,2.0,0,New
+RBT83042,,2430.0,Apartment,Apartment,234000.0,1.0,72.0,0,0,0,1,12.0,1,2.0,0,New
+RBT83046,,2430.0,Apartment,Apartment,289000.0,2.0,89.0,0,0,0,1,30.0,1,2.0,0,New
+RBT83044,,2430.0,Apartment,Apartment,294000.0,2.0,90.0,0,0,0,1,16.0,1,2.0,0,New
+RBT83048,,2430.0,Apartment,Apartment,309000.0,2.0,104.0,0,0,0,1,23.0,1,2.0,0,New
+RBT83045,,2430.0,Apartment,Apartment,319000.0,3.0,104.0,0,0,0,1,17.0,1,2.0,0,New
+RBU19591,Burchtstraat 14,2200.0,Apartment,Apartment,249000.0,1.0,67.0,0,0,0,1,8.0,1,2.0,0,New
+RBU19589,Burchtstraat 14,2200.0,Apartment,Apartment,285000.0,1.0,84.0,0,0,0,1,10.0,1,2.0,0,New
+RBU19588,Burchtstraat 14,2200.0,Apartment,Apartment,270000.0,1.0,84.0,0,0,0,1,10.0,1,2.0,0,New
+RBU19586,Burchtstraat 14,2200.0,Apartment,Apartment,299725.0,1.0,88.0,0,0,0,1,8.0,1,2.0,0,New
+RBU19583,Burchtstraat 14,2200.0,Apartment,Apartment,237000.0,1.0,60.0,0,0,0,1,10.0,1,2.0,0,New
+RBU19590,Burchtstraat 14,2200.0,Apartment,Apartment,345000.0,2.0,100.0,0,0,0,1,8.0,1,2.0,0,New
+RBU19574,Burchtstraat 14,2200.0,Apartment,Apartment,383250.0,2.0,110.0,0,0,0,1,45.0,1,2.0,0,New
+RBU19572,Burchtstraat 14,2200.0,Apartment,Apartment,340000.0,2.0,104.0,0,0,0,1,16.0,1,2.0,0,New
+RBU19570,Burchtstraat 14,2200.0,Apartment,Apartment,355000.0,2.0,85.0,0,0,0,1,18.0,0,2.0,0,New
+RBU19578,Burchtstraat 14,2200.0,Apartment,Apartment,390000.0,3.0,111.0,0,0,0,1,26.0,1,2.0,0,New
+RBU19573,Burchtstraat 14,2200.0,Apartment,Duplex,390000.0,3.0,165.0,0,0,0,1,10.0,1,2.0,0,New
+RBU19587,Burchtstraat 14,2200.0,Apartment,Ground floor,265000.0,1.0,84.0,0,0,0,1,10.0,1,2.0,0,New
+RBU19585,Burchtstraat 14,2200.0,Apartment,Ground floor,220000.0,1.0,60.0,0,0,0,1,6.0,1,2.0,0,New
+RBU19581,Burchtstraat 14,2200.0,Apartment,Ground floor,227500.0,1.0,64.0,0,0,0,1,9.0,1,2.0,0,New
+RBU19580,Burchtstraat 14,2200.0,Apartment,Ground floor,205000.0,1.0,58.0,0,0,0,1,13.0,1,2.0,0,New
+RBU19584,Burchtstraat 14,2200.0,Apartment,Ground floor,340000.0,2.0,99.0,0,0,0,1,,1,2.0,0,New
+RBU19569,Burchtstraat 14,2200.0,Apartment,Ground floor,445000.0,2.0,146.0,0,0,0,1,,1,2.0,0,New
+RBU19571,Burchtstraat 14,2200.0,Apartment,Penthouse,497000.0,2.0,116.0,0,0,0,1,46.0,1,2.0,0,New
+RBU19582,Burchtstraat 14,2200.0,Apartment,Penthouse,360000.0,2.0,88.0,0,0,0,1,11.0,1,2.0,0,New
+RBU19579,Burchtstraat 14,2200.0,Apartment,Penthouse,515000.0,2.0,141.0,0,0,0,1,26.0,1,2.0,0,New
+RBU19577,Burchtstraat 14,2200.0,Apartment,Penthouse,400000.0,2.0,102.0,0,0,0,1,10.0,1,2.0,0,New
+RBU19576,Burchtstraat 14,2200.0,Apartment,Penthouse,405000.0,2.0,114.0,0,0,0,1,12.0,1,2.0,0,New
+RBU19575,Burchtstraat 14,2200.0,Apartment,Penthouse,385000.0,2.0,110.0,0,0,0,1,10.0,1,2.0,0,New
+RBU19592,Burchtstraat 14,2200.0,Apartment,Penthouse,460000.0,3.0,128.0,0,0,0,1,28.0,1,2.0,0,New
+RBU20980,Molenstraat 15,2235.0,House,Residence,598000.0,5.0,240.0,0,0,0,1,48.0,1,4.0,0,New
+RBU20979,Molenstraat 15,2235.0,House,Residence,598000.0,5.0,240.0,0,0,0,1,45.0,1,4.0,0,New
+RBT88142,Burchtstraat 14,2200.0,House,Residence,365000.0,3.0,124.0,0,0,0,1,,1,2.0,0,New
+RBU19511,Zilverenhoeksteenweg 73,2920.0,House,Residence,448439.0,3.0,182.0,0,0,0,1,,1,3.0,0,New
+RBU19510,Zilverenhoeksteenweg 73,2920.0,House,Residence,460761.0,3.0,182.0,0,0,0,1,,1,3.0,0,New
+RBU19509,Zilverenhoeksteenweg 73,2920.0,House,Residence,592099.0,3.0,182.0,0,0,0,1,,1,3.0,0,New
+RBU19508,Zilverenhoeksteenweg 73,2920.0,House,Residence,657581.0,3.0,183.0,0,0,0,1,,1,3.0,0,New
+RBT78080,Kapmes 24 102,2500.0,Apartment,Apartment,282022.0,2.0,99.0,0,0,0,1,10.0,0,2.0,0,New
+RBU21602,Schoolstraat 1,2235.0,Apartment,Apartment,241392.0,1.0,63.0,0,0,0,1,6.0,1,2.0,0,New
+RBU21601,Schoolstraat 1,2235.0,Apartment,Apartment,331500.0,2.0,105.0,0,0,0,1,11.0,1,2.0,0,New
+RBU21603,Schoolstraat 1,2235.0,Apartment,Apartment,366667.0,3.0,120.0,0,0,0,1,10.0,1,2.0,0,New
+RBU21605,Schoolstraat 1,2235.0,House,Residence,312000.0,2.0,106.0,0,0,0,1,11.0,1,2.0,0,New
+RBU21604,Schoolstraat 1,2235.0,House,Residence,409750.0,3.0,136.0,0,0,0,1,11.0,1,2.0,0,New
+RBU21606,Schoolstraat 1,2235.0,House,Residence,434566.0,4.0,148.0,0,0,0,1,36.0,1,2.0,0,New
+RBU21305,t Binnenhof 8,2450.0,House,Residence,308000.0,3.0,133.0,0,0,0,1,15.0,1,2.0,0,New
+RBU21302,t Binnenhof 4,2450.0,House,Residence,313000.0,3.0,133.0,0,0,0,1,15.0,1,2.0,0,New
+RBU21310,t Binnenhof 12,2450.0,House,Residence,316000.0,3.0,133.0,0,0,0,1,15.0,1,2.0,0,New
+RBU21309,t Binnenhof 13,2450.0,House,Residence,316000.0,3.0,133.0,0,0,0,1,15.0,1,2.0,0,New
+RBU21296,Doornboomstraat 3,2450.0,House,Residence,321000.0,3.0,140.0,0,0,0,1,15.0,1,3.0,0,New
+RBU21297,Doornboomstraat 2,2450.0,House,Residence,322000.0,3.0,155.0,0,0,0,1,15.0,1,3.0,0,New
+RBU21298,Doornboomstraat 4,2450.0,House,Residence,324000.0,3.0,155.0,0,0,0,1,15.0,1,3.0,0,New
+RBU21303,t Binnenhof 5,2450.0,House,Residence,328000.0,3.0,152.0,0,0,0,1,15.0,1,3.0,0,New
+RBU21307,t Binnenhof 10,2450.0,House,Residence,332000.0,3.0,155.0,0,0,0,1,15.0,1,3.0,0,New
+RBU21299,t Binnenhof 1,2450.0,House,Residence,336000.0,3.0,152.0,0,0,0,1,15.0,1,3.0,0,New
+RBU21311,t Binnenhof 11,2450.0,House,Residence,340000.0,3.0,152.0,0,0,0,1,15.0,1,3.0,0,New
+RBU21308,t Binnenhof 14,2450.0,House,Residence,345000.0,3.0,155.0,0,0,0,1,15.0,1,3.0,0,New
+RBU21304,t Binnenhof 7,2450.0,House,Residence,345000.0,3.0,133.0,0,0,0,1,15.0,1,2.0,0,New
+RBU21306,t Binnenhof 9,2450.0,House,Residence,395000.0,3.0,133.0,0,0,0,1,15.0,1,2.0,0,New
+RBU21301,t Binnenhof 3,2450.0,House,Residence,313000.0,3.0,133.0,0,0,0,1,15.0,1,2.0,0,New
+RBU21300,t Binnenhof 2,2450.0,House,Residence,313000.0,3.0,133.0,0,0,0,1,15.0,1,2.0,0,New
+RBU21295,Doornboomstraat 1,2450.0,House,Residence,333000.0,3.0,140.0,0,0,0,1,15.0,1,3.0,0,New
+RBT78118,Veststraat 7 11,2490.0,House,Residence,394000.0,3.0,158.0,0,0,0,0,,1,3.0,0,New
+RBT78119,Veststraat 7 10,2490.0,House,Residence,396000.0,3.0,158.0,0,0,0,0,,1,3.0,0,New
+RBT76356,Haverdries 6,2235.0,House,Residence,407450.0,3.0,143.0,0,0,0,1,19.0,1,3.0,0,New
+RBT76354,Hoogzand 11,2235.0,House,Residence,462700.0,3.0,183.0,0,0,0,1,45.0,1,3.0,0,New
+RBT76355,Hoogzand 13,2235.0,House,Residence,479800.0,3.0,192.0,0,0,0,1,48.0,1,3.0,0,New
+RBT77699,Kapmes 24 301,2500.0,Apartment,Apartment,227595.0,1.0,61.0,0,0,0,1,26.0,0,2.0,0,New
+RBT77701,Kapmes 22 301,2500.0,Apartment,Apartment,228544.0,1.0,59.0,0,0,0,1,26.0,0,2.0,0,New
+RBT77664,Kapmes 10 301,2500.0,Apartment,Apartment,238493.0,1.0,66.0,0,0,0,1,15.0,0,2.0,0,New
+RBT77663,Kapmes 10 302,2500.0,Apartment,Apartment,238493.0,1.0,65.0,0,0,0,1,15.0,0,2.0,0,New
+RBT77662,Kapmes 8 301,2500.0,Apartment,Apartment,238493.0,1.0,65.0,0,0,0,1,15.0,1,2.0,0,New
+RBT77661,Kapmes 6 302,2500.0,Apartment,Apartment,238493.0,1.0,65.0,0,0,0,1,15.0,0,2.0,0,New
+RBT77666,Kapmes 12 302,2500.0,Apartment,Apartment,239442.0,1.0,58.0,0,0,0,1,34.0,0,2.0,0,New
+RBT77681,Kapmes 14 201,2500.0,Apartment,Apartment,239523.0,1.0,61.0,0,0,0,1,26.0,0,2.0,0,New
+RBT77688,Kapmes 24 1,2500.0,Apartment,Apartment,238452.0,1.0,76.0,0,0,0,1,12.0,0,2.0,0,New
+RBT77685,Kapmes 20 201,2500.0,Apartment,Apartment,239523.0,1.0,59.0,0,0,0,1,26.0,0,2.0,0,New
+RBT77665,Kapmes 12 301,2500.0,Apartment,Apartment,279032.0,1.0,69.0,0,0,0,1,35.0,0,2.0,0,New
+RBT77652,Kapmes 10 102,2500.0,Apartment,Apartment,238442.0,2.0,80.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77660,Kapmes 6 301,2500.0,Apartment,Apartment,269186.0,2.0,74.0,0,0,0,1,34.0,0,2.0,0,New
+RBT77692,Kapmes 22 102,2500.0,Apartment,Apartment,282022.0,2.0,95.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77691,Kapmes 24 101,2500.0,Apartment,Apartment,282022.0,2.0,91.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77697,Kapmes 22 201,2500.0,Apartment,Apartment,283022.0,2.0,95.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77696,Kapmes 22 202,2500.0,Apartment,Apartment,283022.0,2.0,95.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77695,Kapmes 24 201,2500.0,Apartment,Apartment,283022.0,2.0,91.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77694,Kapmes 24 202,2500.0,Apartment,Apartment,283022.0,2.0,99.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77655,Kapmes 12 102,2500.0,Apartment,Apartment,288961.0,2.0,92.0,0,0,0,1,6.0,0,2.0,0,New
+RBT77658,Kapmes 12 202,2500.0,Apartment,Apartment,289940.0,2.0,92.0,0,0,0,1,6.0,0,2.0,0,New
+RBT77678,Kapmes 18 102,2500.0,Apartment,Apartment,291981.0,2.0,94.0,0,0,0,1,13.0,0,2.0,0,New
+RBT77676,Kapmes 16 102,2500.0,Apartment,Apartment,291981.0,2.0,94.0,0,0,0,1,13.0,1,2.0,0,New
+RBT77675,Kapmes 14 101,2500.0,Apartment,Apartment,291981.0,2.0,92.0,0,0,0,1,13.0,0,2.0,0,New
+RBT77649,Kapmes 6 102,2500.0,Apartment,Apartment,295961.0,2.0,97.0,0,0,0,1,15.0,0,2.0,0,New
+RBT77656,Kapmes 6 202,2500.0,Apartment,Apartment,297421.0,2.0,97.0,0,0,0,1,15.0,0,2.0,0,New
+RBT77654,Kapmes 12 101,2500.0,Apartment,Apartment,324520.0,2.0,94.0,0,0,0,1,21.0,0,2.0,0,New
+RBT77657,Kapmes 12 201,2500.0,Apartment,Apartment,329520.0,2.0,94.0,0,0,0,1,21.0,0,2.0,0,New
+RBT77659,Kapmes 6 303,2500.0,Apartment,Apartment,376855.0,2.0,95.0,0,0,0,1,42.0,0,2.0,0,New
+RBT77693,Kapmes 22 101,2500.0,Apartment,Apartment,282022.0,2.0,95.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77687,Kapmes 24 2,2500.0,Apartment,Apartment,277022.0,2.0,96.0,0,0,0,1,12.0,0,2.0,0,New
+RBT77686,Kapmes 18 101,2500.0,Apartment,Apartment,291981.0,2.0,92.0,0,0,0,1,13.0,0,2.0,0,New
+RBT77680,Kapmes 20 101,2500.0,Apartment,Apartment,292981.0,2.0,95.0,0,0,0,1,13.0,0,2.0,0,New
+RBT77679,Kapmes 20 102,2500.0,Apartment,Apartment,291981.0,2.0,94.0,0,0,0,1,13.0,1,2.0,0,New
+RBT77677,Kapmes 16 101,2500.0,Apartment,Apartment,291981.0,2.0,92.0,0,0,0,1,13.0,0,2.0,0,New
+RBT77674,Kapmes 14 102,2500.0,Apartment,Apartment,326623.0,2.0,97.0,0,0,0,1,21.0,0,2.0,0,New
+RBT77653,Kapmes 10 101,2500.0,Apartment,Apartment,239390.0,2.0,87.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77651,Kapmes 8 101,2500.0,Apartment,Apartment,238442.0,2.0,80.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77650,Kapmes 8 102,2500.0,Apartment,Apartment,238442.0,2.0,81.0,0,0,0,1,10.0,0,2.0,0,New
+RBT77670,Kapmes 16 2,2500.0,Apartment,Apartment,286981.0,2.0,91.0,0,0,0,1,16.0,0,2.0,0,New
+RBT77700,Kapmes 22 302,2500.0,Apartment,Apartment,425395.0,3.0,116.0,0,0,0,1,41.0,0,2.0,0,New
+RBT77684,Kapmes 20 202,2500.0,Apartment,Apartment,425395.0,3.0,116.0,0,0,0,1,39.0,0,2.0,0,New
+RBT77683,Kapmes 18 201,2500.0,Apartment,Apartment,425395.0,3.0,116.0,0,0,0,1,39.0,0,2.0,0,New
+RBT77682,Kapmes 16 201,2500.0,Apartment,Apartment,425395.0,3.0,116.0,0,0,0,1,40.0,0,2.0,0,New
+RBT77646,Kapmes 8 2,2500.0,Apartment,Ground floor,214749.0,1.0,65.0,0,0,0,1,11.0,0,2.0,0,New
+RBT77669,Kapmes 14 1,2500.0,Apartment,Ground floor,247390.0,1.0,77.0,0,0,0,1,16.0,0,2.0,0,New
+RBT77690,Kapmes 22 1,2500.0,Apartment,Ground floor,238452.0,1.0,80.0,0,0,0,1,12.0,0,2.0,0,New
+RBT77671,Kapmes 16 1,2500.0,Apartment,Ground floor,247390.0,1.0,77.0,0,0,0,1,16.0,0,2.0,0,New
+RBT77644,Kapmes 6 1,2500.0,Apartment,Ground floor,199902.0,1.0,67.0,0,0,0,1,8.0,0,2.0,0,New
+RBT77668,Kapmes 14 2,2500.0,Apartment,Ground floor,286981.0,2.0,94.0,0,0,0,1,16.0,1,2.0,0,New
+RBT77648,Kapmes 12 2,2500.0,Apartment,Ground floor,288961.0,2.0,92.0,0,0,0,1,20.0,0,2.0,0,New
+RBT77645,Kapmes 6 2,2500.0,Apartment,Ground floor,290961.0,2.0,97.0,0,0,0,1,21.0,0,2.0,0,New
+RBT77647,Kapmes 12 1,2500.0,Apartment,Ground floor,319520.0,2.0,94.0,0,0,0,1,28.0,0,2.0,0,New
+RBT77689,Kapmes 22 2,2500.0,Apartment,Ground floor,277022.0,2.0,92.0,0,0,0,1,12.0,0,2.0,0,New
+RBT77673,Kapmes 20 2,2500.0,Apartment,Ground floor,291981.0,2.0,91.0,0,0,0,1,16.0,0,2.0,0,New
+RBT77672,Kapmes 18 2,2500.0,Apartment,Ground floor,286981.0,2.0,91.0,0,0,0,1,16.0,0,2.0,0,New
+RBT77643,Kapmes 6 3,2500.0,Apartment,Ground floor,227595.0,2.0,77.0,0,0,0,1,23.0,0,2.0,0,New
+RBU09172,Acacialaan 69,2200.0,House,Residence,374000.0,3.0,162.0,0,0,0,1,17.0,1,2.0,0,New
+RBU09170,Acacialaan 69,2200.0,House,Residence,377000.0,3.0,162.0,0,0,0,1,17.0,1,2.0,0,New
+RBU09168,Acacialaan 69,2200.0,House,Residence,390000.0,3.0,171.0,0,0,0,1,18.0,1,2.0,0,New
+RBU09169,Acacialaan 69,2200.0,House,Residence,403000.0,3.0,171.0,0,0,0,1,19.0,1,2.0,0,New
+RBT88056,Olenseweg 187,2260.0,House,Residence,440000.0,4.0,215.0,0,0,0,1,32.0,0,3.0,0,New
+RBT74794,Sint-Jacobsmarkt 5-7,2000.0,Apartment,Apartment,489000.0,2.0,104.0,0,0,0,1,7.0,1,2.0,0,New
+RBT74793,Sint-Jacobsmarkt 5-7,2000.0,Apartment,Ground floor,365000.0,1.0,74.0,0,0,0,1,8.0,1,2.0,0,New
+RBT74789,Sint-Jacobsmarkt 5-7,2000.0,Apartment,Ground floor,369000.0,1.0,85.0,0,0,0,1,,1,2.0,0,New
+RBT74790,Sint-Jacobsmarkt 5-7,2000.0,Apartment,Ground floor,498000.0,2.0,100.0,0,0,0,1,5.0,1,2.0,0,New
+RBT74792,Sint-Jacobsmarkt 5-7,2000.0,Apartment,Studio,335000.0,1.0,63.0,0,0,0,1,9.0,1,2.0,0,New
+RBT74791,Sint-Jacobsmarkt 5-7,2000.0,Apartment,Studio,335000.0,1.0,67.0,0,0,0,1,9.0,1,2.0,0,New
+RBU20629,Jozef de Blockstraat,2830.0,House,Residence,,3.0,183.0,1,0,0,1,,1,3.0,0,New
+RBU20627,,2830.0,House,Residence,,3.0,182.0,1,0,0,1,,1,2.0,0,New
+RBU20628,,2830.0,House,Residence,,4.0,191.0,1,0,0,1,,1,2.0,0,New
+RBU20626,Jozef de Blockstraat,2830.0,House,Residence,,4.0,192.0,1,0,0,1,,1,3.0,0,New
+RBU15264,Bosstraat,2500.0,Apartment,Apartment,259900.0,2.0,85.0,0,0,0,1,38.0,1,4.0,0,New
+RBU15263,Bosstraat,2500.0,Apartment,Apartment,239900.0,2.0,98.0,0,0,0,1,21.0,1,4.0,0,New
+RBU15261,Bosstraat,2500.0,Apartment,Apartment,224900.0,2.0,85.0,0,0,0,1,30.0,1,4.0,0,New
+RBU15260,Bosstraat,2500.0,Apartment,Apartment,234900.0,2.0,98.0,0,0,0,1,21.0,1,4.0,0,New
+RBU15257,Bosstraat,2500.0,Apartment,Apartment,209900.0,2.0,83.0,0,0,0,1,11.0,0,4.0,0,New
+RBU15256,Bosstraat,2500.0,Apartment,Apartment,209900.0,2.0,83.0,0,0,0,1,11.0,1,4.0,0,New
+RBU15247,Bosstraat,2500.0,Apartment,Apartment,284900.0,2.0,102.0,0,0,0,1,29.0,0,4.0,0,New
+RBU15246,Bosstraat,2500.0,Apartment,Apartment,249900.0,2.0,94.0,0,0,0,1,13.0,1,4.0,0,New
+RBU15245,Bosstraat,2500.0,Apartment,Apartment,232900.0,2.0,78.0,0,0,0,1,15.0,1,4.0,0,New
+RBU15244,Bosstraat,2500.0,Apartment,Apartment,294900.0,2.0,102.0,0,0,0,1,29.0,1,4.0,0,New
+RBU15243,Bosstraat,2500.0,Apartment,Apartment,239900.0,2.0,94.0,0,0,0,1,13.0,0,4.0,0,New
+RBU15242,Bosstraat,2500.0,Apartment,Apartment,219900.0,2.0,78.0,0,0,0,1,15.0,0,4.0,0,New
+RBU15241,Bosstraat,2500.0,Apartment,Apartment,289900.0,2.0,102.0,0,0,0,1,20.0,1,4.0,0,New
+RBU15240,Bosstraat,2500.0,Apartment,Apartment,272500.0,2.0,94.0,0,0,0,1,13.0,0,4.0,0,New
+RBU15239,Bosstraat,2500.0,Apartment,Apartment,286900.0,2.0,102.0,0,0,0,1,23.0,0,4.0,0,New
+RBU15238,Bosstraat,2500.0,Apartment,Apartment,267500.0,2.0,94.0,0,0,0,1,13.0,1,4.0,0,New
+RBU15237,Bosstraat,2500.0,Apartment,Apartment,197900.0,2.0,78.0,0,0,0,1,13.0,1,4.0,0,New
+RBU15236,Bosstraat,2500.0,Apartment,Apartment,274900.0,2.0,102.0,0,0,0,1,23.0,1,4.0,0,New
+RBU15235,Bosstraat,2500.0,Apartment,Apartment,254900.0,2.0,94.0,0,0,0,1,7.0,0,4.0,0,New
+RBU15234,Bosstraat,2500.0,Apartment,Apartment,192900.0,2.0,78.0,0,0,0,1,13.0,0,4.0,0,New
+RBU15233,Bosstraat,2500.0,Apartment,Apartment,272900.0,2.0,102.0,0,0,0,1,23.0,1,4.0,0,New
+RBU15232,Bosstraat,2500.0,Apartment,Apartment,224900.0,2.0,94.0,0,0,0,1,7.0,0,4.0,0,New
+RBU15231,Bosstraat,2500.0,Apartment,Apartment,189900.0,2.0,78.0,0,0,0,1,12.0,1,4.0,0,New
+RBU15265,Bosstraat,2500.0,Apartment,Apartment,269900.0,3.0,111.0,0,0,0,1,21.0,1,4.0,0,New
+RBU15262,Bosstraat,2500.0,Apartment,Apartment,299900.0,3.0,111.0,0,0,0,1,15.0,1,4.0,0,New
+RBU15258,Bosstraat,2500.0,Apartment,Apartment,289900.0,3.0,111.0,0,0,0,1,15.0,1,4.0,0,New
+RBU15255,Bosstraat,2500.0,Apartment,Apartment,289900.0,3.0,111.0,0,0,0,1,15.0,0,4.0,0,New
+RBU15229,Bosstraat,2500.0,Apartment,Ground floor,199900.0,1.0,80.0,0,0,0,1,21.0,0,4.0,0,New
+RBU15254,Bosstraat,2500.0,Apartment,Ground floor,249900.0,2.0,94.0,0,0,0,1,18.0,1,4.0,0,New
+RBU15253,Bosstraat,2500.0,Apartment,Ground floor,234900.0,2.0,83.0,0,0,0,1,19.0,1,4.0,0,New
+RBU15252,Bosstraat,2500.0,Apartment,Ground floor,234900.0,2.0,83.0,0,0,0,1,24.0,1,4.0,0,New
+RBU15251,Bosstraat,2500.0,Apartment,Ground floor,256900.0,2.0,94.0,0,0,0,1,39.0,1,4.0,0,New
+RBU15230,Bosstraat,2500.0,Apartment,Ground floor,277900.0,2.0,102.0,0,0,0,1,50.0,0,4.0,0,New
+RBU15228,Bosstraat,2500.0,Apartment,Ground floor,214900.0,2.0,78.0,0,0,0,1,31.0,1,4.0,0,New
+RBU15266,Bosstraat,2500.0,Apartment,Penthouse,249900.0,2.0,86.0,0,0,0,1,38.0,1,4.0,0,New
+RBU15250,Bosstraat,2500.0,Apartment,Penthouse,319900.0,2.0,102.0,0,0,0,1,29.0,0,4.0,0,New
+RBU15249,Bosstraat,2500.0,Apartment,Penthouse,289900.0,2.0,94.0,0,0,0,1,13.0,1,4.0,0,New
+RBU15248,Bosstraat,2500.0,Apartment,Penthouse,252900.0,2.0,78.0,0,0,0,1,15.0,1,4.0,0,New
+RBU15267,Bosstraat,2500.0,Apartment,Penthouse,299900.0,3.0,111.0,0,0,0,1,21.0,1,4.0,0,New
+RBT63008,Ertbrandstraat,2950.0,Apartment,Apartment,279500.0,1.0,75.0,1,0,0,1,10.0,0,4.0,0,New
+RBT63004,Ertbrandstraat,2950.0,Apartment,Apartment,303500.0,1.0,66.0,1,0,0,1,,0,4.0,0,New
+RBT63001,Ertbrandstraat,2950.0,Apartment,Apartment,275500.0,1.0,67.0,1,0,0,1,25.0,0,4.0,0,New
+RBT62996,Ertbrandstraat,2950.0,Apartment,Apartment,282000.0,1.0,74.0,1,0,0,1,10.0,0,4.0,0,New
+RBT62986,Ertbrandstraat,2950.0,Apartment,Apartment,257500.0,1.0,62.0,0,0,0,1,24.0,0,4.0,0,New
+RBT62985,Ertbrandstraat,2950.0,Apartment,Apartment,287000.0,1.0,70.0,1,0,0,1,28.0,0,4.0,0,New
+RBT62981,Ertbrandstraat,2950.0,Apartment,Apartment,334500.0,1.0,90.0,1,0,0,1,11.0,0,4.0,0,New
+RBT62978,Ertbrandstraat,2950.0,Apartment,Apartment,215500.0,1.0,57.0,1,0,0,1,4.0,0,4.0,0,New
+RBT62976,Ertbrandstraat,2950.0,Apartment,Apartment,99999.0,1.0,,1,0,0,1,,0,4.0,0,New
+RBT62990,Ertbrandstraat,2950.0,Apartment,Apartment,312500.0,2.0,88.0,1,0,0,1,10.0,1,4.0,0,New
+RBT63011,Ertbrandstraat,2950.0,Apartment,Apartment,329500.0,2.0,91.0,1,0,0,1,11.0,1,4.0,0,New
+RBT63009,Ertbrandstraat,2950.0,Apartment,Apartment,338000.0,2.0,95.0,1,0,0,1,9.0,1,4.0,0,New
+RBT62994,Ertbrandstraat,2950.0,Apartment,Apartment,342500.0,2.0,93.0,1,0,0,1,11.0,0,4.0,0,New
+RBT63007,Ertbrandstraat,2950.0,Apartment,Apartment,345500.0,2.0,96.0,1,0,0,1,10.0,1,4.0,0,New
+RBT62993,Ertbrandstraat,2950.0,Apartment,Apartment,346500.0,2.0,96.0,1,0,0,1,13.0,0,4.0,0,New
+RBT62995,Ertbrandstraat,2950.0,Apartment,Apartment,348500.0,2.0,97.0,1,0,0,1,11.0,0,4.0,0,New
+RBT62997,Ertbrandstraat,2950.0,Apartment,Apartment,361500.0,2.0,98.0,1,0,0,1,5.0,0,4.0,0,New
+RBT62999,Ertbrandstraat,2950.0,Apartment,Apartment,362500.0,2.0,96.0,1,0,0,1,11.0,0,4.0,0,New
+RBT63000,Ertbrandstraat,2950.0,Apartment,Apartment,365000.0,2.0,99.0,1,0,0,1,9.0,0,4.0,0,New
+RBT62998,Ertbrandstraat,2950.0,Apartment,Apartment,370500.0,2.0,103.0,1,0,0,1,10.0,0,4.0,0,New
+RBT63010,Ertbrandstraat,2950.0,Apartment,Apartment,311500.0,2.0,87.0,1,0,0,1,11.0,1,4.0,0,New
+RBT63003,Ertbrandstraat,2950.0,Apartment,Apartment,359000.0,2.0,95.0,1,0,0,1,23.0,0,4.0,0,New
+RBT62992,Ertbrandstraat,2950.0,Apartment,Apartment,99999.0,2.0,,1,0,0,1,,0,4.0,0,New
+RBT62991,Ertbrandstraat,2950.0,Apartment,Apartment,356500.0,2.0,96.0,1,0,0,1,11.0,0,4.0,0,New
+RBT62988,Ertbrandstraat,2950.0,Apartment,Apartment,340500.0,2.0,95.0,1,0,0,1,8.0,0,4.0,0,New
+RBT62987,Ertbrandstraat,2950.0,Apartment,Apartment,334500.0,2.0,90.0,1,0,0,1,10.0,0,4.0,0,New
+RBT62984,Ertbrandstraat,2950.0,Apartment,Apartment,375500.0,2.0,93.0,1,0,0,1,53.0,0,4.0,0,New
+RBT62983,Ertbrandstraat,2950.0,Apartment,Apartment,389000.0,2.0,98.0,1,0,0,1,60.0,0,4.0,0,New
+RBT62980,Ertbrandstraat,2950.0,Apartment,Apartment,303000.0,2.0,88.0,1,0,0,1,22.0,0,4.0,0,New
+RBT62979,Ertbrandstraat,2950.0,Apartment,Apartment,303500.0,2.0,87.0,1,0,0,1,25.0,0,4.0,0,New
+RBT63006,Ertbrandstraat,2950.0,Apartment,Apartment,402000.0,3.0,113.0,1,0,0,1,10.0,1,4.0,0,New
+RBT63002,Ertbrandstraat,2950.0,Apartment,Apartment,446000.0,3.0,116.0,1,0,0,1,22.0,0,4.0,0,New
+RBT63005,Ertbrandstraat,2950.0,Apartment,Apartment,550000.0,3.0,129.0,1,0,0,1,69.0,0,4.0,0,New
+RBT62989,Ertbrandstraat,2950.0,Apartment,Apartment,550000.0,3.0,144.0,1,0,0,1,42.0,0,4.0,0,New
+RBT62977,Ertbrandstraat,2950.0,Apartment,Apartment,378500.0,3.0,107.0,1,0,0,1,43.0,0,4.0,0,New
+RBS62912,Heikneuterhof,2590.0,Land,Land,129500.0,,,0,0,0,0,,0,,0,
+RBS62928,Heikneuterhof,2590.0,Land,Land,199000.0,,,0,0,0,0,,0,,0,
+RBS62925,Heikneuterhof,2590.0,Land,Land,135000.0,,,0,0,0,0,,0,,0,
+RBS62924,Heikneuterhof,2590.0,Land,Land,139000.0,,,0,0,0,0,,0,,0,
+RBS62923,Heikneuterhof,2590.0,Land,Land,132950.0,,,0,0,0,0,,0,,0,
+RBS62920,Heikneuterhof,2590.0,Land,Land,99000.0,,,0,0,0,0,,0,,0,
+RBS62918,Heikneuterhof,2590.0,Land,Land,127500.0,,,0,0,0,0,,0,,0,
+RBS62917,Heikneuterhof,2590.0,Land,Land,105000.0,,,0,0,0,0,,0,,0,
+RBS62915,Heikneuterhof,2590.0,Land,Land,125000.0,,,0,0,0,0,,0,,0,
+RBS62913,Heikneuterhof,2590.0,Land,Land,195000.0,,,0,0,0,0,,0,,0,
+RBS62911,Heikneuterhof,2590.0,Land,Land,122500.0,,,0,0,0,0,,0,,0,
+RBS62909,Heikneuterhof,2590.0,Land,Land,140000.0,,,0,0,0,0,,0,,0,
+RBS62907,Heikneuterhof,2590.0,Land,Land,155000.0,,,0,0,0,0,,0,,0,
+RBS62927,Heikneuterhof,2590.0,House,Residence,399000.0,3.0,275.0,1,0,0,0,,1,3.0,0,New
+RBS62922,Heikneuterhof 13,2590.0,House,Residence,425000.0,3.0,275.0,1,0,0,1,21.0,1,3.0,0,New
+RBS62921,Heikneuterhof 15,2590.0,House,Residence,425000.0,3.0,265.0,1,0,0,1,23.0,1,3.0,0,New
+RBS62926,Heikneuterhof,2590.0,House,Residence,399000.0,4.0,253.0,1,0,0,0,,1,3.0,0,New
+RBT44919,Zwanenberg 2a 202,2270.0,Apartment,Apartment,199000.0,1.0,74.0,1,0,0,1,7.0,0,3.0,0,New
+RBT44917,Zwanenberg 2a 203,2270.0,Apartment,Apartment,269000.0,1.0,82.0,1,0,0,1,8.0,0,3.0,0,New
+RBT44913,Zwanenberg 2a 102,2270.0,Apartment,Apartment,229000.0,1.0,74.0,1,0,0,1,7.0,0,3.0,0,New
+RBT44921,Molenstraat 23 202,2270.0,Apartment,Apartment,259000.0,2.0,94.0,1,0,0,1,9.0,0,3.0,0,New
+RBT44920,Molenstraat 23 201,2270.0,Apartment,Apartment,244000.0,2.0,87.0,1,0,0,1,8.0,0,3.0,0,New
+RBT44925,Molenstraat 23 301,2270.0,Apartment,Apartment,349000.0,2.0,112.0,1,0,0,1,32.0,0,3.0,0,New
+RBT44924,Zwanenberg 2a 301,2270.0,Apartment,Apartment,329000.0,2.0,100.0,1,0,0,1,27.0,0,3.0,0,New
+RBT44923,Molenstraat 25 202,2270.0,Apartment,Apartment,274000.0,2.0,98.0,1,0,0,1,9.0,0,3.0,0,New
+RBT44922,Molenstraat 25 201,2270.0,Apartment,Apartment,244000.0,2.0,88.0,1,0,0,1,8.0,0,3.0,0,New
+RBT44918,Zwanenberg 2a 201,2270.0,Apartment,Apartment,289000.0,2.0,108.0,1,0,0,1,10.0,0,3.0,0,New
+RBT44916,Molenstraat 25 102,2270.0,Apartment,Apartment,289000.0,2.0,98.0,1,0,0,1,9.0,0,3.0,0,New
+RBT44915,Molenstraat 25 101,2270.0,Apartment,Apartment,244000.0,2.0,88.0,1,0,0,1,8.0,0,3.0,0,New
+RBT44914,Molenstraat 23 101,2270.0,Apartment,Apartment,259000.0,2.0,87.0,1,0,0,1,13.0,0,3.0,0,New
+RBT44912,Zwanenberg 2a 101,2270.0,Apartment,Apartment,319000.0,2.0,108.0,1,0,0,1,10.0,0,3.0,0,New
+RBT44908,Molenstraat 23 102,2270.0,Apartment,Apartment,299000.0,2.0,94.0,1,0,0,1,13.0,0,3.0,0,New
+RBT44910,Molenstraat 25 002,2270.0,Apartment,Ground floor,299000.0,2.0,100.0,1,0,0,1,18.0,1,3.0,0,New
+RBT44909,Molenstraat 25 001,2270.0,Apartment,Ground floor,308000.0,2.0,95.0,1,0,0,1,19.0,1,3.0,0,New
+RBT37271,Kapelsesteenweg 579 0.4,2180.0,Apartment,Apartment,359000.0,2.0,100.0,1,0,0,1,,1,2.0,0,New
+RBT37270,Kapelsesteenweg 579 0.3,2180.0,Apartment,Apartment,359000.0,2.0,95.0,1,0,0,1,,1,2.0,0,New
+RBT37269,Kapelsesteenweg 579 0.2,2180.0,Apartment,Apartment,369000.0,2.0,103.0,1,0,0,1,,1,2.0,0,New
+RBS83078,Molenstraat 65,2381.0,Apartment,Apartment,301194.0,2.0,110.0,1,0,0,1,17.0,0,2.0,0,New
+RBS83075,Molenstraat 65,2381.0,Apartment,Ground floor,339537.0,3.0,116.0,1,0,0,1,17.0,0,2.0,0,New
+RBS83080,Molenstraat 65,2381.0,Apartment,Penthouse,440044.0,3.0,156.0,1,0,0,1,17.0,0,2.0,0,New
+RBT37268,Alfons de Schutterstraat 46 W2,2180.0,House,Residence,465000.0,3.0,169.0,1,0,0,0,,1,2.0,0,New
+RBT37267,Alfons de Schutterstraat 46 W1,2180.0,House,Residence,485000.0,3.0,176.0,1,0,0,0,,1,2.0,0,New
+RBS98583,Breendonk-Dorp 35 B.01,2870.0,Apartment,Apartment,309000.0,2.0,106.0,0,0,0,1,12.0,1,,0,New
+RBS98582,Breendonk-Dorp 35 2.1,2870.0,Apartment,Apartment,319000.0,3.0,118.0,0,0,0,1,18.0,0,,0,New
+RBS98584,Breendonk-Dorp 35 B2.1,2870.0,Apartment,Apartment,349000.0,3.0,141.0,0,0,0,1,16.0,0,,0,New
+RBS98585,Breendonk-Dorp 35 W1,2870.0,House,Residence,449000.0,3.0,190.0,0,0,0,1,24.0,1,3.0,0,New
+RBS98589,Breendonk-Dorp 35 W5,2870.0,House,Residence,494000.0,3.0,199.0,0,0,0,1,26.0,1,2.0,0,New
+RBS98586,Breendonk-Dorp 35 W2,2870.0,House,Residence,494000.0,3.0,207.0,0,0,0,1,20.0,1,2.0,0,New
+RBS98587,Breendonk-Dorp 35 W3,2870.0,House,Residence,499000.0,3.0,207.0,0,0,0,1,20.0,1,2.0,0,New
+RBS98588,Breendonk-Dorp 35 W4,2870.0,House,Residence,514000.0,3.0,212.0,0,0,0,1,20.0,1,2.0,0,New
+RBT18002,Sint-Benedictusstraat 63,2640.0,House,Residence,390000.0,3.0,158.0,1,0,0,1,19.0,0,,0,New
+RBT17801,Sint-Benedictusstraat 63,2640.0,House,Residence,398000.0,3.0,125.0,1,0,0,1,7.0,1,,0,New
+RBT17808,Sint-Benedictusstraat 63,2640.0,House,Residence,418000.0,3.0,132.0,1,0,0,1,7.0,1,,0,New
+RBT17812,Sint-Benedictusstraat 63,2640.0,House,Residence,428000.0,3.0,155.0,1,0,0,1,21.0,0,,0,New
+RBT17811,Sint-Benedictusstraat 63,2640.0,House,Residence,428000.0,3.0,148.0,1,0,0,1,22.0,0,,0,New
+RBT17809,Sint-Benedictusstraat 63,2640.0,House,Residence,428000.0,3.0,147.0,1,0,0,1,21.0,0,,0,New
+RBT17806,Sint-Benedictusstraat 63,2640.0,House,Residence,428000.0,3.0,131.0,1,0,0,1,9.0,1,,0,New
+RBT17804,Sint-Benedictusstraat 63,2640.0,House,Residence,428000.0,3.0,130.0,1,0,0,1,9.0,1,,0,New
+RBT17803,Sint-Benedictusstraat 63,2640.0,House,Residence,489000.0,3.0,158.0,1,0,0,1,9.0,1,,0,New
+RBT17798,Sint-Benedictusstraat 63,2640.0,House,Residence,489000.0,3.0,159.0,1,0,0,1,9.0,1,,0,New
+RBT17807,Sint-Benedictusstraat 63,2640.0,House,Residence,495000.0,3.0,158.0,1,0,0,1,9.0,1,,0,New
+RBT36147,Doornstraat 181,2610.0,House,Residence,499900.0,3.0,159.0,1,0,0,1,13.0,1,,0,New
+RBT36148,Doornstraat 181,2610.0,House,Residence,504900.0,3.0,159.0,1,0,0,1,13.0,1,,0,New
+RBT36149,Doornstraat 181,2610.0,House,Residence,524900.0,3.0,163.0,1,0,0,1,13.0,1,,0,New
+RBT36146,,2610.0,House,Residence,534900.0,3.0,166.0,1,0,0,1,13.0,1,,0,New
+RBT99984,Doornstraat 181,2610.0,House,Residence,529900.0,3.0,166.0,0,0,0,1,13.0,1,,0,New
+RBT36161,Lange Nieuwstraat 27 0101,2800.0,Apartment,Apartment,289000.0,1.0,89.0,1,0,0,1,8.0,0,2.0,0,New
+RBT36160,Lange Nieuwstraat 27 0002,2800.0,Apartment,Apartment,419683.0,2.0,105.0,1,0,0,1,15.0,0,2.0,0,New
+RBT36159,Lange Nieuwstraat 27 0001,2800.0,Apartment,Apartment,399000.0,2.0,101.0,1,0,0,1,22.0,0,2.0,0,New
+RBS82646,Molenstraat 63,2381.0,Apartment,Apartment,297918.0,2.0,109.0,1,0,0,1,13.0,0,2.0,0,New
+RBS82647,Molenstraat 63,2381.0,Apartment,Apartment,301194.0,2.0,110.0,1,0,0,1,13.0,0,2.0,0,New
+RBS82645,Molenstraat 63,2381.0,Apartment,Ground floor,269920.0,1.0,91.0,1,0,0,1,13.0,0,2.0,0,New
+RBS82643,Molenstraat 63,2381.0,Apartment,Ground floor,321194.0,2.0,110.0,1,0,0,1,13.0,0,2.0,0,New
+RBS82644,,2381.0,Apartment,Ground floor,339537.0,2.0,116.0,1,0,0,1,17.0,0,2.0,0,New
+RBS82649,Molenstraat 63,2381.0,Apartment,Penthouse,440044.0,3.0,156.0,1,0,0,1,24.0,0,3.0,0,New
+RBS82648,Molenstraat 63,2381.0,Apartment,Penthouse,455429.0,3.0,158.0,1,0,0,1,36.0,0,3.0,0,New
+RBT35325,Kattendijkdok-Oostkaai 22 P.7.602,2000.0,Apartment,Apartment,500000.0,2.0,99.0,0,0,0,1,6.0,1,4.0,0,Excellent
+RBT35340,Kattendijkdok-Oostkaai 22 P.1.101,2000.0,Apartment,Apartment,615000.0,2.0,105.0,0,0,0,1,6.0,0,4.0,0,Excellent
+RBT35328,Kattendijkdok-Oostkaai 22 P.5.403,2000.0,Apartment,Apartment,775000.0,2.0,118.0,0,0,0,1,32.0,1,4.0,0,Excellent
+RBT35327,Kattendijkdok-Oostkaai 22 P.5.402,2000.0,Apartment,Apartment,775000.0,2.0,118.0,0,0,0,1,32.0,1,4.0,0,Excellent
+RBT35319,Kattendijkdok-Oostkaai 22 P.6.502,2000.0,Apartment,Apartment,1050000.0,3.0,160.0,0,0,0,1,66.0,0,4.0,0,Excellent
+RBT35318,Kattendijkdok-Oostkaai 22 S.4.205,2000.0,Apartment,Apartment,500000.0,3.0,113.0,0,0,0,1,11.0,1,4.0,0,Excellent
+RBT35316,Kattendijkdok-Oostkaai 22 S.3.102,2000.0,Apartment,Apartment,545000.0,3.0,132.0,0,0,0,1,17.0,0,4.0,0,Excellent
+RBT35321,Kattendijkdok-Oostkaai 22 S.4.502,2000.0,Apartment,Apartment,550000.0,3.0,113.0,0,0,0,1,11.0,0,4.0,0,Excellent
+RBT35320,Kattendijkdok-Oostkaai 22 S.4.602,2000.0,Apartment,Apartment,575000.0,3.0,113.0,0,0,0,1,11.0,1,4.0,0,Excellent
+RBT35317,Kattendijkdok-Oostkaai 22 S.3.304,2000.0,Apartment,Apartment,580000.0,3.0,132.0,0,0,0,1,17.0,0,4.0,0,Excellent
+RBT35341,Kattendijkdok-Oostkaai 22 M.0.002,2000.0,Apartment,Apartment,595000.0,3.0,139.0,0,0,0,1,20.0,1,4.0,0,Excellent
+RBT35336,Kattendijkdok-Oostkaai 22 M.0.001,2000.0,Apartment,Apartment,595000.0,3.0,141.0,0,0,0,1,15.0,1,4.0,0,Excellent
+RBT35329,Kattendijkdok-Oostkaai 22 S.7.403,2000.0,Apartment,Apartment,615000.0,3.0,127.0,0,0,0,1,22.0,0,4.0,0,Excellent
+RBT35314,Kattendijkdok-Oostkaai 22 S.2.004,2000.0,Apartment,Apartment,690000.0,3.0,167.0,0,0,0,1,30.0,0,4.0,0,Excellent
+RBT35335,Kattendijkdok-Oostkaai 22 P.3.304,2000.0,Apartment,Apartment,775000.0,3.0,132.0,0,0,0,1,14.0,0,4.0,0,Excellent
+RBT35333,Kattendijkdok-Oostkaai 22 P.3.204,2000.0,Apartment,Apartment,775000.0,3.0,132.0,0,0,0,1,14.0,0,4.0,0,Excellent
+RBT35332,Kattendijkdok-Oostkaai 22 P.3.303,2000.0,Apartment,Apartment,775000.0,3.0,132.0,0,0,0,1,14.0,0,4.0,0,Excellent
+RBT35330,Kattendijkdok-Oostkaai 22 P.3.203,2000.0,Apartment,Apartment,775000.0,3.0,132.0,0,0,0,1,14.0,0,4.0,0,Excellent
+RBT35313,Kattendijkdok-Oostkaai 22 S.2.002,2000.0,Apartment,Apartment,830000.0,3.0,167.0,0,0,0,1,30.0,1,4.0,0,Excellent
+RBT35326,Kattendijkdok-Oostkaai 22 S.6.401,2000.0,Apartment,Apartment,1050000.0,4.0,160.0,0,0,0,1,11.0,0,4.0,0,Excellent
+RBT35324,Kattendijkdok-Oostkaai 22 S.6.501,2000.0,Apartment,Apartment,1050000.0,4.0,160.0,0,0,0,1,11.0,1,4.0,0,Excellent
+RBT35322,Kattendijkdok-Oostkaai 22 S.6.601,2000.0,Apartment,Apartment,1100000.0,4.0,160.0,0,0,0,1,11.0,0,4.0,0,Excellent
+RBT35337,Kattendijkdok-Oostkaai 22 P.4.105,2000.0,Apartment,Apartment,765000.0,4.0,169.0,0,0,0,1,15.0,0,4.0,0,Excellent
+RBT35334,Kattendijkdok-Oostkaai 22 P.4.305,2000.0,Apartment,Apartment,850000.0,4.0,169.0,0,0,0,1,15.0,1,4.0,0,Excellent
+RBT35339,Kattendijkdok-Oostkaai 22 D.1.101,2000.0,Apartment,Apartment,900000.0,4.0,134.0,0,0,0,1,28.0,1,4.0,0,Excellent
+RBT35323,Kattendijkdok-Oostkaai 22 P.4.404,2000.0,Apartment,Apartment,900000.0,4.0,164.0,0,0,0,1,24.0,0,4.0,0,Excellent
+RBT35315,Kattendijkdok-Oostkaai 22 D.1.102,2000.0,Apartment,Apartment,900000.0,4.0,137.0,0,0,0,1,26.0,1,4.0,0,Excellent
+RBT35338,Kattendijkdok-Oostkaai 22 M.2.201,2000.0,Apartment,Apartment,695000.0,5.0,158.0,0,0,0,1,23.0,1,4.0,0,Excellent
+RBT35331,Kattendijkdok-Oostkaai 22 M.2.202,2000.0,Apartment,Apartment,695000.0,5.0,158.0,0,0,0,1,23.0,1,4.0,0,Excellent
+RBT17771,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,251000.0,1.0,68.0,1,0,0,1,7.0,0,2.0,0,New
+RBT17757,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,265000.0,1.0,70.0,1,0,0,1,7.0,0,2.0,0,New
+RBT17761,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,271000.0,1.0,70.0,1,0,0,1,7.0,0,2.0,0,New
+RBT17722,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,285000.0,1.0,76.0,1,0,0,1,6.0,0,2.0,0,New
+RBT17733,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,289000.0,1.0,76.0,1,0,0,1,7.0,0,2.0,0,New
+RBT17725,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,291000.0,1.0,79.0,1,0,0,1,6.0,0,2.0,0,New
+RBT17776,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,315000.0,2.0,90.0,1,0,0,1,10.0,1,,0,New
+RBT17777,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,319000.0,2.0,90.0,1,0,0,1,10.0,0,,0,New
+RBT17769,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,360000.0,2.0,92.0,1,0,0,1,12.0,0,3.0,0,New
+RBT17746,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,369000.0,2.0,98.0,1,0,0,1,10.0,0,3.0,0,New
+RBT17749,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,375000.0,2.0,98.0,1,0,0,1,10.0,0,3.0,0,New
+RBT17732,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,395000.0,2.0,107.0,1,0,0,1,12.0,0,3.0,0,New
+RBT17721,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,435000.0,2.0,118.0,1,0,0,1,18.0,1,3.0,0,New
+RBT17724,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,441000.0,2.0,118.0,1,0,0,1,18.0,0,3.0,0,New
+RBT18000,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,439000.0,3.0,117.0,1,0,0,1,9.0,0,2.0,0,New
+RBT17737,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,445000.0,3.0,117.0,1,0,0,1,9.0,0,2.0,0,New
+RBT17758,Sint-Benedictusstraat 63,2640.0,Apartment,Apartment,455000.0,3.0,117.0,1,0,0,1,12.0,0,2.0,0,New
+RBT18001,Sint-Benedictusstraat 63,2640.0,Apartment,Ground floor,199000.0,1.0,46.0,1,0,0,0,,0,2.0,0,New
+RBT17730,Sint-Benedictusstraat 63,2640.0,Apartment,Ground floor,214000.0,1.0,50.0,1,0,0,0,,0,2.0,0,New
+RBT17775,Sint-Benedictusstraat 63,2640.0,Apartment,Ground floor,335000.0,2.0,90.0,1,0,0,1,10.0,1,,0,New
+RBT17740,Sint-Benedictusstraat 63,2640.0,Apartment,Ground floor,355000.0,2.0,97.0,1,0,0,1,26.0,1,,0,New
+RBT17718,Sint-Benedictusstraat 63,2640.0,Apartment,Ground floor,420000.0,2.0,118.0,1,0,0,1,36.0,1,,0,New
+RBS58467,,2300.0,Apartment,Apartment,243000.0,1.0,77.0,0,0,0,1,10.0,0,2.0,0,New
+RBS58463,,2300.0,Apartment,Apartment,255000.0,1.0,85.0,0,0,0,0,,0,2.0,0,New
+RBS58466,Warandestraat 5,2300.0,Apartment,Apartment,285000.0,1.0,90.0,0,0,0,1,9.0,0,2.0,0,New
+RBS58464,,2300.0,Apartment,Apartment,249000.0,1.0,64.0,0,0,0,1,6.0,0,2.0,0,New
+RBS58468,,2300.0,Apartment,Apartment,395000.0,2.0,135.0,0,0,0,1,9.0,0,2.0,0,New
+RBS58465,,2300.0,Apartment,Apartment,499000.0,2.0,153.0,0,0,0,1,78.0,0,2.0,0,New
+RBR00255,Jan Van Droogenbroeckstraat 8 0,2890.0,Apartment,Apartment,299000.0,2.0,92.0,0,0,0,1,14.0,1,,0,New
+RBR00256,Jan Van Droogenbroeckstraat 8 1,2890.0,Apartment,Apartment,329000.0,3.0,106.0,0,0,0,1,14.0,0,,0,New
+RBT32588,Hof ten Bergestraat 23-39,2381.0,House,Residence,449000.0,3.0,251.0,1,0,0,1,,1,3.0,0,New
+RBT32585,Hof ten Bergestraat 23-39,2381.0,House,Residence,449000.0,3.0,251.0,1,0,0,1,,1,2.0,0,New
+RBT32591,Hof ten Bergestraat 23-39,2381.0,House,Residence,459000.0,3.0,242.0,1,0,0,1,,1,3.0,0,New
+RBT32584,Hof ten Bergestraat 23-39,2381.0,House,Residence,459000.0,3.0,281.0,1,0,0,1,,1,3.0,0,New
+RBT32590,Hof ten Bergestraat 23-39,2381.0,House,Residence,469000.0,3.0,285.0,1,0,0,1,,1,3.0,0,New
+RBT32589,Hof ten Bergestraat 23-39,2381.0,House,Residence,,3.0,251.0,1,0,0,1,,1,3.0,0,New
+RBT32587,Hof ten Bergestraat 23-39,2381.0,House,Residence,,3.0,260.0,1,0,0,1,,1,3.0,0,New
+RBT37264,Copernicuslaan 1 A 1.3,2018.0,Apartment,Apartment,299000.0,1.0,74.0,0,0,0,1,5.0,0,4.0,0,Excellent
+RBT37243,Copernicuslaan 1 C 8.2,2018.0,Apartment,Apartment,339000.0,1.0,74.0,0,0,0,1,10.0,0,4.0,0,Excellent
+RBT37259,Copernicuslaan 1 A 2.3,2018.0,Apartment,Apartment,309000.0,1.0,74.0,0,0,0,1,5.0,0,4.0,0,Excellent
+RBT37254,Copernicuslaan 1 A 3.3,2018.0,Apartment,Apartment,314000.0,1.0,74.0,0,0,0,1,5.0,0,4.0,0,Excellent
+RBT37262,Copernicuslaan 1 A 1.1,2018.0,Apartment,Apartment,319000.0,1.0,80.0,0,0,0,1,5.0,0,4.0,0,Excellent
+RBT37257,Copernicuslaan 1 A 2.1,2018.0,Apartment,Apartment,319000.0,1.0,80.0,0,0,0,1,5.0,0,4.0,0,Excellent
+RBT37252,Copernicuslaan 1 A 3.1,2018.0,Apartment,Apartment,329000.0,1.0,80.0,0,0,0,1,5.0,0,4.0,0,Excellent
+RBT37263,Copernicuslaan 1 A 1.2,2018.0,Apartment,Apartment,334000.0,1.0,88.0,0,0,0,1,5.0,0,4.0,0,Excellent
+RBT37258,Copernicuslaan 1 A 2.2,2018.0,Apartment,Apartment,339000.0,1.0,88.0,0,0,0,1,5.0,0,4.0,0,Excellent
+RBT37253,Copernicuslaan 1 A 3.2,2018.0,Apartment,Apartment,354000.0,1.0,88.0,0,0,0,1,5.0,0,4.0,0,Excellent
+RBT37251,Copernicuslaan 1 C 7.4,2018.0,Apartment,Apartment,439000.0,2.0,102.0,0,0,0,1,13.0,0,4.0,0,Excellent
+RBT37265,Copernicuslaan 1 A 1.4,2018.0,Apartment,Apartment,459000.0,2.0,125.0,0,0,0,1,11.0,0,4.0,0,Excellent
+RBT37249,Copernicuslaan 1 C 7.1,2018.0,Apartment,Apartment,429000.0,2.0,102.0,0,0,0,1,13.0,0,4.0,0,Excellent
+RBT37248,Copernicuslaan 1 C 8.1,2018.0,Apartment,Apartment,434000.0,2.0,102.0,0,0,0,1,13.0,0,4.0,0,Excellent
+RBT37247,Copernicuslaan 1 C 9.1,2018.0,Apartment,Apartment,439000.0,2.0,102.0,0,0,0,1,13.0,0,4.0,0,Excellent
+RBT37246,Copernicuslaan 1 C 10.1,2018.0,Apartment,Apartment,449000.0,2.0,102.0,0,0,0,1,13.0,0,4.0,0,Excellent
+RBT37245,Copernicuslaan 1 C 11.1,2018.0,Apartment,Apartment,464000.0,2.0,102.0,0,0,0,1,13.0,0,4.0,0,Excellent
+RBT37260,Copernicuslaan 1 A 2.4,2018.0,Apartment,Apartment,469000.0,2.0,125.0,0,0,0,1,11.0,0,4.0,0,Excellent
+RBT37244,Copernicuslaan 1 C 12.1,2018.0,Apartment,Apartment,474000.0,2.0,102.0,0,0,0,1,13.0,0,4.0,0,Excellent
+RBT37255,Copernicuslaan 1 A 3.4,2018.0,Apartment,Apartment,479000.0,2.0,125.0,0,0,0,1,11.0,0,4.0,0,Excellent
+RBT37266,Copernicuslaan 1 A 1.5,2018.0,Apartment,Apartment,519000.0,3.0,145.0,0,0,0,1,15.0,0,4.0,0,Excellent
+RBT37250,Copernicuslaan 1 C 7.3,2018.0,Apartment,Apartment,519000.0,3.0,126.0,0,0,0,1,18.0,0,4.0,0,Excellent
+RBT37261,Copernicuslaan 1 A 2.5,2018.0,Apartment,Apartment,529000.0,3.0,145.0,0,0,0,1,15.0,0,4.0,0,Excellent
+RBT37256,Copernicuslaan 1 A 3.5,2018.0,Apartment,Apartment,544000.0,3.0,145.0,0,0,0,1,15.0,0,4.0,0,Excellent
+RBT74279,Torteldreef 46B,2360.0,House,Residence,1200000.0,4.0,469.0,0,0,0,1,36.0,1,4.0,0,New
+RBT28265,Laathof 1.4,2640.0,Apartment,Apartment,510000.0,3.0,138.0,1,0,0,1,13.0,1,2.0,0,New
+RBT28266,Laathof 2.3,2640.0,Apartment,Penthouse,499500.0,2.0,135.0,1,0,0,1,17.0,1,3.0,0,New
+RBT28267,Laathof 2.4,2640.0,Apartment,Penthouse,510000.0,3.0,141.0,1,0,0,1,13.0,1,3.0,0,New
+RBS83639,Bouwelsesteenweg 4A 003,2560.0,Apartment,Apartment,332000.0,1.0,97.0,1,0,0,1,23.0,0,4.0,0,New
+RBS83638,Bouwelsesteenweg 4A 002,2560.0,Apartment,Apartment,313000.0,1.0,85.0,1,0,0,1,12.0,0,4.0,0,New
+RBS83642,Bouwelsesteenweg 4A 103,2560.0,Apartment,Apartment,314000.0,1.0,88.0,1,0,0,1,18.0,0,4.0,0,New
+RBS83637,Bouwelsesteenweg 4A 001,2560.0,Apartment,Apartment,365000.0,2.0,106.0,1,0,0,1,19.0,0,4.0,0,New
+RBS83644,Bouwelsesteenweg 4A 202,2560.0,Apartment,Apartment,,2.0,84.0,1,0,0,1,10.0,0,4.0,0,New
+RBS83641,Bouwelsesteenweg 4A 102,2560.0,Apartment,Apartment,,2.0,88.0,1,0,0,1,9.0,0,4.0,0,New
+RBS83640,Bouwelsesteenweg 4A 101,2560.0,Apartment,Apartment,,2.0,105.0,1,0,0,1,12.0,0,4.0,0,New
+RBS83643,Bouwelsesteenweg 4A 201,2560.0,Apartment,Apartment,352000.0,2.0,96.0,1,0,0,1,16.0,0,4.0,0,New
+RBU55930,Lange Van Bloerstraat 8 201,2060.0,Apartment,Apartment,139000.0,1.0,41.0,0,0,0,0,,0,2.0,0,Normal
+RBU55928,Heirmanstraat 5 301,2170.0,Apartment,Penthouse,299000.0,3.0,99.0,0,0,0,1,7.0,0,2.0,0,Normal
+RBU55929,Lange Van Bloerstraat 8 101,2060.0,Apartment,Apartment,199000.0,2.0,70.0,0,0,0,0,,0,2.0,0,Normal
+RBU55927,Heirmanstraat 5 201 V2 L,2170.0,Apartment,Apartment,169000.0,1.0,55.0,0,0,0,1,8.0,0,2.0,0,Normal
+RBU55938,Moeshofstraat 139,2170.0,Apartment,Apartment,175000.0,1.0,50.0,0,0,0,0,,0,,0,
+RBU55932,Van Roiestraat 59,2170.0,House,Residence,259000.0,2.0,130.0,0,0,0,1,15.0,1,2.0,0,To be renovated
+RBU55937,Duffelsesteenweg 21,2550.0,Apartment,Apartment,299000.0,2.0,91.0,0,0,0,1,10.0,0,,0,
+RBU55939,Sander De Vosstraat 154,2500.0,House,Residence,625000.0,2.0,216.0,0,0,0,1,20.0,1,4.0,0,Normal
+RBR53926,,2950.0,House,Residence,450072.0,3.0,160.0,1,0,0,1,,1,4.0,0,New
+RBR53927,Ertbrandstraat,2950.0,House,Residence,475448.0,3.0,174.0,1,0,0,1,,1,4.0,0,New
+,,,"house,for",,,,,0,0,0,0,,0,,0,
+RBR45906,Houthoek 72,2430.0,House,Residence,374000.0,3.0,134.0,1,0,0,1,,1,3.0,0,New
+RBR45914,Houthoek 72,2430.0,House,Residence,384000.0,3.0,142.0,1,0,0,1,,1,3.0,0,New
+RBR45915,Houthoek 72,2430.0,House,Residence,390000.0,3.0,135.0,1,0,0,1,,1,3.0,0,New
+RBR45916,Houthoek 72,2430.0,House,Residence,419000.0,3.0,193.0,1,0,0,1,,1,3.0,0,New
+RBR69868,Aardbezienstraat 0,2450.0,House,Residence,277000.0,3.0,154.0,0,0,0,0,,1,2.0,0,New
+RBR69867,Aardbezienstraat 0,2450.0,House,Residence,284000.0,3.0,185.0,0,0,0,0,,1,2.0,0,New
+RBR69866,Aardbezienstraat 0,2450.0,House,Residence,289000.0,3.0,188.0,0,0,0,0,,0,2.0,0,New
+RBR69865,Aardbezienstraat 0,2450.0,House,Residence,289000.0,3.0,187.0,0,0,0,0,,0,2.0,0,New
+RBR69872,Aardbezienstraat 0,2450.0,House,Residence,393400.0,3.0,160.0,0,0,0,1,,1,2.0,0,New
+RBR69869,Aardbezienstraat 0,2450.0,House,Residence,417225.0,3.0,188.0,0,0,0,0,,1,2.0,0,New
+RBR69870,Aardbezienstraat 0,2450.0,House,Residence,421993.0,3.0,189.0,0,0,0,1,,1,2.0,0,New
+RBR69871,Aardbezienstraat 0,2450.0,House,Residence,430025.0,3.0,186.0,0,0,0,1,,1,2.0,0,New
+RBQ16830,Acacialaan 69,2200.0,House,Residence,375000.0,3.0,166.0,1,0,0,1,17.0,1,2.0,0,New
+RBQ16833,Acacialaan 69,2200.0,House,Residence,376000.0,3.0,166.0,1,0,0,1,17.0,1,2.0,0,New
+RBQ16829,Acacialaan 69,2200.0,House,Residence,391000.0,3.0,171.0,1,0,0,1,18.0,1,2.0,0,New
+RBQ16834,Acacialaan 69,2200.0,House,Residence,410000.0,3.0,171.0,1,0,0,1,18.0,1,2.0,0,New
+RBG70372,Palingstraat 22 A 2.01,2870.0,Apartment,Apartment,378100.0,3.0,106.0,0,0,0,1,40.0,0,,0,New
+RBG70375,Palingstraat 22 A 2.04,2870.0,Apartment,Apartment,410000.0,3.0,98.0,0,0,0,1,34.0,0,,0,New
+RBI53428,Pas 99 B 1.1,2440.0,Apartment,Apartment,293800.0,2.0,92.0,1,0,0,1,10.0,0,,0,New
+RBI53429,Pas 99 C 2.3,2440.0,Apartment,Apartment,400600.0,3.0,125.0,1,0,0,1,26.0,0,,0,New
+RBI53426,Pas 99 A 1.1,2440.0,Apartment,Apartment,430700.0,3.0,140.0,1,0,0,1,13.0,0,,0,New
+RBI53427,Pas 99 A 0.1,2440.0,Business,Commercial building,269750.0,0.0,,0,0,0,0,,0,,0,New
+RBK07897,Gabrielsdijk 3 5,2490.0,House,Residence,369439.0,3.0,132.0,0,0,0,0,,1,2.0,0,New
+RBK07886,1-Meilaan 31 1,2490.0,House,Residence,390221.0,3.0,137.0,0,0,0,0,,0,2.0,0,New
+RBK07893,Gabrielsdijk 3 2,2490.0,House,Residence,391714.0,3.0,148.0,0,0,0,0,,1,2.0,0,New
+RBK07895,Gabrielsdijk 3 4,2490.0,House,Residence,402379.0,3.0,126.0,0,0,0,0,,1,2.0,0,New
+RBK07887,1-Meilaan 31,2490.0,House,Residence,441085.0,4.0,171.0,0,0,0,1,18.0,1,2.0,0,New
+RBR82836,Middelstede,2310.0,House,Cottage,,3.0,195.0,1,0,0,1,12.0,1,3.0,0,New
+RBR82835,Middelstede,2310.0,House,Cottage,,3.0,218.0,1,0,0,1,12.0,1,2.0,0,New
+RBR82834,Middelstede,2310.0,House,Cottage,,3.0,210.0,1,0,0,1,12.0,1,3.0,0,New
+RBR82840,Middelstede,2310.0,House,Residence,,3.0,156.0,1,0,0,1,11.0,1,3.0,0,New
+RBR82839,Middelstede,2310.0,House,Residence,,3.0,154.0,1,0,0,1,11.0,1,2.0,0,New
+RBR82838,Middelstede,2310.0,House,Residence,,3.0,154.0,1,0,0,1,11.0,1,2.0,0,
+RBR82837,Middelstede,2310.0,House,Residence,,3.0,158.0,1,0,0,1,9.0,1,3.0,0,New
+RBH05500,Noordstraat 32,2220.0,House,Residence,465000.0,3.0,204.0,0,0,0,1,,1,2.0,0,New
+RBH04953,Averegtenlaan 32,2220.0,House,Residence,490000.0,3.0,162.0,0,0,0,1,,1,3.0,0,New
+RBR99194,Hoogstraatsesteenweg 16 18,2310.0,Apartment,Apartment,,,103.0,0,0,0,0,10.0,0,,0,
+RBR99195,Hoogstraatsesteenweg 16 18,2310.0,House,Residence,,,168.0,0,0,0,0,11.0,0,2.0,0,
+RBR99193,Hoogstraatsesteenweg 16 18,2310.0,House,Residence,,,232.0,0,0,0,0,15.0,0,3.0,0,
+RBH86861,Stationstraat 16,2830.0,Apartment,Apartment,220000.0,1.0,66.0,0,0,0,1,20.0,0,,0,New
+RBH86863,Stationsstraat 16,2830.0,Apartment,Apartment,269000.0,2.0,82.0,0,0,0,1,15.0,1,,0,New
+RBH86866,Stationsstraat 16,2830.0,Apartment,Apartment,280000.0,2.0,88.0,0,0,0,1,9.0,0,,0,New
+RBH86865,Stationsstraat 16,2830.0,Apartment,Apartment,280000.0,2.0,90.0,0,0,0,1,10.0,0,,0,New
+RBH86864,Stationsstraat 16 0.04,2830.0,Apartment,Apartment,280000.0,2.0,90.0,0,0,0,1,14.0,1,,0,New
+RBH86869,Stationsstraat 16,2830.0,Apartment,Apartment,285000.0,2.0,90.0,0,0,0,1,10.0,0,,0,New
+RBH86868,Stationsstraat 16,2830.0,Apartment,Apartment,285000.0,2.0,93.0,0,0,0,1,11.0,0,,0,New
+RBH86873,Stationsstraat 16,2830.0,Apartment,Apartment,515000.0,3.0,141.0,0,0,0,1,51.0,0,,0,New
+RBH55397,Hoge Brugstraat x,2220.0,House,Residence,445303.0,3.0,183.0,0,0,0,0,,1,2.0,0,New
+RBH55399,Hoge Brugstraat x,2220.0,House,Residence,478984.0,3.0,183.0,0,0,0,0,,1,3.0,0,New
+RBH55402,Hoge Brugstraat x,2220.0,House,Residence,495857.0,3.0,183.0,0,0,0,0,,1,3.0,0,New
+RBU55846,Hulseinde 26,2200.0,House,Residence,428000.0,3.0,170.0,0,0,0,1,,0,,0,Normal
+RBU55788,Heistraat 61 3.1,2610.0,Apartment,Apartment,230000.0,2.0,63.0,0,0,0,1,,0,,0,Normal
+RBU55593,Begijnenvest 46 101,2000.0,Apartment,Apartment,295000.0,1.0,60.0,1,1,0,0,,0,,0,Excellent
+RBU55926,Heirmanstraat 5 102 V1 R,2170.0,Apartment,Apartment,169000.0,1.0,54.0,0,0,0,1,12.0,0,2.0,0,Normal
+RBS91309,,2812.0,House,Residence,288000.0,2.0,81.0,0,0,0,0,,1,4.0,0,To be renovated
+RBU55682,Beukenlaan 2 a,2222.0,House,Residence,798000.0,5.0,292.0,0,0,0,1,,1,4.0,0,Normal
+RBU04864,Berlaarbaan 198,2861.0,House,Mansion,1500000.0,8.0,660.0,1,0,0,1,10.0,1,4.0,0,
+RBU55739,Oude Koornmarkt 57,2000.0,Apartment,Studio,179000.0,1.0,41.0,1,1,0,0,,0,2.0,0,Normal
+RBU55737,Jules Moretuslei 280,2610.0,House,Master house,650000.0,4.0,223.0,0,0,0,1,15.0,1,2.0,0,Fully renovated
+RBU55904,De Tomermaat 27,2930.0,House,Residence,665000.0,3.0,292.0,0,0,0,1,,1,2.0,1,Normal
+RBU55907,August Coolslaan 1 7,2650.0,Apartment,Apartment,249000.0,3.0,82.0,0,0,0,1,,0,2.0,0,Normal
+RBU55598,A. Tersagostraat 18,2870.0,House,Residence,199000.0,3.0,,0,0,0,1,,0,,0,
+RBU55844,Wuytsbergen 23,2200.0,House,Residence,,2.0,140.0,0,0,0,1,30.0,1,,0,Fully renovated
+RBS91305,,2820.0,House,Residence,288000.0,2.0,81.0,0,0,0,0,,1,4.0,0,To be renovated
+RBU55902,Heidestraat 136,2070.0,House,Residence,419000.0,3.0,208.0,0,0,0,1,,1,2.0,1,Excellent
+RBU55768,,2500.0,Apartment,Apartment,229000.0,2.0,91.0,0,0,0,1,,0,2.0,0,Excellent
+RBU55655,Molenerf 4,2260.0,House,Residence,525000.0,2.0,306.0,0,0,0,1,,1,3.0,0,Excellent
+RBU55790,Sint-bavostraat 133,2610.0,House,Residence,349000.0,2.0,110.0,0,0,0,0,,1,,0,Normal
+RBU55905,Bredabaan 478 6,2930.0,Apartment,Ground floor,299000.0,3.0,107.0,0,0,0,0,,0,,0,Normal
+RBU55849,Fraikinstraat 67 101,2200.0,Apartment,Apartment,276000.0,2.0,70.0,0,0,0,1,,0,,0,Normal
+RBU48998,Moonsstraat 28 301,2018.0,Apartment,Apartment,194900.0,1.0,40.0,0,0,0,0,,0,,0,Normal
+RBU55507,Schoolstraat 111,2110.0,House,Residence,419000.0,3.0,157.0,0,0,0,1,,1,2.0,0,
+RBU15764,Leefdaalstraat 1,2200.0,House,Villa,845000.0,6.0,477.0,0,0,0,0,,1,4.0,1,
+RWC40842,Gijsbrecht van Deurnelaan 77,2100.0,Apartment,Apartment,199000.0,2.0,71.0,1,0,0,1,2.0,0,,0,Normal
+RWC41043,Turnhoutsebaan 415,2110.0,House,Residence,365000.0,4.0,158.0,1,0,1,1,,1,,0,Excellent
+RWC41053,Petrus De Beuckelaerlaan 30 30,2100.0,Apartment,Apartment,229000.0,2.0,92.0,1,0,1,0,,0,2.0,0,Excellent
+RBU55486,Veldstraat 7 1,2450.0,Apartment,Apartment,271000.0,2.0,104.0,0,0,0,1,15.0,0,2.0,0,New
+RBU55485,Dr.-Van de Perrestraat 234 2,2440.0,Apartment,Apartment,349000.0,2.0,124.0,0,0,0,1,,0,3.0,0,Normal
+RBU55584,Terlostraat 27,2140.0,House,Residence,329000.0,2.0,115.0,0,0,0,0,,0,,0,To be renovated
+RBU55509,Liersesteenweg 16 4,2570.0,Apartment,Apartment,165000.0,2.0,65.0,0,0,0,0,,0,,0,
+RBU55425,Kruizemunt 1,2160.0,Apartment,Duplex,298000.0,3.0,115.0,1,0,0,0,,0,3.0,0,Normal
+RBU55503,Zammelseweg 85,2440.0,House,Residence,299000.0,3.0,173.0,1,0,0,1,,1,3.0,0,
+RBU16503,Pollepelstraat 9,2060.0,House,Residence,599000.0,4.0,236.0,0,0,0,0,,1,2.0,0,Normal
+RBU55487,Veldstraat 7 2,2450.0,Apartment,Apartment,225000.0,1.0,80.0,0,0,0,1,9.0,0,2.0,0,New
+RBU55556,Turnhoutsebaan 457 B76,2140.0,Apartment,Apartment,139000.0,1.0,57.0,0,0,0,1,12.0,0,,0,
+RBU55484,Dr.-Van de Perrestraat 234 1,2440.0,Apartment,Apartment,325000.0,2.0,101.0,0,0,0,1,,1,3.0,0,Excellent
+RBU38443,Olmsebaan 188,2450.0,House,Residence,265000.0,3.0,154.0,0,0,0,0,,1,,0,To be renovated
