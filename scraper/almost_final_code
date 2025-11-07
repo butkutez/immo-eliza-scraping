@@ -4,7 +4,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import csv
 import pandas as pd
 
 options = webdriver.EdgeOptions()
@@ -15,29 +14,49 @@ driver = webdriver.Edge(options=options)
 wait = WebDriverWait(driver, 30)
 
 # ---------------------------
-# Provinces & property types
+# Provinces & Initialization
 # ---------------------------
+"""initalizes attributes
+all_data: a list of dictionaries with data for each property
+property_links: a list of urls for each property
+provinces: a list of all the provinces found in Belgium"""
 
-def scrape_by_provencies():
+"""OOP!!!!!!!!!!!!!!!!!!"""
+# provinces = ["antwerp","brabant-wallon","east-flanders","vlaams-brabant","hainaut","liege","limburg","luxembourg","namur","west-flanders"]
+# all_data = []
+# property_links = []
+provinces = ["namur"]
+
+def scrape_by_provencies() -> list:
+    """scrapes all the properties from a specified list of provinces, saves and returns a list all_data
+    different steps taken in chronological order (with indents):
+    1) base url that containts lists of properties of specified provinces
+    2) "province" for-loop: cycles through each of specified province
+    3)      "page" for-loop: cycles through a specified number of pages
+    4)      loading base url into webdriver
+    5)      automated cookie acceptance
+    6)      collect each link of each looped page url into a set property_links:
+                property for-loop: collecting property links
+                project for-loop: collecting project links
+                    propery for-loop: collecting all the propeties associated with a project
+    7) "scrape" for-loop: scraping each link from list property_links and appending results to list all_data
+    8) returns all_data as list of property dictionaries with datapoints
+    """
     all_data = []
     property_links = []
-
-    # DELETE PROVINCES IN THE LIST THAT ARE NOT NEAR YOUR NAME BELOW
-    # zivile: antwerp, limburg
-    # faranges: east-flanders, flemish-brabant, brabant-wallon
-    # aleksei : west-flanders, Hainaut
-    # tim: namur, luxemburg, liege
-
-
-    provinces = ["east-flanders"]
+    # base url that containts lists of properties of specified provinces
     base_url = "https://immovlan.be/en/real-estate?transactiontypes=for-sale&propertytypes=house,apartment&provinces={province}&page={page}&noindex=1"
+    # cycle through each of specified province
     for province in provinces:
         print(f"Scraping {province}")
 
+        # cycle through a specified number of pages (default 51)
+        for page in range(1, 2):
 
-        for page in range(1, 51):
-            # Accept cookies once
+            # loading base url into webdriver
             driver.get(base_url.format(province=province, page=page))
+
+            # automated cookie acceptance
             try:
                 cookie_button = wait.until(
                     EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div/div/div/div/div/div[2]/button[2]"))
@@ -46,41 +65,47 @@ def scrape_by_provencies():
             except:
                 pass
 
-            url = base_url.format(province=province, page=page)
-            driver.get(url)
             time.sleep(1)
 
-            # call here the function of scrape_property
+            # initalizing attributes to store links and collect each link of each looped page url into a set property_links
             links = driver.find_elements(By.XPATH,"//a[contains(@href, '/detail/') or contains(@href, '/projectdetail/')]")
             hrefs = [l.get_attribute("href") for l in links if l.get_attribute("href")]
-
             detail_links = set([link for link in hrefs if "/detail/" in link])
             project_links = set([link for link in hrefs if "/projectdetail/" in link])
-            # Add all detail links directly
+
+            # collecting property links
             for link in detail_links:
                     if link not in property_links:
                         property_links.append(link)
-            # Visit each unique project only once
+
+            # collecting project links
             for project in project_links:
+
                 driver.get(project)
                 time.sleep(3)
                 listings = driver.find_elements(By.XPATH, "//a[contains(@href, '/en/detail/')]")
                 hrefs = [p.get_attribute("href") for p in listings if p.get_attribute("href")]
+
+                # collecting all the propeties associated with a project
                 for href in hrefs:
                     if href not in property_links:
                         property_links.append(href)
-            print(f" Collected {len(property_links)} unique property links in total.")
+            print(f" Collected {len(property_links)} unique property links in total")
 
+        # scraping each link from set property_links and adding the result to list all_data
         for link in property_links:
             data = scrape_property(link)
             all_data.append(data)
-            print(f"Scraped property from {province}: {link}")
-            # driver.close()
+            print(f"Scraped property from {province}: {link}:")
+            print(f"done: {round(len(all_data)/len(property_links)*100)} %")
 
+    driver.close()
 
+    # returns all_data as list of property dictionaries with datapoints
     return all_data
 
-def scrape_property(property_url):
+def scrape_property(property_url) -> dict:
+    """extracts and stores 17 different datapoints in a dictionary data"""
     data = {}
 
     driver.get(property_url)
@@ -218,6 +243,7 @@ def scrape_property(property_url):
     return data
 
 def remove_duplicates(all_data):
+    """deduplicates all_data and stores/returns the result in unique_data"""
     seen = set()
     unique_data = []
     for item in all_data:
@@ -247,23 +273,20 @@ def remove_duplicates(all_data):
 # -------------------------------
 # Save to CSV
 # -------------------------------
+def create_dataframe():
+    "creates a pandas dataframe for later analysis"
+    df = pd.DataFrame(unique_data)
+    return df
 
 def save_to_csv():
+    "save unique_data to a csv file"
+    df = create_dataframe()
+    df.to_csv('scraped_data_properties.csv', index=False)
+    print(f"Saved {len(unique_data)} unique records to liege_tim_1_51.csv")
+
+# move this to main.py
+if __name__ == "__main__": # Added now
+    """starts scraping , deduplicates data, makes a pandas dataframe and finally saves it to csv"""
     all_data = scrape_by_provencies()
     unique_data = remove_duplicates(all_data)
-
-    df = pd.DataFrame(unique_data)
-
-    #EVERYONE!!! EVERY TIME YOU RUN A NEW SCRAPING, CHANGE CSV FILE NAME using this syntax 'province_yourname_1_number_of_scrapped_data.csv'
-
-    #ALEKSEI name your output file '_aleksei_1_number_of_scrapped_data.csv'
-    #FARANGES name your output file 'east_flanders_faranges_1_number_of_scrapped_data.csv'
-    #TIM name your output file 'namur_tim_1_number_of_scrapped_data.csv'
-    #ZIVILE name your output file 'antwerp_zivile_1_number_of_scrapped_data.csv'
-
-    df.to_csv('east-flanders _zivile_51.csv', index=False)
-    print(f"Saved {len(unique_data)} unique records to east-flanders_zivile_51.csv")
-
-
-if __name__ == "__main__": # Added now
     save_to_csv()
