@@ -58,8 +58,7 @@ Data quality standards that are taken into account are:
 │   └── scraping.py
 ├── main.py
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ## 🚀 **Getting started**

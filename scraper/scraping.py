@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
+import re
 
 # ---------------------------
 # Provinces & Initialization
@@ -14,7 +15,6 @@ all_data: a list of dictionaries with data for each property
 property_links: a list of urls for each property
 provinces: a list of all the provinces found in Belgium"""
 
-"""OOP!!!!!!!!!!!!!!!!!!"""
 
 class ImmoElizaScraping():
 
@@ -29,6 +29,7 @@ class ImmoElizaScraping():
 
         self.driver = webdriver.Edge(options=self.options)
         self.wait = WebDriverWait(self.driver, 30)
+
 
     def scrape_by_provencies(self) -> list:
         """scrapes all the properties from a specified list of provinces, saves and returns a list all_data
@@ -45,8 +46,6 @@ class ImmoElizaScraping():
         7) "scrape" for-loop: scraping each link from list property_links and appending results to list all_data
         8) returns all_data as list of property dictionaries with datapoints
         """
-        self.all_data = []
-        self.property_links = []
         # base url that containts lists of properties of specified provinces
         self.base_url = "https://immovlan.be/en/real-estate?transactiontypes=for-sale&propertytypes=house,apartment&provinces={province}&page={page}&noindex=1"
         # cycle through each of specified province
@@ -83,13 +82,14 @@ class ImmoElizaScraping():
 
                 # collecting project links
                 for project in self.project_links:
+
                     self.driver.get(project)
                     time.sleep(3)
-                    listings = self.driver.find_elements(By.XPATH, "//a[contains(@href, '/en/detail/')]")
-                    hrefs = [p.get_attribute("href") for p in listings if p.get_attribute("href")]
+                    self.listings = self.driver.find_elements(By.XPATH, "//a[contains(@href, '/en/detail/')]")
+                    self.hrefs = [p.get_attribute("href") for p in self.listings if p.get_attribute("href")]
 
                     # collecting all the propeties associated with a project
-                    for href in hrefs:
+                    for href in self.hrefs:
                         if href not in self.property_links:
                             self.property_links.append(href)
                 print(f" Collected {len(self.property_links)} unique property links in total")
@@ -109,6 +109,7 @@ class ImmoElizaScraping():
     def scrape_property(self, property_url) -> dict:
         """extracts and stores 17 different datapoints in a dictionary data"""
         data = {}
+
         self.driver.get(property_url)
         time.sleep(2)  # Give the page a moment to load
 
@@ -243,46 +244,45 @@ class ImmoElizaScraping():
 
         return data
 
-    def remove_duplicates(self, data_list):
+    def remove_duplicates(self, all_data):
         """deduplicates all_data and stores/returns the result in unique_data"""
-        seen = set()
-        unique_data = []
-
+        self.seen = set()
+        self.unique_data = []
         for item in self.all_data:
-            locality = item["locality_name"]
-            postal = item["postal_code"]
-            price = item["price (€)"]
-            type = item["type"]
-            subtype = item["subtype"]
-            bedrooms = item["number_of_bedrooms"]
-            living = item["living_area (m²)"]
-            kitchen = item["equiped_kitchen (yes:1, no:0)"]
-            furnished = item["furnished (yes:1, no:0)"]
-            fire = item["open_fire (yes:1, no:0)"]
-            terrace = item["terrace (yes:1, no:0)"]
-            terrace_area = item["terrace_area (m²)"]
-            garden = item["garden (yes:1, no:0)"]
-            facades = item["number_facades"]
-            pool = item["swimming_pool (yes:1, no:0)"]
-            state = item["state_of_building"]
+            self.locality = item["locality_name"]
+            self.postal = item["postal_code"]
+            self.price = item["price (€)"]
+            self.type = item["type"]
+            self.subtype = item["subtype"]
+            self.bedrooms = item["number_of_bedrooms"]
+            self.living = item["living_area (m²)"]
+            self.kitchen = item["equiped_kitchen (yes:1, no:0)"]
+            self.furnished = item["furnished (yes:1, no:0)"]
+            self.fire = item["open_fire (yes:1, no:0)"]
+            self.terrace = item["terrace (yes:1, no:0)"]
+            self.terrace_area = item["terrace_area (m²)"]
+            self.garden = item["garden (yes:1, no:0)"]
+            self.facades = item["number_facades"]
+            self.pool = item["swimming_pool (yes:1, no:0)"]
+            self.state = item["state_of_building"]
             # only continue if locality_name is not empty or None
-            combo = (locality, postal, price, type, subtype, bedrooms, living, kitchen, furnished, fire, terrace, terrace_area, garden, facades, pool, state)
-            if combo not in seen:
-                seen.add(combo)
-                unique_data.append(item)
-        return unique_data
+            combo = (self.locality, self.postal, self.price, self.type, self.subtype, self.bedrooms, self.living, self.kitchen, self.furnished, self.fire, self.terrace, self.terrace_area, self.garden, self.facades, self.pool, self.state)
+            if combo not in self.seen:
+                self.seen.add(combo)
+                self.unique_data.append(item)
+        return self.unique_data
 
     # -------------------------------
     # Save to CSV
     # -------------------------------
-    def create_dataframe(self, data_list):
+    def create_dataframe(self):
         "creates a pandas dataframe for later analysis"
-        self.df = pd.DataFrame(data_list)
+        self.df = pd.DataFrame(self.unique_data)
         return self.df
 
-    def save_to_csv(self, data_list, filename='data/raw_data/scraped_data_properties.csv'):
+    def save_to_csv(self):
         "save unique_data to a csv file"
-        self.df = self.create_dataframe(data_list)
+        self.df = self.create_dataframe()
         self.df.to_csv('scraped_data_properties.csv', index=False)
-        print(f"Saved {len(self.df)} unique records to liege_tim_1_51.csv")
-
+        print(f"Saved {len(self.unique_data)} unique records to liege_tim_1_51.csv")
+    
