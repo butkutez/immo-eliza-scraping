@@ -1,0 +1,1638 @@
+property_ID,locality_name,postal_code,type,subtype,price (€),number_of_bedrooms,living_area (m²),"equiped_kitchen (yes:1, no:0)","furnished (yes:1, no:0)","open_fire (yes:1, no:0)","terrace (yes:1, no:0)",terrace_area (m²),"garden (yes:1, no:0)",number_facades,"swimming_pool (yes:1, no:0)",state_of_building
+VBD45575,,5660.0,House,Villa,315000.0,4.0,125.0,0,0,1,1,,0,,0,Fully renovated
+VBD46459,,5500.0,House,Residence,259000.0,3.0,125.0,1,0,0,1,32.0,0,2.0,0,Fully renovated
+VBD45300,Rue Marcel Warnier 12,5070.0,House,Villa,279000.0,3.0,153.0,1,0,0,1,,1,4.0,0,Excellent
+VBD45568,,5660.0,House,Residence,990000.0,29.0,2350.0,0,0,0,0,,0,,0,
+VBD45573,,5660.0,House,Residence,344500.0,4.0,143.0,0,0,0,0,,0,,0,
+VBD45570,,5670.0,House,Residence,290000.0,5.0,340.0,0,0,0,0,,1,,0,
+VBD46238,Domaine du Bois Gilet 42,5300.0,House,Residence,299500.0,3.0,170.0,0,0,0,1,15.0,1,3.0,0,
+VBD42885,Rue de Branchon 129,5380.0,House,Residence,895000.0,4.0,282.0,1,0,0,1,43.0,1,4.0,0,Excellent
+VBD46729,Grand Route 35,5380.0,House,Residence,175000.0,3.0,133.0,0,0,0,1,15.0,1,3.0,0,
+VBD45580,,5660.0,House,Residence,525000.0,4.0,240.0,0,0,1,1,,0,,0,Excellent
+VBD47182,,5621.0,House,Residence,150000.0,6.0,185.0,1,0,0,1,17.0,0,2.0,0,Normal
+VBD46276,Rue de l'Eglise 40/2,5170.0,Apartment,Apartment,295000.0,2.0,104.0,0,0,0,1,25.0,1,2.0,0,
+VBD45258,,5544.0,House,Residence,189000.0,3.0,81.0,1,0,0,1,35.0,1,3.0,0,Normal
+VBD47422,Route d'Eghezée 103,5190.0,House,Residence,195000.0,2.0,143.0,1,0,0,0,,1,4.0,0,To renovate
+VBD45572,,5660.0,House,Bungalow,99000.0,2.0,85.0,0,0,0,0,,1,,0,
+VBD44209,Rue du Moulin Lavigne 31,5000.0,Apartment,Apartment,240471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD44210,Rue du Moulin Lavigne 31,5000.0,Apartment,Apartment,241471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD44208,Rue du Moulin Lavigne 31,5000.0,Apartment,Apartment,247471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD44206,Rue du Moulin Lavigne 31,5000.0,Apartment,Apartment,249471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD44211,Rue du Moulin Lavigne 31,5000.0,Apartment,Apartment,258471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD44212,Rue du Moulin Lavigne 31,5000.0,Apartment,Apartment,270471.0,2.0,79.0,0,0,0,1,19.0,0,,0,New
+VBA67634,,5190.0,House,Residence,,3.0,212.0,0,0,0,1,,1,3.0,0,New
+VBB89498,Rue Dachelet 32,5380.0,House,Residence,400000.0,3.0,195.0,0,0,0,1,,1,3.0,0,New
+VBD49339,,5170.0,Apartment,Apartment,375000.0,2.0,113.0,0,0,0,1,,1,,0,
+VBD49340,,5170.0,Apartment,Apartment,450000.0,3.0,140.0,0,0,0,1,18.0,0,,0,
+VBB21579,Clos de Maillen 10,5350.0,House,Residence,331304.0,3.0,140.0,1,0,0,0,,1,,0,New
+VBB21580,Clos de Maillen 11,5350.0,House,Residence,321321.0,3.0,137.0,1,0,0,0,,1,4.0,0,New
+VBB21578,Clos de Maillen 9,5350.0,House,Residence,326383.0,3.0,140.0,1,0,0,0,,1,3.0,0,New
+VBB21577,Clos de Maillen 8,5350.0,House,Residence,342435.0,3.0,144.0,1,0,0,0,,1,4.0,0,New
+VBB21573,Clos de Maillen 1,5350.0,House,Residence,346258.0,3.0,144.0,1,0,0,0,,1,3.0,0,New
+VBB21574,Clos de Maillen 2,5350.0,House,Residence,348335.0,3.0,145.0,1,0,0,0,,1,3.0,0,New
+VBB21575,Clos de Maillen 6,5350.0,House,Residence,383611.0,3.0,145.0,1,0,0,0,,1,3.0,0,New
+VBD49518,,5651.0,House,Residence,269900.0,4.0,203.0,0,0,0,1,20.0,1,2.0,0,Normal
+VBD49417,Avenue de Ninove 177,5580.0,House,Residence,99000.0,2.0,100.0,1,0,0,1,,0,2.0,0,To renovate
+VBD49873,Rue Favauge 95,5640.0,House,Residence,,4.0,,0,0,0,0,,0,4.0,0,
+VBD49811,Rue des barrages 65,5650.0,House,Residence,317000.0,3.0,263.0,1,0,0,1,64.0,1,4.0,0,Normal
+VBD49660,Rue Neuve 18,5300.0,House,Residence,319000.0,2.0,120.0,1,0,0,1,,1,4.0,0,Normal
+VBD49612,Rue de Jolémont 3,5550.0,House,Residence,119000.0,3.0,380.0,0,0,0,1,,1,3.0,0,To be renovated
+VBD49436,Rue Pont d'Amour 61,5500.0,House,Villa,389000.0,5.0,205.0,0,0,0,1,20.0,1,,0,Normal
+VBD49304,Avenue des Aubépines 24,5170.0,House,Residence,479000.0,3.0,206.0,0,0,0,1,100.0,1,4.0,0,
+VBD49197,,5590.0,House,Residence,375000.0,4.0,170.0,0,0,0,1,,1,4.0,0,
+RBU66602,Rue Froide 10,5651.0,House,Residence,218000.0,3.0,,0,0,0,0,,0,3.0,0,
+VBD49522,Ruelle aux Loups 1 A2,5140.0,Apartment,Apartment,240000.0,2.0,75.0,0,0,0,0,,1,2.0,0,Normal
+VBD49857,Rue Pré des Dames 106 3,5300.0,Apartment,Duplex,220000.0,2.0,85.0,1,0,0,0,,0,2.0,0,Normal
+VBD49965,Route de Marche 20,5580.0,House,Residence,159000.0,2.0,98.0,1,0,0,1,25.0,1,4.0,0,To be renovated
+VBD49512,,5000.0,House,Residence,600000.0,6.0,507.0,0,0,0,1,50.0,1,4.0,0,To renovate
+VBD49533,,5004.0,Apartment,Apartment,295000.0,3.0,152.0,0,0,0,1,,1,3.0,0,
+VBD49176,,5020.0,House,Residence,849000.0,7.0,369.0,0,0,0,1,,0,4.0,1,Normal
+VBD49783,,5590.0,Apartment,Apartment,140000.0,1.0,56.0,0,0,0,0,,0,3.0,0,
+VBD49532,,5350.0,House,Residence,415000.0,4.0,140.0,0,0,0,0,,1,4.0,0,
+VBC58300,Rue Julie Dessy 7,5000.0,Apartment,Apartment,239000.0,2.0,97.0,0,0,0,1,10.0,0,2.0,0,New
+VBC58315,Rue Julie Dessy 7,5000.0,Apartment,Apartment,244000.0,2.0,90.0,0,0,0,1,7.0,0,2.0,0,New
+VBC58312,Rue Julie Dessy 7,5000.0,Apartment,Apartment,244000.0,2.0,92.0,0,0,0,1,6.0,0,2.0,0,New
+VBC58317,Rue Julie Dessy 7,5000.0,Apartment,Apartment,249000.0,2.0,92.0,0,0,0,1,6.0,0,2.0,0,New
+VBC58298,Rue Julie Dessy 7,5000.0,Apartment,Apartment,249000.0,2.0,90.0,0,0,0,1,7.0,0,2.0,0,New
+VBC58310,Rue Julie Dessy 7,5000.0,Apartment,Apartment,274000.0,2.0,94.0,0,0,0,1,6.0,0,2.0,0,New
+VBC58303,Rue Julie Dessy 7,5000.0,Apartment,Apartment,275000.0,2.0,96.0,0,0,0,1,8.0,0,2.0,0,New
+VBC58304,Rue Julie Dessy 7,5000.0,Apartment,Apartment,289000.0,2.0,106.0,0,0,0,1,10.0,0,2.0,0,New
+VBC58307,Rue Julie Dessy 7,5000.0,Apartment,Apartment,299000.0,3.0,124.0,0,0,0,1,6.0,0,2.0,0,New
+VBC58306,Rue Julie Dessy 7,5000.0,Apartment,Apartment,315000.0,3.0,117.0,0,0,0,1,11.0,0,2.0,0,New
+VBC58299,Rue Julie Dessy 7,5000.0,Apartment,Apartment,322000.0,3.0,118.0,0,0,0,1,8.0,0,2.0,0,New
+VBC58305,Rue Julie Dessy 7,5000.0,Apartment,Apartment,325000.0,3.0,124.0,0,0,0,1,6.0,0,2.0,0,New
+VBC58302,Rue Julie Dessy 7,5000.0,Apartment,Apartment,326000.0,3.0,118.0,0,0,0,1,8.0,0,2.0,0,New
+VBC58316,Rue Julie Dessy 7,5000.0,Apartment,Apartment,329000.0,3.0,118.0,0,0,0,1,8.0,0,2.0,0,New
+VBC58314,Rue Julie Dessy 7,5000.0,Apartment,Apartment,329000.0,3.0,124.0,0,0,0,1,6.0,0,2.0,0,New
+VBC58309,Rue Julie Dessy 7,5000.0,Apartment,Penthouse,289000.0,2.0,96.0,0,0,0,1,6.0,0,2.0,0,New
+VBC58313,Rue Julie Dessy 7,5000.0,Apartment,Penthouse,318000.0,3.0,108.0,0,0,0,1,16.0,0,2.0,0,New
+VBC58308,Rue Julie Dessy 7,5000.0,Apartment,Penthouse,379000.0,3.0,137.0,0,0,0,1,26.0,0,,0,New
+VBD43539,Rue du Moulin Lavigne 31,5002.0,Apartment,Apartment,240471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD43534,Rue du Moulin Lavigne 31,5002.0,Apartment,Apartment,241471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD43533,Rue du Moulin Lavigne 31,5002.0,Apartment,Apartment,247471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD43535,Rue du Moulin Lavigne 31,5002.0,Apartment,Apartment,249471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD43538,Rue du Moulin Lavigne 31,5002.0,Apartment,Apartment,258471.0,2.0,78.0,0,0,0,1,9.0,0,,0,New
+VBD43537,Rue du Moulin Lavigne 31,5002.0,Apartment,Apartment,270471.0,2.0,79.0,0,0,0,1,19.0,0,,0,New
+VBD48770,,5300.0,House,Residence,295000.0,3.0,195.0,1,0,0,1,,1,3.0,0,Excellent
+VBD49000,,5300.0,House,Residence,415000.0,4.0,140.0,0,0,0,0,,1,4.0,0,
+VBD48855,Rue de la Ville 24,5660.0,House,Residence,135000.0,4.0,,0,0,0,1,,0,,0,
+VBD49066,Rue du Pige 94,5680.0,House,Residence,215000.0,3.0,180.0,0,0,0,0,,1,,0,Normal
+VBD48949,,5590.0,House,Residence,398242.0,3.0,184.0,0,0,0,0,,1,4.0,0,New
+VBD48736,,5670.0,House,Residence,110000.0,2.0,115.0,0,0,0,0,,1,,0,
+VBD49172,Rue de l'Ile 8,5060.0,House,Residence,90000.0,2.0,141.0,0,0,0,0,,1,3.0,0,
+VBD49123,,5590.0,House,Residence,245000.0,4.0,220.0,0,0,0,0,,0,2.0,0,To be renovated
+VBD48910,Rue Charles la Pierre 16,5300.0,House,Residence,120000.0,4.0,134.0,0,0,0,0,,1,2.0,0,To be renovated
+VBD48952,,5590.0,House,Residence,362363.0,3.0,158.0,0,0,0,0,,1,4.0,0,New
+VBD49080,Rue de la Glacerie 76,5190.0,House,Residence,269000.0,3.0,200.0,1,0,0,1,115.0,1,3.0,0,Fully renovated
+VBD49001,,5580.0,House,Residence,195000.0,3.0,101.0,0,0,0,1,,1,2.0,0,
+RBU65640,Rue de la Wiaule 8,5555.0,House,Residence,99000.0,2.0,150.0,0,0,0,0,,1,,0,To be renovated
+VBD49027,Rue du Vieux Moulin 121,5550.0,House,Residence,159000.0,4.0,303.0,1,0,0,1,50.0,1,3.0,0,To be renovated
+VBD48978,,5377.0,House,Residence,260000.0,5.0,243.0,0,0,0,0,,0,4.0,0,Normal
+VBD48826,RUE DE LA POSTE 36,5630.0,House,Residence,315000.0,4.0,139.0,0,0,0,1,22.0,0,3.0,0,New
+VBD49162,Rue de la Ramée 35,5660.0,House,Residence,160000.0,4.0,,0,0,0,0,,1,4.0,0,Normal
+VBD48998,,5590.0,House,Residence,249000.0,3.0,101.0,0,0,0,1,,1,3.0,0,To be renovated
+RBU65660,Rue du Village 2 41,5542.0,House,Chalet,67000.0,2.0,40.0,0,1,0,1,,1,,1,
+VBD49149,Rue Louis Hicguet 0,5002.0,House,Residence,198000.0,,,0,0,0,1,,1,,0,To be renovated
+VBD48431,Rue Vieux Moulin 6,5150.0,Apartment,Apartment,145000.0,1.0,45.0,1,0,0,1,25.0,0,3.0,0,Normal
+VBD48429,Rue des Croisiers 39,5000.0,House,Mixed building,735000.0,6.0,340.0,1,0,0,1,10.0,0,2.0,0,Normal
+VBD48234,Rue Vieux Martin,5621.0,House,Residence,339000.0,3.0,116.0,0,0,0,1,,1,4.0,0,New
+VBD48272,,5000.0,Apartment,Apartment,270000.0,2.0,92.0,0,0,0,1,2.0,0,2.0,0,Fully renovated
+VBD48735,,5660.0,House,Residence,80000.0,2.0,95.0,0,0,0,0,,1,,0,
+VBD48541,Rue de Sologne 4,5500.0,House,Residence,260000.0,4.0,116.0,1,0,0,1,,1,4.0,0,Normal
+VBD48262,,5530.0,House,Residence,375000.0,5.0,205.0,0,0,0,1,,1,3.0,0,
+VBD48491,Rue des Jardins 50 /24,5580.0,Apartment,Apartment,275000.0,2.0,80.0,1,0,0,1,6.0,0,3.0,0,Excellent
+VBD48280,,5530.0,House,Residence,299000.0,3.0,162.0,1,0,0,1,,1,4.0,0,Normal
+VBD48325,Rue de la Justice 12,5300.0,House,Residence,195000.0,3.0,120.0,1,0,0,0,,1,2.0,0,To renovate
+VBD48486,Rue de Morges 2 / 1.1 appart 1.1,5580.0,Apartment,Apartment,99000.0,1.0,65.0,0,0,0,0,,0,,0,Normal
+VBD48400,Rue de Neringotte 89,5590.0,House,Residence,770000.0,5.0,303.0,1,0,0,1,,1,4.0,1,Normal
+VBD48269,,5500.0,House,Residence,345000.0,6.0,304.0,0,0,0,1,20.0,1,3.0,0,To be renovated
+VBD48261,,5570.0,House,Residence,250000.0,5.0,278.0,0,0,0,1,,1,4.0,0,Normal
+VBD48271,,5100.0,House,Residence,600000.0,5.0,239.0,0,0,0,1,40.0,1,4.0,0,To be renovated
+VBD48268,,5100.0,House,Residence,450000.0,5.0,239.0,0,0,0,1,40.0,1,4.0,0,To be renovated
+VBD48277,Rue de la Soile 11 A,5380.0,House,Residence,595000.0,5.0,255.0,0,0,0,1,,1,4.0,0,
+VBD48734,,5660.0,House,Residence,180000.0,4.0,240.0,0,0,1,1,,1,,0,
+VBD48543,Rue de la Ferme 1 B,5377.0,House,Residence,199000.0,3.0,110.0,1,0,0,1,30.0,1,2.0,0,Fully renovated
+VBD48432,Rue Vieux Moulin 6,5150.0,Apartment,Duplex,200000.0,2.0,85.0,1,0,0,0,,0,3.0,0,To renovate
+VBD47477,,5590.0,Apartment,Apartment,139000.0,1.0,38.0,0,0,0,1,9.0,0,3.0,0,To be renovated
+VBD47702,,5100.0,House,Villa,435000.0,4.0,190.0,0,0,0,1,40.0,1,4.0,0,Normal
+VBD48098,Rue d'Omezée 138 A,5620.0,House,Villa,270000.0,2.0,165.0,0,0,0,1,10.0,1,,0,To be renovated
+VBD47479,,5020.0,Apartment,Apartment,195000.0,2.0,96.0,0,0,0,0,,0,3.0,0,Fully renovated
+VBD47972,Rue du Château 38E,5310.0,House,Residence,390000.0,2.0,176.0,1,0,0,1,25.0,1,2.0,0,Excellent
+VBD48011,Rue de la Centenaire 4,5575.0,House,Residence,169000.0,3.0,127.0,0,0,0,1,13.0,1,2.0,0,Normal
+VBD47646,,5000.0,Apartment,Apartment,210000.0,1.0,91.0,0,0,0,0,,1,2.0,0,Normal
+VBD48182,Rue derrière l'Eglise 6,5660.0,House,Residence,125000.0,4.0,,0,0,0,0,,1,,0,Normal
+VBD48099,Rue Coster 14 13,5500.0,Apartment,Apartment,165000.0,2.0,85.0,0,0,0,0,,0,,0,Normal
+VBD47961,Rue du Pavillon 22,5002.0,House,Residence,275000.0,4.0,147.0,0,0,0,1,15.0,1,2.0,0,To renovate
+VBD48010,Rue de Rametenne 20,5580.0,House,Residence,159000.0,3.0,145.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD47960,Chaussée de Louvain 363 23,5004.0,Apartment,Apartment,189000.0,2.0,55.0,1,0,0,1,,1,3.0,0,To renovate
+VBD47812,Chemin des Pierres 9,5020.0,House,Residence,280000.0,2.0,123.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD47943,,5580.0,Apartment,Apartment,185000.0,2.0,109.0,0,0,0,0,,0,3.0,0,
+VWD15530,Route de Perwez 137,5310.0,House,Residence,350000.0,6.0,170.0,0,0,0,1,10.0,1,4.0,0,Normal
+VBD48108,Lotissement des Gaux 22,5541.0,House,Residence,99000.0,2.0,65.0,0,0,0,1,15.0,1,,0,To be renovated
+VWD15523,Paradis des Lièvres 10,5100.0,House,Villa,770000.0,3.0,242.0,1,0,0,1,63.0,1,4.0,1,Excellent
+VBD47864,Avenue du Roi Albert 36 15,5590.0,Apartment,Apartment,185000.0,1.0,70.0,0,0,0,0,,0,,0,
+VBD47647,,5000.0,Apartment,Duplex,260000.0,4.0,156.0,1,0,0,1,20.0,0,2.0,0,To renovate
+VBD47494,Rue des Tulipes 14,5300.0,House,Residence,340000.0,3.0,166.0,0,0,0,1,25.0,1,4.0,1,Normal
+VBD46949,Galerie Jardin d'Harscamp 5 75,5000.0,Apartment,Apartment,125000.0,1.0,45.0,0,0,0,1,3.0,0,,0,
+VBD47382,Rue Kefer 5,5100.0,Apartment,Duplex,259000.0,1.0,60.0,1,0,0,1,13.0,0,2.0,0,Excellent
+VBD46913,Hameau de Inzemont 20,5540.0,House,Villa,399000.0,7.0,235.0,0,0,0,1,33.0,1,,0,Excellent
+VWD15512,,5575.0,House,Residence,315000.0,4.0,200.0,1,0,0,1,,1,4.0,0,Normal
+VBD46914,Hameau de Inzemont 22,5540.0,House,Villa,399000.0,7.0,235.0,0,0,0,1,33.0,1,,0,Excellent
+VBD47014,,5590.0,Apartment,Apartment,275000.0,3.0,121.0,0,0,0,1,,0,,0,
+VBD47017,Rue Camille Giroul 12,5150.0,House,Residence,199000.0,4.0,146.0,0,0,0,1,33.0,1,2.0,0,To renovate
+VBD46932,,5680.0,House,Residence,229000.0,5.0,275.0,0,0,0,1,22.0,1,2.0,0,Normal
+VBD46911,Rue Alexis Jottard 37,5300.0,House,Residence,309000.0,4.0,170.0,0,0,0,0,,1,4.0,0,
+VBD46974,Avenue de la Plante 46,5000.0,Apartment,Apartment,235000.0,2.0,101.0,0,0,0,1,11.0,0,2.0,0,To be renovated
+VBD47419,,5000.0,Apartment,Apartment,385000.0,3.0,127.0,1,0,0,1,11.0,0,3.0,0,To be renovated
+VWD15515,Avenue Reine Astrid 34,5000.0,House,Residence,1557800.0,12.0,410.0,0,0,0,1,24.0,1,2.0,0,Excellent
+VBD47450,,5020.0,Apartment,Apartment,239000.0,2.0,101.0,0,0,0,1,40.0,1,3.0,0,Fully renovated
+VBD46916,Rue Ariste Caussin 21,5500.0,House,Residence,215000.0,3.0,120.0,0,0,0,1,12.0,1,,0,To be renovated
+VBD47424,Rue des Tanneries 54,5580.0,House,Residence,249000.0,4.0,156.0,1,0,0,1,14.0,1,2.0,0,Normal
+VBD47363,Rue des Combattants 138,5300.0,House,Residence,205000.0,3.0,,0,0,0,0,,1,2.0,0,
+VBD47183,,5660.0,House,Residence,444000.0,3.0,143.0,0,0,0,1,,1,,1,
+VBD47013,,5590.0,House,Residence,175000.0,2.0,135.0,0,0,0,0,,0,2.0,0,To be renovated
+VBD47451,,5020.0,Apartment,Apartment,189000.0,2.0,95.0,0,0,0,0,,0,3.0,0,Fully renovated
+VBD47330,,5590.0,Apartment,Triplex,210000.0,2.0,108.0,0,0,0,0,,1,4.0,0,
+VBD46880,Rue de Bouillon 103,5555.0,House,Residence,959000.0,4.0,205.0,1,0,0,1,53.0,1,4.0,1,To restore
+VBD46473,Rue Martin-Sandron 70,5680.0,House,Residence,185000.0,3.0,,0,0,0,0,,1,4.0,0,Normal
+VBD46612,Place Patenier 30,5500.0,Apartment,Duplex,230000.0,3.0,110.0,1,0,0,1,,0,,0,Normal
+VBD46464,Rue Grande 155,5500.0,House,Mixed building,320000.0,3.0,1048.0,0,0,0,0,,0,2.0,0,To be renovated
+VBD46881,Rue Mary 9,5140.0,House,Residence,135000.0,2.0,115.0,0,0,0,1,30.0,1,3.0,0,To be renovated
+VWD15495,,5540.0,House,Residence,169000.0,6.0,220.0,0,0,0,0,,1,4.0,0,Normal
+VBD46839,Rue Pêcheron 16,5580.0,House,Residence,269000.0,3.0,119.0,1,0,0,1,15.0,1,4.0,0,Normal
+VBD46816,,5000.0,Apartment,Studio,115000.0,1.0,36.0,0,0,0,0,,0,2.0,0,Excellent
+VBD46643,,5530.0,House,Residence,595000.0,4.0,220.0,1,0,0,1,,1,4.0,1,Excellent
+VBD46440,,5000.0,Apartment,Apartment,209000.0,1.0,65.0,0,0,0,1,8.0,0,,0,Excellent
+VBD46462,Domaine du Stoqueux 76,5377.0,House,Chalet,75000.0,1.0,57.0,0,0,0,1,,1,4.0,0,To renovate
+VBD46324,Rue Dewez 14,5000.0,Apartment,Apartment,295000.0,2.0,111.0,0,0,0,0,,0,2.0,0,Excellent
+VBD46174,Rue de la Place 27,5031.0,House,Residence,620000.0,4.0,174.0,0,0,0,1,71.0,1,4.0,0,
+VBD46134,Rue Oscar Genot 3,5020.0,House,Residence,235000.0,3.0,116.0,0,0,0,1,,1,3.0,0,
+VBD46804,Allée des Pies 142,5540.0,House,Bungalow,39000.0,2.0,50.0,0,0,0,0,,1,,0,
+VBD46562,,5000.0,House,Residence,645000.0,4.0,254.0,0,0,0,1,,1,4.0,0,
+VBD46391,Rue Entreville 29,5650.0,House,Residence,190000.0,2.0,120.0,0,0,0,0,,1,,0,
+VBD46441,,5537.0,House,Residence,550000.0,7.0,385.0,0,0,0,1,40.0,1,4.0,0,Normal
+VWD15493,,5575.0,House,Cottage,195000.0,4.0,200.0,1,0,0,0,,1,4.0,0,
+VBD46610,Rue du Cerisier 19,5530.0,Apartment,Apartment,319000.0,2.0,95.0,1,0,0,1,8.0,0,3.0,0,New
+VBD46106,,5330.0,House,Residence,480000.0,3.0,191.0,1,0,0,1,65.0,1,4.0,0,Normal
+VWD15472,,5575.0,House,Villa,300000.0,3.0,190.0,1,0,0,1,,1,4.0,0,Normal
+VBD46107,,5100.0,House,Residence,625000.0,3.0,193.0,1,0,0,1,60.0,1,4.0,0,Excellent
+VBD45767,Rue Saint-Jacques 48,5500.0,House,Residence,135000.0,4.0,123.0,0,0,0,0,,0,2.0,0,To renovate
+VBD46132,Chaussée de Dinant 685,5100.0,House,Residence,345000.0,,240.0,0,0,0,0,,1,3.0,0,
+VBD45772,,5560.0,House,Residence,319000.0,5.0,182.0,1,0,0,0,,1,3.0,0,New
+VBD45832,Rue Saint-Roch 2,5330.0,House,Residence,275000.0,3.0,138.0,0,0,0,1,,1,4.0,0,To renovate
+VBD45765,de l'Horloge 7,5500.0,House,Mixed building,298000.0,2.0,124.0,1,0,0,1,,1,3.0,0,Normal
+VBD45646,,5100.0,House,Residence,265000.0,4.0,350.0,0,0,0,0,,1,3.0,0,
+VWD15471,,5550.0,House,Residence,270000.0,4.0,240.0,1,0,0,0,,1,4.0,0,Fully renovated
+VBD45661,,5020.0,House,Residence,395000.0,4.0,280.0,1,0,0,1,42.0,1,4.0,0,
+VBD46122,Rue des Priesses 526,5300.0,House,Residence,310000.0,4.0,158.0,0,0,0,1,,1,4.0,0,Normal
+VBD46080,,5570.0,House,Residence,295000.0,2.0,259.0,1,0,0,0,,1,3.0,0,Normal
+VBD45972,Rue Godefroid 1 45,5000.0,Apartment,Apartment,185000.0,1.0,55.0,1,0,0,0,,0,,0,
+VBD45913,,5500.0,House,Residence,175000.0,1.0,57.0,1,0,0,1,,1,4.0,0,Fully renovated
+VBD45644,,5370.0,House,Residence,,4.0,248.0,0,0,0,1,,1,4.0,0,
+VBD45938,Rue Dewez 22,5000.0,Apartment,Apartment,355000.0,2.0,126.0,0,0,0,0,,0,2.0,0,Excellent
+VBD45781,,5651.0,House,Residence,225000.0,6.0,,0,0,0,1,,1,2.0,0,Normal
+VBD45766,Place Cardinal Mercier 11 18,5500.0,Apartment,Apartment,235000.0,2.0,105.0,1,0,0,1,,0,2.0,0,Normal
+VWD15483,Renée Prinz 1,5100.0,Apartment,Ground floor,175000.0,1.0,51.0,1,0,0,0,,0,2.0,0,Excellent
+VWD15077,quai de l'écluse 6 58,5000.0,Apartment,Apartment,209000.0,3.0,89.0,0,0,0,0,,0,3.0,0,
+VBD45569,,5680.0,House,Residence,450000.0,2.0,150.0,0,0,0,1,,1,,0,Excellent
+VBD45442,,5101.0,Apartment,Apartment,330000.0,3.0,95.0,0,0,0,1,17.0,0,,0,Excellent
+VBD45230,Place Henri Collignon 12 /A,5520.0,Apartment,Apartment,179000.0,2.0,93.0,1,0,0,1,12.0,0,,0,
+VBD34997,RUE BOURBOUX 18,5670.0,House,Residence,120000.0,3.0,130.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD45571,,5630.0,House,Residence,145000.0,3.0,108.0,0,0,1,0,,0,,0,Fully renovated
+VBD45320,,5580.0,House,Residence,299000.0,4.0,140.0,0,0,0,0,,1,4.0,0,
+VWD14838,Avenue de la Plante 31,5000.0,Apartment,Apartment,440000.0,3.0,120.0,0,0,0,1,,0,3.0,0,Excellent
+VBD16271,,5100.0,Apartment,Apartment,430000.0,4.0,267.0,0,0,0,1,33.0,1,4.0,0,
+VBD41635,Rue des Peupliers 9,5100.0,House,Residence,320000.0,3.0,119.0,0,0,0,1,,1,3.0,0,To renovate
+VBD16272,,5100.0,Apartment,Apartment,375000.0,4.0,267.0,0,0,0,1,33.0,1,4.0,0,
+VBD45566,,5570.0,House,Residence,160000.0,3.0,90.0,0,0,0,0,,0,,0,Excellent
+VBD45567,,5660.0,House,Residence,374500.0,4.0,143.0,0,0,0,0,,0,,0,
+VBD16273,,5100.0,Apartment,Apartment,295000.0,2.0,126.0,0,0,0,1,33.0,1,4.0,0,
+VBD45448,Rue du Batis 40,5560.0,House,Villa,315000.0,4.0,171.0,0,0,0,1,18.0,1,,0,New
+VBD45541,,5590.0,House,Residence,325000.0,4.0,160.0,0,0,0,1,,1,3.0,0,
+VBD45339,,5670.0,House,Residence,160000.0,4.0,120.0,0,0,0,1,15.0,1,4.0,0,
+VBD45594,Rue du Chepson 23,5020.0,House,Residence,399000.0,4.0,203.0,0,0,0,1,30.0,1,2.0,0,Excellent
+VBD45252,Rue Raymond Gridlet 53,5575.0,House,Residence,80000.0,2.0,,0,0,0,0,,1,3.0,0,To be renovated
+VBD37139,Rue du Parc Saint-Roch 19,5660.0,House,Residence,122500.0,3.0,,0,0,0,0,,1,,0,
+VBD44665,,5330.0,Apartment,Apartment,389000.0,3.0,143.0,0,0,0,1,26.0,0,3.0,0,
+VBD44828,Rue de l'Horloge 180,5630.0,House,Mixed building,497000.0,8.0,314.0,0,0,0,1,28.0,0,4.0,0,Normal
+VBD44807,,5590.0,House,Mixed building,100000.0,,,0,0,0,1,,1,2.0,0,
+VBD44722,Rue de Stud 30,5300.0,House,Residence,469000.0,4.0,184.0,0,0,0,1,,1,4.0,0,Excellent
+VBD25272,RUE DE LA GARE 3,5650.0,House,Residence,195000.0,5.0,160.0,0,0,0,0,,1,,0,
+VBD12261,Rue d'Auvelais 56,5060.0,House,Mixed building,150000.0,,,0,0,0,0,,0,4.0,0,To be renovated
+VBD04806,Chaussee de charleroi 499,5070.0,House,Villa,349000.0,5.0,229.0,1,0,0,1,45.0,1,4.0,0,To be renovated
+VBD45301,Rue romaine 8,5310.0,House,Residence,275000.0,3.0,156.0,1,0,0,1,14.0,1,3.0,0,Normal
+VBD44892,,5000.0,Apartment,Apartment,115000.0,1.0,40.0,0,0,0,0,,0,,0,Normal
+VWD15432,rue de Malvoisin 49,5575.0,House,Villa,990000.0,5.0,350.0,1,0,1,1,,1,4.0,1,Excellent
+VBD44931,Rue Patenier 24,5000.0,Apartment,Apartment,135000.0,1.0,60.0,0,0,0,0,,0,2.0,0,Normal
+VBD16234,Rue du Tige 2,5590.0,House,Residence,449000.0,7.0,265.0,0,0,0,1,53.0,1,,0,Normal
+VBD44808,,5500.0,House,Residence,119000.0,4.0,86.0,1,0,0,0,,0,3.0,0,Normal
+VBD44829,Rue de Thy-le-Bauduin 74,5651.0,House,Villa,247000.0,3.0,112.0,0,0,0,1,,1,4.0,0,Normal
+VBD45095,,5000.0,House,Cottage,225000.0,3.0,127.0,1,0,0,1,,1,3.0,0,To be renovated
+VBD20265,Rue de Davisau 3,5503.0,House,Chalet,95000.0,1.0,49.0,1,0,0,1,,1,4.0,0,
+VBD45061,,5330.0,House,Residence,380000.0,4.0,180.0,0,0,0,1,15.0,1,2.0,0,Normal
+VBD45094,,5336.0,House,Cottage,225000.0,3.0,127.0,1,0,0,1,,1,3.0,0,To be renovated
+VBD44891,Rue du Noly 45,5081.0,House,Residence,395000.0,3.0,177.0,0,0,0,1,,1,4.0,0,Normal
+VBD05656,Rue de Lennes 6,5520.0,House,Villa,595000.0,5.0,290.0,0,0,0,1,34.0,1,,0,Normal
+VBD39926,Rue du Rivage 118 1,5300.0,Apartment,Penthouse,295000.0,2.0,86.0,0,0,0,1,20.0,1,4.0,0,New
+VBD40302,,5570.0,House,Residence,369000.0,3.0,191.0,1,0,1,1,43.0,1,4.0,0,To be renovated
+VBD43575,Rue Sous la Ville 8 16,5060.0,Apartment,Apartment,159000.0,2.0,70.0,1,0,0,1,,0,4.0,0,Normal
+VBD42392,Rue du Pont 28,5300.0,House,Residence,160000.0,3.0,140.0,0,0,0,1,6.0,1,2.0,0,To be renovated
+VBD42175,,5140.0,House,Residence,299000.0,4.0,155.0,1,0,0,1,,1,4.0,0,Normal
+VBD30277,,5000.0,Apartment,Apartment,110000.0,1.0,,0,0,0,0,,0,,0,To be renovated
+VBD42163,Rue de Perwez 89,5300.0,House,Residence,215000.0,3.0,130.0,0,0,0,1,,1,3.0,0,
+VBD41315,Rue Nouvelle 4,5640.0,House,Residence,349000.0,4.0,292.0,1,0,0,1,,1,4.0,1,Normal
+VBD42380,Rue de la station 8 A,5060.0,Apartment,Apartment,159000.0,1.0,63.0,1,1,0,0,,0,2.0,0,Excellent
+VBD30279,,5000.0,Apartment,Studio,75000.0,,,0,0,0,0,,0,,0,To be renovated
+VBD41622,Rue du Saint Sang 112,5060.0,House,Mixed building,789000.0,3.0,545.0,1,0,0,1,50.0,1,3.0,0,Normal
+VBD20656,Rue Massaux-Dufaux 34,5150.0,House,Residence,310000.0,5.0,216.0,0,0,0,1,73.0,1,3.0,0,To be renovated
+VBD44535,Rue Brun 34,5300.0,House,Mixed building,195000.0,6.0,214.0,0,0,0,1,13.0,0,3.0,0,To be renovated
+VBD42393,,5590.0,House,Residence,395000.0,6.0,274.0,0,0,0,1,29.0,1,2.0,0,To be renovated
+VBD44626,Avenue Albert Ier 107 12,5000.0,Apartment,Studio,135000.0,0.0,24.0,1,1,0,0,,0,2.0,0,Excellent
+VWD15321,,5600.0,House,Residence,240000.0,3.0,165.0,1,0,0,1,,1,3.0,1,
+VBD40577,Avenue des Français 83,5060.0,House,Residence,135000.0,2.0,80.0,1,0,0,1,15.0,1,2.0,0,To be renovated
+VBD43281,,5640.0,House,Villa,479000.0,5.0,347.0,0,0,0,1,,1,4.0,0,Normal
+VBD39927,Rue du Rivage 118 2,5300.0,Apartment,Penthouse,310000.0,2.0,100.0,0,0,0,1,20.0,0,4.0,0,New
+VBD43808,Rue de la Papeterie 11,5300.0,Apartment,Duplex,319000.0,3.0,171.0,1,0,0,1,25.0,0,,0,Normal
+VBD37540,RUE DE PHILIPPEVILLE 57,5500.0,House,Residence,159000.0,2.0,,0,0,0,0,,0,2.0,0,To be renovated
+VBD36120,Rue de l'aise 2 3,5190.0,Apartment,Apartment,149000.0,2.0,97.0,1,0,0,0,,0,2.0,0,Normal
+VBD20744,Rue du Pont 56,5530.0,House,Villa,310000.0,4.0,156.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD38804,,5621.0,House,Residence,279000.0,2.0,134.0,0,0,0,1,,1,4.0,0,Normal
+VBD34803,Emile vandervelde 47 A,5060.0,House,Residence,270000.0,3.0,135.0,0,0,0,1,,1,3.0,0,Normal
+VBD35548,Ancienne Chaussée de Ciney 26,5300.0,House,Residence,295000.0,3.0,125.0,0,0,0,1,16.0,1,4.0,0,To be renovated
+VBD36877,,5002.0,House,Residence,259000.0,2.0,120.0,0,0,0,1,15.0,1,2.0,0,
+VBD35100,Rue Grande 108,5537.0,House,Residence,129000.0,4.0,195.0,0,0,0,1,15.0,0,3.0,0,To be renovated
+VBD36517,Rue de l'Ermitage 52,5537.0,House,Residence,390000.0,4.0,225.0,1,0,0,1,16.0,1,4.0,0,To renovate
+VBD35924,Chaussée de Louvain 131,5000.0,House,Residence,250000.0,3.0,135.0,1,0,0,1,10.0,1,3.0,0,Normal
+VBD34375,Rue Bois d'Ohey 269,5350.0,House,Residence,295000.0,4.0,145.0,0,0,0,1,16.0,1,3.0,0,To be renovated
+VBD34691,,5020.0,Apartment,Apartment,229000.0,3.0,93.0,1,0,0,0,,1,4.0,0,Normal
+VBD35314,,5640.0,House,Residence,149000.0,4.0,287.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD35140,Rue Monseigneur Heylen 2,5030.0,House,Residence,325000.0,4.0,125.0,0,0,0,1,,1,,0,
+,,,"house,for",,,,,0,0,0,0,,0,,0,
+VBD37221,Rue Neuve 38,5660.0,House,Residence,140000.0,4.0,,0,0,0,0,,1,,0,
+VBD38824,Rue de la Longue Couture 4 4.02,5300.0,Apartment,Apartment,155000.0,1.0,65.0,0,0,0,0,,0,4.0,0,
+VBD37590,,5543.0,House,Residence,249000.0,5.0,360.0,0,0,0,0,,0,4.0,0,Normal
+VBD34690,,5020.0,Apartment,Apartment,229000.0,3.0,124.0,1,0,0,0,,1,4.0,0,Excellent
+VBD36173,,5640.0,House,Residence,315000.0,5.0,241.0,0,0,0,1,,1,4.0,0,Normal
+VBD29235,Rue de Cognelée 7,5080.0,House,Residence,335000.0,3.0,128.0,1,0,0,1,7.0,1,4.0,0,Normal
+VBD32434,Rue Baty des Puissances 7 4,5060.0,Apartment,Apartment,205000.0,2.0,67.0,0,0,0,1,,0,4.0,0,New
+VBD33057,Place de la Jeunesse 11,5060.0,House,Residence,225000.0,4.0,294.0,1,0,0,1,30.0,0,3.0,0,To be renovated
+VBD31982,,5651.0,House,Residence,99000.0,2.0,110.0,0,0,0,1,5.0,1,2.0,0,To renovate
+VBD31521,,5000.0,Apartment,Ground floor,200000.0,1.0,47.0,1,0,0,1,9.0,0,2.0,0,New
+VBD32468,Rue du Village 82A,5081.0,House,Residence,499000.0,3.0,139.0,0,0,0,1,155.0,1,4.0,0,To be renovated
+VBD03830,Chaussée de Dinant 9 1.1,5000.0,Apartment,Apartment,235000.0,2.0,100.0,1,0,0,0,,0,,0,Excellent
+VBD32385,,5600.0,House,Residence,195000.0,4.0,212.0,0,0,0,1,,1,3.0,0,Normal
+VBD33058,Rue du Villez 13,5060.0,Apartment,Apartment,99000.0,1.0,83.0,0,0,0,1,,1,2.0,0,To be renovated
+VBD33141,,5003.0,House,Residence,380000.0,3.0,130.0,0,0,0,1,75.0,1,4.0,0,Normal
+VBD34130,Rue de Dave 757,5100.0,House,Residence,325000.0,2.0,109.0,1,0,0,1,40.0,1,4.0,0,Normal
+VBD33204,,5650.0,House,Mixed building,149000.0,3.0,270.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD31522,,5000.0,Apartment,Ground floor,205000.0,1.0,47.0,1,0,0,1,11.0,0,2.0,0,New
+VBD32811,,5660.0,House,Residence,149000.0,3.0,135.0,0,0,0,1,,0,2.0,0,Normal
+VBD29958,Avenue Roi Albert 67 03,5300.0,Apartment,Apartment,275000.0,2.0,88.0,0,0,0,1,43.0,0,2.0,0,
+VBD31520,,5000.0,Apartment,Apartment,215000.0,1.0,54.0,1,0,0,1,7.0,0,2.0,0,New
+VBD30644,,5620.0,House,Residence,120000.0,1.0,66.0,1,0,0,0,,0,2.0,0,
+VBD31519,,5000.0,Apartment,Apartment,345000.0,3.0,104.0,1,0,0,1,11.0,0,2.0,0,New
+RBS75150,Rue de l'Eau d'Heure le bochetay 92,5377.0,House,Chalet,98000.0,2.0,60.0,1,1,0,1,17.0,1,4.0,0,Normal
+VBD30988,Rue de Sclaigneaux 641,5300.0,House,Residence,295000.0,3.0,185.0,0,0,0,1,15.0,1,3.0,0,To be renovated
+VBD01024,rue du Calvaire 15,5680.0,House,Residence,250000.0,4.0,164.0,0,0,0,1,20.0,1,2.0,0,Normal
+RBT31390,rue du village vallee les étoiles 181,5542.0,House,Chalet,85000.0,3.0,54.0,0,1,0,1,20.0,1,4.0,0,Excellent
+VBD13033,Hurlevent 10,5540.0,House,Chalet,119000.0,2.0,59.0,1,0,0,1,29.0,1,4.0,0,Normal
+VBD24580,Rue Leon Francois 38,5170.0,House,Residence,269000.0,5.0,195.0,0,0,0,1,,1,4.0,0,
+VBD21807,Roger Delizée 102,5670.0,House,Residence,45000.0,2.0,,0,0,0,0,,0,,0,
+VBD12463,,5170.0,House,Residence,649000.0,4.0,203.0,1,0,0,0,,1,4.0,0,Excellent
+VBD15221,,5620.0,House,Residence,185000.0,3.0,140.0,1,0,0,1,6.0,0,2.0,0,
+VBD18489,Chaussée de Dinant 780,5000.0,House,Mixed building,795000.0,6.0,256.0,0,0,0,1,45.0,1,2.0,0,Normal
+VBD23361,Rue saint-sang 104,5060.0,House,Villa,324000.0,3.0,185.0,1,0,0,1,,1,4.0,0,Excellent
+VBD19544,,5621.0,House,Master house,679000.0,10.0,664.0,0,0,0,0,,1,4.0,0,Normal
+VBD18276,Rue de Huy 10,5350.0,House,Residence,331304.0,3.0,,0,0,0,1,19.0,1,3.0,0,New
+VBD19899,Vieille Montagne de Saint-Marc 125+,5002.0,House,Residence,129000.0,1.0,58.0,0,0,0,0,,0,,0,Normal
+VBC83711,,5670.0,House,Residence,165000.0,3.0,166.0,0,0,0,0,,1,2.0,0,
+VBD21943,,5070.0,House,Residence,139000.0,1.0,64.0,1,0,0,0,,0,2.0,0,Excellent
+VBD13296,,5651.0,House,Residence,199000.0,3.0,190.0,0,0,0,1,14.0,1,3.0,0,To renovate
+VBD28419,Allée des Ecureuils 180,5540.0,House,Chalet,139000.0,1.0,63.0,0,0,0,1,,1,4.0,0,
+VBD09567,Allée des Rosiers 40,5520.0,House,Residence,79000.0,2.0,55.0,0,0,0,1,,1,,0,Normal
+VBD21189,RUE D'AVRET 6,5660.0,House,Residence,199000.0,4.0,178.0,0,0,1,1,,1,4.0,0,
+VBC78968,Rue de la Giloterie 14,5070.0,House,Residence,449000.0,4.0,522.0,1,0,1,1,,1,4.0,0,Normal
+VBD00343,,5660.0,Apartment,Apartment,170000.0,2.0,80.0,0,0,0,0,,0,,0,
+VBD12195,Rue du Wainage 86,5060.0,House,Residence,350000.0,5.0,389.0,0,0,0,0,,1,3.0,0,Normal
+VBD11497,Rue de la Marjolaine 19,5100.0,House,Residence,515000.0,4.0,190.0,0,0,1,1,35.0,1,4.0,1,Normal
+VBD11581,,5600.0,House,Residence,135000.0,2.0,126.0,0,0,0,0,,1,3.0,0,Normal
+VBC95102,Rue des Bouleaux 01,5190.0,House,Residence,110000.0,6.0,350.0,0,0,0,1,,1,4.0,0,To be renovated
+VWD14188,,5540.0,House,Bungalow,45200.0,1.0,50.0,1,0,0,1,20.0,1,,0,Normal
+VBD01150,,5570.0,House,Villa,1750000.0,9.0,732.0,1,0,0,1,,1,4.0,0,Excellent
+VBD05689,,5620.0,House,Mixed building,120000.0,2.0,161.0,0,0,0,0,,0,2.0,0,
+VBD03417,Rue Grande 87,5550.0,House,Residence,319000.0,8.0,1800.0,0,0,0,1,,1,4.0,0,To restore
+VBD07646,,5542.0,House,Chalet,89000.0,3.0,54.0,0,1,0,1,,1,4.0,1,
+VBD04248,Place Saint-Martin 13,5060.0,House,Residence,309000.0,4.0,225.0,0,0,0,1,,1,2.0,0,Normal
+VBC92313,,5560.0,House,Residence,219000.0,2.0,155.0,1,0,0,1,,1,3.0,0,Normal
+VBD02127,Rue Alexis Jottard 30 D,5300.0,House,Residence,220000.0,3.0,108.0,0,0,0,0,,0,3.0,0,
+VBD10205,Avenue de la Libération 60,5660.0,House,Residence,200000.0,3.0,110.0,0,0,0,1,,1,,0,
+RBU08251,rue du village 160 parc les etoiles 160,5540.0,House,Chalet,69000.0,2.0,42.0,0,1,0,1,12.0,1,4.0,0,Excellent
+VBC94462,Chaussée Romaine 107 E22,5030.0,Apartment,Apartment,370000.0,2.0,,0,0,0,1,,0,,0,New
+VBD09812,Allée des Aulnes 180,5600.0,House,Residence,117000.0,2.0,73.0,1,0,0,1,,1,4.0,0,Normal
+VBD11749,,5060.0,House,Residence,159000.0,3.0,140.0,0,0,0,1,36.0,1,2.0,0,
+VBC72781,Rue de la Gare 14 3A,5660.0,Apartment,Apartment,158000.0,1.0,62.0,0,0,0,1,2.0,0,2.0,0,Normal
+RBT31389,rue du village vallee les étoiles 171,5542.0,House,Chalet,59000.0,2.0,42.0,0,1,0,1,16.0,1,4.0,0,Excellent
+VBC56235,Rue Pierre du Diable 13,5100.0,Apartment,Penthouse,395000.0,3.0,108.0,1,0,0,1,14.0,0,,1,New
+VBC59217,Rue Salm 184 B,5300.0,House,Residence,385000.0,5.0,253.0,1,0,0,1,48.0,0,4.0,0,Normal
+VBC60733,,5032.0,Apartment,Apartment,139000.0,1.0,55.0,1,0,0,0,,0,,0,Normal
+VBC78492,Rue aux Vallées 18,5024.0,House,Residence,145000.0,3.0,105.0,1,0,0,1,,1,2.0,0,To be renovated
+VBC78967,Rue Basse-Vaux 35b,5140.0,House,Residence,449000.0,3.0,136.0,1,0,0,1,45.0,1,4.0,0,Excellent
+VBC90695,rue de la barrière 35,5651.0,House,Residence,590000.0,5.0,585.0,0,0,1,1,,1,,0,Normal
+VBC59100,Avenue de la libération 06,5060.0,House,Mixed building,475000.0,3.0,,0,0,0,0,,0,2.0,0,Normal
+VBC49323,,5600.0,House,Residence,40000.0,2.0,110.0,0,0,0,0,,1,4.0,0,
+VBC89369,Rue Charnay 2,5575.0,House,Residence,240000.0,5.0,144.0,0,0,0,1,20.0,0,4.0,0,To be renovated
+VBC84997,Rue du Carmel 4 10,5150.0,Apartment,Apartment,140000.0,1.0,60.0,1,0,0,0,,0,2.0,0,To be renovated
+RBT47502,Quartier du Mayeur 20,5377.0,House,Bungalow,99000.0,1.0,44.0,0,0,0,1,9.0,1,4.0,0,Normal
+VWD13516,Grand'Route 89,5651.0,House,Mixed building,250000.0,3.0,130.0,1,0,0,1,,1,3.0,0,To be renovated
+VBC67482,Rue de la Tour 18,5000.0,Apartment,Apartment,239000.0,1.0,76.0,1,0,0,1,2.0,0,3.0,0,Normal
+VBC03455,Rue de Gramptinne 71,5300.0,House,Residence,260000.0,2.0,163.0,0,0,0,1,70.0,1,4.0,0,To be renovated
+VBC83897,Rue Alexis Jottard 30 C,5300.0,House,Residence,295000.0,3.0,150.0,1,0,0,0,,1,3.0,0,
+VBC73016,Allée des Charmes 10 D,5600.0,House,Chalet,215000.0,3.0,102.0,0,0,0,0,,1,4.0,0,Normal
+VBC89368,Rue Charnay 2,5575.0,House,Residence,240000.0,5.0,144.0,1,0,0,1,20.0,1,4.0,0,To be renovated
+VBC35511,,5660.0,House,Residence,195000.0,2.0,55.0,0,0,0,1,,0,,0,
+VBC70147,Rue Nanon 6,5002.0,Apartment,Apartment,149000.0,2.0,73.0,1,0,0,0,,0,2.0,0,To renovate
+VBC82180,Rue la Forestière 240,5660.0,House,Residence,195000.0,3.0,59.0,0,0,0,1,,1,4.0,0,Excellent
+VBB70357,,5000.0,Apartment,Studio,89000.0,,37.0,1,0,0,0,,0,2.0,0,Normal
+VBD44501,RUE DU COMMERCE 28,5560.0,House,Residence,390000.0,3.0,180.0,0,0,1,1,50.0,1,,0,Excellent
+RBR71473,rue du village 51 parc les etoiles 51,5540.0,House,Chalet,72900.0,2.0,42.0,0,1,0,1,16.0,1,4.0,0,Excellent
+VBB99440,,5600.0,House,Chalet,,2.0,70.0,1,0,0,0,,0,,0,Normal
+VBA87665,,5310.0,House,Residence,415000.0,4.0,133.0,0,0,0,1,,1,,0,New
+VBC56232,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,245000.0,1.0,67.0,1,0,0,1,12.0,0,,0,New
+VBC41845,Rue de l'Ange 51,5000.0,House,Residence,795000.0,1.0,236.0,1,0,0,0,,0,2.0,0,
+VBC56228,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,327500.0,3.0,106.0,1,0,0,1,5.0,0,,0,New
+RBP42121,rue du village 121 vallee les étoiles 121,5542.0,House,Chalet,69500.0,2.0,42.0,0,1,0,1,16.0,1,4.0,0,Normal
+VAW66255,,5350.0,Apartment,Apartment,255000.0,2.0,94.0,0,0,0,1,7.0,1,,0,New
+VBB73160,,5550.0,House,Residence,1070000.0,24.0,1500.0,1,1,1,0,,1,,0,Normal
+VWD11145,rue pré de dessous Guérin 9,5650.0,House,Chalet,70000.0,1.0,50.0,1,0,0,0,,1,4.0,0,To be renovated
+VBC53156,,5500.0,House,Residence,,1.0,71.0,0,0,0,1,,1,4.0,0,To be renovated
+VBA67178,,5660.0,House,Residence,120000.0,10.0,365.0,0,0,0,0,,0,,0,
+VBC23513,Rue de Givet 15,5600.0,House,Mixed building,280000.0,4.0,366.0,0,0,0,1,35.0,1,4.0,0,Normal
+VBC56231,Rue Pierre du Diable 13,5100.0,Apartment,Studio,190000.0,,55.0,1,0,0,1,9.0,0,,0,New
+VBC55714,Rue Saint-Jean 15-17,5000.0,Apartment,Apartment,259000.0,2.0,215.0,1,0,0,0,,0,,0,Normal
+VBA67177,,5660.0,House,Residence,100000.0,2.0,,0,0,0,0,,1,3.0,0,To be renovated
+VAZ99588,Rue De Branchon 71,5380.0,House,Residence,249000.0,3.0,125.0,0,0,1,1,54.0,1,2.0,0,Normal
+RBS92261,rue du village 169 vallee les étoiles 169 169,5540.0,House,Residence,62000.0,2.0,42.0,0,1,0,1,,0,4.0,0,Normal
+VBD43826,,5000.0,House,Residence,409000.0,3.0,148.0,0,0,0,1,14.0,0,2.0,0,
+VBD44488,,5590.0,Apartment,Apartment,175000.0,2.0,93.0,0,0,0,0,,0,3.0,0,
+VBC88334,Rue de Strouvia 7,5340.0,House,Residence,270000.0,2.0,130.0,0,0,0,1,12.0,1,4.0,0,
+VBD43857,rue saint Gerard 27 7,5070.0,Apartment,Apartment,235000.0,2.0,109.0,0,0,0,1,,0,4.0,0,
+VBD44489,,5590.0,Apartment,Apartment,165000.0,2.0,90.0,0,0,0,0,,0,3.0,0,Fully renovated
+VBD44413,Rue Julie Dessy 7,5000.0,Apartment,Apartment,239000.0,2.0,97.0,0,0,0,1,10.0,0,2.0,0,
+VBD44192,Rue du Point-d'Arrêt 1,5680.0,House,Residence,185000.0,4.0,,0,0,0,0,,1,3.0,0,Normal
+VBD43986,Rue Fernand Stimart 17,5020.0,House,Residence,385000.0,3.0,179.0,0,0,0,1,25.0,1,3.0,0,Under construction
+VBD44171,Boulevard Frère Orban 1,5000.0,Apartment,Penthouse,320000.0,2.0,103.0,0,0,0,1,20.0,0,,0,Normal
+VBD43934,,5060.0,House,Residence,265000.0,3.0,169.0,1,0,0,1,30.0,1,2.0,0,Normal
+VBD44316,,5060.0,House,Residence,185000.0,2.0,167.0,0,0,0,1,,0,2.0,0,Normal
+VBD44304,Rue de Besinne 50,5170.0,House,Residence,299000.0,4.0,135.0,1,0,0,1,20.0,1,3.0,0,Normal
+VBD44334,Rue Noéchamps 49A,5640.0,House,Villa,240000.0,2.0,160.0,0,0,0,1,,1,,0,
+VBD43827,,5330.0,House,Residence,399000.0,3.0,150.0,0,0,0,1,14.0,0,2.0,0,
+VBD44325,,5540.0,House,Residence,59000.0,2.0,42.0,0,0,0,1,15.0,1,4.0,0,
+VBD44358,Rue de Graide 37,5555.0,House,Villa,439000.0,3.0,207.0,0,0,1,1,10.0,1,,0,Excellent
+VBD24922,Rue de Leuze 415,5300.0,House,Villa,319000.0,2.0,100.0,1,0,0,1,25.0,1,4.0,0,Normal
+VBD44374,,5620.0,House,Residence,399000.0,6.0,373.0,0,0,0,1,,1,4.0,0,Normal
+VBD44114,,5000.0,Apartment,Apartment,199000.0,1.0,52.0,0,0,0,1,7.0,0,,0,Fully renovated
+VBD44159,Impasse du Grand Pré 602,5300.0,House,Residence,145000.0,3.0,100.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD43824,,5000.0,Apartment,Apartment,399000.0,3.0,139.0,0,0,0,1,35.0,0,3.0,0,
+VBD43596,Rue du Commerce 7,5300.0,House,Mixed building,225000.0,4.0,215.0,0,0,0,0,,0,2.0,0,
+VBD41145,,5100.0,Apartment,Apartment,,1.0,66.0,0,0,0,1,,0,,0,
+VBD41144,,5100.0,Apartment,Apartment,,1.0,57.0,0,0,0,1,,0,,0,
+VBD41143,,5100.0,Apartment,Apartment,,1.0,55.0,0,0,0,1,,0,,0,
+VBD41123,,5100.0,Apartment,Apartment,,1.0,63.0,0,0,0,1,,0,,0,
+VBD41084,,5100.0,Apartment,Apartment,,1.0,54.0,0,0,0,1,,0,,0,
+VBD41076,,5100.0,Apartment,Apartment,,1.0,58.0,0,0,0,1,,0,,0,
+VBD41060,,5100.0,Apartment,Apartment,,1.0,56.0,0,0,0,1,,0,,0,
+VBD41053,,5100.0,Apartment,Apartment,,1.0,64.0,0,0,0,1,,0,,0,
+VBD41132,,5100.0,Apartment,Apartment,199000.0,1.0,54.0,0,0,0,1,,0,,0,
+VBD41142,,5100.0,Apartment,Apartment,,2.0,93.0,0,0,0,1,,0,,0,
+VBD41138,,5100.0,Apartment,Apartment,,2.0,87.0,0,0,0,1,,0,,0,
+VBD41134,,5100.0,Apartment,Apartment,,2.0,83.0,0,0,0,1,,0,,0,
+VBD41128,,5100.0,Apartment,Apartment,,2.0,87.0,0,0,0,1,,1,,0,
+VBD41113,,5100.0,Apartment,Apartment,,2.0,90.0,0,0,0,1,,0,,0,
+VBD41112,,5100.0,Apartment,Apartment,,2.0,112.0,0,0,0,1,,0,,0,
+VBD41100,,5100.0,Apartment,Apartment,,2.0,89.0,0,0,0,1,,0,,0,
+VBD41098,,5100.0,Apartment,Apartment,,2.0,94.0,0,0,0,1,,0,,0,
+VBD41077,,5100.0,Apartment,Apartment,,2.0,91.0,0,0,0,1,,0,,0,
+VBD41056,,5100.0,Apartment,Apartment,,2.0,95.0,0,0,0,1,,0,,0,
+VBD41094,,5100.0,Apartment,Apartment,,3.0,127.0,0,0,0,1,,0,,0,
+VBD41107,,5100.0,Apartment,Studio,,,48.0,0,0,0,1,,0,,0,
+VBD41104,,5100.0,Apartment,Studio,,,49.0,0,0,0,1,,1,,0,
+VBD41129,Rue d'Enhaive 263,5000.0,Apartment,Apartment,259000.0,1.0,68.0,0,0,0,1,8.0,1,,0,New
+VBD41105,Rue d'Enhaive 263,5000.0,Apartment,Apartment,263000.0,1.0,68.0,0,0,0,1,10.0,0,,0,New
+VBD41101,Rue d'Enhaive 263,5000.0,Apartment,Apartment,267000.0,1.0,68.0,0,0,0,1,10.0,0,,0,New
+VBD41099,Rue d'Enhaive 263,5000.0,Apartment,Apartment,272000.0,1.0,68.0,0,0,0,1,10.0,0,,0,New
+VBD41131,Rue d'Enhaive 263,5000.0,Apartment,Apartment,274000.0,1.0,71.0,0,0,0,1,15.0,1,,0,New
+VBD41082,Rue d'Enhaive 263,5000.0,Apartment,Apartment,276000.0,1.0,71.0,0,0,0,1,14.0,0,,0,New
+VBD41118,Rue d'Enhaive 263,5000.0,Apartment,Apartment,284000.0,1.0,71.0,0,0,0,1,14.0,0,,0,New
+VBD41114,Rue d'Enhaive 263,5000.0,Apartment,Apartment,288000.0,1.0,71.0,0,0,0,1,14.0,0,,0,New
+VBD41116,Rue d'Enhaive 263,5000.0,Apartment,Apartment,293000.0,1.0,71.0,0,0,0,1,14.0,0,,0,New
+VBD41097,Rue d'Enhaive 263,5000.0,Apartment,Apartment,301000.0,1.0,71.0,0,0,0,1,14.0,0,,0,New
+VBD41083,Rue d'Enhaive 263,5000.0,Apartment,Apartment,340000.0,1.0,69.0,0,0,0,1,33.0,0,,0,New
+VBD41137,Rue d'Enhaive 263,5000.0,Apartment,Apartment,365000.0,2.0,84.0,0,0,0,1,11.0,0,,0,New
+VBD41127,Rue d'Enhaive 263,5000.0,Apartment,Apartment,371000.0,2.0,84.0,0,0,0,1,16.0,1,,0,New
+VBD41135,Rue d'Enhaive 263,5000.0,Apartment,Apartment,380000.0,2.0,91.0,0,0,0,1,13.0,0,,0,New
+VBD41125,Rue d'Enhaive 263,5000.0,Apartment,Apartment,380000.0,2.0,84.0,0,0,0,1,11.0,0,,0,New
+VBD41075,Rue d'Enhaive 263,5000.0,Apartment,Apartment,380000.0,2.0,90.0,0,0,0,1,12.0,0,,0,New
+VBD41141,Rue d'Enhaive 263,5000.0,Apartment,Apartment,395000.0,2.0,91.0,0,0,0,1,13.0,0,,0,New
+VBD41093,Rue d'Enhaive 263,5000.0,Apartment,Apartment,395000.0,2.0,84.0,0,0,0,1,12.0,0,,0,New
+VBD41089,Rue d'Enhaive 263,5000.0,Apartment,Apartment,395000.0,2.0,91.0,0,0,0,1,12.0,0,,0,New
+VBD41108,Rue d'Enhaive 263,5000.0,Apartment,Apartment,410000.0,2.0,91.0,0,0,0,1,13.0,0,,0,New
+VBD41087,Rue d'Enhaive 263,5000.0,Apartment,Apartment,410000.0,2.0,90.0,0,0,0,1,12.0,0,,0,New
+VBD41106,Rue d'Enhaive 263,5000.0,Apartment,Apartment,415000.0,2.0,84.0,0,0,0,1,12.0,0,,0,New
+VBD41110,Rue d'Enhaive 263,5000.0,Apartment,Apartment,435000.0,2.0,84.0,0,0,0,1,12.0,0,,0,New
+VBD41079,Rue d'Enhaive 263,5000.0,Apartment,Apartment,435000.0,2.0,90.0,0,0,0,1,12.0,0,,0,New
+VBD41073,Rue d'Enhaive 263,5000.0,Apartment,Apartment,440000.0,2.0,102.0,0,0,0,1,14.0,1,,0,New
+VBD41078,Rue d'Enhaive 263,5000.0,Apartment,Apartment,515000.0,2.0,121.0,0,0,0,1,12.0,0,,0,New
+VBD41103,Rue d'Enhaive 263,5000.0,Apartment,Apartment,525000.0,2.0,120.0,0,0,0,1,13.0,0,,0,New
+VBD41085,Rue d'Enhaive 263,5000.0,Apartment,Apartment,550000.0,2.0,104.0,0,0,0,1,62.0,0,,0,New
+VBD41111,Rue d'Enhaive 263,5000.0,Apartment,Apartment,540000.0,3.0,131.0,0,0,0,1,12.0,0,,0,New
+VBD41095,Rue d'Enhaive 263,5000.0,Apartment,Apartment,550000.0,3.0,130.0,0,0,0,1,13.0,0,,0,New
+VBD41072,Rue d'Enhaive 263,5000.0,Apartment,Apartment,575000.0,3.0,131.0,0,0,0,1,15.0,1,,0,New
+VBD41091,Rue d'Enhaive 263,5000.0,Apartment,Apartment,675000.0,3.0,133.0,0,0,0,1,97.0,0,,0,New
+VBD41139,Rue d'Enhaive 263,5000.0,Apartment,Studio,216000.0,0.0,53.0,0,0,0,1,10.0,0,,0,New
+VBD41133,Rue d'Enhaive 263,5000.0,Apartment,Studio,216000.0,0.0,54.0,0,0,0,1,15.0,1,,0,New
+VBD41120,Rue d'Enhaive 263,5000.0,Apartment,Studio,220000.0,0.0,53.0,0,0,0,1,10.0,0,,0,New
+VBD41122,Rue d'Enhaive 263,5000.0,Apartment,Studio,224000.0,0.0,53.0,0,0,0,1,10.0,0,,0,New
+VBD41124,Rue d'Enhaive 263,5000.0,Apartment,Studio,233000.0,0.0,54.0,0,0,0,1,10.0,0,,0,New
+VBD42029,,5000.0,Apartment,Apartment,,1.0,63.0,0,0,0,1,,0,,0,
+VBD42026,,5000.0,Apartment,Apartment,,1.0,57.0,0,0,0,1,,0,,0,
+VBD42024,,5000.0,Apartment,Apartment,,1.0,66.0,0,0,0,1,,0,,0,
+VBD42019,,5000.0,Apartment,Apartment,,1.0,55.0,0,0,0,1,,0,,0,
+VBD42009,,5000.0,Apartment,Apartment,,1.0,56.0,0,0,0,1,,0,,0,
+VBD42008,,5000.0,Apartment,Apartment,,1.0,58.0,0,0,0,1,,0,,0,
+VBD42002,,5000.0,Apartment,Apartment,,1.0,64.0,0,0,0,1,,0,,0,
+VBD41977,,5000.0,Apartment,Apartment,,1.0,54.0,0,0,0,1,,0,,0,
+VBD41989,,5000.0,Apartment,Apartment,199000.0,1.0,54.0,0,0,0,1,,0,,0,
+VBD42034,,5000.0,Apartment,Apartment,,2.0,90.0,0,0,0,1,,0,,0,
+VBD42032,,5000.0,Apartment,Apartment,,2.0,93.0,0,0,0,1,,0,,0,
+VBD42031,,5000.0,Apartment,Apartment,,2.0,87.0,0,0,0,1,,0,,0,
+VBD42030,,5000.0,Apartment,Apartment,,2.0,83.0,0,0,0,1,,0,,0,
+VBD42027,,5000.0,Apartment,Apartment,,2.0,91.0,0,0,0,1,,0,,0,
+VBD42025,,5000.0,Apartment,Apartment,,2.0,94.0,0,0,0,1,,0,,0,
+VBD42007,,5000.0,Apartment,Apartment,,2.0,89.0,0,0,0,1,,0,,0,
+VBD42006,,5000.0,Apartment,Apartment,,2.0,95.0,0,0,0,1,,0,,0,
+VBD42005,,5000.0,Apartment,Apartment,,2.0,112.0,0,0,0,1,,0,,0,
+VBD41986,,5000.0,Apartment,Apartment,,2.0,90.0,0,0,0,1,,1,,0,
+VBD42003,,5000.0,Apartment,Apartment,,3.0,127.0,0,0,0,1,,0,,0,
+VBD42033,,5000.0,Apartment,Studio,,,49.0,0,0,0,1,,0,,0,
+VBD42000,,5000.0,Apartment,Studio,,,48.0,0,0,0,1,,0,,0,
+VBB51987,Rue des Forges 16 3,5370.0,House,Residence,275000.0,3.0,120.0,1,0,0,0,,1,,0,New
+VBB51984,Rue des Forges 0 2,5370.0,House,Residence,275000.0,3.0,120.0,1,0,0,0,,1,,0,New
+VBB51986,Rue des Forges 16 4,5370.0,House,Residence,310000.0,3.0,135.0,1,0,0,0,,1,,0,New
+VBB51988,Rue des Forges 16 1,5370.0,House,Villa,325000.0,4.0,158.0,1,0,0,0,,1,,0,New
+VBB51985,Rue des Forges 16 5,5370.0,House,Villa,340000.0,4.0,200.0,1,0,0,0,,1,,0,New
+VBD39623,Rue Edouard Dinot,5590.0,Apartment,Apartment,173628.0,1.0,51.0,0,0,0,0,,0,,0,New
+VBD39622,Rue Edouard Dinot,5590.0,Apartment,Apartment,219628.0,1.0,52.0,0,0,0,1,9.0,0,,0,New
+VBD44795,Rue Edouard Dinot,5590.0,Apartment,Apartment,315000.0,2.0,88.0,0,0,0,1,14.0,0,,0,Excellent
+VBD40060,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,236172.0,1.0,73.0,0,0,0,1,7.0,0,,0,New
+VBD40055,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,237046.0,1.0,66.0,0,0,0,1,7.0,0,,0,New
+VBD40083,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,237901.0,1.0,64.0,0,0,0,1,7.0,0,,0,New
+VBD40077,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,240821.0,1.0,65.0,0,0,0,1,7.0,0,,0,New
+VBD40037,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,242601.0,1.0,64.0,0,0,0,1,7.0,0,,0,New
+VBD40038,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,242621.0,1.0,64.0,0,0,0,1,8.0,0,,0,New
+VBD40039,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,242821.0,1.0,65.0,0,0,0,1,7.0,0,,0,New
+VBD40049,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,,2.0,90.0,0,0,0,1,17.0,0,,0,New
+VBD40045,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,315004.0,2.0,92.0,0,0,0,1,8.0,0,,0,New
+VBD40044,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,317252.0,2.0,89.0,0,0,0,1,8.0,0,,0,New
+VBD40050,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,319885.0,2.0,99.0,0,0,0,1,3.0,0,,0,New
+VBD40051,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,322670.0,2.0,88.0,0,0,0,1,8.0,0,,0,New
+VBD40053,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,323552.0,2.0,89.0,0,0,0,1,8.0,0,,0,New
+VBD40058,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,326221.0,2.0,99.0,0,0,0,1,3.0,0,,0,New
+VBD40067,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,326352.0,2.0,94.0,0,0,0,1,8.0,0,,0,New
+VBD40065,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,326752.0,2.0,94.0,0,0,0,1,8.0,0,,0,New
+VBD40036,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,328829.0,2.0,93.0,0,0,0,1,8.0,0,,0,New
+VBD40034,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,329190.0,2.0,101.0,0,0,0,1,5.0,0,,0,New
+VBD40059,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,329391.0,2.0,100.0,0,0,0,1,3.0,0,,0,New
+VBD40072,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,330987.0,2.0,100.0,0,0,0,1,3.0,0,,0,New
+VBD40052,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,333447.0,2.0,88.0,0,0,0,1,8.0,0,,0,New
+VBD40057,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,334394.0,2.0,92.0,0,0,0,1,8.0,0,,0,New
+VBD40054,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,334952.0,2.0,89.0,0,0,0,1,8.0,0,,0,New
+VBD40062,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,335752.0,2.0,94.0,0,0,0,1,8.0,0,,0,New
+VBD40075,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,336253.0,2.0,97.0,0,0,0,1,3.0,0,,0,New
+VBD40068,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,337303.0,2.0,100.0,0,0,0,1,4.0,0,,0,New
+VBD40070,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,339999.0,2.0,100.0,0,0,0,1,3.0,0,,0,New
+VBD40073,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,340646.0,2.0,92.0,0,0,0,1,8.0,0,,0,New
+VBD40043,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,342324.0,2.0,100.0,0,0,0,1,4.0,0,,0,New
+VBD40064,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,345629.0,2.0,101.0,0,0,0,1,6.0,0,,0,New
+VBD40056,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,347202.0,2.0,100.0,0,0,0,1,4.0,0,,0,New
+VBD40040,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,351391.0,2.0,92.0,0,0,0,1,8.0,0,,0,New
+VBD40061,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,351403.0,2.0,101.0,0,0,0,1,5.0,0,,0,New
+VBD40084,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,384335.0,2.0,109.0,0,0,0,1,16.0,0,,0,New
+VBD40042,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,407370.0,2.0,91.0,0,0,0,1,41.0,0,,0,New
+VBD40041,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,325963.0,3.0,111.0,0,0,0,1,25.0,0,,0,New
+VBD40033,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,343983.0,3.0,113.0,0,0,0,1,26.0,0,,0,New
+VBD40046,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,491818.0,3.0,129.0,0,0,0,1,52.0,0,,0,New
+VBD40047,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,566175.0,3.0,129.0,0,0,0,1,48.0,0,,0,New
+VBD40048,Rue du Premier Lanciers 1,5000.0,Apartment,Penthouse,568336.0,3.0,125.0,0,0,0,1,45.0,0,,0,New
+VBD29535,Rue de la Dodane 10,5000.0,Apartment,Apartment,520000.0,3.0,123.0,0,0,0,1,20.0,0,2.0,0,New
+VBD38089,,5560.0,Apartment,Apartment,,1.0,79.0,1,0,0,1,,0,2.0,0,New
+VBD38090,,5560.0,Apartment,Apartment,,2.0,90.0,1,0,0,0,,0,2.0,0,New
+VBD38092,,5560.0,Apartment,Duplex,,2.0,104.0,1,0,0,0,,0,2.0,0,New
+VBD38091,,5560.0,Apartment,Duplex,,2.0,84.0,1,0,0,0,,0,2.0,0,New
+VBD40015,,5590.0,Apartment,Apartment,238000.0,1.0,61.0,0,0,0,1,,0,,0,
+VBD40023,,5590.0,Apartment,Apartment,258000.0,1.0,67.0,0,0,0,1,,0,,0,
+VBD40022,,5590.0,Apartment,Apartment,268000.0,1.0,67.0,0,0,0,1,,0,,0,
+VBD40019,,5590.0,Apartment,Apartment,290000.0,2.0,81.0,0,0,0,1,21.0,0,,0,
+VBD40010,,5590.0,Apartment,Apartment,315000.0,2.0,89.0,0,0,0,1,,0,,0,
+VBD40020,,5590.0,Apartment,Apartment,325000.0,2.0,89.0,0,0,0,1,,0,,0,
+VBD40012,,5590.0,Apartment,Apartment,330000.0,2.0,98.0,0,0,0,1,,0,,0,
+VBD40021,,5590.0,Apartment,Apartment,340000.0,2.0,98.0,0,0,0,1,,0,,0,
+VBD40028,,5590.0,Apartment,Apartment,350000.0,2.0,100.0,0,0,0,1,,0,,0,
+VBD40027,,5590.0,Apartment,Apartment,355000.0,2.0,98.0,0,0,0,1,11.0,0,,0,
+VBD40026,,5590.0,Apartment,Apartment,355000.0,2.0,92.0,0,0,0,1,15.0,1,,0,
+VBD40014,,5590.0,Apartment,Apartment,360000.0,2.0,98.0,0,0,0,1,,0,,0,
+VBD40013,,5590.0,Apartment,Apartment,370000.0,2.0,100.0,0,0,0,1,,0,,0,
+VBD40029,,5590.0,Apartment,Apartment,375000.0,2.0,115.0,0,0,0,1,,0,,0,
+VBD40011,,5590.0,Apartment,Apartment,375000.0,2.0,100.0,0,0,0,1,,0,,0,
+VBD40024,,5590.0,Apartment,Apartment,445000.0,2.0,109.0,0,0,0,1,,0,,0,
+VBD40030,,5590.0,Apartment,Apartment,385000.0,3.0,115.0,0,0,0,1,,0,,0,
+VBD40016,,5590.0,Apartment,Apartment,405000.0,3.0,112.0,0,0,0,1,,0,,0,
+VBD40018,,5590.0,Apartment,Studio,189000.0,,51.0,0,0,0,1,12.0,0,,0,
+VBD40017,,5590.0,Apartment,Studio,198000.0,,52.0,0,0,0,1,12.0,0,,0,
+VBD40031,,5590.0,Apartment,Studio,203000.0,,52.0,0,0,0,1,9.0,0,,0,
+VBD40032,,5590.0,Apartment,Studio,208000.0,,52.0,0,0,0,1,,0,,0,
+VBD40025,,5590.0,Apartment,Studio,218000.0,,52.0,0,0,0,1,,0,,0,
+VBD38170,Rue de la Station 7 A,5560.0,Apartment,Apartment,159000.0,1.0,65.0,0,0,0,1,21.0,0,,0,New
+VBD38171,Rue de la Station 7 B,5560.0,Apartment,Apartment,175000.0,2.0,80.0,0,0,0,0,,0,,0,New
+VBD38174,Rue de la Station 7 C,5560.0,Apartment,Duplex,139000.0,2.0,68.0,0,0,0,0,,0,,0,New
+VBD38173,Rue de la Station 7 D,5560.0,Apartment,Duplex,179000.0,2.0,90.0,0,0,0,0,,0,,0,New
+VBD40111,,5030.0,Apartment,Apartment,308471.0,2.0,98.0,0,0,0,1,,1,,0,
+VBD40104,,5030.0,Apartment,Apartment,313471.0,2.0,89.0,0,0,0,1,,1,,0,
+VBD40097,,5030.0,Apartment,Apartment,319471.0,2.0,91.0,0,0,0,1,,1,,0,
+VBD40115,,5030.0,Apartment,Apartment,321471.0,2.0,93.0,0,0,0,1,,1,,0,
+VBD40113,,5030.0,Apartment,Apartment,324471.0,2.0,92.0,0,0,0,1,,1,,0,
+VBD40108,,5030.0,Apartment,Apartment,328471.0,2.0,92.0,0,0,0,1,,1,,0,
+VBD40106,,5030.0,Apartment,Apartment,328471.0,2.0,107.0,0,0,0,1,,1,,0,
+VBD40095,,5030.0,Apartment,Apartment,368471.0,2.0,107.0,0,0,0,1,,1,,0,
+VBD40102,,5030.0,Apartment,Apartment,374207.0,3.0,118.0,0,0,0,1,,1,,0,
+VBD40099,,5030.0,Apartment,Apartment,394207.0,3.0,133.0,0,0,0,1,,1,,0,
+VBD48500,,5060.0,Apartment,Apartment,170000.0,1.0,58.0,0,0,0,0,,1,,0,New
+VBD48501,,5060.0,Apartment,Apartment,180000.0,1.0,58.0,0,0,0,0,,1,,0,New
+VBD48502,,5060.0,Apartment,Apartment,190000.0,1.0,58.0,0,0,0,0,,0,,0,New
+VBD48503,,5060.0,Apartment,Apartment,220000.0,1.0,75.0,0,0,0,0,,1,,0,New
+VBD48506,,5060.0,Apartment,Apartment,230000.0,1.0,75.0,0,0,0,0,,1,,0,New
+VBD48507,,5060.0,Apartment,Apartment,240000.0,2.0,87.0,0,0,0,0,,0,,0,New
+VBD48508,,5060.0,Apartment,Apartment,245000.0,2.0,87.0,0,0,0,1,9.0,1,,0,New
+VBD48512,,5060.0,Apartment,Apartment,250000.0,2.0,83.0,0,0,0,0,,1,,0,New
+VBD48511,,5060.0,Apartment,Apartment,250000.0,2.0,88.0,0,0,0,0,,1,,0,New
+VBD48510,,5060.0,Apartment,Apartment,250000.0,2.0,88.0,0,0,0,1,10.0,1,,0,New
+VBD48509,,5060.0,Apartment,Apartment,250000.0,2.0,84.0,0,0,0,0,,1,,0,New
+VBD48514,,5060.0,Apartment,Apartment,255000.0,2.0,87.0,0,0,0,0,,0,,0,New
+VBD48513,,5060.0,Apartment,Apartment,255000.0,2.0,88.0,0,0,0,0,,1,,0,New
+VBD43716,,5060.0,Apartment,Apartment,260000.0,2.0,84.0,0,0,0,0,,1,,0,New
+VBD43210,,5060.0,Apartment,Apartment,260000.0,2.0,81.0,0,0,0,0,,0,,0,New
+VBD43209,,5060.0,Apartment,Apartment,260000.0,2.0,83.0,0,0,0,0,,0,,0,New
+VBD43208,,5060.0,Apartment,Apartment,260000.0,2.0,88.0,0,0,0,0,,1,,0,New
+VBD43207,,5060.0,Apartment,Apartment,260000.0,2.0,87.0,0,0,0,0,,1,,0,New
+VBD43213,,5060.0,Apartment,Apartment,265000.0,2.0,87.0,0,0,0,0,,1,,0,New
+VBD43212,,5060.0,Apartment,Apartment,265000.0,2.0,88.0,0,0,0,0,,0,,0,New
+VBD43217,,5060.0,Apartment,Apartment,270000.0,2.0,81.0,0,0,0,0,,1,,0,New
+VBD43216,,5060.0,Apartment,Apartment,270000.0,2.0,87.0,0,0,0,0,,1,,0,New
+VBD43215,,5060.0,Apartment,Apartment,270000.0,2.0,88.0,0,0,0,0,,1,,0,New
+VBD43214,,5060.0,Apartment,Apartment,270000.0,2.0,94.0,0,0,0,0,,0,,0,New
+VBD43218,,5060.0,Apartment,Apartment,274000.0,2.0,88.0,0,0,0,1,9.0,1,,0,New
+VBD43220,,5060.0,Apartment,Apartment,275000.0,2.0,89.0,0,0,0,1,9.0,1,,0,New
+VBD43219,,5060.0,Apartment,Apartment,275000.0,2.0,88.0,0,0,0,0,,1,,0,New
+VBD43223,,5060.0,Apartment,Apartment,280000.0,2.0,81.0,0,0,0,0,,0,,0,New
+VBD43222,,5060.0,Apartment,Apartment,280000.0,2.0,89.0,0,0,0,0,,0,,0,New
+VBD43221,,5060.0,Apartment,Apartment,280000.0,2.0,94.0,0,0,0,0,,1,,0,New
+VBD43225,,5060.0,Apartment,Apartment,285000.0,2.0,91.0,0,0,0,1,10.0,1,,0,New
+VBD43224,,5060.0,Apartment,Apartment,285000.0,2.0,96.0,0,0,0,1,9.0,1,,0,New
+VBD43230,,5060.0,Apartment,Apartment,290000.0,2.0,92.0,0,0,0,0,,0,,0,New
+VBD43229,,5060.0,Apartment,Apartment,290000.0,2.0,110.0,0,0,0,0,,0,,0,New
+VBD43228,,5060.0,Apartment,Apartment,290000.0,2.0,86.0,0,0,0,1,9.0,1,,0,New
+VBD43226,,5060.0,Apartment,Apartment,290000.0,2.0,96.0,0,0,0,0,,1,,0,New
+VBD43232,,5060.0,Apartment,Apartment,295000.0,2.0,91.0,0,0,0,0,,1,,0,New
+VBD43231,,5060.0,Apartment,Apartment,295000.0,2.0,86.0,0,0,0,0,,0,,0,New
+VBD43233,,5060.0,Apartment,Apartment,299000.0,2.0,96.0,0,0,0,0,,0,,0,New
+VBD43241,,5060.0,Apartment,Apartment,300000.0,2.0,93.0,0,0,0,1,9.0,1,,0,New
+VBD43240,,5060.0,Apartment,Apartment,300000.0,2.0,93.0,0,0,0,0,,1,,0,New
+VBD43238,,5060.0,Apartment,Apartment,300000.0,2.0,92.0,0,0,0,0,,0,,0,New
+VBD43237,,5060.0,Apartment,Apartment,300000.0,2.0,83.0,0,0,0,0,,1,,0,New
+VBD43236,,5060.0,Apartment,Apartment,300000.0,2.0,100.0,0,0,0,0,,1,,0,New
+VBD43235,,5060.0,Apartment,Apartment,300000.0,2.0,110.0,0,0,0,0,,0,,0,New
+VBD43234,,5060.0,Apartment,Apartment,300000.0,2.0,88.0,0,0,0,0,,1,,0,New
+VBD43246,,5060.0,Apartment,Apartment,310000.0,2.0,93.0,0,0,0,0,,1,,0,New
+VBD43245,,5060.0,Apartment,Apartment,310000.0,2.0,92.0,0,0,0,0,,1,,0,New
+VBD43244,,5060.0,Apartment,Apartment,310000.0,2.0,100.0,0,0,0,0,,0,,0,New
+VBD43243,,5060.0,Apartment,Apartment,310000.0,2.0,86.0,0,0,0,0,,1,,0,New
+VBD43242,,5060.0,Apartment,Apartment,310000.0,2.0,82.0,0,0,0,0,,1,,0,New
+VBD43248,,5060.0,Apartment,Apartment,320000.0,2.0,91.0,0,0,0,0,,1,,0,New
+VBD43247,,5060.0,Apartment,Apartment,320000.0,2.0,94.0,0,0,0,0,,1,,0,New
+VBD43249,,5060.0,Apartment,Apartment,330000.0,2.0,91.0,0,0,0,0,,0,,0,New
+VBD43251,,5060.0,Apartment,Apartment,350000.0,2.0,100.0,0,0,0,0,,0,,0,New
+VBD43250,,5060.0,Apartment,Apartment,345000.0,3.0,116.0,0,0,0,0,,1,,0,New
+VBD43252,,5060.0,Apartment,Apartment,360000.0,3.0,117.0,0,0,0,1,9.0,1,,0,New
+VBD43253,,5060.0,Apartment,Apartment,370000.0,3.0,116.0,0,0,0,0,,1,,0,New
+VBD43255,,5060.0,Apartment,Apartment,390000.0,3.0,116.0,0,0,0,0,,1,,0,New
+VBD43254,,5060.0,Apartment,Apartment,390000.0,3.0,117.0,0,0,0,0,,1,,0,New
+VBD43256,,5060.0,Apartment,Apartment,405000.0,3.0,116.0,0,0,0,0,,0,,0,New
+VBD43257,,5060.0,Apartment,Apartment,410000.0,3.0,116.0,0,0,0,1,9.0,1,,0,New
+VBD43258,,5060.0,Apartment,Apartment,420000.0,3.0,116.0,0,0,0,0,,1,,0,New
+VBD48505,,5060.0,Apartment,Ground floor,230000.0,1.0,144.0,0,0,0,0,,1,,0,New
+VBD48504,,5060.0,Apartment,Ground floor,230000.0,1.0,85.0,0,0,0,0,,1,,0,New
+VBD48515,,5060.0,Apartment,Ground floor,260000.0,1.0,163.0,0,0,0,0,,1,,0,New
+VBD40138,Chaussée de Namur,5030.0,Apartment,Apartment,244000.0,1.0,66.0,0,0,0,1,7.0,1,,0,New
+VBD40089,Chaussée de Namur,5030.0,Apartment,Apartment,246000.0,1.0,70.0,0,0,0,1,10.0,1,,0,New
+VBD40142,Chaussée de Namur,5030.0,Apartment,Apartment,248000.0,1.0,70.0,0,0,0,1,16.0,1,,0,New
+VBD40151,Chaussée de Namur,5030.0,Apartment,Apartment,249000.0,1.0,66.0,0,0,0,1,8.0,1,,0,New
+VBD40120,Chaussée de Namur,5030.0,Apartment,Apartment,249000.0,1.0,65.0,0,0,0,1,11.0,1,,0,New
+VBD40090,Chaussée de Namur,5030.0,Apartment,Apartment,254000.0,1.0,70.0,0,0,0,1,15.0,1,,0,New
+VBD40122,Chaussée de Namur,5030.0,Apartment,Apartment,259000.0,1.0,66.0,0,0,0,1,15.0,1,,0,New
+VBD40130,Chaussée de Namur,5030.0,Apartment,Apartment,263000.0,1.0,60.0,0,0,0,1,16.0,1,,0,New
+VBD40140,Chaussée de Namur,5030.0,Apartment,Apartment,265000.0,1.0,66.0,0,0,0,1,15.0,1,,0,New
+VBD40105,Chaussée de Namur,5030.0,Apartment,Apartment,268000.0,1.0,60.0,0,0,0,1,16.0,1,,0,New
+VBD40109,Chaussée de Namur,5030.0,Apartment,Apartment,273000.0,1.0,60.0,0,0,0,1,16.0,1,,0,New
+VBD40123,Chaussée de Namur,5030.0,Apartment,Apartment,278000.0,1.0,60.0,0,0,0,1,23.0,1,,0,New
+VBD40101,Chaussée de Namur,5030.0,Apartment,Apartment,278000.0,1.0,60.0,0,0,0,1,16.0,1,,0,New
+VBD40124,Chaussée de Namur,5030.0,Apartment,Apartment,298000.0,2.0,91.0,0,0,0,1,7.0,1,,0,New
+VBD40117,Chaussée de Namur,5030.0,Apartment,Apartment,318000.0,2.0,91.0,0,0,0,1,10.0,1,,0,New
+VBD40085,Chaussée de Namur,5030.0,Apartment,Apartment,323000.0,2.0,91.0,0,0,0,1,13.0,1,,0,New
+VBD40129,Chaussée de Namur,5030.0,Apartment,Apartment,325000.0,2.0,88.0,0,0,0,1,10.0,1,,0,New
+VBD40121,Chaussée de Namur,5030.0,Apartment,Apartment,328000.0,2.0,87.0,0,0,0,1,7.0,1,,0,New
+VBD40086,Chaussée de Namur,5030.0,Apartment,Apartment,328000.0,2.0,91.0,0,0,0,1,10.0,1,,0,New
+VBD40143,Chaussée de Namur,5030.0,Apartment,Apartment,342000.0,2.0,94.0,0,0,0,1,8.0,1,,0,New
+VBD40134,Chaussée de Namur,5030.0,Apartment,Apartment,342000.0,2.0,90.0,0,0,0,1,10.0,1,,0,New
+VBD40146,Chaussée de Namur,5030.0,Apartment,Apartment,347000.0,2.0,90.0,0,0,0,1,10.0,1,,0,New
+VBD40145,Chaussée de Namur,5030.0,Apartment,Apartment,347000.0,2.0,94.0,0,0,0,1,8.0,1,,0,New
+VBD40131,Chaussée de Namur,5030.0,Apartment,Apartment,348000.0,2.0,93.0,0,0,0,1,10.0,1,,0,New
+VBD40147,Chaussée de Namur,5030.0,Apartment,Apartment,352000.0,2.0,90.0,0,0,0,1,9.0,1,,0,New
+VBD40119,Chaussée de Namur,5030.0,Apartment,Apartment,352000.0,2.0,94.0,0,0,0,1,11.0,1,,0,New
+VBD40096,Chaussée de Namur,5030.0,Apartment,Apartment,353000.0,2.0,93.0,0,0,0,1,10.0,1,,0,New
+VBD40118,Chaussée de Namur,5030.0,Apartment,Apartment,357000.0,2.0,94.0,0,0,0,1,8.0,1,,0,New
+VBD40103,Chaussée de Namur,5030.0,Apartment,Apartment,358000.0,2.0,93.0,0,0,0,1,10.0,1,,0,New
+VBD40088,Chaussée de Namur,5030.0,Apartment,Apartment,358000.0,2.0,95.0,0,0,0,1,14.0,1,,0,New
+VBD40127,Chaussée de Namur,5030.0,Apartment,Apartment,362000.0,2.0,94.0,0,0,0,1,8.0,1,,0,New
+VBD40107,Chaussée de Namur,5030.0,Apartment,Apartment,363000.0,2.0,93.0,0,0,0,1,10.0,1,,0,New
+VBD40136,Chaussée de Namur,5030.0,Apartment,Apartment,367000.0,2.0,90.0,0,0,0,1,10.0,1,,0,New
+VBD40128,Chaussée de Namur,5030.0,Apartment,Apartment,367000.0,2.0,94.0,0,0,0,1,8.0,1,,0,New
+VBD40135,Chaussée de Namur,5030.0,Apartment,Apartment,375000.0,2.0,109.0,0,0,0,1,26.0,1,,0,New
+VBD40110,Chaussée de Namur,5030.0,Apartment,Apartment,399000.0,2.0,105.0,0,0,0,1,12.0,1,,0,New
+VBD40126,Chaussée de Namur,5030.0,Apartment,Apartment,404000.0,2.0,91.0,0,0,0,1,12.0,1,,0,New
+VBD40125,Chaussée de Namur,5030.0,Apartment,Apartment,428000.0,2.0,107.0,0,0,0,1,24.0,1,,0,New
+VBD40133,Chaussée de Namur,5030.0,Apartment,Apartment,434000.0,2.0,98.0,0,0,0,1,11.0,1,,0,New
+VBD40094,Chaussée de Namur,5030.0,Apartment,Apartment,377000.0,3.0,117.0,0,0,0,1,10.0,1,,0,New
+VBD40087,Chaussée de Namur,5030.0,Apartment,Apartment,383000.0,3.0,117.0,0,0,0,1,9.0,1,,0,New
+VBD40112,Chaussée de Namur,5030.0,Apartment,Apartment,390000.0,3.0,117.0,0,0,0,1,9.0,1,,0,New
+VBD40100,Chaussée de Namur,5030.0,Apartment,Apartment,392000.0,3.0,114.0,0,0,0,1,14.0,1,,0,New
+VBD40091,Chaussée de Namur,5030.0,Apartment,Apartment,398000.0,3.0,114.0,0,0,0,1,14.0,1,,0,New
+VBD40098,Chaussée de Namur,5030.0,Apartment,Apartment,404000.0,3.0,114.0,0,0,0,1,14.0,1,,0,New
+VBD40132,Chaussée de Namur,5030.0,Apartment,Apartment,417000.0,3.0,119.0,0,0,0,1,10.0,1,,0,New
+VBD40144,Chaussée de Namur,5030.0,Apartment,Apartment,425000.0,3.0,120.0,0,0,0,1,9.0,1,,0,New
+VBD40092,Chaussée de Namur,5030.0,Apartment,Apartment,428000.0,3.0,114.0,0,0,0,1,14.0,1,,0,New
+VBD40149,Chaussée de Namur,5030.0,Apartment,Apartment,430000.0,3.0,120.0,0,0,0,1,9.0,1,,0,New
+VBD40148,Chaussée de Namur,5030.0,Apartment,Apartment,435000.0,3.0,120.0,0,0,0,1,9.0,1,,0,New
+VBD40150,Chaussée de Namur,5030.0,Apartment,Apartment,444000.0,3.0,120.0,0,0,0,1,9.0,1,,0,New
+VBD40141,Chaussée de Namur,5030.0,Apartment,Apartment,445000.0,3.0,124.0,0,0,0,1,7.0,1,,0,New
+VBD40114,Chaussée de Namur,5030.0,Apartment,Apartment,469000.0,3.0,124.0,0,0,0,1,41.0,1,,0,New
+VBD40116,Chaussée de Namur,5030.0,Apartment,Apartment,474000.0,3.0,119.0,0,0,0,1,70.0,1,,0,New
+VBD40137,Chaussée de Namur,5030.0,Apartment,Apartment,515000.0,3.0,123.0,0,0,0,1,45.0,1,,0,New
+VBD40093,Chaussée de Namur,5030.0,Apartment,Studio,194000.0,,46.0,0,0,0,1,4.0,1,,0,New
+VBD40250,,5060.0,Apartment,Apartment,189628.0,1.0,64.0,0,0,0,1,,1,,0,
+VBD40229,,5060.0,Apartment,Apartment,192628.0,1.0,64.0,0,0,0,1,,1,,0,
+VBD40242,,5060.0,Apartment,Apartment,199628.0,1.0,64.0,0,0,0,1,,1,,0,
+VBD40249,,5060.0,Apartment,Apartment,204628.0,1.0,63.0,0,0,0,1,,1,,0,
+VBD40235,,5060.0,Apartment,Apartment,209628.0,1.0,64.0,0,0,0,1,,1,,0,
+VBD40233,,5060.0,Apartment,Apartment,224628.0,1.0,64.0,0,0,0,1,,1,,0,
+VBD40224,,5060.0,Apartment,Apartment,224628.0,1.0,74.0,0,0,0,1,,1,,0,
+VBD40248,,5060.0,Apartment,Apartment,254628.0,1.0,66.0,0,0,0,1,,1,,0,
+VBD40225,,5060.0,Apartment,Apartment,284256.0,1.0,88.0,0,0,0,1,,1,,0,
+VBD40240,,5060.0,Apartment,Apartment,254256.0,2.0,88.0,0,0,0,1,,1,,0,
+VBD40231,,5060.0,Apartment,Apartment,264256.0,2.0,86.0,0,0,0,1,,1,,0,
+VBD40227,,5060.0,Apartment,Apartment,269256.0,2.0,83.0,0,0,0,1,,1,,0,
+VBD40226,,5060.0,Apartment,Apartment,269256.0,2.0,88.0,0,0,0,1,,1,,0,
+VBD40223,,5060.0,Apartment,Apartment,269256.0,2.0,86.0,0,0,0,1,,1,,0,
+VBD40234,,5060.0,Apartment,Apartment,279256.0,2.0,86.0,0,0,0,1,,1,,0,
+VBD40247,,5060.0,Apartment,Apartment,284256.0,2.0,86.0,0,0,0,1,,1,,0,
+VBD40246,,5060.0,Apartment,Apartment,299256.0,2.0,86.0,0,0,0,1,,1,,0,
+VBD40243,,5060.0,Apartment,Apartment,299256.0,2.0,83.0,0,0,0,1,,1,,0,
+VBD40239,,5060.0,Apartment,Apartment,299256.0,2.0,88.0,0,0,0,1,,1,,0,
+VBD40238,,5060.0,Apartment,Apartment,314256.0,2.0,86.0,0,0,0,1,,1,,0,
+VBD40232,,5060.0,Apartment,Apartment,314256.0,2.0,96.0,0,0,0,1,,1,,0,
+VBD40230,,5060.0,Apartment,Apartment,314256.0,2.0,88.0,0,0,0,1,,1,,0,
+VBD40244,,5060.0,Apartment,Apartment,324256.0,2.0,99.0,0,0,0,1,,1,,0,
+VBD40245,,5060.0,Apartment,Apartment,339256.0,2.0,93.0,0,0,0,1,,1,,0,
+VBD40241,,5060.0,Apartment,Apartment,339256.0,2.0,96.0,0,0,0,1,,1,,0,
+VBD40236,,5060.0,Apartment,Apartment,408884.0,3.0,122.0,0,0,0,1,,1,,0,
+VBD40228,,5060.0,Apartment,Apartment,458884.0,3.0,124.0,0,0,0,1,,1,,0,
+VBD40035,,5000.0,Apartment,Apartment,299256.0,2.0,83.0,0,0,0,1,,0,,0,
+VBD43414,Les Nozilles,5310.0,Land,Development site,149000.0,,,0,0,0,0,,0,,0,
+VBD43422,Les Nozilles,5310.0,Land,Development site,155000.0,,,0,0,0,0,,0,,0,
+VBD43420,Les Nozilles,5310.0,Land,Development site,159000.0,,,0,0,0,0,,0,,0,
+VBD43417,Les Nozilles,5310.0,Land,Development site,169000.0,,,0,0,0,0,,0,,0,
+VBD43415,Les Nozilles,5310.0,Land,Development site,179000.0,,,0,0,0,0,,0,,0,
+VBD43421,Les Nozilles,5310.0,Land,Development site,185000.0,,,0,0,0,0,,0,,0,
+VBD43416,Les Nozilles,5310.0,Land,Development site,199000.0,,,0,0,0,0,,0,,0,
+VBD43423,Les Nozilles,5310.0,Land,Development site,205000.0,,,0,0,0,0,,0,,0,
+VBD43404,Les Nozilles,5310.0,House,Residence,369000.0,3.0,208.0,0,0,0,1,,1,2.0,0,New
+VBD43405,Les Nozilles,5310.0,House,Residence,409000.0,3.0,207.0,0,0,0,1,,1,3.0,0,New
+VBD43412,Les Nozilles,5310.0,House,Residence,419000.0,3.0,208.0,0,0,0,1,,1,2.0,0,New
+VBD43411,,5310.0,House,Residence,419000.0,3.0,208.0,0,0,0,1,,1,2.0,0,New
+VBD43400,Les Nozilles,5310.0,House,Residence,419000.0,3.0,205.0,0,0,0,1,,1,3.0,0,New
+VBD43406,Les Nozilles,5310.0,House,Residence,439000.0,3.0,205.0,0,0,0,1,,1,3.0,0,New
+VBD43399,Les Nozilles,5310.0,House,Residence,415000.0,4.0,175.0,0,0,0,1,,1,2.0,0,New
+VBD43413,Les Nozilles,5310.0,House,Residence,445000.0,4.0,175.0,0,0,0,1,,1,2.0,0,New
+VBD43410,Les Nozilles,5310.0,House,Residence,449000.0,4.0,175.0,0,0,0,1,,1,2.0,0,New
+VBD43397,Les Nozilles,5310.0,House,Residence,459000.0,4.0,183.0,0,0,0,1,,1,3.0,0,New
+VBD43402,Les Nozilles,5310.0,House,Residence,469000.0,4.0,181.0,0,0,0,1,,1,3.0,0,New
+VBD43395,Les Nozilles,5310.0,House,Residence,475000.0,4.0,180.0,0,0,0,1,,1,3.0,0,New
+VBD43396,Les Nozilles,5310.0,House,Residence,479000.0,4.0,183.0,0,0,0,1,,1,3.0,0,New
+VBD43409,Les Nozilles,5310.0,House,Residence,485000.0,4.0,180.0,0,0,0,1,,1,3.0,0,New
+VBD43407,Les Nozilles,5310.0,House,Residence,509000.0,4.0,211.0,0,0,0,1,,1,3.0,0,New
+VBD12352,Rue de la montagne,5500.0,House,Residence,375000.0,3.0,181.0,0,0,0,0,,1,4.0,0,
+VBD12351,Rue de la montagne,5500.0,House,Residence,375000.0,3.0,127.0,0,0,0,0,,1,4.0,0,
+VBD12353,Rue de la montagne,5500.0,House,Residence,385000.0,3.0,183.0,0,0,0,0,,1,4.0,0,
+VBD12348,Rue de la montagne,5500.0,House,Residence,369000.0,4.0,163.0,0,0,0,0,,1,4.0,0,
+VBD30911,Rue de la montagne,5500.0,House,Residence,375000.0,4.0,160.0,0,0,0,0,,1,4.0,0,
+VBD30912,Rue de la montagne,5500.0,House,Residence,385000.0,4.0,155.0,0,0,0,0,,1,,0,
+VBD12354,Rue de la montagne,5500.0,House,Villa,329000.0,3.0,155.0,0,0,0,0,,1,4.0,0,
+VBD21417,Rue des Carmes 23,5000.0,Apartment,Apartment,416000.0,2.0,108.0,0,0,0,1,15.0,0,4.0,0,New
+VBD21425,Rue des Carmes 23,5000.0,Apartment,Apartment,426000.0,2.0,97.0,0,0,0,1,43.0,0,4.0,0,New
+VBD21423,Rue des Carmes 23,5000.0,Apartment,Apartment,386000.0,3.0,114.0,0,0,0,1,10.0,0,4.0,0,New
+VBD21416,Rue des Carmes 23,5000.0,Apartment,Apartment,435000.0,3.0,114.0,0,0,0,1,10.0,0,4.0,0,New
+VBC61802,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,235000.0,1.0,67.0,1,0,0,1,9.0,0,,0,New
+VBC61805,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,245000.0,1.0,67.0,1,0,0,1,9.0,0,,0,New
+VBC61799,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,300000.0,2.0,84.0,1,0,0,1,7.0,0,,0,New
+VBC61801,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,305000.0,2.0,94.0,1,0,0,1,8.0,0,,0,New
+VBC61800,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,305000.0,2.0,84.0,1,0,0,1,7.0,0,,0,New
+VBC61786,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,305000.0,2.0,84.0,1,0,0,1,14.0,0,,0,New
+VBC61803,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,310000.0,2.0,94.0,1,0,0,1,8.0,0,,0,New
+VBC61787,Rue Pierre du Diable 13,5100.0,Apartment,Apartment,310000.0,2.0,94.0,1,0,0,1,12.0,0,,0,New
+VBC61785,Rue Pierre du Diable 13,5100.0,Business,Office space,190000.0,,,0,0,0,0,,0,,0,New
+VBC61790,Rue Pierre du Diable 13,5100.0,Apartment,Studio,185000.0,,55.0,1,0,0,1,6.0,0,,0,New
+VBC61795,Rue Pierre du Diable 13,5100.0,Apartment,Studio,187500.0,,55.0,1,0,0,1,9.0,0,,0,New
+VBD20621,Rue de la Dodane 8,5000.0,Apartment,Apartment,241000.0,1.0,60.0,0,0,0,1,8.0,0,4.0,0,New
+VBD20625,Rue de la Dodane 8,5000.0,Apartment,Apartment,243000.0,1.0,60.0,0,0,0,1,8.0,0,4.0,0,New
+VBD20619,Rue de la Dodane 8,5000.0,Apartment,Apartment,246000.0,1.0,59.0,0,0,0,1,27.0,0,4.0,0,New
+VBD20623,Rue de la Dodane 8,5000.0,Apartment,Apartment,281000.0,2.0,81.0,0,0,0,1,20.0,0,4.0,0,New
+VBD20628,Rue de la Dodane 8,5000.0,Apartment,Apartment,289000.0,2.0,80.0,0,0,0,1,8.0,0,4.0,0,New
+VBD30881,Rue de la Dodane 8,5000.0,Apartment,Apartment,293000.0,2.0,84.0,0,0,0,1,30.0,0,4.0,0,New
+VBD20626,Rue de la Dodane 8,5000.0,Apartment,Apartment,299000.0,2.0,85.0,0,0,0,1,9.0,0,4.0,0,New
+VBD20631,Rue de la Dodane 8,5000.0,Apartment,Apartment,300000.0,2.0,77.0,0,0,0,1,6.0,0,4.0,0,New
+VBD20622,Rue de la Dodane 8,5000.0,Apartment,Apartment,301000.0,2.0,87.0,0,0,0,1,10.0,0,4.0,0,New
+VBD20627,Rue de la Dodane 8,5000.0,Apartment,Apartment,305000.0,2.0,87.0,0,0,0,1,10.0,0,4.0,0,New
+VBD20630,Rue de la Dodane 8,5000.0,Apartment,Apartment,315000.0,2.0,81.0,0,0,0,1,11.0,0,4.0,0,New
+VBD20629,Rue de la Dodane 8,5000.0,Apartment,Apartment,376000.0,2.0,96.0,0,0,0,1,20.0,0,4.0,0,New
+VBD20618,Rue de la Dodane 8,5000.0,Apartment,Studio,225000.0,,46.0,0,0,0,1,19.0,0,4.0,0,New
+VBD20620,Rue de la Dodane 8,5000.0,Apartment,Studio,228000.0,,41.0,0,0,0,1,12.0,0,4.0,0,New
+VBD20624,Rue de la Dodane 8,5000.0,Apartment,Studio,231000.0,,40.0,0,0,0,1,9.0,0,4.0,0,New
+VWD13484,Drève du Parc 14,5101.0,Apartment,Apartment,368000.0,2.0,94.0,1,0,0,1,10.0,0,4.0,0,Excellent
+VWD13476,Drève du Parc 14,5101.0,Apartment,Duplex,401000.0,2.0,96.0,1,0,0,1,12.0,1,4.0,0,Excellent
+VWD13475,Drève du Parc 14,5101.0,Apartment,Duplex,423000.0,2.0,119.0,1,0,0,1,12.0,1,4.0,0,Excellent
+VWD13478,Drève du Parc 14,5101.0,Apartment,Ground floor,430000.0,3.0,126.0,1,0,0,1,12.0,1,4.0,0,Excellent
+VWD13480,Drève du Parc 14,5101.0,Apartment,Triplex,458000.0,3.0,133.0,1,0,0,1,12.0,1,4.0,0,Excellent
+VBD00806,Rue des Ardennes 62,5380.0,Apartment,Apartment,249000.0,1.0,68.0,1,0,0,1,10.0,0,,0,New
+VBD00808,Rue des Ardennes 62,5380.0,Apartment,Apartment,315000.0,1.0,75.0,1,0,0,1,38.0,0,,0,New
+VBD00807,Rue des Ardennes 62,5380.0,Apartment,Apartment,310000.0,2.0,84.0,1,0,0,1,19.0,0,,0,New
+VBD00809,Rue des Ardennes 62,5380.0,Apartment,Apartment,325000.0,2.0,88.0,1,0,0,1,44.0,0,,0,New
+VBD00810,Rue des Ardennes 62,5380.0,Apartment,Apartment,379000.0,3.0,119.0,1,0,0,1,18.0,0,,0,New
+VBD00811,Rue des Ardennes 62,5380.0,Apartment,Apartment,389000.0,3.0,122.0,1,0,0,1,36.0,0,,0,New
+VBD00812,Rue des Ardennes 62,5380.0,Apartment,Apartment,395000.0,3.0,122.0,1,0,0,1,44.0,0,,0,New
+VBD00813,Rue des Ardennes 62,5380.0,Apartment,Apartment,399000.0,3.0,115.0,1,0,0,1,50.0,1,,0,New
+VBD00814,Rue des Ardennes 62,5380.0,Apartment,Apartment,475000.0,3.0,144.0,1,0,0,1,29.0,0,,0,New
+VBC91692,Rue d'Enhaive,5000.0,Apartment,Apartment,259000.0,1.0,68.0,0,0,0,1,8.0,1,4.0,0,New
+VBC91685,Rue d'Enhaive,5000.0,Apartment,Apartment,263000.0,1.0,68.0,0,0,0,1,10.0,0,4.0,0,New
+VBC91677,Rue d'Enhaive,5000.0,Apartment,Apartment,267000.0,1.0,68.0,0,0,0,1,10.0,0,4.0,0,New
+VBC91670,Rue d'Enhaive,5000.0,Apartment,Apartment,272000.0,1.0,68.0,0,0,0,1,10.0,0,4.0,0,New
+VBC91691,Rue d'Enhaive,5000.0,Apartment,Apartment,274000.0,1.0,71.0,0,0,0,1,15.0,1,4.0,0,New
+VBC91663,Rue d'Enhaive,5000.0,Apartment,Apartment,276000.0,1.0,68.0,0,0,0,1,10.0,0,4.0,0,New
+VBC91684,Rue d'Enhaive,5000.0,Apartment,Apartment,284000.0,1.0,71.0,0,0,0,1,14.0,0,4.0,0,New
+VBC91675,Rue d'Enhaive,5000.0,Apartment,Apartment,288000.0,1.0,71.0,0,0,0,1,14.0,0,4.0,0,New
+VBC91669,Rue d'Enhaive,5000.0,Apartment,Apartment,293000.0,1.0,71.0,0,0,0,1,14.0,0,4.0,0,New
+VBC91662,Rue d'Enhaive,5000.0,Apartment,Apartment,301000.0,1.0,71.0,0,0,0,1,14.0,0,4.0,0,New
+VBC91656,Rue d'Enhaive,5000.0,Apartment,Apartment,340000.0,1.0,69.0,0,0,0,1,33.0,0,4.0,0,New
+VBC91679,Rue d'Enhaive,5000.0,Apartment,Apartment,365000.0,2.0,84.0,0,0,0,1,12.0,0,4.0,0,
+VBC91688,Rue d'Enhaive,5000.0,Apartment,Apartment,371000.0,2.0,84.0,0,0,0,1,16.0,1,4.0,0,New
+VBC91683,Rue d'Enhaive,5000.0,Apartment,Apartment,380000.0,2.0,90.0,0,0,0,1,12.0,0,4.0,0,
+VBC91681,Rue d'Enhaive,5000.0,Apartment,Apartment,380000.0,2.0,91.0,0,0,0,1,13.0,0,4.0,0,
+VBC91672,Rue d'Enhaive,5000.0,Apartment,Apartment,380000.0,2.0,84.0,0,0,0,1,12.0,0,4.0,0,
+VBC91676,Rue d'Enhaive,5000.0,Apartment,Apartment,395000.0,2.0,90.0,0,0,0,1,12.0,0,4.0,0,
+VBC91674,Rue d'Enhaive,5000.0,Apartment,Apartment,395000.0,2.0,91.0,0,0,0,1,13.0,0,4.0,0,
+VBC91665,Rue d'Enhaive,5000.0,Apartment,Apartment,395000.0,2.0,84.0,0,0,0,1,12.0,0,4.0,0,
+VBC91668,Rue d'Enhaive,5000.0,Apartment,Apartment,410000.0,2.0,90.0,0,0,0,1,12.0,0,4.0,0,
+VBC91667,Rue d'Enhaive,5000.0,Apartment,Apartment,410000.0,2.0,91.0,0,0,0,1,13.0,0,4.0,0,
+VBC91658,Rue d'Enhaive,5000.0,Apartment,Apartment,415000.0,2.0,84.0,0,0,0,1,12.0,0,4.0,0,
+VBC91661,Rue d'Enhaive,5000.0,Apartment,Apartment,435000.0,2.0,90.0,0,0,0,1,12.0,0,4.0,0,
+VBC91660,Rue d'Enhaive,5000.0,Apartment,Apartment,435000.0,2.0,91.0,0,0,0,1,13.0,0,4.0,0,
+VBC91694,Rue d'Enhaive,5000.0,Apartment,Apartment,440000.0,2.0,102.0,0,0,0,1,15.0,1,4.0,0,New
+VBC91671,Rue d'Enhaive,5000.0,Apartment,Apartment,515000.0,2.0,120.0,0,0,0,1,12.0,0,4.0,0,New
+VBC91664,Rue d'Enhaive,5000.0,Apartment,Apartment,525000.0,2.0,120.0,0,0,0,1,13.0,0,4.0,0,New
+VBC91657,Rue d'Enhaive,5000.0,Apartment,Apartment,550000.0,2.0,104.0,0,0,0,1,62.0,0,4.0,0,New
+VBC91686,Rue d'Enhaive,5000.0,Apartment,Apartment,540000.0,3.0,131.0,0,0,0,1,13.0,0,4.0,0,New
+VBC91678,Rue d'Enhaive,5000.0,Apartment,Apartment,550000.0,3.0,131.0,0,0,0,1,13.0,0,4.0,0,New
+VBC91693,Rue d'Enhaive,5000.0,Apartment,Apartment,575000.0,3.0,131.0,0,0,0,1,16.0,1,4.0,0,New
+VBC91655,Rue d'Enhaive,5000.0,Apartment,Apartment,675000.0,3.0,133.0,0,0,0,1,97.0,0,4.0,0,New
+VBC91690,Rue d'Enhaive,5000.0,Apartment,Studio,,0.0,54.0,0,0,0,1,15.0,1,4.0,0,New
+VBC91680,Rue d'Enhaive,5000.0,Apartment,Studio,,0.0,54.0,0,0,0,1,10.0,0,4.0,0,New
+VBD23540,Rue de la Montagne 3 B,5500.0,House,Residence,369000.0,3.0,281.0,0,0,0,1,14.0,0,,0,New
+VBD23539,Rue de la Montagne 3 C,5500.0,House,Residence,359000.0,4.0,238.0,0,0,0,1,14.0,0,,0,New
+VBD23541,Rue de la Montagne 3 A,5500.0,House,Residence,359900.0,4.0,238.0,0,0,0,1,14.0,0,,0,New
+VBC61564,Rue Fernand Stimart 17,5000.0,House,Residence,399000.0,4.0,175.0,0,0,0,1,25.0,1,3.0,0,New
+VBC61563,Rue Fernand Stimart 17,5000.0,House,Residence,415000.0,4.0,175.0,0,0,0,1,25.0,1,3.0,0,New
+VBB45055,,5100.0,Apartment,Apartment,260000.0,2.0,95.0,0,0,0,1,7.0,0,2.0,0,New
+VBB45051,,5100.0,Apartment,Apartment,260000.0,2.0,95.0,0,0,0,1,7.0,0,2.0,0,
+VBB45058,,5100.0,Apartment,Apartment,286000.0,2.0,88.0,0,0,0,1,4.0,0,2.0,0,New
+VBB45056,,5100.0,Apartment,Apartment,315000.0,2.0,94.0,0,0,0,1,28.0,0,2.0,0,New
+VBD19753,,5150.0,Apartment,Apartment,225000.0,1.0,59.0,0,0,0,1,12.0,1,4.0,0,New
+VBD19755,,5150.0,Apartment,Apartment,249000.0,2.0,71.0,0,0,0,1,12.0,0,4.0,0,New
+VBD19754,,5150.0,Apartment,Apartment,253000.0,2.0,84.0,0,0,0,1,12.0,1,4.0,0,New
+VBD19756,,5150.0,Apartment,Apartment,307500.0,3.0,106.0,0,0,0,1,14.0,0,4.0,0,New
+VBC94915,Rue des Rys,5020.0,House,Residence,399000.0,3.0,188.0,0,0,0,1,,1,2.0,0,New
+VBC94917,Rue des Rys,5020.0,House,Residence,419000.0,3.0,196.0,0,0,0,1,,1,3.0,0,New
+VBC94918,Rue des Rys,5020.0,House,Residence,429000.0,3.0,196.0,0,0,0,1,,1,3.0,0,New
+VBC94914,Rue des Rys,5020.0,House,Residence,429000.0,3.0,199.0,0,0,0,1,,1,3.0,0,New
+VBD09295,,5000.0,Apartment,Apartment,260000.0,2.0,95.0,0,0,0,1,7.0,0,2.0,0,
+VBD09290,,5000.0,Apartment,Apartment,260000.0,2.0,95.0,0,0,0,1,7.0,0,2.0,0,New
+VBD09292,,5000.0,Apartment,Apartment,286000.0,2.0,88.0,0,0,0,1,4.0,0,2.0,0,New
+VBD09291,,5000.0,Apartment,Apartment,315000.0,2.0,94.0,0,0,0,1,28.0,0,2.0,0,New
+VBC85606,Chaussée de Louvain 42,5310.0,Apartment,Apartment,,2.0,88.0,1,0,0,1,15.0,1,4.0,0,New
+VBD49777,,5100.0,Business,Commercial building,450000.0,,,0,0,0,0,,0,,0,
+VBD49196,,5100.0,Investment,Investment property,995000.0,10.0,,0,0,0,1,100.0,1,4.0,0,
+VBD30276,,5100.0,Investment,Investment property,500000.0,5.0,,0,0,0,0,,0,3.0,0,Normal
+VBC54869,Rue Antoine Nélis,5001.0,House,Residence,365000.0,3.0,203.0,1,0,0,1,,1,2.0,0,New
+VBC54875,Rue Antoine Nélis,5001.0,House,Residence,399000.0,3.0,159.0,1,0,0,1,,1,3.0,0,New
+VBC54866,Rue Antoine Nélis,5001.0,House,Residence,409000.0,3.0,161.0,1,0,0,1,,1,3.0,0,New
+VBC54864,Rue Antoine Nélis,5001.0,House,Residence,415000.0,3.0,165.0,1,0,0,1,,1,3.0,0,New
+VBC54863,Rue Antoine Nélis,5001.0,House,Residence,419000.0,3.0,169.0,1,0,0,1,,1,2.0,0,New
+VBC54862,Rue Antoine Nélis,5001.0,House,Residence,419000.0,3.0,205.0,1,0,0,1,,1,3.0,0,New
+VBC54872,Rue Antoine Nélis,5001.0,House,Residence,425000.0,3.0,137.0,1,0,0,1,,1,3.0,0,New
+VBC54871,Rue Antoine Nélis,5001.0,House,Residence,429000.0,3.0,146.0,1,0,0,1,,1,3.0,0,New
+VBC54867,Rue Antoine Nélis,5001.0,House,Residence,459000.0,3.0,139.0,1,0,0,1,,1,3.0,0,New
+VBC54873,Rue Antoine Nélis,5001.0,House,Residence,469000.0,3.0,199.0,1,0,0,1,,1,3.0,0,New
+VBC54870,Rue Antoine Nélis,5001.0,House,Residence,469000.0,3.0,146.0,1,0,0,1,,1,3.0,0,New
+VBC54874,Rue Antoine Nélis,5001.0,House,Residence,479000.0,3.0,198.0,1,0,0,1,,1,3.0,0,New
+VBC54861,Rue Antoine Nélis,5001.0,House,Residence,489000.0,4.0,208.0,1,0,0,1,,1,3.0,0,New
+VBD19316,Rue de la Dodane 6,5000.0,Apartment,Apartment,241000.0,1.0,60.0,0,0,0,1,8.0,0,4.0,0,New
+VBD19306,Rue de la Dodane 6,5000.0,Apartment,Apartment,243000.0,1.0,60.0,0,0,0,1,8.0,0,4.0,0,New
+VBD19313,Rue de la Dodane 6,5000.0,Apartment,Apartment,281000.0,2.0,81.0,0,0,0,1,9.0,0,4.0,0,New
+VBD19304,Rue de la Dodane 6,5000.0,Apartment,Apartment,285000.0,2.0,80.0,0,0,0,1,7.0,0,4.0,0,New
+VBD19308,Rue de la Dodane 6,5000.0,Apartment,Apartment,289000.0,2.0,81.0,0,0,0,1,9.0,0,4.0,0,New
+VBD19311,Rue de la Dodane 6,5000.0,Apartment,Apartment,299000.0,2.0,85.0,0,0,0,1,9.0,0,4.0,0,New
+VBD19302,Rue de la Dodane 6,5000.0,Apartment,Apartment,300000.0,2.0,77.0,0,0,0,1,6.0,0,4.0,0,New
+VBD19314,Rue de la Dodane 6,5000.0,Apartment,Apartment,301000.0,2.0,86.0,0,0,0,1,10.0,0,4.0,0,New
+VBD19309,Rue de la Dodane 6,5000.0,Apartment,Apartment,305000.0,2.0,87.0,0,0,0,1,10.0,0,4.0,0,New
+VBD19305,Rue de la Dodane 6,5000.0,Apartment,Apartment,315000.0,2.0,81.0,0,0,0,1,11.0,0,4.0,0,New
+VBD19303,Rue de la Dodane 6,5000.0,Apartment,Apartment,376000.0,2.0,96.0,0,0,0,1,20.0,0,4.0,0,New
+VBD31074,Rue de la Dodane 6,5000.0,Apartment,Ground floor,285000.0,2.0,84.0,0,0,0,1,10.0,0,4.0,0,New
+VBD19317,Rue de la Dodane 6,5000.0,Apartment,Studio,225000.0,1.0,47.0,0,0,0,1,20.0,0,4.0,0,New
+VBD19312,Rue de la Dodane 6,5000.0,Apartment,Studio,228000.0,1.0,41.0,0,0,0,1,12.0,0,4.0,0,New
+VBD19307,Rue de la Dodane 6,5000.0,Apartment,Studio,231000.0,1.0,41.0,0,0,0,1,9.0,0,4.0,0,New
+VBD19315,Rue de la Dodane 6,5000.0,Apartment,Studio,246000.0,1.0,59.0,0,0,0,1,27.0,0,4.0,0,New
+VBD24561,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,105.0,0,0,0,1,7.0,0,2.0,0,New
+VBD24560,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,78.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24559,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,91.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24558,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,92.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24556,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,87.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24555,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,107.0,0,0,0,1,9.0,0,2.0,0,New
+VBD24554,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,105.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24553,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,78.0,0,0,0,1,9.0,0,2.0,0,New
+VBD24544,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,91.0,0,0,0,1,7.0,0,2.0,0,New
+VBD24538,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,105.0,0,0,0,1,10.0,0,2.0,0,New
+VBD24537,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,78.0,0,0,0,1,7.0,0,2.0,0,New
+VBD24530,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,87.0,0,0,0,1,22.0,0,2.0,0,New
+VBD24529,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,2.0,107.0,0,0,0,1,12.0,0,2.0,0,New
+VBD24557,Boulevard Cauchy 29,5000.0,Apartment,Apartment,,3.0,110.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24532,Boulevard Cauchy 29,5000.0,Apartment,Duplex,,1.0,89.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24534,Boulevard Cauchy 29,5000.0,Apartment,Duplex,,3.0,115.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24533,Boulevard Cauchy 29,5000.0,Apartment,Duplex,,3.0,118.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24563,Boulevard Cauchy 29,5000.0,Apartment,Penthouse,,2.0,88.0,0,0,0,1,7.0,0,2.0,0,New
+VBD24562,Boulevard Cauchy 29,5000.0,Apartment,Penthouse,,2.0,106.0,0,0,0,1,8.0,0,2.0,0,New
+VBD24565,Boulevard Cauchy 29,5000.0,Apartment,Penthouse,,3.0,99.0,0,0,0,1,7.0,0,2.0,0,New
+VBD24564,Boulevard Cauchy 29,5000.0,Apartment,Penthouse,,3.0,139.0,0,0,0,1,25.0,0,2.0,0,New
+VBD24551,Boulevard Cauchy 29,5000.0,Apartment,Studio,,,48.0,0,0,0,1,4.0,0,2.0,0,New
+VBD24550,Boulevard Cauchy 29,5000.0,Apartment,Studio,,,48.0,0,0,0,1,8.0,0,2.0,0,New
+VBD19454,Rue de la Duve,5060.0,House,Residence,309000.0,3.0,136.0,0,0,0,1,,1,3.0,0,New
+VBD19455,Rue de la Duve,5060.0,House,Residence,329000.0,4.0,163.0,0,0,0,1,,1,3.0,0,New
+VBD19453,Rue de la Duve,5060.0,House,Residence,389000.0,4.0,157.0,0,0,0,1,,1,4.0,0,New
+VBC71253,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,1.0,67.0,0,0,0,1,6.0,0,4.0,0,New
+VBC71252,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,1.0,79.0,0,0,0,1,8.0,0,4.0,0,New
+VBC71251,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,1.0,47.0,0,0,0,1,8.0,0,4.0,0,New
+VBC71249,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,1.0,61.0,0,0,0,1,6.0,0,4.0,0,New
+VBC71247,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,1.0,58.0,0,0,0,1,14.0,0,4.0,0,New
+VBC71246,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,1.0,69.0,0,0,0,1,6.0,0,4.0,0,New
+VBC71244,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,1.0,71.0,0,0,0,1,5.0,1,4.0,0,New
+VBC71240,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,1.0,67.0,0,0,0,1,8.0,0,4.0,0,New
+VBC71239,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,1.0,75.0,0,0,0,1,6.0,0,4.0,0,New
+VBC71235,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,2.0,88.0,0,0,0,1,6.0,0,4.0,0,New
+VBC71233,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,2.0,88.0,0,0,0,1,18.0,1,4.0,0,New
+VBC71232,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,2.0,95.0,0,0,0,1,6.0,1,4.0,0,New
+VBC71231,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,2.0,87.0,0,0,0,1,8.0,0,4.0,0,New
+VBC71230,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,2.0,87.0,0,0,0,1,6.0,0,4.0,0,New
+VBC71229,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,2.0,95.0,0,0,0,1,17.0,0,4.0,0,New
+VBC71228,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,2.0,103.0,0,0,0,1,10.0,0,4.0,0,New
+VBC71242,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,3.0,111.0,0,0,0,1,8.0,1,4.0,0,New
+VBC71236,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,3.0,108.0,0,0,0,1,6.0,1,4.0,0,New
+VBC71234,Rue Nanon et rue de Bomel 66-71,5000.0,Apartment,Apartment,,3.0,101.0,0,0,0,1,15.0,1,4.0,0,New
+VBD43328,Rue Cornimont 8,5555.0,House,Residence,300000.0,4.0,174.0,0,0,0,1,10.0,1,4.0,0,To be renovated
+VBD43289,Rue de l'Empereur 1,5660.0,House,Residence,147000.0,3.0,86.0,1,0,0,1,18.0,0,2.0,0,Normal
+VBD43544,,5580.0,Apartment,Triplex,130000.0,2.0,127.0,0,0,0,0,,0,2.0,0,
+VBD43543,,5580.0,Apartment,Apartment,90000.0,1.0,58.0,0,0,0,0,,0,2.0,0,
+VBD28220,Rue de Barbençon 25,5650.0,House,Residence,105000.0,3.0,,0,0,0,0,,1,,0,To be renovated
+VBC58973,,5100.0,Apartment,Apartment,338500.0,2.0,99.0,0,0,0,1,,0,4.0,0,New
+VBC58974,Rue des Coquelicots 6 - 8,5100.0,Apartment,Apartment,310000.0,2.0,87.0,0,0,0,1,,0,4.0,0,New
+VBB34804,,5000.0,Apartment,Apartment,270000.0,2.0,94.0,1,0,0,1,6.0,0,2.0,0,
+VBB34809,,5000.0,Apartment,Apartment,307000.0,3.0,117.0,1,0,0,1,11.0,0,2.0,0,New
+VBB34806,,5000.0,Apartment,Apartment,322000.0,3.0,118.0,1,0,0,1,8.0,0,2.0,0,
+VBC20447,Rue Fernand Stimart 17,5020.0,House,Residence,399000.0,4.0,175.0,0,0,0,1,25.0,1,3.0,0,New
+VBC20446,Rue Fernand Stimart 17,5020.0,House,Residence,415000.0,4.0,175.0,0,0,0,1,25.0,1,3.0,0,New
+VBA19801,,5100.0,Apartment,Apartment,250000.0,1.0,70.0,0,0,0,1,,1,,0,New
+VBA19811,,5100.0,Apartment,Apartment,300000.0,1.0,89.0,0,0,0,1,8.0,1,,0,New
+VBA19807,,5100.0,Apartment,Apartment,305000.0,1.0,89.0,0,0,0,1,8.0,1,,0,New
+VBA19799,,5100.0,Apartment,Apartment,310000.0,1.0,89.0,0,0,0,1,,1,,0,New
+VBA19810,,5100.0,Apartment,Apartment,315000.0,2.0,93.0,0,0,0,1,13.0,1,,0,New
+VBA19802,,5100.0,Apartment,Apartment,320000.0,2.0,93.0,0,0,0,1,,1,,0,New
+VBA19809,,5100.0,Apartment,Apartment,345000.0,2.0,101.0,0,0,0,1,13.0,1,,0,New
+VBA19805,,5100.0,Apartment,Apartment,355000.0,2.0,101.0,0,0,0,1,35.0,1,,0,New
+VBA19812,,5100.0,Apartment,Apartment,370000.0,2.0,112.0,0,0,0,1,13.0,1,,0,New
+VBA19808,Avenue de la Dame 100,5100.0,Apartment,Apartment,380000.0,2.0,112.0,0,0,0,1,13.0,1,,0,New
+VBA19804,,5100.0,Apartment,Apartment,400000.0,2.0,112.0,0,0,0,1,47.0,1,,0,New
+VBA19800,,5100.0,Apartment,Apartment,420000.0,3.0,120.0,0,0,0,1,,1,,0,New
+VBA19798,,5100.0,Apartment,Studio,160000.0,,38.0,0,0,0,1,,1,,0,New
+VBC56705,,5003.0,House,Residence,455950.0,3.0,136.0,0,0,0,1,30.0,1,4.0,0,New
+VBC56706,,5003.0,House,Residence,457362.0,3.0,134.0,0,0,0,1,30.0,1,4.0,0,New
+VBC56707,,5003.0,House,Residence,463542.0,3.0,135.0,0,0,0,1,35.0,1,4.0,0,New
+VBC56704,,5003.0,House,Residence,488135.0,3.0,136.0,0,0,0,1,28.0,1,4.0,0,New
+VBB57594,,5000.0,Apartment,Apartment,237000.0,1.0,75.0,0,0,0,1,7.0,0,4.0,0,New
+VBB57599,,5000.0,Apartment,Apartment,247000.0,1.0,75.0,0,0,0,1,7.0,0,4.0,0,New
+VBB57610,,5000.0,Apartment,Apartment,259000.0,1.0,65.0,0,0,0,1,6.0,0,4.0,0,New
+VBB57602,,5000.0,Apartment,Apartment,270000.0,1.0,75.0,0,0,0,1,7.0,0,4.0,0,New
+VBB57598,,5000.0,Apartment,Apartment,275000.0,1.0,66.0,0,0,0,1,7.0,0,4.0,0,New
+VBB57608,,5000.0,Apartment,Apartment,339000.0,2.0,91.0,0,0,0,1,7.0,0,4.0,0,New
+VBB57597,,5000.0,Apartment,Apartment,365000.0,2.0,93.0,0,0,0,1,10.0,0,4.0,0,New
+VBB57609,,5000.0,Apartment,Apartment,395000.0,2.0,99.0,0,0,0,1,16.0,0,4.0,0,New
+VBB57596,,5000.0,Apartment,Apartment,395000.0,2.0,102.0,0,0,0,1,10.0,0,4.0,0,New
+VBB57600,,5000.0,Apartment,Apartment,399000.0,2.0,96.0,0,0,0,1,8.0,0,4.0,0,New
+VBB57606,,5000.0,Apartment,Apartment,410000.0,2.0,103.0,0,0,0,1,15.0,0,4.0,0,
+VBC00132,,5000.0,Apartment,Apartment,427000.0,2.0,103.0,0,0,0,1,13.0,0,4.0,0,New
+VBB57614,,5000.0,Apartment,Apartment,599000.0,2.0,116.0,0,0,0,1,53.0,0,4.0,0,New
+VBB57603,,5000.0,Apartment,Apartment,630000.0,2.0,107.0,0,0,0,1,66.0,0,4.0,0,New
+VBB57593,,5000.0,Apartment,Apartment,350000.0,2.0,93.0,0,0,0,1,10.0,0,4.0,0,New
+VBB57607,,5000.0,Apartment,Apartment,365000.0,3.0,114.0,0,0,0,1,7.0,0,4.0,0,New
+VBB57595,,5000.0,Apartment,Apartment,450000.0,3.0,115.0,0,0,0,1,7.0,0,4.0,0,New
+VBB57601,,5000.0,Apartment,Apartment,549000.0,3.0,127.0,0,0,0,1,12.0,0,4.0,0,New
+VBB57613,,5000.0,Apartment,Apartment,650000.0,3.0,123.0,0,0,0,1,67.0,0,4.0,0,New
+VBB57604,,5000.0,Apartment,Apartment,895000.0,3.0,168.0,0,0,0,1,61.0,0,4.0,0,New
+VBB57605,,5000.0,Apartment,Apartment,450000.0,4.0,130.0,0,0,0,1,9.0,0,4.0,0,New
+VBB57963,Rue Edouard Dinot C3,5590.0,Apartment,Apartment,180530.0,1.0,49.0,1,0,0,0,,0,,0,Normal
+VBB58204,Rue Edouard Dinot C6,5590.0,Apartment,Apartment,185530.0,1.0,49.0,1,0,0,0,,0,,0,Normal
+VBB57965,Rue Edouard Dinot A1,5590.0,Apartment,Apartment,241010.0,1.0,68.0,1,0,0,1,6.0,0,,0,New
+VBB57964,Rue Edouard Dinot B1,5590.0,Apartment,Apartment,241010.0,1.0,68.0,1,0,0,1,6.0,0,,0,New
+VBB57962,Rue Edouard Dinot B4,5590.0,Apartment,Apartment,246010.0,1.0,68.0,1,0,0,1,6.0,0,,0,Normal
+VBB57961,Rue Edouard Dinot A4,5590.0,Apartment,Apartment,246010.0,1.0,68.0,1,0,0,1,6.0,0,,0,New
+VBB57971,Rue Edouard Dinot B3,5590.0,Apartment,Apartment,295000.0,2.0,88.0,1,0,0,1,6.0,0,,0,Normal
+VBB57972,Rue Edouard Dinot B2,5590.0,Apartment,Apartment,295400.0,2.0,82.0,1,0,0,1,7.0,0,,0,Normal
+VBB57970,Rue Edouard Dinot C1,5590.0,Apartment,Apartment,295810.0,2.0,82.0,1,0,0,1,6.0,0,,0,Normal
+VBB57968,Rue Edouard Dinot A5,5590.0,Apartment,Apartment,300400.0,2.0,83.0,1,0,0,1,7.0,0,,0,Normal
+VBB58206,Rue Edouard Dinot C4,5590.0,Apartment,Apartment,300810.0,2.0,82.0,1,0,0,1,6.0,0,,0,Normal
+VBB57966,Rue Edouard Dinot B6,5590.0,Apartment,Apartment,301000.0,2.0,89.0,1,0,0,1,6.0,0,,0,Normal
+VBB57973,Rue Edouard Dinot A2,5590.0,Apartment,Apartment,305400.0,2.0,83.0,1,0,0,1,11.0,0,,0,New
+VBB57969,Rue Edouard Dinot C2,5590.0,Apartment,Apartment,315655.0,2.0,91.0,1,0,0,1,6.0,0,,0,Normal
+VBB58205,Rue Edouard Dinot C5,5590.0,Apartment,Apartment,320655.0,2.0,91.0,1,0,0,1,7.0,0,,0,Normal
+VBB57967,Rue Edouard Dinot B5,5590.0,Apartment,Apartment,310000.0,2.0,82.0,1,0,0,1,13.0,0,,0,Normal
+VBB57975,Rue Edouard Dinot A3,5590.0,Apartment,Apartment,345795.0,3.0,102.0,1,0,0,1,6.0,0,,0,New
+VBB57974,Rue Edouard Dinot A6,5590.0,Apartment,Apartment,345795.0,3.0,101.0,1,0,0,1,6.0,0,,0,New
+VBB58207,Rue Edouard Dinot C7,5590.0,Apartment,Apartment,369130.0,3.0,102.0,1,0,0,1,21.0,0,,0,New
+VBB57976,Rue Edouard Dinot B7,5590.0,Apartment,Apartment,511730.0,4.0,152.0,1,0,0,1,27.0,0,,0,Normal
+VBB57977,Rue Edouard Dinot A7,5590.0,Apartment,Apartment,521730.0,4.0,157.0,1,0,0,1,27.0,0,,0,New
+VBC51203,,5100.0,Apartment,Apartment,199000.0,1.0,66.0,0,0,0,1,7.0,0,4.0,0,New
+VBC51195,,5100.0,Apartment,Apartment,204471.0,1.0,55.0,0,0,0,1,8.0,0,4.0,0,New
+VBC51213,,5100.0,Apartment,Apartment,208471.0,1.0,55.0,0,0,0,1,8.0,0,4.0,0,New
+VBC51210,,5100.0,Apartment,Apartment,210000.0,1.0,54.0,0,0,0,1,9.0,1,4.0,0,New
+VBC51222,,5100.0,Apartment,Apartment,212471.0,1.0,57.0,0,0,0,1,8.0,0,4.0,0,New
+VBC51212,,5100.0,Apartment,Apartment,212471.0,1.0,55.0,0,0,0,1,8.0,0,4.0,0,New
+VBC51204,,5100.0,Apartment,Apartment,220000.0,1.0,66.0,0,0,0,1,7.0,0,4.0,0,New
+VBC51193,,5100.0,Apartment,Apartment,222000.0,1.0,55.0,0,0,0,1,8.0,0,4.0,0,New
+VBC51209,,5100.0,Apartment,Apartment,224000.0,1.0,66.0,0,0,0,1,8.0,1,4.0,0,New
+VBC51202,,5100.0,Apartment,Apartment,230000.0,1.0,63.0,0,0,0,1,8.0,0,4.0,0,New
+VBC51237,,5100.0,Apartment,Apartment,234000.0,1.0,63.0,0,0,0,1,8.0,0,4.0,0,New
+VBC51223,,5100.0,Apartment,Apartment,234000.0,1.0,66.0,0,0,0,1,7.0,0,4.0,0,New
+VBC51236,,5100.0,Apartment,Apartment,244000.0,1.0,63.0,0,0,0,1,8.0,0,4.0,0,New
+VBC51224,,5100.0,Apartment,Apartment,255000.0,1.0,56.0,0,0,0,1,11.0,0,4.0,0,New
+VBC51194,,5100.0,Apartment,Apartment,258207.0,1.0,87.0,0,0,0,1,10.0,0,4.0,0,New
+VBC51214,,5100.0,Apartment,Apartment,263207.0,1.0,87.0,0,0,0,1,10.0,0,4.0,0,New
+VBC51190,,5100.0,Apartment,Apartment,273207.0,1.0,87.0,0,0,0,1,10.0,0,4.0,0,New
+VBC51192,,5100.0,Apartment,Apartment,297207.0,1.0,90.0,0,0,0,1,9.0,0,4.0,0,New
+VBC51206,,5100.0,Apartment,Apartment,306000.0,1.0,90.0,0,0,0,1,9.0,0,4.0,0,New
+VBC51197,,5100.0,Apartment,Apartment,306000.0,1.0,97.0,0,0,0,1,28.0,1,2.0,0,New
+VBC51207,,5100.0,Apartment,Apartment,311000.0,1.0,90.0,0,0,0,1,9.0,0,4.0,0,New
+VBC51188,,5100.0,Apartment,Apartment,316000.0,1.0,90.0,0,0,0,1,9.0,0,4.0,0,New
+VBC51208,,5100.0,Apartment,Apartment,268207.0,2.0,90.0,0,0,0,1,17.0,1,4.0,0,New
+VBC51196,,5100.0,Apartment,Apartment,273207.0,2.0,87.0,0,0,0,1,21.0,1,2.0,0,New
+VBC51189,,5100.0,Apartment,Apartment,282207.0,2.0,87.0,0,0,0,1,10.0,0,4.0,0,New
+VBC51200,,5100.0,Apartment,Apartment,287207.0,2.0,83.0,0,0,0,1,13.0,0,4.0,0,New
+VBC51187,,5100.0,Apartment,Apartment,297207.0,2.0,83.0,0,0,0,1,13.0,0,4.0,0,New
+VBC51205,,5100.0,Apartment,Apartment,301000.0,2.0,93.0,0,0,0,1,11.0,0,4.0,0,New
+VBC51229,,5100.0,Apartment,Apartment,301207.0,2.0,83.0,0,0,0,1,13.0,0,4.0,0,New
+VBC51211,,5100.0,Apartment,Apartment,311000.0,2.0,93.0,0,0,0,1,11.0,0,4.0,0,New
+VBC51227,,5100.0,Apartment,Apartment,316000.0,2.0,93.0,0,0,0,1,11.0,0,4.0,0,New
+VBC51191,,5100.0,Apartment,Apartment,330000.0,2.0,93.0,0,0,0,1,11.0,0,4.0,0,New
+VBC51201,,5100.0,Apartment,Apartment,350000.0,2.0,94.0,0,0,0,1,40.0,0,4.0,0,New
+VBC51220,,5100.0,Apartment,Apartment,402000.0,2.0,112.0,0,0,0,1,21.0,0,4.0,0,New
+VBC51216,,5100.0,Apartment,Apartment,415000.0,2.0,112.0,0,0,0,1,16.0,0,4.0,0,New
+VBC51215,,5100.0,Apartment,Apartment,549000.0,3.0,127.0,0,0,0,1,91.0,0,4.0,0,New
+VBC51225,,5100.0,Apartment,Studio,189000.0,1.0,49.0,0,0,0,1,13.0,1,2.0,0,New
+VBC51199,,5100.0,Apartment,Studio,204000.0,1.0,48.0,0,0,0,1,18.0,1,2.0,0,New
+VBC56698,,5000.0,House,Residence,360709.0,3.0,164.0,0,0,0,0,,1,3.0,0,New
+VBC56701,,5000.0,House,Residence,381210.0,3.0,164.0,0,0,0,0,,1,3.0,0,New
+VBC56697,,5000.0,House,Residence,383709.0,3.0,164.0,0,0,0,0,,1,3.0,0,New
+VBC56703,,5000.0,House,Residence,426209.0,3.0,166.0,0,0,0,0,,1,4.0,0,New
+VBC56700,,5000.0,House,Residence,426709.0,3.0,168.0,0,0,0,0,,1,4.0,0,New
+VBC56702,,5000.0,House,Residence,431209.0,3.0,168.0,0,0,0,0,,1,4.0,0,New
+VBC56699,,5000.0,House,Residence,436209.0,3.0,166.0,0,0,0,0,,1,4.0,0,New
+VBC25354,Rue Nanon 1-3,5000.0,Apartment,Apartment,207000.0,1.0,70.0,0,0,0,1,3.0,0,,0,New
+VBC25353,Rue Nanon 1,5000.0,Apartment,Apartment,330000.0,2.0,104.0,0,0,0,1,3.0,0,,0,New
+VBC25352,Rue Nanon,5000.0,Apartment,Apartment,282000.0,3.0,139.0,0,0,0,1,29.0,0,,0,New
+VBC16121,Rempart de la Vierge 2,5000.0,Apartment,Apartment,399800.0,3.0,151.0,1,0,0,1,16.0,0,2.0,0,New
+VBC30808,Rue de l'Aurore 212,5100.0,Apartment,Apartment,398500.0,3.0,129.0,1,0,0,1,21.0,1,4.0,0,
+VBB35945,Rue Nanon 1-3,5000.0,Apartment,Apartment,220000.0,1.0,70.0,0,0,0,1,3.0,0,,0,New
+VBB35944,Rue Nanon 3,5000.0,Apartment,Apartment,270000.0,2.0,102.0,0,0,0,1,32.0,0,,0,New
+VBB35947,Rue Nanon 1,5000.0,Apartment,Apartment,340000.0,2.0,104.0,0,0,0,1,3.0,0,,0,New
+VBB35943,Rue Nanon,5000.0,Apartment,Apartment,299000.0,3.0,139.0,0,0,0,1,29.0,0,,0,New
+VAX62692,Rue de Sedent 44,5100.0,Apartment,Apartment,203000.0,1.0,,1,0,0,1,,0,,0,New
+VAX62686,Rue de Sedent 44,5100.0,Apartment,Apartment,239000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62690,Rue de Sedent 44,5100.0,Apartment,Apartment,244000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62698,Rue de Sedent 44,5100.0,Apartment,Apartment,255000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62711,Rue de Sedent 44,5100.0,Apartment,Apartment,260000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62675,Rue de Sedent 44,5100.0,Apartment,Apartment,260000.0,2.0,,0,0,0,1,,0,,0,New
+VAX62715,Rue de Sedent 44,5100.0,Apartment,Apartment,265000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62680,Rue de Sedent 44,5100.0,Apartment,Apartment,265000.0,2.0,,0,0,0,1,,0,,0,New
+VAX62723,Rue de Sedent 44,5100.0,Apartment,Apartment,270000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62717,Rue de Sedent 44,5100.0,Apartment,Apartment,275000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62712,Rue de Sedent 44,5100.0,Apartment,Apartment,276000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62720,Rue de Sedent 44,5100.0,Apartment,Apartment,278000.0,2.0,,0,0,0,1,,0,,0,New
+VAX62697,Rue de Sedent 44,5100.0,Apartment,Apartment,281000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62726,Rue de Sedent 44,5100.0,Apartment,Apartment,284000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62727,Rue de Sedent 44,5100.0,Apartment,Apartment,286000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62718,Rue de Sedent 44,5100.0,Apartment,Apartment,291000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62724,Rue de Sedent 44,5100.0,Apartment,Apartment,299000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62729,Rue de Sedent 44,5100.0,Apartment,Apartment,302000.0,2.0,,1,0,0,1,,0,,0,New
+VAX62681,Rue de Sedent 44,5100.0,Apartment,Apartment,286000.0,3.0,,1,0,0,1,,0,,0,New
+VAX62696,Rue de Sedent 44,5100.0,Apartment,Apartment,302000.0,3.0,,1,0,0,1,,0,,0,New
+VAX62709,Rue de Sedent 44,5100.0,Apartment,Apartment,307000.0,3.0,,1,0,0,1,,0,,0,New
+VAX62669,Rue de Sedent 44,5100.0,Apartment,Apartment,312000.0,3.0,,1,0,0,1,,0,,0,New
+VAX62694,Rue de Sedent 44,5100.0,Apartment,Apartment,314000.0,3.0,,1,0,0,1,,0,,0,New
+VAX62706,Rue de Sedent 44,5100.0,Apartment,Apartment,320000.0,3.0,,1,0,0,1,,0,,0,New
+VAX62728,Rue de Sedent 44,5100.0,Apartment,Apartment,359000.0,3.0,,1,0,0,1,,0,,0,New
+VAX62730,Rue de Sedent 44,5100.0,Apartment,Apartment,369000.0,3.0,,1,0,0,1,,0,,0,New
+VAX62722,Rue de Sedent 44,5100.0,Apartment,Apartment,385000.0,3.0,,1,0,0,1,,0,,0,New
+VBC35255,,5170.0,Apartment,Apartment,319000.0,1.0,93.0,1,0,0,1,13.0,1,3.0,0,
+VBC35250,,5170.0,Apartment,Apartment,319000.0,1.0,93.0,1,0,0,1,13.0,1,3.0,0,New
+VBC35254,,5170.0,Apartment,Apartment,346000.0,2.0,103.0,1,0,0,1,13.0,1,3.0,0,
+VBC35251,,5170.0,Apartment,Apartment,420000.0,3.0,147.0,1,0,0,1,963.0,0,3.0,0,
+VBD13855,Rue Roche Albéric 21,5660.0,House,Residence,299000.0,3.0,,0,0,0,0,,1,4.0,0,Normal
+VBC92625,Rue Belle-Vue 10,5020.0,House,Residence,329000.0,3.0,150.0,1,0,0,1,,1,4.0,0,To renovate
+VBD43034,,5380.0,House,Residence,295000.0,3.0,218.0,0,0,0,1,,1,3.0,0,
+VBD33797,Rue de la Chavée 14,5660.0,House,Residence,191000.0,4.0,,0,0,0,1,,1,,0,
+VBC27229,Rue du Bati 30B,5570.0,House,Residence,258000.0,2.0,100.0,0,0,0,1,,1,4.0,0,New
+VWD13031,,5575.0,House,Villa,345000.0,5.0,161.0,1,0,0,1,,1,4.0,0,Normal
+VBD16019,Rue de France 21,5570.0,House,Residence,105000.0,4.0,,0,0,0,0,,1,2.0,0,To be renovated
+VBD42794,,5150.0,House,Villa,660000.0,4.0,220.0,1,0,0,1,60.0,1,4.0,0,Excellent
+VBC56183,Rue d'En-Haut 8,5660.0,House,Cottage,130000.0,1.0,657.0,0,0,0,0,,0,4.0,0,Normal
+VBD42735,Quai du Moulin 31 18,5570.0,Apartment,Apartment,39900.0,2.0,64.0,1,0,0,0,,0,2.0,0,To be renovated
+VBC59592,9 rue roger renard 9 08320 HIERGES FRANCE 9,5570.0,House,Residence,180000.0,3.0,90.0,1,0,0,0,,1,,0,To be renovated
+VBC88742,Rue de la Pommeraie 2,5500.0,House,Villa,325000.0,4.0,200.0,0,0,0,1,25.0,1,,0,Normal
+VBD31260,PLACE MEHUL 2 08600 GIVET FRANCE 2,5570.0,House,Residence,169000.0,5.0,175.0,0,0,0,0,,0,,0,To be renovated
+VBD42751,,5330.0,Apartment,Apartment,230000.0,3.0,130.0,0,0,0,1,30.0,0,4.0,0,New
+VBD42932,Rue des Déportés 28,5563.0,House,Residence,310000.0,5.0,208.0,1,0,0,1,,1,4.0,0,To renovate
+VBD29897,Rue du Coirbois 46,5580.0,House,Residence,195000.0,3.0,132.0,1,0,0,1,,0,2.0,0,To renovate
+VBD43025,,5310.0,Apartment,Apartment,385000.0,2.0,110.0,0,0,0,0,,1,,1,
+VBD42718,,5600.0,House,Residence,290000.0,4.0,389.0,0,0,0,1,,1,2.0,0,
+VBD42793,,5002.0,House,Residence,285000.0,3.0,132.0,1,0,0,1,8.0,1,3.0,0,To renovate
+VBD43016,Rue d'Ortey 69,5020.0,House,Residence,950000.0,3.0,180.0,0,0,0,1,50.0,1,4.0,1,Normal
+VBD44953,Chemin de Senzeille 5,5660.0,House,Residence,899000.0,7.0,490.0,1,0,0,1,250.0,1,4.0,1,Fully renovated
+VBD44497,,5300.0,Apartment,Apartment,360000.0,2.0,127.0,0,0,0,1,,0,,0,Excellent
+VBD43821,,5580.0,Apartment,Apartment,275000.0,2.0,95.0,0,0,0,1,8.0,0,4.0,0,
+VBD43830,,5100.0,House,Master house,445000.0,4.0,214.0,0,0,0,1,60.0,1,2.0,0,
+VBD25770,,5570.0,Apartment,Apartment,239000.0,2.0,107.0,0,0,0,1,,0,2.0,0,New
+VBD27044,RUE GRANDE 145,5600.0,House,Residence,350000.0,4.0,390.0,0,0,0,1,,1,4.0,0,Normal
+VBD13162,Rue des Trois Piliers 32,5002.0,House,Residence,250000.0,3.0,,0,0,0,0,,1,2.0,0,Normal
+VBD45403,Rue Verte Voie 67,5590.0,House,Residence,339000.0,4.0,187.0,0,0,1,1,45.0,1,,0,To be renovated
+VBD44005,Rue du Grand Faux 54,5190.0,House,Residence,255000.0,4.0,114.0,0,0,0,1,30.0,1,3.0,0,
+VBD43949,,5100.0,House,Residence,445000.0,4.0,260.0,1,0,0,0,,1,4.0,0,To renovate
+VBD45060,,5101.0,House,Residence,975000.0,3.0,255.0,0,0,0,1,30.0,1,4.0,1,Excellent
+VBD43874,Rue de la Grotte 6,5377.0,House,Cottage,495000.0,5.0,700.0,0,0,0,0,,1,4.0,0,To be renovated
+VBD25625,Rue François Sarteel 109,5060.0,House,Residence,185000.0,2.0,100.0,0,0,0,1,,1,3.0,0,Normal
+VBD43823,,5580.0,House,Residence,430000.0,5.0,193.0,0,0,0,1,,1,4.0,0,
+VBD44101,Rue Henri Lecocq 64,5000.0,House,Residence,299000.0,6.0,223.0,0,0,0,1,,1,2.0,0,To be renovated
+VBD43974,Rue de la Place 8 B,5600.0,House,Residence,185000.0,1.0,,0,0,0,1,,0,2.0,0,Excellent
+VBD12253,RUE DES CARRIERES 18,5670.0,House,Residence,220000.0,5.0,192.0,0,0,0,0,,0,3.0,0,
+VBD43936,Rue du Val d'Or 3B,5370.0,House,Residence,365000.0,4.0,180.0,1,0,0,1,12.0,1,3.0,0,New
+VBD45588,Rue eugène Malherbe 36,5300.0,House,Villa,449000.0,4.0,,0,0,0,0,,1,4.0,0,Excellent
+VBD44904,Rue de Pondire 28,5590.0,House,Residence,349000.0,3.0,150.0,0,0,0,1,35.0,1,,0,Normal
+VBD42661,rue du Vélodrome 12 12,5580.0,Apartment,Apartment,260000.0,2.0,87.0,0,0,0,1,,0,,0,Excellent
+VBD43710,Rue de Forêt 45,5000.0,Apartment,Duplex,245000.0,2.0,71.0,0,0,0,1,3.0,0,,0,Excellent
+VBD42413,,5590.0,House,Residence,349000.0,3.0,148.0,0,0,0,1,40.0,1,2.0,0,
+VBD43024,,5350.0,House,Residence,1995000.0,14.0,1500.0,0,0,0,0,,1,4.0,1,
+VBD43712,Rue du Boukau 3,5620.0,House,Residence,160000.0,3.0,143.0,0,0,0,0,,1,2.0,0,To be renovated
+VBD42709,,5377.0,House,Chalet,185000.0,3.0,93.0,0,0,0,1,,0,4.0,0,
+VBD42747,,5580.0,House,Residence,325000.0,3.0,203.0,0,0,0,0,,1,4.0,0,
+VBD43036,,5580.0,House,Villa,299000.0,3.0,121.0,0,0,0,1,,1,4.0,0,
+VBD42546,Rue Mau-Médot 64,5621.0,House,Residence,250000.0,3.0,190.0,0,0,0,0,,1,,0,To be renovated
+VBD43026,,5580.0,House,Residence,125000.0,2.0,,0,0,0,0,,1,,0,To be renovated
+VBD43531,Avenue Roi Albert 39,5300.0,House,Residence,295000.0,4.0,160.0,0,0,0,1,41.0,1,2.0,0,Normal
+VBD43307,Rue de Prumont 22,5640.0,House,Villa,225000.0,3.0,116.0,0,0,0,1,,1,4.0,0,Normal
+VBD43101,Avenue Roi Albert 251,5300.0,House,Residence,135000.0,2.0,72.0,0,0,0,1,,1,2.0,0,
+VBD43542,Avenue Roi Albert 39,5300.0,House,Master house,295000.0,4.0,160.0,0,0,0,1,41.0,1,2.0,0,Normal
+VBD43605,Chemin des Faisans 187,5377.0,House,Residence,268500.0,3.0,112.0,0,0,1,1,,1,,0,Normal
+VBD42391,Rue du Condroz 10,5300.0,House,Residence,140000.0,2.0,105.0,0,0,0,1,7.0,0,2.0,0,
+VBD42552,Rue de la Brasserie 17,5564.0,House,Residence,265000.0,4.0,175.0,1,0,0,1,,1,4.0,0,Normal
+VBD42883,Chaussée de waterloo 126,5002.0,House,Residence,224000.0,4.0,164.0,1,0,0,1,14.0,1,2.0,0,To renovate
+VBD42609,,5377.0,House,Residence,375000.0,2.0,158.0,0,0,0,1,,1,4.0,0,
+VBD43030,,5580.0,House,Residence,299000.0,3.0,121.0,0,0,0,1,,1,4.0,0,
+VBD41716,rue du Vélodrome 14 11,5580.0,Apartment,Apartment,295000.0,2.0,97.0,0,0,0,1,7.0,0,,0,Excellent
+VBD41728,rue Arthur Defoin 67,5501.0,House,Residence,155000.0,3.0,,0,0,0,1,,1,2.0,0,
+VBD41715,rue du Vélodrome 10 01,5580.0,Apartment,Apartment,295000.0,2.0,97.0,0,0,0,1,,1,,0,Excellent
+VBD41843,Rue Wiertz 12,5500.0,House,Master house,345000.0,7.0,374.0,0,0,0,0,,1,2.0,0,
+VBD41494,Rue Fréchalle 7,5377.0,House,Residence,369000.0,3.0,179.0,0,1,0,1,,1,4.0,0,
+VBD41497,Rue du Bochetay 131,5377.0,House,Chalet,210000.0,2.0,49.0,0,1,0,1,8.0,0,4.0,0,
+VBD41749,Rue de Marteau 7,5537.0,House,Residence,215000.0,2.0,90.0,0,0,0,1,32.0,1,,0,Normal
+VBC98389,Route d'Yvoir 99,5590.0,House,Residence,200000.0,3.0,,0,0,0,0,,0,4.0,0,
+VBD41617,Avenue Roi Albert 139 F601,5300.0,Apartment,Penthouse,960000.0,3.0,178.0,0,0,0,1,87.0,0,3.0,0,Excellent
+VBD42244,Allée des Charmes 50G,5600.0,House,Chalet,129000.0,2.0,76.0,0,0,0,1,,0,4.0,0,
+VBD42162,Rue Docteur Severin 65,5060.0,House,Residence,195000.0,3.0,159.0,0,0,0,1,46.0,1,3.0,0,To be renovated
+VBD41515,Rue de Poilvache 18,5336.0,House,Residence,275000.0,3.0,180.0,1,0,0,1,,1,4.0,0,To be renovated
+VBD41740,Place Saint-Hilaire 89,5550.0,House,Residence,110000.0,3.0,,0,0,0,0,,1,4.0,0,
+VBD42079,Avenue du Stade,5590.0,Apartment,Apartment,238000.0,1.0,61.0,0,0,0,1,10.0,0,,0,New
+VBD41701,,5570.0,House,Residence,359000.0,4.0,259.0,0,0,0,1,,1,2.0,0,
+VBD42080,Avenue du Stade,5590.0,Apartment,Studio,189000.0,,51.0,0,0,0,1,12.0,0,,0,New
+VBD42218,Rue Devant la Ville 25,5575.0,House,Villa,425000.0,3.0,140.0,0,0,0,1,,1,4.0,0,New
+VBD42078,Avenue du Stade,5590.0,Apartment,Apartment,290000.0,2.0,81.0,0,0,0,1,20.0,0,,0,New
+VBD41529,Rue Bertrand Elie 99,5170.0,House,Residence,320000.0,3.0,,0,0,0,1,,1,4.0,0,
+VBD41281,,5000.0,House,Residence,495000.0,5.0,197.0,0,0,0,1,,1,2.0,0,
+VWD15291,des marchais 28,5651.0,House,Villa,450000.0,3.0,135.0,1,0,0,1,100.0,1,4.0,1,Excellent
+VBD41245,Rue du Villez 9,5060.0,House,Residence,299000.0,4.0,215.0,1,0,0,0,,0,2.0,0,Normal
+VBD41035,Rue Culot du Mont 182,5550.0,House,Residence,365000.0,5.0,311.0,0,0,0,1,,1,3.0,0,
+VBD41472,Clos des Tanneurs 3 21,5590.0,Apartment,Apartment,230000.0,2.0,80.0,0,0,0,1,6.0,0,,0,Normal
+VBD41222,,5570.0,House,Residence,215000.0,4.0,167.0,0,0,0,0,,1,4.0,0,To renovate
+VBD41211,Rue Arthur Defoin 194,5500.0,House,Residence,180000.0,3.0,120.0,1,0,0,1,17.0,0,2.0,0,Normal
+VBD41364,Rue du Carmel 4,5150.0,Apartment,Apartment,170000.0,2.0,70.0,1,0,0,0,,0,2.0,0,Normal
+VBD41320,Hurlevent 62,5540.0,House,Chalet,95000.0,1.0,35.0,1,0,0,1,,1,4.0,0,Fully renovated
+VBD40972,,5000.0,House,Mixed building,199000.0,3.0,140.0,0,0,0,0,,1,2.0,0,
+VBD41282,,5330.0,House,Villa,350000.0,3.0,120.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD40907,Rue du Moulin 3,5530.0,House,Residence,129000.0,2.0,170.0,1,0,0,1,,1,3.0,0,To be renovated
+VBD40724,Place Henri de la Lindi 29,5550.0,House,Residence,250000.0,5.0,261.0,1,1,0,1,20.0,1,3.0,0,Normal
+VBD41459,,5030.0,House,Residence,415000.0,3.0,140.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD40973,,5000.0,House,Residence,199000.0,4.0,140.0,0,0,0,0,,1,2.0,0,
+VBD41036,Rue Culot du Mont 182,5550.0,House,Residence,475000.0,5.0,311.0,0,0,0,1,,1,3.0,0,
+VBD40812,Rue des Champs 13,5002.0,House,Residence,250000.0,3.0,,0,0,0,1,,1,2.0,0,
+VWD15308,du Presbytere 6,5650.0,House,Residence,165000.0,4.0,168.0,0,0,0,0,,1,3.0,0,Normal
+VBD41259,,5004.0,Apartment,Duplex,350000.0,3.0,120.0,1,0,0,1,20.0,0,3.0,0,Excellent
+VBD39688,,5100.0,House,Residence,495000.0,4.0,208.0,0,0,0,1,30.0,1,4.0,0,Normal
+VBD39757,de la gare 31,5310.0,House,Residence,340000.0,4.0,186.0,0,0,0,1,,1,4.0,0,Normal
+VBD39272,Avenue Arthur Procès 41,5000.0,House,Residence,359000.0,4.0,172.0,1,0,0,1,,1,2.0,0,Normal
+VBD39754,rue de Fleurus 105,5060.0,House,Master house,149000.0,4.0,192.0,1,0,0,0,,1,4.0,0,To be renovated
+VBD39720,,5500.0,House,Residence,185000.0,5.0,264.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD39814,Rue des Vérennes 65,5570.0,House,Residence,305000.0,4.0,171.0,1,0,0,1,35.0,1,4.0,0,Normal
+VBD40663,Place de la Gare 3,5190.0,Apartment,Loft,550000.0,3.0,214.0,0,0,0,1,60.0,1,2.0,1,Normal
+VWD15281,,5550.0,Apartment,Apartment,55000.0,1.0,32.0,1,0,0,0,,0,,0,Normal
+VBD39804,,5000.0,House,Villa,875000.0,4.0,320.0,0,0,0,1,121.0,1,4.0,1,
+VBD40561,,5590.0,House,Mixed building,250000.0,3.0,,0,0,0,0,,0,2.0,0,Normal
+VBD39334,Saint Roch 13,5640.0,House,Residence,225000.0,2.0,133.0,0,0,0,1,,1,3.0,0,To be renovated
+VBD40490,,5190.0,House,Residence,330000.0,3.0,212.0,1,0,0,1,14.0,1,2.0,0,
+VBD40295,Rue du Moulin 6,5530.0,House,Residence,295000.0,3.0,110.0,0,0,0,1,,1,4.0,0,
+VBD39462,Rue du Centre 58,5590.0,House,Residence,265000.0,2.0,297.0,0,0,0,1,67.0,0,,0,Normal
+VWD15286,Rue de Ville-en-Warêt 249,5300.0,House,Residence,299000.0,2.0,90.0,1,0,0,1,30.0,1,4.0,0,Fully renovated
+VBD40708,Rue Raymond Museu 7,5002.0,House,Residence,395000.0,4.0,230.0,1,0,0,1,25.0,1,2.0,0,Excellent
+VBD40292,Rue Foyer Jambois 4,5100.0,House,Residence,235000.0,4.0,160.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD39399,Rue Concorde 30 1,5590.0,Apartment,Apartment,165000.0,1.0,47.0,0,0,0,0,,1,,0,Normal
+VBD40009,,5377.0,House,Residence,160000.0,2.0,120.0,0,0,1,0,,1,3.0,0,To be renovated
+VBD39360,Rue Paulus 5,5300.0,House,Residence,390000.0,4.0,,0,0,0,1,25.0,1,4.0,0,Normal
+VWD15256,,5540.0,House,Chalet,145000.0,2.0,108.0,1,0,0,1,,1,4.0,0,Normal
+VBD38652,,5537.0,House,Mixed building,280000.0,4.0,213.0,1,0,0,1,,0,3.0,0,To renovate
+VBD38662,Place Marie de Hongrie 9,5660.0,Apartment,Apartment,84000.0,3.0,145.0,0,0,0,0,,0,,0,Normal
+VBD39073,,5310.0,House,Residence,495000.0,3.0,,0,0,0,1,50.0,1,,0,Excellent
+VWD15244,rue d'Alle 15,5550.0,House,Residence,750000.0,6.0,570.0,1,0,0,1,,1,4.0,0,Excellent
+VBD38663,Rue Saint-Jacques 234 3,5500.0,Apartment,Duplex,120000.0,2.0,91.0,1,0,0,0,,0,2.0,0,Normal
+VBD38660,Place Marie de Hongrie 9,5660.0,Apartment,Apartment,120000.0,2.0,119.0,1,0,0,0,,0,,0,Normal
+VBD38659,Place Marie de Hongrie 9,5660.0,Apartment,Apartment,185000.0,5.0,440.0,1,0,0,0,,0,,0,Normal
+VWD15241,rue de Graide 24-26,5555.0,House,Residence,1450000.0,9.0,430.0,1,0,0,1,,1,4.0,1,Excellent
+VBC95078,Parc du Belvédère 209,5561.0,House,Bungalow,148000.0,2.0,64.0,1,0,0,1,,1,4.0,0,
+VBD39064,Avenue du Rond-Point 10,5580.0,House,Residence,315000.0,5.0,200.0,1,0,0,1,,1,4.0,0,Normal
+VBD38954,Rue des Gaux 20-21,5541.0,House,Residence,180000.0,5.0,,0,0,0,0,,1,3.0,0,To be renovated
+VBD38771,,5101.0,Apartment,Apartment,350000.0,1.0,85.0,0,0,0,1,8.0,0,2.0,0,Excellent
+VBD39250,Rue de Behogne 20,5580.0,House,Residence,375000.0,4.0,320.0,0,0,0,0,,0,3.0,0,To be renovated
+VBD39271,Quai de l'Ecluse 9-10 9 147,5000.0,Apartment,Apartment,119000.0,1.0,48.0,1,0,0,0,,0,,0,
+VBD38934,Rue du Kiosque 4 et 3+,5580.0,House,Residence,110000.0,3.0,,0,0,0,0,,1,2.0,0,To be renovated
+VWD15231,La Ringe 97,5550.0,House,Residence,239000.0,3.0,160.0,1,0,0,1,,1,2.0,0,Normal
+VBD38665,Rue Saint-Jacques 236 3,5500.0,Apartment,Duplex,125000.0,2.0,91.0,1,0,0,0,,0,3.0,0,Normal
+VBD38839,Rue de Vresse 84,5550.0,House,Chalet,599000.0,6.0,302.0,1,1,0,1,20.0,1,4.0,0,Excellent
+VBD38832,Lotissement des Gaux 11,5541.0,House,Residence,90000.0,2.0,65.0,0,1,1,1,15.0,1,,0,To be renovated
+VBD37816,,5544.0,House,Residence,110000.0,2.0,131.0,0,0,0,1,,1,2.0,0,Normal
+VBD38226,Bac du Prince 67,5544.0,House,Residence,109500.0,1.0,76.0,1,0,0,0,,1,4.0,0,To be renovated
+VBD38169,Rue de la Station 7 3,5560.0,Apartment,Apartment,175000.0,2.0,80.0,0,0,0,0,,0,,0,New
+VBD38172,Rue de la Station 7 2,5560.0,Apartment,Apartment,159000.0,1.0,65.0,0,0,0,1,21.0,0,,0,New
+VBD37930,,5000.0,House,Residence,1950000.0,5.0,670.0,0,0,0,1,,1,4.0,1,
+VBD38117,,5360.0,House,Villa,355000.0,2.0,93.0,0,0,0,1,,1,3.0,0,New
+VBD38328,,5560.0,Apartment,Apartment,139000.0,2.0,84.0,1,0,0,0,,0,2.0,0,New
+VBD20356,Rue de la Libération 43,5537.0,House,Residence,230000.0,4.0,156.0,0,0,0,1,15.0,1,,0,Normal
+VBD38281,,5020.0,House,Residence,445000.0,5.0,185.0,1,0,0,1,,1,4.0,0,
+VBD38620,,5670.0,House,Residence,148000.0,2.0,61.0,0,0,0,1,55.0,1,4.0,0,
+VBD38176,Rue de la Station 7 5,5560.0,Apartment,Duplex,139000.0,2.0,68.0,0,0,0,0,,0,,0,New
+VBD38487,,5031.0,House,Residence,595000.0,5.0,350.0,0,0,0,1,25.0,1,2.0,0,To be renovated
+VBD38485,Chaussée de Charleroi 71,5030.0,Apartment,Apartment,250000.0,2.0,84.0,0,0,0,0,,0,,0,To be renovated
+VBD37994,Rue du Grand Ry 14,5600.0,House,Chalet,105000.0,2.0,60.0,0,1,0,0,,0,,0,To be renovated
+VBD38526,,5570.0,House,Mixed building,345000.0,2.0,315.0,0,0,0,1,,0,2.0,0,Normal
+VBD38419,Rue Mottiaux 31,5100.0,House,Residence,220000.0,2.0,130.0,0,0,0,1,15.0,1,2.0,0,To be renovated
+VBD38553,Rue Albert 1er 3,5190.0,House,Residence,260000.0,4.0,155.0,1,0,0,1,28.0,1,2.0,0,Excellent
+VBD38175,Rue de la Station 7 4,5560.0,Apartment,Duplex,179000.0,2.0,90.0,0,0,0,0,,0,,0,New
+VBD38307,,5140.0,House,Residence,298000.0,4.0,200.0,0,0,0,1,20.0,1,3.0,0,
+VBD38236,Rue des Chardonnerets 21,5310.0,House,Residence,239000.0,1.0,87.0,0,0,0,1,,1,4.0,0,
+VBD37688,Rue Fétis 62,5500.0,House,Residence,145000.0,3.0,135.0,0,0,0,1,7.0,0,2.0,0,To be renovated
+VBD37491,Rue Albert Raty 24,5550.0,House,Residence,295000.0,1.0,65.0,0,1,0,1,38.0,1,4.0,0,
+VBD37615,Rue du Tergnia 30,5060.0,House,Villa,370000.0,4.0,145.0,1,0,0,1,36.0,1,4.0,0,Excellent
+VBD37630,Rue Croix-Maron 71,5600.0,House,Residence,325000.0,7.0,,0,0,0,0,,1,,0,
+VBD37176,,5651.0,House,Villa,350000.0,3.0,180.0,0,0,0,1,30.0,1,4.0,0,
+VBD37389,,5000.0,Apartment,Apartment,225000.0,3.0,90.0,0,0,0,0,,0,3.0,0,Normal
+VBD37372,Rue Donveau 3,5621.0,House,Residence,250000.0,5.0,389.0,0,0,0,0,,1,,0,To be renovated
+VBD37585,,5190.0,House,Villa,298000.0,3.0,140.0,0,0,0,1,30.0,1,4.0,0,
+VBD37627,Chemin de Wépion 80+,5020.0,House,Residence,349000.0,5.0,196.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD37586,,5190.0,Apartment,Apartment,129000.0,2.0,133.0,0,0,0,0,,0,3.0,0,
+VBD37359,,5630.0,House,Residence,279000.0,3.0,230.0,0,0,0,1,,1,4.0,0,Normal
+VBD37237,,5100.0,Apartment,Apartment,245000.0,2.0,80.0,1,0,0,1,8.0,0,2.0,0,Normal
+VBD37171,,5660.0,House,Residence,60000.0,2.0,101.0,0,0,0,1,6.0,1,4.0,0,
+VBD37369,Place du Bailliage 14,5500.0,House,Residence,130000.0,3.0,,0,0,0,1,,1,,0,
+VBD37287,Rue des Monts 27,5570.0,House,Residence,275000.0,1.0,,0,0,0,0,,1,3.0,0,
+VBD37713,,5060.0,House,Residence,198000.0,3.0,102.0,0,0,0,0,,1,2.0,0,
+VBD37648,,5620.0,House,Residence,168000.0,1.0,148.0,0,0,0,1,11.0,1,1.0,0,
+VBD37810,Route de huy 20,5350.0,House,Residence,425000.0,4.0,200.0,0,0,0,1,30.0,1,4.0,0,
+VBD37796,Rue Haut Baty 68,5060.0,House,Villa,385000.0,3.0,253.0,0,0,0,0,,1,4.0,0,To be renovated
+VBD37236,Chaussée de Louvain 42,5310.0,Apartment,Apartment,,2.0,88.0,1,0,0,1,16.0,1,4.0,0,New
+VBD36967,Rue de Fosses 150,5060.0,Apartment,Apartment,109000.0,1.0,63.0,0,0,0,0,,0,3.0,0,Normal
+VBD36463,,5000.0,House,Residence,499000.0,4.0,190.0,0,0,0,1,25.0,1,3.0,0,
+VWD15163,Rue du Quambeau 26A,5380.0,House,Residence,120000.0,3.0,196.0,0,0,0,0,,0,2.0,0,To be renovated
+VBD36113,Rue des Raines 52,5580.0,House,Residence,259000.0,3.0,130.0,0,0,0,0,,1,3.0,0,
+VBD36172,Chemin de Chez Jacques 198,5350.0,House,Residence,395000.0,6.0,190.0,0,0,0,1,36.0,1,,0,To be renovated
+VBD35946,,5380.0,House,Residence,580000.0,5.0,400.0,0,0,0,1,108.0,1,,1,Normal
+VBD35695,Rue des Forges 14,5370.0,House,Residence,310000.0,3.0,135.0,0,0,0,0,,1,,0,New
+VBD37140,Avenue de la Vecquée 425,5020.0,House,Residence,185000.0,3.0,255.0,0,0,0,1,,1,,0,To be renovated
+VBD36243,,5377.0,House,Residence,595000.0,4.0,240.0,0,0,0,0,,1,4.0,0,Excellent
+VWD15183,Froidmont 21,5650.0,House,Residence,165000.0,4.0,120.0,1,0,0,1,34.0,1,2.0,0,Normal
+VBD36510,Chaussée de Charleroi 33,5140.0,House,Residence,285000.0,4.0,154.0,0,0,0,1,,1,4.0,0,Normal
+VBD35688,Rue des Forges 16 B,5370.0,House,Villa,325000.0,4.0,158.0,0,0,0,0,,1,,0,New
+VBD35936,Route de Forrières 7 /D,5580.0,House,Residence,275000.0,3.0,116.0,0,0,0,1,,1,3.0,0,New
+VBD35829,Allée des Lapins 163,5542.0,House,Cottage,60000.0,2.0,45.0,0,1,0,1,20.0,1,,0,Normal
+VBD36171,Chemin de Chez Jacques 197,5350.0,House,Residence,249000.0,3.0,133.0,0,0,0,1,15.0,1,,0,Normal
+VBD36295,,5360.0,House,Residence,385000.0,4.0,177.0,1,0,0,1,,1,4.0,0,Excellent
+VBD36462,Rue de Wellin 66,5574.0,House,Residence,240000.0,5.0,,0,0,0,1,,1,4.0,0,
+VBD37008,Rue de Mettet 184,5620.0,House,Residence,250000.0,2.0,117.0,0,0,0,0,,1,4.0,0,To be renovated
+VBD36167,Impasse de la Botteresse 4,5370.0,House,Residence,350000.0,3.0,157.0,0,0,0,0,,0,,0,New
+VBD35730,,5030.0,House,Residence,475000.0,3.0,193.0,0,0,0,1,11.0,1,4.0,0,Normal
+VBD35331,,5377.0,House,Residence,345000.0,4.0,141.0,1,0,0,1,32.0,1,4.0,1,Normal
+VBD34996,Rue de Mettet 7,5640.0,House,Residence,230000.0,4.0,145.0,0,0,0,0,,1,,0,Normal
+VBD34966,Rue Brun 25 2C,5300.0,Apartment,Apartment,175000.0,2.0,77.0,0,0,0,1,13.0,0,2.0,0,
+VWD13378,de Prée,5640.0,House,Villa,394000.0,3.0,190.0,0,0,0,1,,1,3.0,0,Excellent
+VBD35459,,5560.0,House,Residence,275000.0,4.0,,0,1,0,1,,1,4.0,0,Normal
+VBD35155,Rue du Centre 29 1,5377.0,Apartment,Apartment,310000.0,2.0,100.0,0,0,0,1,,1,3.0,0,New
+VBD35693,Rue des Forges 16,5370.0,House,Residence,275000.0,3.0,120.0,0,0,0,0,,1,,0,New
+VBD34832,,5310.0,House,Residence,,7.0,1025.0,1,0,0,1,80.0,1,4.0,1,Normal
+VBD34773,Rue Adjudant Roisin 22,5060.0,House,Residence,275000.0,4.0,,0,0,0,0,,1,3.0,0,To be renovated
+VBD35690,Rue des Forges 16 A,5370.0,House,Residence,275000.0,3.0,120.0,0,0,0,0,,1,,0,New
+VBD35313,,5651.0,House,Residence,219000.0,3.0,153.0,0,0,0,1,,1,4.0,0,Normal
+VBD34768,Rue Henri Blès 140 3.2,5000.0,Apartment,Apartment,190000.0,1.0,68.0,0,0,0,1,2.0,0,2.0,0,Normal
+VBD35175,Rue de la Damidaine 25,5580.0,House,Residence,325000.0,3.0,130.0,1,0,0,1,16.0,1,4.0,0,Normal
+VBD35655,Rue de la Sauvenière 36 0021,5580.0,Apartment,Apartment,160000.0,2.0,72.0,1,0,0,0,,0,2.0,0,Normal
+VBD35434,,5537.0,House,Residence,416000.0,3.0,230.0,0,0,0,1,20.0,1,,0,New
+VBD35345,rue d’Houdremont 11,5555.0,House,Residence,190000.0,3.0,222.0,0,0,0,0,,1,3.0,0,To renovate
+VBD35312,Rue à l'Agauche 14,5537.0,House,Residence,289000.0,3.0,99.0,0,0,0,1,8.0,1,3.0,0,
+VBD23812,Rue de la Picardie 8,5660.0,House,Residence,34500.0,3.0,,0,0,0,0,,1,,0,
+VBD34765,Rue de Monthessal 49,5300.0,House,Villa,390000.0,4.0,,0,0,0,1,,1,,0,
+VBD34376,Rue du Géron 38,5300.0,House,Residence,295000.0,4.0,146.0,0,0,0,0,,0,,0,
+VBD34674,,5574.0,House,Residence,215000.0,4.0,166.0,0,0,1,0,,1,3.0,0,Normal
+VBD34567,,5590.0,House,Residence,165000.0,4.0,153.0,0,0,0,1,,1,2.0,0,To be renovated
+VBD34251,Chaussée de Waterloo 67,5000.0,Apartment,Apartment,190000.0,2.0,88.0,0,0,0,1,4.0,0,2.0,0,Normal
+VBD34568,,5360.0,House,Residence,129000.0,2.0,120.0,0,0,0,0,,1,3.0,0,To renovate
+VBD34286,,5500.0,House,Residence,239000.0,3.0,152.0,0,0,0,1,,1,2.0,0,
+VBD34370,"Albert, 1er 15 A21",5070.0,Apartment,Apartment,299000.0,2.0,93.0,1,0,0,1,14.0,0,,0,New
+VWD15120,rue de Virton 76,6810.0,House,Residence,165000.0,3.0,220.0,1,0,0,0,,0,,0,
+VBB74753,,5570.0,Apartment,Apartment,69000.0,3.0,78.0,1,0,0,0,,1,3.0,0,Excellent
+VBD34283,Avenue d'Huart 86,5590.0,House,Residence,315000.0,3.0,142.0,0,0,0,1,20.0,1,,0,Normal
+VBD34106,Rue de la Gare 7,5575.0,House,Residence,260000.0,3.0,138.0,1,0,0,0,,1,2.0,0,To renovate
+VBD34661,Route de huy 20,5351.0,House,Residence,425000.0,4.0,200.0,0,0,0,1,30.0,1,4.0,0,
+VBD34025,Place Roi Albert 1er 30 /2.2,5580.0,Apartment,Apartment,275000.0,2.0,81.0,1,0,0,1,5.0,0,,0,Excellent
+VBC97774,Rue Les Fonds 22 b,5340.0,House,Residence,180000.0,1.0,,0,0,0,1,,1,,0,
+VBD34285,,5570.0,Apartment,Apartment,245000.0,2.0,68.0,0,0,0,1,4.0,0,4.0,0,New
+VBD34566,,5590.0,House,Residence,449000.0,5.0,207.0,1,0,0,1,,1,3.0,1,Excellent
+VBD33849,Rue Henri Blès 140 3.1,5000.0,Apartment,Apartment,205000.0,1.0,68.0,0,0,0,1,1.0,0,2.0,0,Normal
+VBD34342,Rue Emile Mazy 26,5170.0,House,Villa,280000.0,3.0,125.0,0,0,0,1,,0,4.0,0,
+VBD34549,Rue du Château 32,5564.0,House,Residence,270000.0,5.0,153.0,0,0,0,1,,1,,0,Fully renovated
+VBD34728,Rue de Fer 93,5000.0,Apartment,Apartment,315000.0,2.0,90.0,0,1,0,1,10.0,0,,0,Normal
+VBD33570,,5336.0,House,Residence,575000.0,4.0,190.0,0,0,0,1,30.0,1,4.0,0,Excellent
+VBD33756,Allée des Aubépines 125 d,5600.0,House,Chalet,120000.0,2.0,,0,0,0,1,,1,4.0,0,To be renovated
+VBD33348,Rue de la malaise 12,5310.0,House,Residence,549000.0,3.0,180.0,0,0,0,1,20.0,1,4.0,0,Excellent
+VBD33482,,5650.0,House,Residence,170000.0,,139.0,0,0,0,0,,1,,0,To be renovated
+VBD33134,Rue de la Poudrière 61 0002,5100.0,Apartment,Ground floor,185000.0,2.0,80.0,1,0,0,1,8.0,0,4.0,0,Normal
+VBD33686,Rue Piret-Pauchet 12,5000.0,House,Residence,285000.0,2.0,163.0,0,0,0,1,,1,2.0,0,
+VBD33613,Rue du village 2/43,5542.0,House,Chalet,65000.0,2.0,40.0,0,1,0,1,,0,4.0,0,
+VBD33138,Rue du Paradis 46,5100.0,House,Residence,260000.0,2.0,140.0,1,0,0,0,,1,3.0,0,Normal
+VBD33683,,5100.0,House,Residence,480000.0,3.0,231.0,0,0,0,1,,1,4.0,1,Normal
+VBD33208,Rue du Pont Cajot 24,5500.0,House,Villa,395000.0,4.0,,0,0,0,1,,1,4.0,1,Excellent
+VBD33150,Rue de Dinant 185 1,5570.0,Apartment,Apartment,229000.0,2.0,80.0,1,0,0,1,20.0,1,,0,New
+VBD33532,Bois de Devant Houx 25,5530.0,House,Villa,369000.0,4.0,334.0,0,0,0,0,,1,4.0,0,Excellent
+VBD19583,Rue de Falisolle 162,5060.0,House,Residence,279000.0,3.0,145.0,1,0,0,1,,1,4.0,0,Normal
+VBD33288,Rue de Devant les Bois 20 B,5640.0,House,Residence,185000.0,2.0,100.0,1,0,0,1,16.0,1,3.0,0,Normal
+VBD33514,Rue des Ardennes 501,5570.0,House,Residence,159000.0,5.0,150.0,0,0,1,1,20.0,1,,0,To be renovated
+VBD33758,Avenue des Combattants 4 4,5500.0,Apartment,Studio,98000.0,1.0,40.0,0,0,0,0,,0,,0,
+VBD33628,Rue de Bouillon 132,5555.0,House,Mixed building,225000.0,3.0,1000.0,0,0,0,0,,1,4.0,0,Normal
+VBD33338,Rue des Inhauts 3,5021.0,House,Residence,410000.0,5.0,223.0,0,0,0,1,30.0,1,4.0,0,
+VBD33522,Rue du Centenaire 17,5002.0,House,Residence,285000.0,4.0,,0,0,0,1,,1,3.0,0,
+VBD33456,,5300.0,House,Residence,379000.0,5.0,286.0,0,0,0,1,30.0,1,,0,Normal
+VBD33122,,5330.0,House,Residence,595000.0,6.0,343.0,0,0,0,1,60.0,1,2.0,1,
+VBD26519,,5570.0,House,Residence,215000.0,4.0,166.0,0,0,1,0,,1,3.0,0,Normal
+VBD33089,Chemin des Ecureuils 17,5170.0,House,Villa,320000.0,3.0,,0,0,0,0,,0,4.0,0,To be renovated
+VBD33133,Rue du Tilleul 1A,5630.0,House,Mixed building,149000.0,4.0,194.0,0,0,0,0,,1,3.0,0,
+VBD32911,Rue Doumont 8,5537.0,House,Residence,245000.0,2.0,170.0,1,0,0,1,13.0,1,3.0,0,
+VBD32691,Belle Minne 18 2,5300.0,Apartment,Apartment,145000.0,1.0,60.0,0,0,0,1,,0,4.0,0,Normal
+VBD32695,Rue de Bouillon 103,5555.0,House,Residence,198000.0,4.0,205.0,1,0,0,1,53.0,1,4.0,1,To restore
+VBD32810,,5651.0,House,Residence,349000.0,2.0,231.0,0,0,0,1,,1,3.0,0,Normal
+VBD33132,Rue émile labarre 114,5030.0,House,Residence,290000.0,2.0,102.0,0,0,0,1,,1,4.0,0,Normal
+VBD32742,,5530.0,House,Residence,349000.0,2.0,246.0,0,0,0,1,30.0,1,3.0,0,
+VBD32973,Avenue François de Lhonneux 4 b,5530.0,House,Residence,349000.0,3.0,125.0,0,0,0,1,68.0,1,,0,Excellent
+VBD32990,Rue Haute 24,5140.0,House,Residence,299000.0,4.0,160.0,0,0,0,1,27.0,1,3.0,0,Normal
+VBD32906,,5060.0,House,Residence,548000.0,4.0,277.0,0,0,0,1,40.0,1,4.0,0,
+VBD33123,,5590.0,Apartment,Apartment,335000.0,2.0,103.0,0,0,0,1,,0,2.0,0,New
+VBD32996,Rue Camille Godefroid 24,5001.0,House,Residence,260000.0,2.0,,1,0,0,1,,1,3.0,0,Normal
+VBD33053,,5500.0,House,Residence,245000.0,2.0,112.0,1,0,0,1,,1,2.0,0,Excellent
+VBD32970,Lotissement des Gaux 12,5541.0,House,Residence,110000.0,2.0,65.0,0,0,1,1,15.0,1,,0,Normal
+VBD32971,Rue de France 287,5544.0,House,Residence,220000.0,5.0,175.0,0,0,0,1,95.0,1,,0,To be renovated
+VBD33124,,5590.0,Apartment,Apartment,350000.0,2.0,108.0,0,0,0,1,,1,3.0,0,New
+VBD32980,Rue de Forzée 5,5570.0,House,Residence,,5.0,210.0,1,0,0,1,,1,4.0,0,Normal
+VBD32032,Rue d'Estinia 6,5590.0,House,Residence,295000.0,3.0,,0,0,0,0,,0,,0,
+VBD32361,Avenue de la Libération 45,5660.0,House,Residence,140000.0,2.0,154.0,1,0,0,1,,0,3.0,0,Normal
+VBD32557,,5100.0,House,Residence,409640.0,3.0,132.0,0,0,0,0,,1,4.0,0,New
+VBD32093,Rue des Cortils 4,5170.0,House,Residence,155000.0,1.0,41.0,1,0,0,1,10.0,1,4.0,0,Normal
+VBC45914,Domaine de Pumont 2,5650.0,House,Residence,95000.0,2.0,89.0,1,1,0,1,,1,4.0,0,To renovate
+VBD32301,Rue Cornimont 41,5555.0,House,Residence,680000.0,6.0,281.0,0,0,0,0,,1,,0,Normal
+VBD32570,RUE FAUBOURG SAINT-GERMAIN 17,5660.0,House,Residence,175000.0,3.0,84.0,0,0,0,0,,1,2.0,0,To be renovated
+VBD32410,RUE DU COMMERCE 28,5560.0,House,Residence,445000.0,3.0,180.0,0,0,1,1,50.0,1,,0,Excellent
+VBD32599,Rue Walter Soeur 8,5590.0,House,Residence,155000.0,2.0,65.0,0,0,0,0,,0,,0,Normal
+VBD32657,Rue saint martin 56,5000.0,Apartment,Apartment,324000.0,2.0,104.0,1,0,0,1,5.0,1,2.0,0,Excellent
+VBD32686,,5020.0,House,Residence,486813.0,5.0,160.0,0,0,0,0,,1,4.0,0,New
+VBD32035,Rue de Colivrenne 3,5570.0,House,Residence,225000.0,4.0,,0,0,0,0,,1,2.0,0,To be renovated
+VBD32467,Chaussée de Charleroi 225,5030.0,House,Residence,499000.0,3.0,237.0,0,1,0,1,20.0,1,4.0,0,Normal
+VBD32514,Chaussée de Charleroi 11,5190.0,House,Residence,219000.0,3.0,211.0,1,0,0,1,,1,2.0,0,Normal
+VBD18405,Rue de la Principauté 11 B,5377.0,House,Residence,495000.0,2.0,164.0,0,0,0,1,20.0,1,3.0,0,
+VBD32007,Avenue du Luxembourg / Rue d'Enhaive 263,5100.0,Apartment,Apartment,199000.0,1.0,54.0,0,0,0,1,,1,,0,New
+VBD32555,,5020.0,House,Residence,459196.0,4.0,148.0,0,0,0,0,,1,4.0,0,New
+VBD32556,,5100.0,House,Residence,405148.0,3.0,128.0,0,0,0,0,,1,4.0,0,New
+VWD15030,,5575.0,House,Residence,333000.0,3.0,238.0,1,0,0,1,,1,4.0,0,Excellent
+VBD32212,Rue de vierves 1,5670.0,House,Residence,119000.0,3.0,111.0,1,1,0,1,12.0,1,2.0,0,Normal
+VBD31974,Rue du Village 10,5600.0,House,Residence,105000.0,2.0,,0,0,0,0,,0,,0,
+VBD31446,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,329391.0,2.0,99.0,0,0,0,1,3.0,0,,0,New
+VBD31951,,5000.0,House,Residence,280000.0,3.0,150.0,0,1,0,1,,0,,0,Normal
+VBD31959,,5600.0,House,Villa,389000.0,4.0,225.0,0,0,0,1,,1,4.0,1,Normal
+VBD31827,Rue des Bergeronnettes 51,5377.0,House,Chalet,145000.0,2.0,57.0,0,0,0,0,,1,,0,Normal
+VBD31518,,5000.0,Apartment,Duplex,315000.0,2.0,91.0,1,0,0,1,7.0,0,2.0,0,New
+VBD31841,,5580.0,House,Residence,439000.0,3.0,186.0,0,0,1,1,19.0,1,4.0,0,Normal
+VBD31820,,5570.0,House,Residence,288000.0,2.0,113.0,1,0,0,1,,1,4.0,0,Normal
+VBD31949,Avenue Général Gracia 6,5170.0,House,Residence,280000.0,6.0,153.0,0,0,0,0,,1,,0,Normal
+VBD31950,,5000.0,Apartment,Apartment,280000.0,3.0,150.0,0,1,0,1,,0,,0,Normal
+VBD31331,,5020.0,House,Residence,619036.0,3.0,248.0,0,0,0,0,,1,4.0,0,New
+VBD31473,Rue des Echavées 2,5300.0,House,Residence,109000.0,1.0,65.0,0,0,0,0,,0,,0,To be renovated
+VBD31872,Rue du Faubourg 22 A,5575.0,House,Residence,247000.0,3.0,148.0,0,0,0,1,,0,,0,New
+VBD31748,Rue de la Maroquette 48,5650.0,House,Residence,95000.0,2.0,123.0,0,0,0,1,,1,3.0,0,To be renovated
+VBD12059,Rue Sauvenière 74,5590.0,House,Residence,199000.0,2.0,234.0,0,0,0,0,,0,,0,Normal
+VBD31587,RUE DU PONT 44-2,5300.0,Apartment,Apartment,187000.0,2.0,87.0,0,0,0,1,,0,,0,Normal
+VBD31847,Rue Trieu du Loup 99,5630.0,House,Residence,90000.0,3.0,140.0,0,0,0,1,15.0,1,2.0,0,To be renovated
+VBD30983,Rue Bois Sainte-Marie 38,5060.0,House,Residence,379000.0,4.0,160.0,1,0,0,1,,1,3.0,0,Fully renovated
+VBD30990,Sentier aux Fraises 15 31,5300.0,Apartment,Penthouse,399000.0,3.0,131.0,0,0,0,1,25.0,0,4.0,0,New
+VBD30968,,5030.0,Apartment,Apartment,367207.0,3.0,112.0,0,0,0,1,43.0,1,,0,New
+VBD31223,ALLEE DES MERLES 2,5600.0,House,Chalet,150000.0,3.0,60.0,0,0,0,0,,1,,0,Normal
+VBD31053,,5620.0,House,Villa,199000.0,3.0,114.0,0,0,0,0,,1,4.0,0,Normal
+VBD30833,Rue Charles Heuze 52/16,5060.0,Apartment,Apartment,170000.0,3.0,,0,0,0,1,,0,,0,
+VBD31207,,5020.0,House,Residence,571929.0,4.0,233.0,0,0,0,0,,0,4.0,0,New
+VBD31201,Chaussée de Ciney 31 C,5300.0,Apartment,Apartment,140000.0,1.0,53.0,1,0,0,0,,1,,0,Normal
+VBD30718,Rue du Culot 15,5190.0,House,Residence,105000.0,2.0,121.0,0,0,0,0,,0,,0,To be renovated
+VBD31042,Impasse des Bouvreuils 1,5340.0,House,Residence,495000.0,3.0,110.0,0,0,0,1,45.0,1,4.0,0,
+VBD31057,Rue Rogier 77,5000.0,Apartment,Apartment,180000.0,2.0,81.0,0,0,0,1,,0,,0,
+VBD30538,Chaussée de Dinant 1324,5100.0,House,Residence,200000.0,2.0,110.0,0,0,0,0,,1,4.0,0,To renovate
+VBD30967,Chaussee Romaine 103,5030.0,Apartment,Apartment,321471.0,2.0,93.0,0,0,0,1,8.0,0,,0,New
+VBD30856,Rue du bouchat 3,5530.0,House,Residence,239000.0,3.0,153.0,1,0,0,1,82.0,0,2.0,1,Normal
+VBD30993,,5000.0,House,Mixed building,700000.0,2.0,350.0,0,0,0,1,12.0,0,4.0,0,Normal
+VBD30987,Rue Nouvelle 1,5380.0,House,Residence,265000.0,3.0,160.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD31327,Rue de la Bouchaille 22,5590.0,House,Residence,1095000.0,5.0,660.0,1,0,0,1,,1,4.0,0,Excellent
+VBD30761,Chaussee Romaine 103,5030.0,Apartment,Apartment,324471.0,2.0,92.0,0,0,0,1,8.0,0,,0,New
+VBD31289,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,352281.0,2.0,94.0,0,0,0,1,8.0,0,,0,New
+VBD31004,Rue de Montigny 484 A,5300.0,House,Residence,275000.0,3.0,112.0,0,0,0,0,,0,3.0,0,
+VBD30271,Avenue Montrival 47,5580.0,House,Residence,395000.0,3.0,184.0,1,0,0,1,19.0,1,4.0,0,Normal
+VBD30420,Rue de Beaupont 38,5630.0,House,Residence,115000.0,3.0,,0,0,0,0,,1,3.0,0,To be renovated
+VBD29683,Place des Combattants 3,5530.0,House,Mixed building,485000.0,4.0,,0,0,0,1,,0,,0,Normal
+VBD29561,,5100.0,Apartment,Apartment,190000.0,2.0,90.0,0,0,0,1,10.0,0,2.0,0,Normal
+VBD30472,Rue du Vieux Moulin 2,5580.0,House,Residence,225000.0,3.0,112.0,1,0,0,1,,1,4.0,0,Normal
+VBD29922,Allée des Merles 130,5542.0,House,Chalet,94500.0,2.0,50.0,0,0,0,1,,1,4.0,0,
+VBC92511,Rue Maurice Bertrand 560,5300.0,House,Residence,199000.0,3.0,147.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD27466,Rue du Panorama 16,5660.0,House,Villa,225000.0,4.0,,0,0,0,1,,1,,0,
+VWD14944,Rue des Nozilles,5310.0,House,Residence,369000.0,3.0,208.0,0,0,0,1,,1,3.0,0,Excellent
+VBD29642,,5170.0,House,Residence,695000.0,7.0,390.0,0,0,0,1,30.0,1,3.0,1,Excellent
+VBD29928,Rue Delvaux 16B 16,5000.0,Apartment,Apartment,159000.0,1.0,50.0,0,0,0,0,,0,2.0,0,Normal
+VBD30077,Allée des Acacias 63,5540.0,House,Chalet,110000.0,1.0,54.0,0,0,0,1,,1,4.0,0,
+VBD30221,Rue des Cerisiers 30,5500.0,House,Residence,445000.0,4.0,303.0,0,0,0,1,,1,4.0,1,
+VWD14979,Grosse 162,5300.0,House,Residence,590000.0,3.0,257.0,1,0,0,1,50.0,1,4.0,0,Excellent
+VBD29688,Impasse de la Brasserie 15-17,5580.0,House,Residence,139000.0,4.0,199.0,0,0,0,1,21.0,1,2.0,0,To be renovated
+VBD30470,,5640.0,House,Residence,775000.0,5.0,262.0,0,0,0,1,50.0,1,4.0,0,Normal
+VBD30419,Galerie Jardin d'Harscamp 4 18,5000.0,Apartment,Apartment,135000.0,1.0,45.0,0,0,0,1,,0,,0,Excellent
+VBD30242,Chemin des Comognes 8,5501.0,House,Residence,290000.0,3.0,160.0,0,0,0,1,67.0,1,,0,Normal
+VBD30431,,5000.0,House,Residence,329000.0,4.0,,0,0,0,1,22.0,1,4.0,0,
+VBC90234,Tienne de Boussu 5,5660.0,Apartment,Apartment,375000.0,7.0,,0,0,0,1,,0,4.0,0,Normal
+VBD28327,RUE DES MARRONIERS 4 A,5651.0,House,Residence,349000.0,3.0,210.0,0,1,0,1,22.0,0,3.0,0,Normal
+VBD27807,Rue de l'Aise 57,5190.0,House,Residence,199000.0,4.0,210.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD28803,RUE BASSE 108,5630.0,House,Residence,149000.0,2.0,120.0,0,0,0,0,,1,,0,To be renovated
+VBD28765,Rue du Pont 4 1,5300.0,Apartment,Apartment,199000.0,3.0,111.0,0,0,0,0,,0,2.0,0,Excellent
+VBD29488,Rue de la Pairelle 32,5651.0,House,Residence,179000.0,4.0,130.0,1,0,0,1,,0,2.0,0,Normal
+VBD29081,Rue de Warnant 9,5537.0,House,Residence,259000.0,5.0,195.0,1,0,0,1,,1,3.0,0,Normal
+VBD28069,,5590.0,House,Mixed building,450000.0,6.0,355.0,1,0,0,1,,1,4.0,0,Excellent
+VBD28829,,5372.0,House,Residence,650000.0,3.0,201.0,0,0,0,1,,1,4.0,0,Normal
+VBC76569,Rue du Bochetay 155,5377.0,House,Chalet,220000.0,2.0,74.0,0,0,0,1,8.0,0,4.0,0,
+VWD14945,Rue des Nozilles,5310.0,House,Residence,445000.0,4.0,186.0,0,0,0,1,,1,4.0,0,Excellent
+VBD28767,Rue du Pont 4 1,5300.0,Apartment,Duplex,199000.0,3.0,111.0,0,0,0,0,,0,2.0,0,Excellent
+VBD28766,Rue du Pont 4,5300.0,House,Residence,310000.0,3.0,165.0,0,0,0,0,,0,2.0,0,Excellent
+VBD29126,Parc résidentiel La Gayolle 333,5530.0,House,Residence,89900.0,2.0,60.0,1,1,0,1,12.0,1,4.0,1,To be renovated
+VBD28345,Route de Saint-Hubert 19,5580.0,House,Residence,545000.0,6.0,260.0,0,0,0,1,60.0,1,2.0,0,
+VBD28523,Domaine Ma Campagne 35,5540.0,House,Residence,130000.0,2.0,57.0,0,0,0,0,,1,,0,Normal
+VBD28184,,5170.0,House,Residence,450000.0,4.0,200.0,1,0,0,1,,1,4.0,0,Normal
+VBD28530,Rue Alexandre Daoust 66,5500.0,House,Residence,180000.0,3.0,110.0,0,0,0,1,16.0,1,,0,To be renovated
+VBC72923,,5651.0,House,Villa,210000.0,2.0,230.0,1,0,0,0,,1,4.0,0,Normal
+VBD28539,Rue d'Anthée 91,5540.0,House,Residence,125000.0,2.0,,0,0,0,0,,1,4.0,0,To be renovated
+VWD14171,Rue du Chapitre 1,5070.0,House,Residence,179000.0,3.0,147.0,1,0,0,1,,0,2.0,0,To be renovated
+VBD23906,Rue Bout de la Ruelle 1,5660.0,House,Residence,45000.0,4.0,,0,0,0,0,,1,,0,
+VBD26625,,5300.0,House,Residence,377535.0,3.0,190.0,0,0,0,0,,1,4.0,0,New
+VBD27555,Rue des volontaires de guerre 5,5060.0,House,Residence,350000.0,4.0,301.0,1,1,0,1,,1,3.0,0,Normal
+VBD27753,Rue des Forges 5,5500.0,Apartment,Apartment,220000.0,2.0,125.0,0,0,0,1,48.0,0,,0,Excellent
+VBD26626,,5300.0,House,Residence,432245.0,3.0,228.0,0,0,0,0,,1,4.0,0,New
+VBD26931,Rue du Château Ferme 3,5522.0,House,Residence,450000.0,5.0,290.0,1,0,0,1,,1,3.0,0,Fully renovated
+VBD27287,Rue de Revin 1,5670.0,House,Residence,90000.0,3.0,380.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD26932,Rue du Village 60,5352.0,House,Residence,595000.0,3.0,225.0,1,0,0,1,50.0,1,4.0,1,Normal
+VWD14908,,5555.0,House,Residence,240000.0,4.0,210.0,1,0,0,1,,1,4.0,0,Normal
+VBC76200,Rue du Bochetay 60,5377.0,House,Chalet,129500.0,3.0,60.0,0,1,0,1,,0,4.0,0,
+VBD27285,Rue des Ruelles 80A,5620.0,House,Villa,280000.0,2.0,77.0,0,0,0,0,,1,,0,Normal
+VBD26631,,5353.0,House,Residence,492348.0,3.0,218.0,0,0,0,0,,1,4.0,0,New
+VBD20641,Rue de Jausselette 15,5310.0,House,Residence,320000.0,2.0,123.0,0,0,0,0,,1,3.0,0,Normal
+VBD27139,Rue du Château Ferme 5-7,5522.0,House,Residence,425000.0,4.0,275.0,1,0,0,1,,1,3.0,0,Excellent
+VBD26941,Rue du Try de Pont 38,5140.0,House,Residence,550000.0,4.0,188.0,0,0,0,1,69.0,1,4.0,1,Normal
+VBD26632,,5353.0,House,Residence,443245.0,3.0,228.0,0,0,0,0,,1,4.0,0,New
+VWD14910,,5575.0,House,Chalet,235000.0,3.0,95.0,1,0,0,1,,1,4.0,0,Normal
+VBD26423,,5070.0,House,Residence,367912.0,4.0,147.0,0,0,0,0,,1,4.0,0,New
+VBD26129,Rue Clair Chêne,5352.0,House,Bungalow,399000.0,3.0,200.0,0,0,0,0,,1,4.0,0,To be renovated
+VBD26273,Rue du Coirbois 41,5580.0,House,Residence,235000.0,4.0,128.0,1,0,0,1,,1,4.0,0,To renovate
+VWD10471,,5550.0,House,Residence,85000.0,3.0,200.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD17735,Rue Basse Flandre 39,5630.0,House,Residence,147000.0,3.0,,0,0,0,0,,1,,0,
+VWD14857,,5575.0,House,Residence,284000.0,3.0,134.0,1,0,0,1,,1,4.0,0,Excellent
+VBD25651,Rue de Noupré 16,5620.0,House,Residence,259000.0,3.0,108.0,1,0,0,1,,1,4.0,0,Normal
+VBC96423,,5070.0,House,Residence,358363.0,3.0,158.0,0,0,0,0,,1,4.0,0,New
+VBD25787,Rue Saint-Joseph 40,5660.0,House,Residence,220000.0,4.0,165.0,0,0,0,1,10.0,1,3.0,0,Excellent
+VBD21159,Rue Célestin Denis 7,5660.0,House,Residence,270000.0,3.0,,0,0,0,0,,1,4.0,0,
+VBC96266,,5070.0,House,Residence,398852.0,5.0,160.0,0,0,0,0,,1,4.0,0,New
+VBD25605,Rue Janson 10,5300.0,House,Residence,175000.0,3.0,168.0,0,0,0,1,12.0,0,2.0,0,To be renovated
+VBD26137,,5523.0,House,Residence,229000.0,3.0,139.0,0,0,0,1,20.0,0,2.0,0,
+VBD26424,,5070.0,House,Residence,397365.0,4.0,190.0,0,0,0,0,,1,4.0,0,New
+VBD25769,Rue des Avins 4,5370.0,House,Residence,119000.0,6.0,129.0,0,0,0,1,,1,3.0,0,To be renovated
+VBD25947,Place de boneffe 1,5310.0,House,Residence,475000.0,5.0,310.0,1,0,0,1,40.0,1,4.0,0,Excellent
+VBD26031,Rue d'Omalius 146,5590.0,House,Residence,185000.0,2.0,120.0,0,0,0,1,25.0,1,,0,To be renovated
+VBD25767,Rue Gustave Poncelet 26,5500.0,House,Residence,198000.0,2.0,115.0,0,0,0,1,,0,2.0,0,Fully renovated
+VBD24421,Rue de Barvaux 154,5590.0,House,Residence,299000.0,3.0,,0,0,0,0,,1,4.0,0,Normal
+VBD25096,Rue Julien Colson 40 3,5000.0,Apartment,Apartment,249000.0,2.0,80.0,0,0,0,1,4.0,0,2.0,0,Excellent
+VBD24816,,5000.0,Apartment,Studio,115000.0,,38.0,0,0,0,1,,0,,0,
+VBD24129,Grand'Route 57,5651.0,House,Residence,85000.0,5.0,,0,0,0,0,,1,3.0,0,To be renovated
+VBD24088,Allée des Chevreuils 9,5542.0,House,Bungalow,59000.0,1.0,,0,0,0,0,,0,4.0,0,Normal
+VBD24412,Rue de la Station 135,5190.0,House,Residence,260000.0,3.0,145.0,1,0,0,1,40.0,1,2.0,0,Excellent
+VBD24308,Ancienne-Gare 6,5600.0,House,Residence,155000.0,4.0,226.0,0,0,0,1,,1,3.0,0,
+VBD24974,Rue Alexis Jottard 11,5300.0,House,Residence,470000.0,5.0,170.0,0,0,0,1,30.0,1,4.0,1,
+VBD25313,Rue de la Station 7,5555.0,House,Residence,,7.0,300.0,1,0,0,1,25.0,1,3.0,0,To renovate
+VBD24392,,5000.0,Apartment,Apartment,275000.0,1.0,80.0,1,0,0,0,,0,2.0,0,Fully renovated
+VBD24423,Rue de la Boverie 4,5001.0,House,Residence,325000.0,2.0,87.0,1,0,0,1,15.0,1,4.0,0,Normal
+VBD24107,Route Communale 18,5630.0,House,Residence,90000.0,3.0,57.0,0,0,0,1,20.0,1,4.0,0,Normal
+VBD24579,Chemin de la Meuse 1,5100.0,House,Villa,749000.0,7.0,330.0,0,0,0,1,57.0,1,,0,Normal
+VBD22213,Marchais 3,5651.0,House,Residence,185000.0,3.0,188.0,0,0,0,1,15.0,1,3.0,0,To be renovated
+VBD25358,Rue Emile Vandervelde 40,5020.0,House,Residence,295000.0,3.0,273.0,0,0,0,1,20.0,1,3.0,0,Normal
+VBD24909,,5500.0,House,Residence,150000.0,3.0,115.0,0,0,0,1,8.0,0,2.0,0,
+VBD24418,Rue Bonwez 32,5080.0,House,Bungalow,289000.0,4.0,143.0,1,0,1,1,,1,4.0,0,To renovate
+VBD24175,Rue Try d'Andoy 6,5530.0,House,Residence,200000.0,4.0,170.0,1,0,0,1,15.0,1,3.0,0,To be renovated
+VBD24199,Rue Saint Nicolas 109,5000.0,Apartment,Apartment,115000.0,1.0,36.0,0,0,0,1,,0,2.0,0,To renovate
+VBD25384,Allée des Pinsons 30,5620.0,House,Residence,269000.0,3.0,86.0,0,1,0,1,25.0,1,,0,Normal
+VBD23095,Avenue du Gouverneur Bovesse 30,5100.0,Apartment,Apartment,345000.0,3.0,112.0,1,0,0,1,10.0,0,3.0,0,Normal
+VBD05101,,5660.0,House,Residence,130000.0,2.0,82.0,0,0,0,0,,0,2.0,0,
+VBD23349,,5377.0,House,Residence,425000.0,4.0,187.0,0,0,0,1,,0,4.0,0,Excellent
+VBD23716,,5670.0,House,Residence,128000.0,2.0,98.0,0,0,0,0,,1,2.0,0,
+VBD23649,Rue des Quèwées 15,5500.0,House,Residence,450000.0,4.0,213.0,0,0,0,1,45.0,1,4.0,1,
+VBD23234,Rue de Fer B,5060.0,House,Residence,299000.0,3.0,148.0,0,0,0,1,15.0,1,3.0,0,New
+VBC99666,Rue des Echavées 41,5300.0,House,Residence,295000.0,4.0,220.0,0,0,0,1,,1,4.0,0,Normal
+VBD23398,Chemin des Mélèzes 10,5000.0,House,Residence,369000.0,2.0,135.0,1,0,0,1,,1,4.0,0,Normal
+VBD23704,,5190.0,House,Villa,398000.0,4.0,195.0,0,0,0,1,48.0,1,4.0,0,
+VBD23782,Rue Saint-Roch 45,5670.0,House,Residence,70000.0,1.0,74.0,0,0,0,0,,1,,0,To be renovated
+VBD23235,Rue de Fer C,5060.0,House,Residence,319000.0,3.0,142.0,0,0,0,1,,1,3.0,0,New
+VBD23923,,5650.0,Apartment,Apartment,130000.0,2.0,80.0,0,0,0,1,,0,2.0,0,To renovate
+VBD23535,Les-Journaux 52,5540.0,House,Residence,25000.0,2.0,25.0,0,1,0,0,,1,,0,To be renovated
+VBD23924,,5650.0,Apartment,Apartment,125000.0,2.0,90.0,0,0,0,1,,0,2.0,0,To renovate
+VBD23197,Rue du Village 2/68 68,5542.0,House,Chalet,70000.0,2.0,50.0,0,1,0,1,,0,4.0,1,
+VBD23755,Rue du Vigna 79,5300.0,House,Residence,399000.0,6.0,225.0,0,0,0,1,,1,4.0,0,
+VBD23925,,5650.0,Apartment,Apartment,125000.0,2.0,80.0,0,0,0,1,,0,2.0,0,To renovate
+VBD21969,Rue du Château 98,5570.0,House,Villa,950000.0,4.0,,1,0,0,1,,1,3.0,0,Excellent
+,,,"apartment,for",,,,,0,0,0,0,,0,,0,
+VBD22676,,5590.0,House,Residence,285000.0,3.0,118.0,0,0,0,1,,1,4.0,0,To renovate
+VBD22662,Rue Mazy 137,5100.0,Apartment,Apartment,155000.0,1.0,46.0,0,0,0,0,,0,,0,Normal
+VBD23063,Allée des Ecureuils 44A,5620.0,House,Villa,250000.0,2.0,220.0,0,0,0,1,,1,,0,Normal
+VBD22100,Rue Gilet-Ville 37,5170.0,House,Villa,495000.0,4.0,500.0,0,0,0,1,60.0,1,4.0,1,
+VBD22705,Rue du Point de Vue 50,5555.0,House,Residence,120000.0,2.0,140.0,1,0,0,1,,0,3.0,0,Normal
+VBD22339,Avenue du Roi Albert 126,5590.0,House,Residence,450000.0,5.0,,0,0,0,1,,1,4.0,0,To be renovated
+VBD22007,Boulevard d'Herbatte 253,5000.0,House,Residence,155000.0,1.0,54.0,0,0,0,1,,1,3.0,0,To be renovated
+VBD21981,Rue Théo Renier 7,5031.0,House,Residence,295000.0,4.0,210.0,0,0,0,1,,1,3.0,0,To be renovated
+VBD21672,,5081.0,House,Residence,255000.0,3.0,165.0,0,0,0,1,30.0,1,4.0,0,To be renovated
+VBD22097,Rue Saint-Léger 13,5170.0,House,Residence,410000.0,6.0,260.0,1,0,0,1,20.0,1,3.0,0,Normal
+VBD22680,,5140.0,House,Residence,475000.0,8.0,350.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD21855,Rue Defnet 4,5300.0,House,Residence,199000.0,3.0,110.0,0,0,0,0,,0,2.0,0,
+VBD21968,,5570.0,House,Villa,825000.0,5.0,,1,0,1,1,,1,3.0,0,Excellent
+VBD21889,Rue du Premier Lanciers 1,5000.0,Apartment,Apartment,566175.0,3.0,129.0,1,0,0,1,48.0,0,,0,New
+VBD04023,Avenue Cardinal Mercier 43 1,5000.0,Apartment,Duplex,649000.0,4.0,259.0,0,0,0,1,28.0,0,2.0,0,Normal
+VBD21782,Rue Lambert-Joseph Lambillon 10,5020.0,House,Residence,550000.0,5.0,675.0,0,0,0,1,,1,4.0,1,
+VBD20664,Rue de Petite-Somme 4,5377.0,House,Residence,275000.0,2.0,268.0,0,0,0,0,,1,3.0,0,
+VBC88187,Rue de la Sauvenière 19,5580.0,House,Residence,275000.0,3.0,155.0,1,0,0,1,30.0,1,3.0,0,Excellent
+VBD20811,,5370.0,House,Residence,435000.0,3.0,180.0,1,0,1,1,,1,4.0,0,Normal
+VBD20613,Rue de la Dodane 10,5000.0,Apartment,Apartment,349000.0,2.0,91.0,0,0,0,1,7.0,0,2.0,0,New
+VBD20665,Domaine des Nûtons 1,5377.0,House,Chalet,169000.0,2.0,83.0,0,0,0,1,16.0,1,4.0,0,
+VBD21545,,5500.0,House,Residence,279000.0,2.0,192.0,0,0,0,1,40.0,0,3.0,0,
+VBD20610,Rue de la Dodane 10,5000.0,Apartment,Apartment,365000.0,3.0,114.0,0,0,0,1,7.0,0,2.0,0,New
+VBD21546,,5500.0,Apartment,Apartment,190000.0,3.0,120.0,0,0,0,0,,0,2.0,0,To be renovated
+VBD21009,Rue de la Treille 14 LOT3,5030.0,House,Residence,280000.0,3.0,150.0,0,0,0,1,,1,2.0,0,New
+VBD20612,Rue de la Dodane 10,5000.0,Apartment,Apartment,395000.0,2.0,99.0,0,0,0,1,15.0,0,2.0,0,New
+VBD20800,Dieudonnée Morel 17,5001.0,Apartment,Apartment,299256.0,2.0,83.0,1,0,0,1,8.0,1,,0,New
+VBD20674,Grand Trône Mésanges 70,5540.0,House,Bungalow,,2.0,63.0,0,0,0,1,24.0,1,4.0,0,Normal
+VWD14722,Chaussée de Charleroi 24 G2,5030.0,Apartment,Studio,68000.0,0.0,35.0,1,0,0,1,,1,1.0,0,Excellent
+VBD20614,Rue de la Dodane 10,5000.0,Apartment,Apartment,427000.0,2.0,103.0,0,0,0,1,15.0,0,2.0,0,New
+VBD20799,Dieudonnée Morel 17,5000.0,Apartment,Apartment,299256.0,2.0,83.0,1,0,0,1,8.0,1,,0,New
+VBD20617,Rue de la Dodane 10,5000.0,Apartment,Apartment,599000.0,2.0,119.0,0,0,0,1,53.0,0,2.0,0,New
+VBD20616,Rue de la Dodane 10,5000.0,Apartment,Apartment,650000.0,3.0,123.0,0,0,0,1,67.0,0,2.0,0,New
+VBD20611,Rue de la Dodane 10,5000.0,Apartment,Apartment,339000.0,2.0,91.0,0,0,0,1,7.0,0,2.0,0,New
+VBD20881,Boulevard de la Meuse 81 i0.1,5100.0,Apartment,Ground floor,420000.0,2.0,120.0,0,0,0,1,,1,2.0,0,Normal
+VBD20436,,5590.0,Apartment,Apartment,980000.0,,,0,0,0,1,,0,,0,
+VBD20308,Rue Pont Loquette 1,5650.0,House,Residence,170000.0,3.0,150.0,0,0,0,0,,1,2.0,0,
+VBD20604,Rue de la Dodane 10,5000.0,Apartment,Apartment,247000.0,1.0,75.0,0,0,0,1,7.0,0,2.0,0,New
+VBD20601,Rue de la Dodane 10,5000.0,Apartment,Apartment,395000.0,2.0,102.0,0,0,0,1,7.0,0,2.0,0,New
+VBD20509,Rue du Launois 16,5530.0,House,Villa,380000.0,4.0,200.0,0,0,0,1,28.0,1,,0,Excellent
+VBD20607,Rue de la Dodane 10,5000.0,Apartment,Apartment,270000.0,1.0,75.0,0,0,0,1,7.0,0,2.0,0,New
+VBD20268,Rue du Hableau 55 31,5580.0,Apartment,Apartment,310000.0,2.0,75.0,0,0,0,1,7.0,0,,0,New
+VBD20345,Rue de Charleville 40,5580.0,House,Residence,650000.0,4.0,221.0,0,0,0,1,,1,4.0,1,To be renovated
+VBD20608,Rue de la Dodane 10,5000.0,Apartment,Apartment,630000.0,2.0,107.0,0,0,0,1,66.0,0,2.0,0,New
+VBD20606,Rue de la Dodane 10,5000.0,Apartment,Apartment,549000.0,3.0,127.0,0,0,0,1,12.0,0,2.0,0,New
+VBD00449,Allée des Lapins 160,5542.0,House,Bungalow,89000.0,2.0,55.0,0,0,0,0,,0,4.0,0,
+VBD20609,Rue de la Dodane 10,5000.0,Apartment,Apartment,895000.0,3.0,168.0,0,0,0,1,61.0,0,2.0,0,New
+VBD20602,Rue de la Dodane 10,5000.0,Apartment,Apartment,365000.0,2.0,93.0,0,0,0,1,10.0,0,2.0,0,New
+VBD20600,Rue de la Dodane 10,5000.0,Apartment,Apartment,450000.0,3.0,115.0,0,0,0,1,7.0,0,2.0,0,New
+VBD20599,Rue de la Dodane 10,5000.0,Apartment,Apartment,237000.0,1.0,75.0,0,0,0,1,7.0,0,2.0,0,New
+VBD20603,Rue de la Dodane 10,5000.0,Apartment,Apartment,275000.0,1.0,65.0,0,0,0,1,7.0,0,2.0,0,New
+VBD20271,Chaussée de Ligny 59,5140.0,House,Residence,200000.0,4.0,157.0,0,0,0,1,25.0,1,,0,To be renovated
+VBD20138,Rue Ernest Moëns 10,5024.0,House,Residence,180000.0,2.0,120.0,0,0,0,0,,1,,0,
+VBD20453,,5380.0,House,Residence,275000.0,3.0,137.0,1,0,0,1,,1,4.0,0,To renovate
+VBD20605,Rue de la Dodane 10,5000.0,Apartment,Apartment,399000.0,2.0,96.0,0,0,0,1,8.0,0,2.0,0,New
+VBD19933,Les-Etoiles 19,5542.0,House,Cottage,72000.0,2.0,42.0,0,1,0,1,10.0,1,,1,Excellent
+VBD05238,Rue des Remparts 1,6810.0,House,Residence,199000.0,3.0,165.0,0,0,0,0,,0,2.0,0,Normal
+VBD19273,Rue de Han 28,5340.0,House,Residence,289000.0,4.0,144.0,0,0,0,1,26.0,1,3.0,0,
+VBD20083,Allée des Rosiers 46,5520.0,House,Residence,99000.0,1.0,20.0,0,1,0,0,,1,,0,New
+VBD18984,Avenue d'Huart 158,5590.0,House,Residence,349000.0,3.0,181.0,1,0,0,1,,1,4.0,0,To renovate
+VBD18453,,5340.0,House,Residence,309000.0,3.0,110.0,1,0,0,1,16.0,1,4.0,0,
+VBD19070,,5544.0,House,Residence,347072.0,3.0,184.0,0,0,0,0,,1,4.0,0,New
+VBD19922,,5060.0,House,Residence,280000.0,3.0,193.0,0,0,0,1,20.0,1,3.0,0,Normal
+VBD18726,Route de Champion 74A 5,5310.0,Apartment,Apartment,250000.0,3.0,125.0,0,0,0,0,,1,4.0,0,Normal
+VBD19780,Clos des 2 îles 4 7,5300.0,Apartment,Penthouse,345000.0,3.0,106.0,0,0,0,1,9.0,0,4.0,0,
+VWD14653,,5541.0,House,Bungalow,130000.0,1.0,60.0,1,0,0,1,,1,,0,
+VBD19406,Rue Charles Lapierre 43,5300.0,Apartment,Apartment,169000.0,1.0,110.0,0,0,0,0,,0,3.0,0,Normal
+VBD19016,,5001.0,House,Residence,393740.0,4.0,206.0,0,0,0,0,,1,3.0,0,New
+VBD19761,Rue de Porcheresse 12,5555.0,House,Cottage,325000.0,3.0,256.0,0,0,0,1,20.0,1,4.0,0,Normal
+VBD19420,Rue de la Gare 19,5190.0,House,Residence,130000.0,3.0,,0,0,0,1,,1,,0,
+VBD18830,rue de l'Egalité 25,5680.0,House,Residence,199000.0,5.0,196.0,0,0,0,1,65.0,1,4.0,0,Normal
+VBA83497,Rue du Centre 31 8,5060.0,Apartment,Apartment,150000.0,2.0,100.0,0,0,0,0,,0,,0,
+VBD19071,,5362.0,House,Residence,338248.0,3.0,147.0,0,0,0,0,,1,4.0,0,New
+VBD19387,,5590.0,Apartment,Apartment,180000.0,1.0,84.0,1,0,0,1,,1,2.0,0,Excellent
+VBD18287,Grande 139,5600.0,House,Residence,215500.0,3.0,112.0,0,0,0,1,25.0,1,2.0,0,Normal
+VBD17870,Rue de France 53,5575.0,House,Cottage,139000.0,6.0,222.0,0,0,0,0,,1,3.0,0,To be renovated
+VBD18314,,5590.0,Apartment,Apartment,180000.0,3.0,95.0,1,0,0,0,,0,2.0,0,Normal
+VBD18430,,5540.0,House,Residence,119900.0,2.0,57.0,0,0,0,1,,0,,0,
+VBD18275,Rue de Huy 8,5350.0,House,Residence,342434.0,3.0,,0,0,0,1,20.0,1,4.0,0,New
+VBD17897,,5570.0,House,Residence,320000.0,4.0,180.0,0,0,0,1,30.0,1,4.0,0,
+VBD18356,Rue des Juifs 119,5543.0,House,Residence,199000.0,3.0,151.0,1,0,0,1,35.0,1,4.0,0,Normal
+VBD18022,Rue van opré 65,5100.0,House,Residence,299000.0,5.0,187.0,0,0,0,1,12.0,1,2.0,0,Normal
+VBD18332,,5350.0,House,Residence,299000.0,4.0,200.0,1,0,0,1,,1,3.0,0,Normal
+VBD18375,,5340.0,House,Residence,329000.0,3.0,120.0,1,0,0,1,16.0,1,3.0,0,
+VBD18334,,5350.0,House,Residence,549000.0,6.0,318.0,1,0,0,1,,1,3.0,0,Normal
+VBD17845,Place Joséphine-Charlotte 8,5100.0,Apartment,Apartment,215000.0,2.0,84.0,1,0,0,1,5.0,0,2.0,0,To renovate
+VBD18257,,5540.0,House,Residence,42000.0,2.0,43.0,0,0,0,1,,1,4.0,0,To be renovated
+VBD18357,lotissement des gaux 81,5540.0,House,Residence,149000.0,2.0,60.0,0,0,0,1,23.0,1,,0,Excellent
+VBD18446,Rue des Juifs 31,5575.0,House,Residence,310000.0,2.0,179.0,1,1,0,1,20.0,1,4.0,0,Normal
+VBD18333,,5350.0,House,Residence,299000.0,2.0,800.0,1,0,0,1,,1,3.0,0,Normal
+VBD18335,,5350.0,House,Mixed building,549000.0,6.0,318.0,1,0,0,1,,1,3.0,0,Normal
+VBD18117,"Albert, 1er 15 BS2",5070.0,Apartment,Apartment,327000.0,2.0,105.0,1,0,0,1,27.0,1,,0,New
+VWD14621,Rue des Lattes 5,5630.0,House,Residence,200000.0,2.0,84.0,1,0,0,1,35.0,1,3.0,0,Normal
+VBD17133,,5370.0,House,Residence,285000.0,7.0,282.0,1,0,0,0,,1,3.0,0,Normal
+VBD17124,,5070.0,House,Residence,298000.0,3.0,255.0,0,0,0,0,,1,4.0,0,
+VBD16778,,5500.0,Apartment,Apartment,150000.0,4.0,130.0,0,0,0,0,,0,4.0,0,To be renovated
+VBD17158,Rue des Comognes 2A,5360.0,House,Residence,395000.0,4.0,165.0,1,0,0,1,40.0,1,4.0,0,Normal
+VBD17405,Rue Seuris 11,5060.0,House,Residence,299000.0,4.0,145.0,1,0,0,1,63.0,1,2.0,0,Excellent
+VBD17723,Rue de la Foulerie 27,5660.0,House,Residence,277000.0,4.0,143.0,1,0,0,1,,1,4.0,0,Excellent
+VBD17308,Rue du Parc de la Tassenière 172,5500.0,House,Residence,190000.0,3.0,75.0,0,1,0,1,31.0,1,,0,Normal
+VBD17519,Domaine du Pierreux 108,5377.0,House,Chalet,,1.0,32.0,0,0,0,1,10.0,1,4.0,0,To be renovated
+VBD17337,Place Joseph Meunier 23,5640.0,House,Residence,380000.0,5.0,289.0,0,0,0,0,,0,,0,To be renovated
+VBD17059,Rue des Fagnoules 6,5580.0,House,Residence,,3.0,135.0,1,0,0,1,,1,4.0,0,To renovate
+VBD17286,A l'Agimont 39,5540.0,House,Residence,199000.0,2.0,65.0,0,0,0,1,25.0,1,,0,Normal
+VBD17103,,5310.0,House,Residence,495000.0,3.0,200.0,0,0,0,1,50.0,0,,0,Excellent
+VBD17662,Place Henri Collignon 12 /b,5520.0,Apartment,Apartment,159000.0,2.0,84.0,0,0,0,0,,0,2.0,0,To renovate
+VBD16851,Rue Henri Labory 14,5370.0,House,Residence,239000.0,2.0,155.0,0,0,0,1,,1,2.0,0,To be renovated
+VBD17207,Promenade de l'Ecluse 14,5100.0,House,Chalet,195000.0,2.0,63.0,1,0,0,1,,1,4.0,0,Normal
+VBD16745,,5530.0,House,Residence,475000.0,3.0,150.0,1,0,0,1,20.0,1,3.0,0,Fully renovated
+VBD17701,arthur mahaux 67,5021.0,House,Residence,245000.0,2.0,91.0,0,0,0,0,,1,,0,To be renovated
