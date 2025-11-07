@@ -4,253 +4,285 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import csv
 import pandas as pd
 
-options = webdriver.EdgeOptions()
-options.add_experimental_option('excludeSwitches', ['enable-logging'])
-options.add_experimental_option("detach", True)
-
-driver = webdriver.Edge(options=options)
-wait = WebDriverWait(driver, 30)
-
 # ---------------------------
-# Provinces & property types
+# Provinces & Initialization
 # ---------------------------
+"""initalizes attributes
+all_data: a list of dictionaries with data for each property
+property_links: a list of urls for each property
+provinces: a list of all the provinces found in Belgium"""
 
-def scrape_by_provencies():
-    all_data = []
-    property_links = []
+"""OOP!!!!!!!!!!!!!!!!!!"""
 
-    
-    provinces = ["antwerp", "limburg", "east-flanders", "vlaams-brabant", "west-flanders", "hainaut", "liege", "luxembourg","namur", "brabant-wallon"]
-    base_url = "https://immovlan.be/en/real-estate?transactiontypes=for-sale&propertytypes=house,apartment&provinces={province}&page={page}&noindex=1"
-    for province in provinces:
-        print(f"Scraping {province}")
+class ImmoElizaScraping():
 
+    def __init__(self):
+        self.provinces = ["antwerp","brabant-wallon","east-flanders","vlaams-brabant","hainaut","liege","limburg","luxembourg","namur","west-flanders"]
+        self.all_data = []
+        self.property_links = []
 
-        for page in range(1, 51):
-            # Accept cookies once
-            driver.get(base_url.format(province=province, page=page))
-            try:
-                cookie_button = wait.until(
-                    EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div/div/div/div/div/div[2]/button[2]"))
-                )
-                cookie_button.click()
-            except:
-                pass
+        self.options = webdriver.EdgeOptions()
+        self.options.add_experimental_option('excludeSwitches', ['enable-logging'])
+        self.options.add_experimental_option("detach", True)
 
-            url = base_url.format(province=province, page=page)
-            driver.get(url)
-            time.sleep(1)
+        self.driver = webdriver.Edge(options=self.options)
+        self.wait = WebDriverWait(self.driver, 30)
 
-            # call here the function of scrape_property
-            links = driver.find_elements(By.XPATH,"//a[contains(@href, '/detail/') or contains(@href, '/projectdetail/')]")
-            hrefs = [l.get_attribute("href") for l in links if l.get_attribute("href")]
+    def scrape_by_provencies(self) -> list:
+        """scrapes all the properties from a specified list of provinces, saves and returns a list all_data
+        different steps taken in chronological order (with indents):
+        1) base url that containts lists of properties of specified provinces
+        2) "province" for-loop: cycles through each of specified province
+        3)      "page" for-loop: cycles through a specified number of pages
+        4)      loading base url into webdriver
+        5)      automated cookie acceptance
+        6)      collect each link of each looped page url into a set property_links:
+                    property for-loop: collecting property links
+                    project for-loop: collecting project links
+                        propery for-loop: collecting all the propeties associated with a project
+        7) "scrape" for-loop: scraping each link from list property_links and appending results to list all_data
+        8) returns all_data as list of property dictionaries with datapoints
+        """
+        self.all_data = []
+        self.property_links = []
+        # base url that containts lists of properties of specified provinces
+        self.base_url = "https://immovlan.be/en/real-estate?transactiontypes=for-sale&propertytypes=house,apartment&provinces={province}&page={page}&noindex=1"
+        # cycle through each of specified province
+        for province in self.provinces:
+            print(f"Scraping {province}")
 
-            detail_links = set([link for link in hrefs if "/detail/" in link])
-            project_links = set([link for link in hrefs if "/projectdetail/" in link])
-            # Add all detail links directly
-            for link in detail_links:
-                    if link not in property_links:
-                        property_links.append(link)
-            # Visit each unique project only once
-            for project in project_links:
-                driver.get(project)
-                time.sleep(3)
-                listings = driver.find_elements(By.XPATH, "//a[contains(@href, '/en/detail/')]")
-                hrefs = [p.get_attribute("href") for p in listings if p.get_attribute("href")]
-                for href in hrefs:
-                    if href not in property_links:
-                        property_links.append(href)
-            print(f" Collected {len(property_links)} unique property links in total.")
+            # cycle through a specified number of pages (default 51)
+            for page in range(1, 2):
 
-        for link in property_links:
-            data = scrape_property(link)
-            all_data.append(data)
-            print(f"Scraped property from {province}: {link}")
-            # driver.close()
+                # loading base url into webdriver
+                self.driver.get(self.base_url.format(province=province, page=page))
 
+                # automated cookie acceptance
+                try:
+                    cookie_button = self.wait.until(
+                        EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div/div/div/div/div/div[2]/button[2]"))
+                    )
+                    cookie_button.click()
+                except:
+                    pass
 
-    return all_data
+                time.sleep(1)
 
-def scrape_property(property_url):
-    data = {}
+                # initalizing attributes to store links and collect each link of each looped page url into a set property_links
+                self.links = self.driver.find_elements(By.XPATH,"//a[contains(@href, '/detail/') or contains(@href, '/projectdetail/')]")
+                self.hrefs = [l.get_attribute("href") for l in self.links if l.get_attribute("href")]
+                self.detail_links = set([link for link in self.hrefs if "/detail/" in link])
+                self.project_links = set([link for link in self.hrefs if "/projectdetail/" in link])
 
-    driver.get(property_url)
-    time.sleep(2)  # Give the page a moment to load
+                # collecting property links
+                for link in self.detail_links:
+                        if link not in self.property_links:
+                            self.property_links.append(link)
 
-    try:
-        data["property_ID"] = driver.find_element(By.XPATH, "//span[contains(@class, 'vlancode')]").text.strip()
-    except:
-        data["property_ID"] = None
+                # collecting project links
+                for project in self.project_links:
+                    self.driver.get(project)
+                    time.sleep(3)
+                    listings = self.driver.find_elements(By.XPATH, "//a[contains(@href, '/en/detail/')]")
+                    hrefs = [p.get_attribute("href") for p in listings if p.get_attribute("href")]
 
-    try:
-        data["locality_name"] = driver.find_element(
-            By.XPATH, "//div[contains(@class,'detail__header_address')]//span[not(contains(@class,'city-line'))]"
-        ).text.strip()
-    except:
-        data["locality_name"] = None
+                    # collecting all the propeties associated with a project
+                    for href in hrefs:
+                        if href not in self.property_links:
+                            self.property_links.append(href)
+                print(f" Collected {len(self.property_links)} unique property links in total")
 
-    try:
-        data["postal_code"] = int(
-            driver.find_element(
-                By.XPATH, "//div[contains(@class,'detail__header_address')]//span[(contains(@class,'city-line'))]"
-            ).text.split()[0].strip()
-        )
-    except:
-        data["postal_code"] = None
+            # scraping each link from set property_links and adding the result to list all_data
+            for link in self.property_links:
+                data = self.scrape_property(link)
+                self.all_data.append(data)
+                print(f"Scraped property from {province}: {link}:")
+                print(f"done: {round(len(self.all_data)/len(self.property_links)*100)} %")
 
-    try:
-        data["type"] = driver.find_element(By.XPATH, "//meta[@name='keywords']").get_attribute("content").split()[0].strip(",")
-    except:
-        data["type"] = None
+        self.driver.close()
 
-    try:
-        data["subtype"] = driver.find_element(
-            By.XPATH, "/html/body/div[2]/div[4]/div[3]/div[1]/div[1]/div/h1/span"
-        ).text.split(" for sale")[0].strip()
-    except:
-        data["subtype"] = None
+        # returns all_data as list of property dictionaries with datapoints
+        return self.all_data
 
-    try:
-        data["price (€)"] = int(
-            driver.find_element(By.XPATH, "//span[contains(@class, 'detail__header_price_data')]")
-            .text.split("from")[-1].replace("€", "")
-            .replace(" ", "")
-            .replace("\u202f", "").strip()
-        )
+    def scrape_property(self, property_url) -> dict:
+        """extracts and stores 17 different datapoints in a dictionary data"""
+        data = {}
+        self.driver.get(property_url)
+        time.sleep(2)  # Give the page a moment to load
 
-    except:
-        data["price (€)"] = None
+        try:
+            data["property_ID"] = self.driver.find_element(By.XPATH, "//span[contains(@class, 'vlancode')]").text.strip()
+        except:
+            data["property_ID"] = None
 
-    try:
-        data["number_of_bedrooms"] = int(
-            driver.find_element(
-                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Number of bedrooms']/following-sibling::p"
+        try:
+            data["locality_name"] = self.driver.find_element(
+                By.XPATH, "//div[contains(@class,'detail__header_address')]//span[not(contains(@class,'city-line'))]"
             ).text.strip()
-        )
-    except:
-        data["number_of_bedrooms"] = None
+        except:
+            data["locality_name"] = None
 
-    try:
-        data["living_area (m²)"] = int(
-            driver.find_element(
-                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Livable surface']/following-sibling::p"
-            ).text.split()[0].strip()
-        )
-    except:
-        data["living_area (m²)"] = None
+        try:
+            data["postal_code"] = int(
+                self.driver.find_element(
+                    By.XPATH, "//div[contains(@class,'detail__header_address')]//span[(contains(@class,'city-line'))]"
+                ).text.split()[0].strip()
+            )
+        except:
+            data["postal_code"] = None
 
-    try:
-        data["equiped_kitchen (yes:1, no:0)"] = 0 if driver.find_element(
-            By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Kitchen equipment']/following-sibling::p"
-        ).text.strip() in ["", "No"] else 1
-    except:
-        data["equiped_kitchen (yes:1, no:0)"] = 0
+        try:
+            data["type"] = self.driver.find_element(By.XPATH, "//meta[@name='keywords']").get_attribute("content").split()[0].strip(",")
+        except:
+            data["type"] = None
 
-    try:
-        data["furnished (yes:1, no:0)"] = 1 if "Yes" == driver.find_element(
-            By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Furnished']/following-sibling::p"
-        ).text.strip() else 0
-    except:
-        data["furnished (yes:1, no:0)"] = 0
+        try:
+            data["subtype"] = self.driver.find_element(
+                By.XPATH, "/html/body/div[2]/div[4]/div[3]/div[1]/div[1]/div/h1/span"
+            ).text.split(" for sale")[0].strip()
+        except:
+            data["subtype"] = None
 
-    try:
-        data["open_fire (yes:1, no:0)"] = 1 if "Yes" == driver.find_element(
-            By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Fireplace']/following-sibling::p"
-        ).text.strip() else 0
-    except:
-        data["open_fire (yes:1, no:0)"] = 0
+        try:
+            data["price (€)"] = int(
+                self.driver.find_element(By.XPATH, "//span[contains(@class, 'detail__header_price_data')]")
+                .text.split("from")[-1].replace("€", "")
+                .replace(" ", "")
+                .replace("\u202f", "").strip()
+            )
 
-    try:
-        data["terrace (yes:1, no:0)"] = 1 if "Yes" == driver.find_element(
-            By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Terrace']/following-sibling::p"
-        ).text.strip() else 0
-    except:
-        data["terrace (yes:1, no:0)"] = 0
+        except:
+            data["price (€)"] = None
 
-    try:
-        data["terrace_area (m²)"] = int(
-            driver.find_element(
-                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Surface terrace']/following-sibling::p"
-            ).text.split()[0].strip()
-        )
-    except:
-        data["terrace_area (m²)"] = None
+        try:
+            data["number_of_bedrooms"] = int(
+                self.driver.find_element(
+                    By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Number of bedrooms']/following-sibling::p"
+                ).text.strip()
+            )
+        except:
+            data["number_of_bedrooms"] = None
 
-    try:
-        data["garden (yes:1, no:0)"] = 1 if "Yes" == driver.find_element(
-            By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Garden']/following-sibling::p"
-        ).text.strip() else 0
-    except:
-        data["garden (yes:1, no:0)"] = 0
+        try:
+            data["living_area (m²)"] = int(
+                self.driver.find_element(
+                    By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Livable surface']/following-sibling::p"
+                ).text.split()[0].strip()
+            )
+        except:
+            data["living_area (m²)"] = None
 
-    try:
-        data["number_facades"] = int(
-            driver.find_element(
-                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Number of facades']/following-sibling::p"
+        try:
+            data["equiped_kitchen (yes:1, no:0)"] = 0 if self.driver.find_element(
+                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Kitchen equipment']/following-sibling::p"
+            ).text.strip() in ["", "No"] else 1
+        except:
+            data["equiped_kitchen (yes:1, no:0)"] = 0
+
+        try:
+            data["furnished (yes:1, no:0)"] = 1 if "Yes" == self.driver.find_element(
+                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Furnished']/following-sibling::p"
+            ).text.strip() else 0
+        except:
+            data["furnished (yes:1, no:0)"] = 0
+
+        try:
+            data["open_fire (yes:1, no:0)"] = 1 if "Yes" == self.driver.find_element(
+                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Fireplace']/following-sibling::p"
+            ).text.strip() else 0
+        except:
+            data["open_fire (yes:1, no:0)"] = 0
+
+        try:
+            data["terrace (yes:1, no:0)"] = 1 if "Yes" == self.driver.find_element(
+                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Terrace']/following-sibling::p"
+            ).text.strip() else 0
+        except:
+            data["terrace (yes:1, no:0)"] = 0
+
+        try:
+            data["terrace_area (m²)"] = int(
+                self.driver.find_element(
+                    By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Surface terrace']/following-sibling::p"
+                ).text.split()[0].strip()
+            )
+        except:
+            data["terrace_area (m²)"] = None
+
+        try:
+            data["garden (yes:1, no:0)"] = 1 if "Yes" == self.driver.find_element(
+                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Garden']/following-sibling::p"
+            ).text.strip() else 0
+        except:
+            data["garden (yes:1, no:0)"] = 0
+
+        try:
+            data["number_facades"] = int(
+                self.driver.find_element(
+                    By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Number of facades']/following-sibling::p"
+                ).text.strip()
+            )
+        except:
+            data["number_facades"] = None
+
+        try:
+            data["swimming_pool (yes:1, no:0)"] = 1 if "Yes" == self.driver.find_element(
+                By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Swimming pool']/following-sibling::p"
+            ).text.strip() else 0
+        except:
+            data["swimming_pool (yes:1, no:0)"] = 0
+
+        try:
+            data["state_of_building"] = self.driver.find_element(
+                By.XPATH, "//div[contains(@class,'general-info-wrapper')]//h4[text()='State of the property']/following-sibling::p"
             ).text.strip()
-        )
-    except:
-        data["number_facades"] = None
+        except:
+            data["state_of_building"] = None
 
-    try:
-        data["swimming_pool (yes:1, no:0)"] = 1 if "Yes" == driver.find_element(
-            By.XPATH, "//div[contains(@class, 'data-row-wrapper')]//h4[text()='Swimming pool']/following-sibling::p"
-        ).text.strip() else 0
-    except:
-        data["swimming_pool (yes:1, no:0)"] = 0
+        return data
 
-    try:
-        data["state_of_building"] = driver.find_element(
-            By.XPATH, "//div[contains(@class,'general-info-wrapper')]//h4[text()='State of the property']/following-sibling::p"
-        ).text.strip()
-    except:
-        data["state_of_building"] = None
+    def remove_duplicates(self, data_list):
+        """deduplicates all_data and stores/returns the result in unique_data"""
+        seen = set()
+        unique_data = []
 
-    return data
+        for item in self.all_data:
+            locality = item["locality_name"]
+            postal = item["postal_code"]
+            price = item["price (€)"]
+            type = item["type"]
+            subtype = item["subtype"]
+            bedrooms = item["number_of_bedrooms"]
+            living = item["living_area (m²)"]
+            kitchen = item["equiped_kitchen (yes:1, no:0)"]
+            furnished = item["furnished (yes:1, no:0)"]
+            fire = item["open_fire (yes:1, no:0)"]
+            terrace = item["terrace (yes:1, no:0)"]
+            terrace_area = item["terrace_area (m²)"]
+            garden = item["garden (yes:1, no:0)"]
+            facades = item["number_facades"]
+            pool = item["swimming_pool (yes:1, no:0)"]
+            state = item["state_of_building"]
+            # only continue if locality_name is not empty or None
+            combo = (locality, postal, price, type, subtype, bedrooms, living, kitchen, furnished, fire, terrace, terrace_area, garden, facades, pool, state)
+            if combo not in seen:
+                seen.add(combo)
+                unique_data.append(item)
+        return unique_data
 
-def remove_duplicates(all_data):
-    seen = set()
-    unique_data = []
-    for item in all_data:
-        locality = item["locality_name"]
-        postal = item["postal_code"]
-        price = item["price (€)"]
-        type = item["type"]
-        subtype = item["subtype"]
-        bedrooms = item["number_of_bedrooms"]
-        living = item["living_area (m²)"]
-        kitchen = item["equiped_kitchen (yes:1, no:0)"]
-        furnished = item["furnished (yes:1, no:0)"]
-        fire = item["open_fire (yes:1, no:0)"]
-        terrace = item["terrace (yes:1, no:0)"]
-        terrace_area = item["terrace_area (m²)"]
-        garden = item["garden (yes:1, no:0)"]
-        facades = item["number_facades"]
-        pool = item["swimming_pool (yes:1, no:0)"]
-        state = item["state_of_building"]
-        # only continue if locality_name is not empty or None
-        combo = (locality, postal, price, type, subtype, bedrooms, living, kitchen, furnished, fire, terrace, terrace_area, garden, facades, pool, state)
-        if combo not in seen:
-            seen.add(combo)
-            unique_data.append(item)
-    return unique_data
+    # -------------------------------
+    # Save to CSV
+    # -------------------------------
+    def create_dataframe(self, data_list):
+        "creates a pandas dataframe for later analysis"
+        self.df = pd.DataFrame(data_list)
+        return self.df
 
-# -------------------------------
-# Save to CSV
-# -------------------------------
+    def save_to_csv(self, data_list, filename='data/raw_data/scraped_data_properties.csv'):
+        "save unique_data to a csv file"
+        self.df = self.create_dataframe(data_list)
+        self.df.to_csv('scraped_data_properties.csv', index=False)
+        print(f"Saved {len(self.df)} unique records to liege_tim_1_51.csv")
 
-def save_to_csv():
-    all_data = scrape_by_provencies()
-    unique_data = remove_duplicates(all_data)
-
-    df = pd.DataFrame(unique_data)
-    
-    df.to_csv('province_name_number_1_of_pages.csv', index=False)
-    print(f"Saved {len(unique_data)} unique records to province_name_number_1_of_pages.csv")
-
-
-if __name__ == "__main__": # Added now
-    save_to_csv()
