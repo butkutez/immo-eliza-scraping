@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import csv
 
 def combine_csv_files():
 
@@ -31,3 +32,8 @@ def clean_csv_file():
     filtered_df.to_csv("cleaned_data.csv", index=False)
     return filtered_df
 cleaned_df = clean_csv_file()
+
+# def removed_properties_no_price():
+#     df1 = pd.read_csv("all_scraped_data.csv", delimeter=' ')
+#     no_price = filter(lambda p: 'price' == p[5], pd.read_csv)
+#     csv.writer(open(r"price_cleaned_data.csv",'w'),delimiter=' ').writerows(no_price)
