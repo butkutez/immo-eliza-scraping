@@ -11,7 +11,7 @@ def combine_csv_files():
     csv_files = ["antwerp_zivile_51.csv", "brabant_wallon_faranges_1_1532.csv", 
                 "east-flanders _zivile_51.csv", "hainaut_Aleksei_1_51.csv", "liege_tim_1_51.csv", 
                 "limburg_zivile_51.csv", "luxemburg_tim_1_51.csv", "namur_tim_1_51.csv",
-                "vlaams_brabant_faranges_1._1218.csv", "west-flanders_Aleksei_1_51.csv"]
+                "vlaams_brabant_faranges_1._1218.csv", "west-flanders_Aleksei_1_51.csv", "all_data_brussels.csv"]
    
 
     csv_paths = [os.path.join(raw_data_folder, f) for f in csv_files]
