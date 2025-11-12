@@ -19,7 +19,7 @@ provinces: a list of all the provinces found in Belgium"""
 class ImmoElizaScraping():
 
     def __init__(self):
-        self.provinces = ["antwerp","brabant-wallon","east-flanders","vlaams-brabant","hainaut","liege","limburg","luxembourg","namur","west-flanders"]
+        self.provinces = ["antwerp","brabant-wallon","east-flanders","vlaams-brabant","hainaut","liege","limburg","luxembourg","namur","west-flanders","Brussels"]
         self.all_data = []
         self.property_links = []
 
@@ -30,6 +30,28 @@ class ImmoElizaScraping():
         self.driver = webdriver.Edge(options=self.options)
         self.wait = WebDriverWait(self.driver, 30)
 
+    def province_selector(self):
+        print("Do you want to (enter choice 1-2):")
+        print("1. Do a full scrape of Belgium (all provinces)")
+        print("2. Scrape one province")
+        try:
+            scrape_selected = int(input())
+        except ValueError:
+            print("You must enter either 1 or 2")
+        if scrape_selected == 2:
+            i = 1
+            print("Wich provinces do you want to scrape? Please enter a number")
+            for province in self.provinces:
+                print(i, province)
+                i += 1
+            try:
+                province_number = int(input())
+            except ValueError:
+                print("You must enter a number between 1 or 9")
+            self.provinces = [self.provinces[province_number-1]]
+            return self.provinces
+        elif scrape_selected == 1:
+            return self.provinces
 
     def scrape_by_provencies(self) -> list:
         """scrapes all the properties from a specified list of provinces, saves and returns a list all_data
@@ -46,6 +68,7 @@ class ImmoElizaScraping():
         7) "scrape" for-loop: scraping each link from list property_links and appending results to list all_data
         8) returns all_data as list of property dictionaries with datapoints
         """
+        self.province_selector()
         # base url that containts lists of properties of specified provinces
         self.base_url = "https://immovlan.be/en/real-estate?transactiontypes=for-sale&propertytypes=house,apartment&provinces={province}&page={page}&noindex=1"
         # cycle through each of specified province
@@ -95,11 +118,13 @@ class ImmoElizaScraping():
                 print(f" Collected {len(self.property_links)} unique property links in total")
 
             # scraping each link from set property_links and adding the result to list all_data
+            counter = 0
             for link in self.property_links:
                 data = self.scrape_property(link)
                 self.all_data.append(data)
                 print(f"Scraped property from {province}: {link}:")
-                print(f"done: {round(len(self.all_data)/len(self.property_links)*100)} %")
+                print(f"done: {round(counter/len(self.property_links)*100)} %")
+                counter += 1 
 
         self.driver.close()
 
