@@ -12,7 +12,7 @@ def main():
     scraper.save_to_csv()
   
     # Combine multiple CSVs
-    combined_df = scraper.combine_csv_files()
+    # combined_df = scraper.combine_csv_files()
 
     # Clean the combined CSV
     cleaned_df = scraper.clean_csv_file()

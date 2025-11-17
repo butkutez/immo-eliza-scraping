@@ -76,7 +76,7 @@ class ImmoElizaScraping():
             print(f"Scraping {province}")
 
             # cycle through a specified number of pages (default 51)
-            for page in range(1, 2):
+            for page in range(1, 51):
 
                 # loading base url into webdriver
                 self.driver.get(self.base_url.format(province=province, page=page))
@@ -308,6 +308,6 @@ class ImmoElizaScraping():
     def save_to_csv(self):
         "save unique_data to a csv file"
         self.df = self.create_dataframe()
-        self.df.to_csv('scraped_data_properties.csv', index=False)
-        print(f"Saved {len(self.unique_data)} unique records to liege_tim_1_51.csv")
+        self.df.to_csv('limburg_properties.csv', index=False)
+        print(f"Saved {len(self.unique_data)} unique records to limburg_zivile_1_51.csv")
     
